@@ -47,7 +47,11 @@ VALID_PIDS = set(FEATURE_DESCRIPTIONS)
 
 def read_csv(path):
     with open(path, encoding="utf-8-sig", newline="") as f:
-        return list(csv.DictReader(f))
+        sample = f.read(2048)
+        f.seek(0)
+        delimiter = ";" if sample.count(";") > sample.count(",") else ","
+        reader = csv.DictReader(f, delimiter=delimiter)
+        return [row for row in reader if any(v.strip() for v in row.values())]
 
 
 def is_glottocode(s):
@@ -86,9 +90,17 @@ for p in sorted((DATA_DIR / "Ergative" / "original").glob("*.csv")):
     name, family = best_name_family(rows)
     languages[gc] = dict(name=name, family=family, etype="Ergative", rows=rows, curated=False)
 
+for p in sorted((DATA_DIR / "Non_ergative" / "curated").glob("*_curated.csv")):
+    gc = p.stem.replace("_curated", "")
+    if not is_glottocode(gc):
+        continue
+    rows = read_csv(p)
+    name, family = best_name_family(rows)
+    languages[gc] = dict(name=name, family=family, etype="Non-ergative", rows=rows, curated=True)
+
 for p in sorted((DATA_DIR / "Non_ergative" / "original").glob("*.csv")):
     gc = p.stem
-    if not is_glottocode(gc):
+    if not is_glottocode(gc) or gc in languages:
         continue
     rows = read_csv(p)
     name, family = best_name_family(rows)
