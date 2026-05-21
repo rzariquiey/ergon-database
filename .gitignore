@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Editors
+.vscode/
+.idea/
+
+# PDFs are large — exclude from git (keep in local archive)
+ERGON_data/**/*.pdf
+
+# Temporary files
+*.tmp
+*.bak

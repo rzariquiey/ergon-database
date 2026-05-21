@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment,curated,curated_comment,final_value
+fass1245,Momu,Trans-New Guinea,GB409_1,Is there an overt marker for the absolutive?,0,"Honeyman, 2016: pp.358-379",Momu-Fas is a nominative-accusative language. There is no overt absolutive marker.,0,"Momu-Fas (fass1245, ISO fqs, Trans-New Guinea, PNG) is a nominative-accusative language. The original annotation incorrectly interpreted the oblique/object marker =m (documented in Honeyman 2016) as an ergative marker, leading to spurious ergative values (GB409_2=1, GB409_6-7=1, etc.) in the source xlsx. PDF verification of Honeyman (2016) confirms that =m marks objects/obliques in a NOM-ACC system, not a subject-A in an ERG-ABS system. Blake (2007), an earlier description of the same language (also known as Fas), likewise shows no ergative alignment. All 24 features are correctly 0. Glottocode fass1245 is correct; the previously proposed momu1235 does not exist in Glottolog. File moved to non_ergative/ after PDF verification.",0
+fass1245,Momu,Trans-New Guinea,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,"Honeyman, 2016: p.299","No ergative alignment on pronouns. The =m marker is an oblique/object clitic, not an ergative marker.",0,,0
+fass1245,Momu,Trans-New Guinea,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,"Honeyman, 2016",,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_4,Is there ergative alignment of flagging on third person pronouns?,0,"Honeyman, 2016: p.299",Nominative-accusative alignment; no ergative on third person.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_5,Is there ergative alignment of flagging on full NPs?,0,"Honeyman, 2016",,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,0,"Honeyman, 2016: p.299",NOM-ACC system; no ergative alignment in any aspect.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,0,"Honeyman, 2016: p.299",NOM-ACC system; no ergative alignment in any aspect.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_8,Is there ergative alignment of flagging in the past tense?,0,"Honeyman, 2016",,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_9,Is there ergative alignment of flagging in non-past tenses?,0,"Honeyman, 2016",,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_10,Is there ergative alignment of flagging in the indicative mood?,0,"Honeyman, 2016: p.299",NOM-ACC system; no ergative alignment.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,0,"Honeyman, 2016",,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_12,Is there ergative alignment of flagging in the realis status?,0,"Honeyman, 2016: p.299",NOM-ACC system; no ergative alignment.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_13,Is there ergative alignment of flagging in the irrealis status?,0,"Honeyman, 2016: p.299",NOM-ACC system; no ergative alignment.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,0,"Honeyman, 2016: p.299",NOM-ACC system; A is not ergatively marked regardless of agentivity.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,0,"Honeyman, 2016",,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,0,"Honeyman, 2016: p.299",NOM-ACC system; no ergative marking on topical A.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,0,"Honeyman, 2016",,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,0,"Honeyman, 2016: p.299",NOM-ACC system; no animacy-based ergative split.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,0,"Honeyman, 2016: p.299",NOM-ACC system; no animacy-based ergative split.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_20,Is there ergative alignment of flagging in main clauses?,0,"Honeyman, 2016: p.299",NOM-ACC system; no ergative marking in any clause type.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_21,Is there ergative alignment of flagging in non-main clauses?,0,"Honeyman, 2016",,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,"Honeyman, 2016",,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,"Honeyman, 2016",Language is NOM-ACC; there is no ergative marker to compare.,0,,0
+fass1245,Momu,Trans-New Guinea,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,"Honeyman, 2016",Language is NOM-ACC; there is no ergative marker to compare.,0,,0

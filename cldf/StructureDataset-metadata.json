@@ -1,0 +1,115 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "en"
+    }
+  ],
+  "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+  "dc:title": "ERGON: A Cross-Linguistic Database of Ergativity",
+  "dc:description": "ERGON is a typological database covering 24 binary features (GB409_1–GB409_24) related to ergative case marking across approximately 200 languages worldwide.",
+  "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+  "tables": [
+    {
+      "url": "values.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
+          },
+          {
+            "name": "Language_ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference"
+          },
+          {
+            "name": "Parameter_ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference"
+          },
+          {
+            "name": "Value",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value"
+          },
+          {
+            "name": "Comment",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment"
+          },
+          {
+            "name": "Source",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            "separator": ";"
+          },
+          {
+            "name": "Curated",
+            "dc:description": "True if value comes from a manually curated file"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "columnReference": "Language_ID",
+            "reference": {
+              "resource": "languages.csv",
+              "columnReference": "ID"
+            }
+          },
+          {
+            "columnReference": "Parameter_ID",
+            "reference": {
+              "resource": "parameters.csv",
+              "columnReference": "ID"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "url": "languages.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
+          },
+          {
+            "name": "Name",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name"
+          },
+          {
+            "name": "Glottocode",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode"
+          },
+          {
+            "name": "Family",
+            "dc:description": "Top-level language family"
+          },
+          {
+            "name": "Ergative_type",
+            "dc:description": "Ergative or Non-ergative classification in ERGON"
+          }
+        ]
+      }
+    },
+    {
+      "url": "parameters.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
+          },
+          {
+            "name": "Name",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name"
+          },
+          {
+            "name": "Description",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment,curated,curated_comment,final_value
+mari1424,Marrithiyel,Daly,GB409_1,Is there an overt marker for the absolutive?,0,,,,No source reference provided. Recommend citing the grammar for this feature.,0
+mari1424,Marrithiyel,Daly,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Green 1989:57,Example 2-137,,,1
+mari1424,Marrithiyel,Daly,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,,,,No source reference provided. Recommend citing the grammar for this feature.,1
+mari1424,Marrithiyel,Daly,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Green 1989:50,Example 2-107,,,1
+mari1424,Marrithiyel,Daly,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Green 1989:50,Example 2-106,,,1
+mari1424,Marrithiyel,Daly,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Green 1989:90,Example 3-56a,,,1
+mari1424,Marrithiyel,Daly,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Green 1989:50,Example 2-106,,,1
+mari1424,Marrithiyel,Daly,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Green 1989:50,Example 2-107,,,1
+mari1424,Marrithiyel,Daly,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Green 1989:54,Example 2-124,,,1
+mari1424,Marrithiyel,Daly,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Green 1989:50,Example 2-107,,,1
+mari1424,Marrithiyel,Daly,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,Green 1989:201,Example 4-148b,,,1
+mari1424,Marrithiyel,Daly,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Green 1989:50,Example 2-106,,,1
+mari1424,Marrithiyel,Daly,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Green 1989:54,Example 2-124,,,1
+mari1424,Marrithiyel,Daly,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Green 1989:50,Example 2-107,,,1
+mari1424,Marrithiyel,Daly,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,Green 1989:50,Example 2-106,,,1
+mari1424,Marrithiyel,Daly,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,Green 1989:50,Example 2-108,,,1
+mari1424,Marrithiyel,Daly,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,,,,No source reference provided. Recommend citing the grammar for this feature.,1
+mari1424,Marrithiyel,Daly,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Green 1989:50,Example 2-107,,,1
+mari1424,Marrithiyel,Daly,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,Green 1989:50,Example 2-106,,,1
+mari1424,Marrithiyel,Daly,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Green 1989:50,Example 2-107,,,1
+mari1424,Marrithiyel,Daly,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,,,,No source reference provided. Recommend citing the grammar for this feature.,1
+mari1424,Marrithiyel,Daly,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,Green 1989:49-53,"There are three ergative-case markers: -gin, -wurri and -nganan. The first one marks a ""pragmatically marked"" A, that is, an unsual or unexpected A. The second one marks an A in the context of a verb than involves some kind of transfer from A to P; sometimes, it marks the ""culprit"" of the action. The last marks that A performed the action under their own volition.",,,1
+mari1424,Marrithiyel,Daly,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,,,,No source reference provided. Recommend citing the grammar for this feature.,0
+mari1424,Marrithiyel,Daly,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Green 1989:48,,,,1

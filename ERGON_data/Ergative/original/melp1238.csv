@@ -1,0 +1,27 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment
+melp1238,Melpa,Trans-New Guinea,GB409_1,Is there an overt marker for the absolutive?,0,"Berthold 2008:16, 50","S and P are marked null, A is marked by -(e)nt"
+melp1238,Melpa,Trans-New Guinea,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Berthold 2008:18-19,Person pronuns in general can be marked by A
+melp1238,Melpa,Trans-New Guinea,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Berthold 2008:18-19,Person pronuns in general can be marked by A.
+melp1238,Melpa,Trans-New Guinea,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Berthold 2008:18-19,Person pronuns in general can be marked by A
+melp1238,Melpa,Trans-New Guinea,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Berthold 2008:16,"It is not said, but can be found in the example 13 (a) and (b)."
+melp1238,Melpa,Trans-New Guinea,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Berthold 2008:16,"It is not said, but can be found in the example 13 (a)."
+melp1238,Melpa,Trans-New Guinea,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Berthold 2008:16,"It is not said, but can be found in the example 13 (b)."
+melp1238,Melpa,Trans-New Guinea,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Berthold 2008:20,"It is not said, but can be found in the example 12."
+melp1238,Melpa,Trans-New Guinea,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Berthold 2008:32,"As ""proximal temporal relation also encode events
+that take place exactly at the moment of speaking"" see in 41(c) a example of non-past tense."
+melp1238,Melpa,Trans-New Guinea,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Berthold 2008:16,
+melp1238,Melpa,Trans-New Guinea,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,Berthold 2008:21,
+melp1238,Melpa,Trans-New Guinea,GB409_12,Is there ergative alignment of flagging in the realis status?,1,"Berthold 2008:16, 28",Realis is the unmarked option
+melp1238,Melpa,Trans-New Guinea,GB409_13,Is there ergative alignment of flagging in the irrealis status?,?,Berthold 2008: in passim,No examples founds.
+melp1238,Melpa,Trans-New Guinea,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Berthold 2008:16,The mark for A was most often found in sentences with an unusual order of A and P.
+melp1238,Melpa,Trans-New Guinea,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,?,Berthold 2008: in passim,No examples founds.
+melp1238,Melpa,Trans-New Guinea,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,?,Berthold 2008:16,"The author suggests that the marking of agenthood is possible due to topic considerations, but there is no further information related to this."
+melp1238,Melpa,Trans-New Guinea,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,?,Berthold 2008:16,"The author suggests that the marking of agenthood is possible due to topic considerations, but there is no further information related to this."
+melp1238,Melpa,Trans-New Guinea,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Berthold 2008:16,
+melp1238,Melpa,Trans-New Guinea,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,Berthold 2008:16,
+melp1238,Melpa,Trans-New Guinea,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Berthold 2008:16,
+melp1238,Melpa,Trans-New Guinea,GB409_21,Is there ergative alignment of flagging in non-main clauses?,?,Berthold 2008: in passim,No explicit information found.
+melp1238,Melpa,Trans-New Guinea,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,Berthold 2008:16,"""This was most often found in sentences with an unusual order of agent and
+patient."""
+melp1238,Melpa,Trans-New Guinea,GB409_23,Are the ergative and the genitive expressed by the same marker?,?,Berthold 2008: in passim,
+melp1238,Melpa,Trans-New Guinea,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Berthold 2008:16,"Instrumental is marked by (e)nt, commitative by ken"

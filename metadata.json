@@ -1,0 +1,11 @@
+{
+  "id": "ergon",
+  "title": "ERGON: A Cross-Linguistic Database of Ergativity",
+  "description": "ERGON is a typological database of ergativity covering 24 binary features (GB409_1–GB409_24) related to ergative case marking across approximately 200 languages. Languages are identified by Glottocode and coded for ergative alignment of flagging across person, aspect, tense, mood, animacy, and related dimensions.",
+  "license": "CC-BY-4.0",
+  "url": "",
+  "citation": "",
+  "version": "1.0",
+  "keywords": ["ergativity", "typology", "case marking", "morphological alignment"],
+  "dc:format": ["http://cldf.clld.org/v1.0/terms.rdf#StructureDataset"]
+}

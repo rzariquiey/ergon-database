@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Source_comment,Value,Comment,curated,curated_comment,final_value
+japh1234,Japhug,Trans-Himalayan,GB409_1,"Jacques, 2004, p. 337",0,,,,0
+japh1234,Japhug,Trans-Himalayan,GB409_2,"Jacques, 2004",0,,,,0
+japh1234,Japhug,Trans-Himalayan,GB409_3,"Jacques, 2004",0,,,,0
+japh1234,Japhug,Trans-Himalayan,GB409_4,"Jacques, 2004, p. 464",1,,,,1
+japh1234,Japhug,Trans-Himalayan,GB409_5,"Jacques, 2004, p. 464",0,,,Original value 0 is incorrect. Jacques (2004:464) example (340) shows full NP with ERG suffix -kə: tə-rmi-ndʒês-kə (homme-duel-ERG) as transitive agent. P.465 confirms: 'l'actant marqué à l'ergatif des verbes transitifs' (the participant marked in the ergative of transitive verbs). Note: citing p.464 for both GB409_4=1 and GB409_5=0 is internally inconsistent. Value corrected to 1. Source: Jacques 2004:464-465.,0
+japh1234,Japhug,Trans-Himalayan,GB409_6,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_7,"Jacques, 2004, p. 348",1,,,,1
+japh1234,Japhug,Trans-Himalayan,GB409_8,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_9,"Jacques, 2004, p. 348",1,En presente,,,1
+japh1234,Japhug,Trans-Himalayan,GB409_10,"Jacques, 2004, p. 348",1,,,,1
+japh1234,Japhug,Trans-Himalayan,GB409_11,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_12,"Jacques, 2004, p. 348",1,,,,1
+japh1234,Japhug,Trans-Himalayan,GB409_13,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_14,,?,Difícil de determinar porque la gramática está en francés,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_15,,?,Difícil de determinar porque la gramática está en francés,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_16,,?,Difícil de determinar porque la gramática está en francés,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_17,,?,Difícil de determinar porque la gramática está en francés,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_18,"Jacques, 2004, p. 464",1,,,,1
+japh1234,Japhug,Trans-Himalayan,GB409_19,"Jacques, 2004, p. 348",1,,,,1
+japh1234,Japhug,Trans-Himalayan,GB409_20,,1,,,No source reference provided. Recommend citing the grammar for this feature.,1
+japh1234,Japhug,Trans-Himalayan,GB409_21,"Jacques, 2004, p. 348",?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_22,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+japh1234,Japhug,Trans-Himalayan,GB409_23,"Jacques, 2004, p. 337",0,,,,0
+japh1234,Japhug,Trans-Himalayan,GB409_24,"Jacques, 2004, p. 337",1,,,,1

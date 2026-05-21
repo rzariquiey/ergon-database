@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Source_comment,Value,Comment,curated,curated_comment,final_value
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_1,Is there an overt marker for the absolutive?,"Haviland, 1979, p. 46",0,,,,0
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,"Haviland, 1979, p. 156",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,"Haviland, 1979, p. 130",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,"Haviland, 1979, p. 130",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,"Haviland, 1979, p. 130",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,"Haviland, 1979, p. 163",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_8,Is there ergative alignment of flagging in the past tense?,"Haviland, 1979, p. 163",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,"Haviland, 1979, p. 163",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,"Haviland, 1979, p. 130",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_12,Is there ergative alignment of flagging in the realis status?,"Haviland, 1979, p. 163",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,"Haviland, 1979, p. 163",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,"Haviland, 1979, p. 163",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,"Haviland, 1979, p. 49",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,"Haviland, 1979, p. 150 ",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_20,Is there ergative alignment of flagging in main clauses?,"Haviland, 1979, p. 163",1,,,,1
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_23,Are the ergative and the genitive expressed by the same marker?,"Haviland, 1979, p. 158",0,gen no se marca,,,0
+gugu1255,Guugu Yimithirr,Pama-Nyungan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,"Haviland, 1979, p. 48, 69",1,"""Ergative and instrumental have identical case forms but ergative always marks a noun in A function; instrumental inflection can, by contrast, mark constituents of clauses which cannot have A nouns: intransitive, and reflexive clauses in particular"".",,,1

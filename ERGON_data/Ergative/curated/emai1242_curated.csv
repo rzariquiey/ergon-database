@@ -1,0 +1,32 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
+emai1242,Emai,Niger-Congo,GB409_1,Is there an overt marker for the absolutive?,0,"Schaefer & Egbokhare 2017:237, 16","See example (14b), where the absolute is unmarked. ",,,0
+emai1242,Emai,Niger-Congo,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,Schaefer & Egbokhare 2017:37-42,The language follows the nominative-accusative pattern.,,,0
+emai1242,Emai,Niger-Congo,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,Schaefer & Egbokhare 2017:37-42,The language follows the nominative-accusative pattern.,,,0
+emai1242,Emai,Niger-Congo,GB409_4,Is there ergative alignment of flagging on third person pronouns?,0,Schaefer & Egbokhare 2017:37-42,The language follows the nominative-accusative pattern.,,,0
+emai1242,Emai,Niger-Congo,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Schaefer & Egbokhare 2017:16,"In transitive verbs with an imperfective aspect, there is a “subject concord” marker in the flagging.  See example (14a.b).",,,1
+emai1242,Emai,Niger-Congo,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Schaefer & Egbokhare 2017:16,"In transitive verbs with an imperfective aspect, there is a “subject concord” marker in the flagging.  See example (14a.b).",,,1
+emai1242,Emai,Niger-Congo,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,0,Schaefer & Egbokhare 2017:99,,,,0
+emai1242,Emai,Niger-Congo,GB409_8,Is there ergative alignment of flagging in the past tense?,0,Schaefer & Egbokhare 2017:99,,,,0
+emai1242,Emai,Niger-Congo,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Schaefer & Egbokhare 2017:16,"In transitive verbs with an imperfective aspect, there is a “subject concord” marker in the flagging.  See example (14a.b).",,,1
+emai1242,Emai,Niger-Congo,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Schaefer & Egbokhare 2017:16,"In transitive verbs with an imperfective aspect, there is a “subject concord” marker in the flagging.  See example (14a.b).",,,1
+emai1242,Emai,Niger-Congo,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,?,Schaefer & Egbokhare 2017:in passim,The grammar describes case marking and alingments in the language but there is no mention nor evidence of a split based on moods of the A argument.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+emai1242,Emai,Niger-Congo,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Schaefer & Egbokhare 2017:16,"In transitive verbs with an imperfective aspect, there is a “subject concord” marker in the flagging.  See example (14a.b).",,,1
+emai1242,Emai,Niger-Congo,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Schaefer & Egbokhare 2017:,The grammar describes case marking and alingments in the language but there is no mention nor evidence of a split based on realis-irrealis status of the A argument.,,,1
+emai1242,Emai,Niger-Congo,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Schaefer & Egbokhare 2017:16,"In transitive verbs with an imperfective aspect, there is a “subject concord” marker in the flagging.  See example (14a.b).",,,1
+emai1242,Emai,Niger-Congo,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,?,Schaefer & Egbokhare 2017:,The grammar describes case marking and alingments in the language but there is no mention nor evidence of a split based on agentivity of the A argument.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+emai1242,Emai,Niger-Congo,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,?,Schaefer & Egbokhare 2017:,The grammar describes case marking and alingments in the language but there is no mention nor evidence of a split based on topicality of the A argument.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+emai1242,Emai,Niger-Congo,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,?,Schaefer & Egbokhare 2017:,The grammar describes case marking and alingments in the language but there is no mention nor evidence of a split based on topicality of the A argument.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+emai1242,Emai,Niger-Congo,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Schaefer & Egbokhare 2017:16,"
+In transitive verbs with an imperfective aspect, there is a “subject concord” marker in the flagging.  See example (14a.b).",,,1
+emai1242,Emai,Niger-Congo,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,?,Schaefer & Egbokhare 2017:,The grammar describes case marking and alingments in the language but there is no mention nor evidence of a split based on animate-inanimate of the A argument.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+emai1242,Emai,Niger-Congo,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Schaefer & Egbokhare 2017:16,"
+In transitive verbs with an imperfective aspect, there is a “subject concord” marker in the flagging.  See example (14a.b).",,,1
+emai1242,Emai,Niger-Congo,GB409_21,Is there ergative alignment of flagging in non-main clauses?,?,Schaefer & Egbokhare 2017:in passim,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+emai1242,Emai,Niger-Congo,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,Schaefer & Egbokhare 2017:149,The intensifier marks form an ergative alignment because they are assigned to S and P. ,,,1
+emai1242,Emai,Niger-Congo,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Schaefer & Egbokhare 2017:246-247,,,,0
+emai1242,Emai,Niger-Congo,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Schaefer & Egbokhare 2017:616-620,,,,0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

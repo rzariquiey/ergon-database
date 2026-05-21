@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Source_comment,Value,Comment,curated,curated_comment,final_value
+fuln1247,Fulniô,Fulniô,GB409_1,Is there an overt marker for the absolutive?,"Costa, 1999, p. 309",1,A: -ho | S/P: -dowa ,,,1
+fuln1247,Fulniô,Fulniô,GB409_2,Is there ergative alignment of flagging on first person pronouns?,"Costa, 1999, p. 309",0,,,,0
+fuln1247,Fulniô,Fulniô,GB409_3,Is there ergative alignment of flagging on second person pronouns?,"Costa, 1999, p. 309",0,,,,0
+fuln1247,Fulniô,Fulniô,GB409_4,Is there ergative alignment of flagging on third person pronouns?,"Costa, 1999, p. 309",1,"""De este modo, podemos decir que la lengua, que morfológicamente sólo manifiesta su ergactividad en la tercera persona del singular a través de los índices actanciales, se muestra sintácticamente totalmente ergativa con respecto a las estrategias de relativización que utiliza, por un lado, la forma con el sufijo /-ho/, que relativiza sujeto-agente, o sujeto de verbos transitivos; por otro lado, la forma con el sufijo /-dowa/, que relativiza al paciente – sujeto, por así decirlo, de verbo intransitivo y objeto de verbo transitivo. Es decir, la lengua trata de la misma manera el sujeto del verbo intransitivo y el objeto del verbo transitivo también con respecto a los mecanismos que utiliza para realizar operaciones complejas como la relativización""",,,1
+fuln1247,Fulniô,Fulniô,GB409_5,Is there ergative alignment of flagging on full NPs?,"Costa, 1999, p. 303",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,"Costa, 1999, p. 303-304",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,"Costa, 1999, p. 303",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_8,Is there ergative alignment of flagging in the past tense?,"Costa, 1999, p. 303",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_9,Is there ergative alignment of flagging in non-past tenses?,"Costa, 1999, p. 303-304",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_10,Is there ergative alignment of flagging in the indicative mood?,"Costa, 1999, p. 303",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+fuln1247,Fulniô,Fulniô,GB409_12,Is there ergative alignment of flagging in the realis status?,"Costa, 1999, p. 303",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_13,Is there ergative alignment of flagging in the irrealis status?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+fuln1247,Fulniô,Fulniô,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,"Costa, 1999, p. 305",0,,,,0
+fuln1247,Fulniô,Fulniô,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,"Costa, 1999, p. 305",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,"Costa, 1999, p. 305",0,,,,0
+fuln1247,Fulniô,Fulniô,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,"Costa, 1999, p. 305",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,"Costa, 1999, p. 303",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+fuln1247,Fulniô,Fulniô,GB409_20,Is there ergative alignment of flagging in main clauses?,"Costa, 1999, p. 303",1,,,,1
+fuln1247,Fulniô,Fulniô,GB409_21,Is there ergative alignment of flagging in non-main clauses?,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+fuln1247,Fulniô,Fulniô,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,"Costa, 1999, p. 309",1,"La alineación está condicionada por el papel semántico del argumento relativizado (Agente vs. No-Agente) en la cláusula relativa, lo que se manifiesta en la elección del morfema participial (-ho para A, -dowa para S/P)",,,1
+fuln1247,Fulniô,Fulniô,GB409_23,Are the ergative and the genitive expressed by the same marker?,"Costa, 1999, p. 164",0,,,,0
+fuln1247,Fulniô,Fulniô,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,"Costa, 1999, p. 155",0,,,,0

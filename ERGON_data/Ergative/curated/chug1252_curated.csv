@@ -1,0 +1,30 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
+chug1252,Duhumbi,Trans-Himalayan,GB409_1,Is there an overt marker for the absolutive?,0,Bodt 2020:261,unmarked,,,0
+chug1252,Duhumbi,Trans-Himalayan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Bodt 2020:272,ergative alignment is not affected,,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Bodt 2020:272,ergative alignment is not affected,,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Bodt 2020:272,ergative alignment is not affected,,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Bodt 2020:260-261,See example (183),,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Bodt 2020:352,See example (402),,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Bodt 2020:568,See example (963),,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,"Bodt 2020:266, 270",See example (198),,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Bodt 2020:591,See example (1005),,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Bodt 2020:272,,,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,Bodt 2020:277,see example (231),,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Bodt 2020:142,,,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Bodt 2020:142,,,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,?,Bodt 2020:,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+chug1252,Duhumbi,Trans-Himalayan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,?,Bodt 2020:,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+chug1252,Duhumbi,Trans-Himalayan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,Bodt 2020:,only in subordinate clauses,,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,?,Bodt 2020:,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+chug1252,Duhumbi,Trans-Himalayan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,"Bodt 2020:266, 274",See example (221),,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,"Bodt 2020:266, 271",The example (198) caso instrumental en sust inanimados,,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Bodt 2020:260-261,See example (183),,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,Bodt 2020:270,see example (217),,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,Bodt 2020:273,"""The ergative marker on the second person singular pronoun indicates that the imperative phrase""",,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_23,Are the ergative and the genitive expressed by the same marker?,1,Bodt 2020:280,,,,1
+chug1252,Duhumbi,Trans-Himalayan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,"Bodt 2020:275-276, 294",The ergative marker is identical for inanimate instrumentals.,,,1
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

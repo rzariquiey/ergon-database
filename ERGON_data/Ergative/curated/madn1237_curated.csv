@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment,curated,curated_comment,final_value
+madn1237,Matngele,Daly,GB409_1,Is there an overt marker for the absolutive?,0,Zandvoort 1999:42-43,Example 23,,,0
+madn1237,Matngele,Daly,GB409_2,Is there ergative alignment of flagging on first person pronouns?,?,,,,"Value ""?"" unresolved. No source. PDF/source must be checked (Zandvoort 1999) for 1st person pronoun ERG marking.",?
+madn1237,Matngele,Daly,GB409_3,Is there ergative alignment of flagging on second person pronouns?,?,,,,"Value ""?"" unresolved. No source. Verify in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_4,Is there ergative alignment of flagging on third person pronouns?,?,,,,"Value ""?"" unresolved. No source. Verify in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Zandvoort 1999:42-43,Example 23,,,1
+madn1237,Matngele,Daly,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,?,,,,"Value ""?"" unresolved. No source. Verify imperfective aspect ergativity in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Zandvoort 1999:42-43,Example 23,,,1
+madn1237,Matngele,Daly,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Zandvoort 1999:42-43,Example 23,,,1
+madn1237,Matngele,Daly,GB409_9,Is there ergative alignment of flagging in non-past tenses?,?,,,,"Value ""?"" unresolved. No source. Verify non-past ergativity in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Zandvoort 1999:42-43,Example 23,,,1
+madn1237,Matngele,Daly,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,?,,,,"Value ""?"" unresolved. No source. Verify non-indicative mood ergativity in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Zandvoort 1999:42-43,Example 23,,,1
+madn1237,Matngele,Daly,GB409_13,Is there ergative alignment of flagging in the irrealis status?,?,,,,"Value ""?"" unresolved. No source. Verify irrealis ergativity in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Zandvoort 1999:42-43,Example 23,,,1
+madn1237,Matngele,Daly,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,?,,,,"Value ""?"" unresolved. No source. Verify non-agentive A ergativity in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,?,,,,"Value ""?"" unresolved. No source. Verify topical A ergativity in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,?,,,,"Value ""?"" unresolved. No source. Verify non-topical A ergativity in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Zandvoort 1999:42-43,Example 23,,,1
+madn1237,Matngele,Daly,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,Zandvoort 1999:42-43,Example 23,,,1
+madn1237,Matngele,Daly,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Zandvoort 1999:42-43,Example 23,,,1
+madn1237,Matngele,Daly,GB409_21,Is there ergative alignment of flagging in non-main clauses?,?,,,,"Value ""?"" unresolved. No source. Verify non-main clause ergativity in Zandvoort 1999.",?
+madn1237,Matngele,Daly,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,,,,"Source listed as ""1"" — likely a data-entry error. Correct source is Zandvoort 1999. Researcher must verify conditioning factors.",0
+madn1237,Matngele,Daly,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,,,,,0
+madn1237,Matngele,Daly,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,1,Zandvoort 1999:42,,,1
