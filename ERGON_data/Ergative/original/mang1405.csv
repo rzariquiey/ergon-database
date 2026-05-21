@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment
+mang1405,Manggarai,Austronesian,GB409_1,Is there an overt marker for the absolutive?,0,,
+mang1405,Manggarai,Austronesian,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,Semiun 1993:2-3,
+mang1405,Manggarai,Austronesian,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,Semiun 1993:2-3,
+mang1405,Manggarai,Austronesian,GB409_4,Is there ergative alignment of flagging on third person pronouns?,0,Semiun 1993:2-3,
+mang1405,Manggarai,Austronesian,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Semiun 1993:2-3,
+mang1405,Manggarai,Austronesian,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,,
+mang1405,Manggarai,Austronesian,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Semiun 1993:39,
+mang1405,Manggarai,Austronesian,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Semiun 1993:54,Example 190
+mang1405,Manggarai,Austronesian,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Semiun 1993:39,Example 135
+mang1405,Manggarai,Austronesian,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Semiun 1993:2-3,
+mang1405,Manggarai,Austronesian,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,Semiun 1993:25,Example 83
+mang1405,Manggarai,Austronesian,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Semiun 1993:2-3,
+mang1405,Manggarai,Austronesian,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Semiun 1993:25,Example 83
+mang1405,Manggarai,Austronesian,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Semiun 1993:2-3,
+mang1405,Manggarai,Austronesian,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,Semiun 1993:56,"Example 192; although it is marked by the morpheme ""de"", and not ""le"", as has been the case for the rest of these."
+mang1405,Manggarai,Austronesian,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,,
+mang1405,Manggarai,Austronesian,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,,
+mang1405,Manggarai,Austronesian,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Semiun 1993:25,Example 83
+mang1405,Manggarai,Austronesian,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,?,,
+mang1405,Manggarai,Austronesian,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Semiun 1993:2-3,
+mang1405,Manggarai,Austronesian,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,Semiun 1993:2-3,
+mang1405,Manggarai,Austronesian,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,Semiun 1993:2-3,"It seems to be motivated by a passive construction, rather than true agent marking, as it competes with a parallel nominatve-accusative construction."
+mang1405,Manggarai,Austronesian,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,,
+mang1405,Manggarai,Austronesian,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Semiun 1993:6,

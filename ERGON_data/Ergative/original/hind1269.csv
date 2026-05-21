@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,,Source_comment,Value,Comment
+hind1269,Hindi,Indo-European,GB409_1,Is there an overt marker for the absolutive?,"Koul, 2009, p. 199",0,No hay una marca como tal de absolutivo
+hind1269,Hindi,Indo-European,GB409_2,Is there ergative alignment of flagging on first person pronouns?,"Koul, 2009, p. 76",1,
+hind1269,Hindi,Indo-European,GB409_3,Is there ergative alignment of flagging on second person pronouns?,"Koul, 2009, p. 76",1,
+hind1269,Hindi,Indo-European,GB409_4,Is there ergative alignment of flagging on third person pronouns?,"Koul, 2009, p. 76 y 97",1,
+hind1269,Hindi,Indo-European,GB409_5,Is there ergative alignment of flagging on full NPs?,"Koul, 2009, p. 76",1,
+hind1269,Hindi,Indo-European,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,"Koul, 2009, p. 106-108",0,
+hind1269,Hindi,Indo-European,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,"Koul, 2009, p. 37, 106 y 114",1,En participio perfectivo
+hind1269,Hindi,Indo-European,GB409_8,Is there ergative alignment of flagging in the past tense?,"Koul, 2009, p. 37",1,
+hind1269,Hindi,Indo-European,GB409_9,Is there ergative alignment of flagging in non-past tenses?,"Koul, 2009, p. 105 y 115",1,"""Hindi has six tenses: present, past, future, present perfect, habitual past, and past perfect (Koul, 2009, p. 105)"
+hind1269,Hindi,Indo-European,GB409_10,Is there ergative alignment of flagging in the indicative mood?,"Koul, 2009, p. 38",1,
+hind1269,Hindi,Indo-European,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,"Koul, 2009, p. 115",,En presumtivo-perfectivo
+hind1269,Hindi,Indo-European,GB409_12,Is there ergative alignment of flagging in the realis status?,"Koul, 2009, p. 37 y 115",1,
+hind1269,Hindi,Indo-European,GB409_13,Is there ergative alignment of flagging in the irrealis status?,"Koul, 2009, p. 193",1,
+hind1269,Hindi,Indo-European,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,"Koul, 2009, p. 37",1,
+hind1269,Hindi,Indo-European,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,"Koul, 2009, p. 39",1,
+hind1269,Hindi,Indo-European,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,,?,
+hind1269,Hindi,Indo-European,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,,?,
+hind1269,Hindi,Indo-European,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,"Koul, 2009, p. 37",1,
+hind1269,Hindi,Indo-European,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,,?,
+hind1269,Hindi,Indo-European,GB409_20,Is there ergative alignment of flagging in main clauses?,"Koul, 2009, p. 37",1,
+hind1269,Hindi,Indo-European,GB409_21,Is there ergative alignment of flagging in non-main clauses?,,,
+hind1269,Hindi,Indo-European,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,"Koul, 2009, p. 215",1,"""certain semantic restrictions, including the selection of their cases (nominative, dative, and ergative subjects), imposed by the choice of verbs and tense""."
+hind1269,Hindi,Indo-European,GB409_23,Are the ergative and the genitive expressed by the same marker?,"Koul, 2009, p. 174",0,
+hind1269,Hindi,Indo-European,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,"Koul, 2009, p. 287",0,

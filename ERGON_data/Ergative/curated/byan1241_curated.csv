@@ -1,0 +1,30 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
+byan1241,Byansi,Trans-Himalayan,GB409_1,Is there an overt marker for the absolutive?,0,"Trivedi 1991: 33, 35",There is not explicit marker for the absolutive case.,,,0
+byan1241,Byansi,Trans-Himalayan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Trivedi 1991: 46,First-person pronouns show ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Trivedi 1991: 46,Second-person pronouns show ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Trivedi 1991: 46,Third-person pronouns show ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Trivedi 1991: 33-35,Full NP's exhibit ergative-absolutive alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,"Trivedi 1991: 84, 89-90",Clauses with imperfective aspect exhibit ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,"Trivedi 1991: 86, 105",Clauses with perfective aspect exhibit ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,"Trivedi 1991: 86, 88, 90",Past-tense clauses exhibit ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,"Trivedi 1991: 81, 94, 96",Clauses in non-past tense exhibit ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,"Trivedi 1991: 81, 86, 94",Clauses in indicative mode show an ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,"Trivedi 1991: 104-105, 121",Clauses in non-indicative mode show an ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_12,Is there ergative alignment of flagging in the realis status?,1,"Trivedi 1991: 81, 86, 97",Clauses with realis status show ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,"Trivedi 1991: 94, 96, 105, 110, 132",Clauses with irrealis status show ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,"Trivedi 1991: 81, 84, 105","In the context of an agentive A argument, ergative alignment is observed.",,,1
+byan1241,Byansi,Trans-Himalayan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,"Trivedi 1991: 35, 81, 159","In the context of a non-agentive argument A, ergative alignment is observed.",,,1
+byan1241,Byansi,Trans-Himalayan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,"Trivedi 1991: 44, 81, 105","In the context of an agentive A argument, ergative alignment is observed.",,,1
+byan1241,Byansi,Trans-Himalayan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,"Trivedi 1991: 44, 50","In the context of a non-agentive argument A, ergative alignment is observed.",,,1
+byan1241,Byansi,Trans-Himalayan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,"Trivedi 1991: 35, 203",Clauses with animated A arguments exhibit ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,"Trivedi 1991: 36-37, 144",Clauses with non-animated A arguments exhibit ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,"Trivedi 1991: 35, 86",Main clauses exhibit ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,"Trivedi 1991: 159-160, 162",Non-main clauses exhibit ergative alignment.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,"Trivedi 1991: 33, 35",Ergative marking is conditioned by the semantic class of the transitive verb.,,,1
+byan1241,Byansi,Trans-Himalayan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,"Trivedi 1991: 36, 38-39",The ergative marker do not have the same form as the genitive marker.,,,0
+byan1241,Byansi,Trans-Himalayan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Trivedi 1991: 36-37,"The ergative case has the same mark as the instrumental case, but is different from the comitative case.",,,1
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

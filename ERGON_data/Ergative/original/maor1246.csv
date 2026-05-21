@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment
+maor1246,Maori,Austronesian,GB409_1,Is there an overt marker for the absolutive?,0,Harlow 2007:26-28,"The patient in the contexts mentioned (1-7) is always marked as ""nominative"", and thus with a zero morpheme."
+maor1246,Maori,Austronesian,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Harlow 2007:119,"Example ""So this is the man on account of whom we have come""."
+maor1246,Maori,Austronesian,GB409_3,Is there ergative alignment of flagging on second person pronouns?,?,,
+maor1246,Maori,Austronesian,GB409_4,Is there ergative alignment of flagging on third person pronouns?,?,,
+maor1246,Maori,Austronesian,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Harlow 2007:26-28,Examples from all contexts (1-7)
+maor1246,Maori,Austronesian,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Harlow 2007:105,"Example ""Hēmi’s being killed by the enemy"""
+maor1246,Maori,Austronesian,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Harlow 2007:26-28,Examples from all contexts (1-7)
+maor1246,Maori,Austronesian,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Harlow 2007:26-28,Examples from all contexts (1-7)
+maor1246,Maori,Austronesian,GB409_9,Is there ergative alignment of flagging in non-past tenses?,?,,
+maor1246,Maori,Austronesian,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Harlow 2007:26-28,Examples from mosts contexts (1-7)
+maor1246,Maori,Austronesian,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,Harlow 2007:26-28,Example from context (6)
+maor1246,Maori,Austronesian,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Harlow 2007:26-28,Examples from mosts contexts (1-7)
+maor1246,Maori,Austronesian,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Harlow 2007:26-28,Example from context (1)
+maor1246,Maori,Austronesian,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Harlow 2007:26-28,Examples from mosts contexts (1-7)
+maor1246,Maori,Austronesian,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,?,,
+maor1246,Maori,Austronesian,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,Harlow 2007:26-28,Example from context (3)
+maor1246,Maori,Austronesian,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,Harlow 2007:26-28,Examples from mosts contexts (1-7)
+maor1246,Maori,Austronesian,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Harlow 2007:26-28,Examples from all contexts (1-7)
+maor1246,Maori,Austronesian,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,?,,
+maor1246,Maori,Austronesian,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Harlow 2007:26-28,Examples from all contexts (1-7)
+maor1246,Maori,Austronesian,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,Harlow 2007:119,"Example ""So this is the man on account of whom we have come""."
+maor1246,Maori,Austronesian,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,Harlow 2007:26-28,"There are seven contexts where Maori has ergative alingment in its marking: ""weak imperatives"", ""clefting with 'he mea'"", ""actor emphatic"", ""neuter verbs"" (aka statives), marking of subject in nominalizations, the question ""Ko wai e?"" and passive or ""transitive 2"" constructions."
+maor1246,Maori,Austronesian,GB409_23,Are the ergative and the genitive expressed by the same marker?,1,Harlow 2007:27,"Context (3): ""Actor Emphasis""."
+maor1246,Maori,Austronesian,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,,

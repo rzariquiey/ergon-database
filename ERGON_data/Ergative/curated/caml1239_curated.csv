@@ -1,0 +1,30 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
+caml1239,Camling,Trans-Himalayan,GB409_1,Is there an overt marker for the absolutive?,0,Ebert 1997: 56,There is not an explicit marker for the absolutive case.,,,0
+caml1239,Camling,Trans-Himalayan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,Ebert 1997: 56,First-person pronouns do not follow an ergative alignment pattern.,,,0
+caml1239,Camling,Trans-Himalayan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,Ebert 1997: 56,Second-person pronouns do not follow an ergative alignment pattern.,,,0
+caml1239,Camling,Trans-Himalayan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Ebert 1997: 56,Third-person pronouns follow an ergative alignment pattern.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,"Ebert 1997: 45, 56",Full NP's exhibit ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,"Ebert 1997: 26, 56",Clauses with imperfective aspect exhibit ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,"Ebert 1997: 24, 56",Clauses with perfective aspect exhibit ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,"Ebert 1997: 26, 56",Past-tense clauses exhibit ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,"Ebert 1997: 29,56",Clauses in non-past tense exhibit ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,"Ebert 1997: 52, 56",Clauses in indicative mode show an ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,"Ebert 1997: 45,55",Clauses in non-indicative mode show an ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_12,Is there ergative alignment of flagging in the realis status?,1,"Ebert 1997: 24, 56",Clauses with realis status show ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,"Ebert 1997: 29, 67",Clauses with irrealis status show ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,"Ebert 1997: 46, 52","In the context of an agentive A argument, ergative alignment is observed.",,,1
+caml1239,Camling,Trans-Himalayan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,"Ebert 1997: 35, 67","In the context of a non-agentive argument A, ergative alignment is observed.",,,1
+caml1239,Camling,Trans-Himalayan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,"Ebert 1997: 57, 65","In the context of a topical A, ergative alignment is shown.",,,1
+caml1239,Camling,Trans-Himalayan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,"Ebert 1997: 45, 55","In the context of a topical A, ergative alignment is not shown.",,,1
+caml1239,Camling,Trans-Himalayan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,"Ebert 1997: 26, 46",Clauses with animated A arguments exhibit ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,"Ebert 1997: 29, 66",Clauses with non-animated A arguments exhibit ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Ebert 1997: 56,Main clauses exhibit ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,"Ebert 1997: 62, 65",Non-main clauses exhibit ergative alignment.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,"Ebert 1997: 46, 56",Ergative alignment is conditioned by the Differential Object Marking based on animacy/humanity.,,,1
+caml1239,Camling,Trans-Himalayan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Ebert 1997: 45,The ergative case do not have the same mark as the genitive marker.,,,0
+caml1239,Camling,Trans-Himalayan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Ebert 1997: 45-46,"The ergative case has the same mark as the instrumental case, but is different from the comitative case.",,,1
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

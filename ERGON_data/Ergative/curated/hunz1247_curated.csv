@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Source_comment,Value,Comment,curated,curated_comment,final_value
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_1,"Van den Berg, 1995",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_2,"Van den Berg, 1995",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_3,"Van den Berg, 1995",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_4,"Van den Berg, 1995, p. 42",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_5,"Van den Berg, 1995",0,,,"Original value 0 is incorrect. Van den Berg (1995:42) section 3.4.2 explicitly introduces the ergative case with full NP examples in PRESENT tense: ol-di-l m-uq es (boy-OBL-ERG eat-PRES apple) 'the boy eats an apple'; wexa-l-lo n-uq xo (shepherd-OBL-ERG eat-PRES meat). Section 6.4.2 (p.122-123) confirms Agent+Patient [ERG, NOM] as the standard transitive pattern with full NP examples: ol-di-l kid hehe-r (boy-OBL-ERG girl hit-PRET); iyu-l hcxrac b-oho-r (mother-ERG cow feed-PRET). Full NPs take the ergative suffix -l (after vowel/y) or -lo (after consonant) on the oblique stem. Value corrected to 1. Source: Van den Berg 1995:42-43, 122-123.",0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_6,"Van den Berg, 1995, p. 111",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_7,"Van den Berg, 1995, p. 107",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_8,"Van den Berg, 1995, p. 107",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_9,"Van den Berg, 1995, p. 84-86",0,,,1,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_10,"Van den Berg, 1995, p. 107-109",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_11,"Van den Berg, 1995",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_12,"Van den Berg, 1995, p. 107-109",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_13,"Van den Berg, 1995",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_14,"Van den Berg, 1995, p. 107, 122",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_15,"Van den Berg, 1995, p. 107, 122",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_16,"Van den Berg, 1995, p. 42, 122",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_17,"Van den Berg, 1995, p. 42, 122",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_18,"Van den Berg, 1995, p. 107",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_19,"Van den Berg, 1995",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_20,"Van den Berg, 1995, p. 42",1,,,,1
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_21,"Van den Berg, 1995, p. 42",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_22,"Van den Berg, 1995",0,,,"REVERT: The original value 0 is correct. A batch-correction had changed this to 1, premised on a tense-based split (GB409_8=1 past vs. GB409_9=0 non-past). PDF verification (Van den Berg 1995:84-86) shows that GB409_9=0 was itself incorrect — ERG marking applies in aorist, future, and intentional forms (see GB409_9 correction). Since ERG is not conditioned by tense or any other factor identified in the grammar, value 0 is confirmed. Reverted batch-correction to 0.",0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_23,"Van den Berg, 1995, p. 42",0,,,,0
+hunz1247,Hunzib,Nakh-Daghestanian,GB409_24,"Van den Berg, 1995, p. 43",0,,,,0

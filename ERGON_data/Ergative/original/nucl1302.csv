@@ -1,0 +1,41 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,
+nucl1302,Georgian,Kartvelian,GB409_1,Is there an overt marker for the absolutive?,0,"Hewitt:1990, 33-45",,
+nucl1302,Georgian,Kartvelian,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,"Hewitt:1990, 76-77",Se menciona que la primera y segunda persona en singular y plural no cambian,
+nucl1302,Georgian,Kartvelian,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,"Hewitt:1990, 76-77",Se menciona que la primera y segunda persona en singular y plural no cambian,
+nucl1302,Georgian,Kartvelian,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,"Hewitt:1990, 76-77",,
+nucl1302,Georgian,Kartvelian,GB409_5,Is there ergative alignment of flagging on full NPs?,1,"Hewitt:1990, 45-68",,
+nucl1302,Georgian,Kartvelian,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,0,"Hewitt:1990, 145-146",,
+nucl1302,Georgian,Kartvelian,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,"Hewitt:1990, 145-146",,
+nucl1302,Georgian,Kartvelian,GB409_8,Is there ergative alignment of flagging in the past tense?,1,"Hewitt:1990, 143-144","Se menciona que el pasado corresponde a la Serie II, que es ergativo",
+nucl1302,Georgian,Kartvelian,GB409_9,Is there ergative alignment of flagging in non-past tenses?,0,"Hewitt:1990, 143-144","Se menciona que el presente y futuro corresponde a la Serie I, que es nominativo",
+nucl1302,Georgian,Kartvelian,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,"Hewitt:1990, 527",Se tiene marca de ergatividad en indicativo siempre y cuando corresponda a la serie II,
+nucl1302,Georgian,Kartvelian,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,"Hewitt:1990, 527",Se tiene marca de ergatividad en no indicativo siempre y cuando corresponda a la serie II,
+nucl1302,Georgian,Kartvelian,GB409_12,Is there ergative alignment of flagging in the realis status?,1,,"Se menciona que el estado real corresponde a la Serie II, que es ergativo",
+nucl1302,Georgian,Kartvelian,GB409_13,Is there ergative alignment of flagging in the irrealis status?,0,"Hewitt:1990, 240","Se menciona que el estado irreal corresponde a la Serie I, que es nominativo",
+nucl1302,Georgian,Kartvelian,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,"Hewitt:1990, 170-200,
+Hewitt:1990, 338","Se marca los sujetos agentivos dentro de la Serie II. Sin embargo, la agentividad no necesariamente activa la ergatividad, por ejemplo, en la serie III (Hewitt:1990, 338)",
+nucl1302,Georgian,Kartvelian,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,0,"Hewitt:1990, 170-200","No hay alineamiento de no agentividad con ergatividad. Sin embargo, hay ejemplos que marcan A's no agentivos como ergativos, ejemplo
+sun-ERG field(NOM) PEEV-(it-)NV-dry--eiAOE) 
+‘the sun dried out the field’
+God-ERG PREV-you-NV-age-AOE.SUBJ-PL
+‘may God let you grow old!’
+pleasure-ERG dizziness((DOM) PRE--li)-)me-L--pbu--i((AOR)
+‘pleasure made me dizzy’
+sweat-ERG shirt-DAT PREV-(?3rd.PER-i)-)LV-penetrate-it(AOR)
+‘sweat penetrated through the shirt’
+illness-EEG man-DAT mux)-ebsi mo-(0-)h-k,v-t-a PREVN3rd.PEE--him-siice--iiAOE) knce-PL-NOM
+‘illness weakened the man’s knees’",
+nucl1302,Georgian,Kartvelian,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,"Hewitt:1990, 81-83","No hay evidencia que la topicalidad afecte la marca de caso, se tiene en ambos escenarios",
+nucl1302,Georgian,Kartvelian,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,"Hewitt:1990, 81-83","No hay evidencia que la topicalidad afecte la marca de caso, se tiene en ambos escenarios",
+nucl1302,Georgian,Kartvelian,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,"Hewitt:1990, 151",No se menciona la existencia de un split de ergatividad basado en si A es animado o no,
+nucl1302,Georgian,Kartvelian,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,"Hewitt:1990, 170-200","No se menciona la existencia de un split de ergatividad basado en si A es animado o no, igualmente aplican los ejemplos de GB409_15",
+nucl1302,Georgian,Kartvelian,GB409_20,Is there ergative alignment of flagging in main clauses?,1,"Hewitt:1990, 170-200",,
+nucl1302,Georgian,Kartvelian,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,"Hewitt:1990, 613-618","No se menciona una exclusion del marcado en clausulas no principales:
+Factual (Hewitt:1990, 614), Speech reporting (614), Direct quotation (615)",
+nucl1302,Georgian,Kartvelian,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,Hewitt:1990,"No se menciona algun otro factor que condicione la marca de caso de ergatividad. Sin embargo en Hewitt:1990, 446-490 se muestran algunos verbos irregulares. Donde se destaca el caso de ""know"", que historicamente pertenece a la serie II. Y del cual se extrajo un ejemplo de otro fragmento
+
+gmrot-mav (0-)i-c-i-s God-ERG (3rd.PER-)SV-know--PRS.INDIC-he ‘God knows
+
+En el cual, se usa know asociado al sujeto (gmrot) con marca ergativa (mav) pero en presente tercera persona, fuera de la Serie II",
+nucl1302,Georgian,Kartvelian,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Hewitt:1990 523,En general se usa -ma/-n como marca de Ergativo mientras que se usa -s e -is para genitivo.,
+nucl1302,Georgian,Kartvelian,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Hewitt:1990 523,En general se usa -ma/-n como marca de Ergativo mientras que se usa -it para instrumental. Tampoco se menciona otra marca que sea igual a la de ergativo.,

@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment
+mono1273,Mono-Alu,Austronesian,GB409_1,Is there an overt marker for the absolutive?,1,"Meier 2020:8, Fagan 1986:102",If the patient precedes the verb the ga particle do not appear.
+mono1273,Mono-Alu,Austronesian,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,"Meier 2020:290-291, 756","It is possible in bound personal pronouns: 1EXCL SG, 1EXCL PL and 1INCL PL,but no in 1INCL SG. It can also appear in independent pronouns when the absolutive argument is in focus."
+mono1273,Mono-Alu,Austronesian,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,"Meier 2020:131, 290-291, 756",It is possible in bound personal pronouns. It can also appear in independent pronouns when the absolutive argument is in focus.
+mono1273,Mono-Alu,Austronesian,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,"Meier 2020:290-291, 763","There is not personal pronuons of third person, but the language use demostrative forms instead and they do accept the ergative marking ga."
+mono1273,Mono-Alu,Austronesian,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Meier 2020:754,
+mono1273,Mono-Alu,Austronesian,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,"Meier 2020:707, 713, 718","Found in examples (1634), (1649), (1659) and others."
+mono1273,Mono-Alu,Austronesian,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,?,Meier 2020:in passim,Only imperfective is marked.
+mono1273,Mono-Alu,Austronesian,GB409_8,Is there ergative alignment of flagging in the past tense?,0,Meier 2020:13,Tense is not marked.
+mono1273,Mono-Alu,Austronesian,GB409_9,Is there ergative alignment of flagging in non-past tenses?,0,Meier 2020:13,Tense is not marked.
+mono1273,Mono-Alu,Austronesian,GB409_10,Is there ergative alignment of flagging in the indicative mood?,?,Meier 2020:in passim,"There is not indicative mood in the language, the mood is described as realis, irrealis and counterfactual."
+mono1273,Mono-Alu,Austronesian,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,?,Meier 2020:in passim,"There is not indicative mood in the language, the mood is described as realis, irrealis and counterfactual."
+mono1273,Mono-Alu,Austronesian,GB409_12,Is there ergative alignment of flagging in the realis status?,1,"Meier 2020:707, 710, 756","Found in examples (1624), (1635), (1640) and others."
+mono1273,Mono-Alu,Austronesian,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,"Meier 2020:713, 731","Found in examples (1647), (1685) and others."
+mono1273,Mono-Alu,Austronesian,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,"Meier 2020:414, 418, 426","Found in examples (914), (928), (954) and others."
+mono1273,Mono-Alu,Austronesian,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,?,Meier 2020:in passim,
+mono1273,Mono-Alu,Austronesian,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,?,Meier 2020:in passim,
+mono1273,Mono-Alu,Austronesian,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,?,Meier 2020:in passim,
+mono1273,Mono-Alu,Austronesian,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,"Meier 2020:414, 418, 426","Found in examples (914), (928), (954) and others."
+mono1273,Mono-Alu,Austronesian,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,?,Meier 2020:in passim,
+mono1273,Mono-Alu,Austronesian,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Fagan 1986:102,
+mono1273,Mono-Alu,Austronesian,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,Meier 2020:15,Complements of ga coreferent with a transitive subject are ungrammatical but cleft sentences and relative clauses can include ga.
+mono1273,Mono-Alu,Austronesian,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,"Meier 2020:12, Fagan 1986:102",The ga particle can not precede the predicate.
+mono1273,Mono-Alu,Austronesian,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Meier 2020:256,There is not reference to genitive but to possesion.
+mono1273,Mono-Alu,Austronesian,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Meier 2020:281,Instrumental is marked by ena

@@ -1,0 +1,31 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
+ning1281,Anong,Trans-Himalayan,GB409_1,Is there an overt marker for the absolutive?,1,"Yu 2007: 82, 177, 178",Case marking for agent-like (le) and object-like (tɛ) NPs are optional,,,1
+ning1281,Anong,Trans-Himalayan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,"Yu 2007: 82, 187","Copulative clause described as intransitive: ""ŋa tɛ katɕhi ʂʅ o"" - I am really happy",,,1
+ning1281,Anong,Trans-Himalayan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,?,,No examples or descriptions of ergative alignment with second person pronouns were found,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+ning1281,Anong,Trans-Himalayan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,?,,No examples or descriptions of ergative alignment with third person pronouns were found,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+ning1281,Anong,Trans-Himalayan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Yu 2007: 82,"Copulative clause described as intransitive: ""ja ʐa tɛ na tia ma"" - His/her grandmother is ill",,,1
+ning1281,Anong,Trans-Himalayan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Yu 2007: 82,"Copulative clause described as intransitive: ""ja ʐa tɛ na tia ma"" - His/her grandmother is ill (durative: tia)",,,1
+ning1281,Anong,Trans-Himalayan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Yu 2007: 82,"Copulative clause described as intransitive: ""ŋa tɛ katɕhi ʂʅ o"" - I am really happy",,,1
+ning1281,Anong,Trans-Himalayan,GB409_8,Is there ergative alignment of flagging in the past tense?,?,,No examples or descriptions of ergative alignment of flagging in the past tense were found,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+ning1281,Anong,Trans-Himalayan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Yu 2007: 82,"Copulative clause described as intransitive: ""ŋa tɛ katɕhi ʂʅ o"" - I am really happy",,,1
+ning1281,Anong,Trans-Himalayan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Yu 2007: 82,"Copulative clause described as intransitive: ""ŋa tɛ katɕhi ʂʅ o"" - I am really happy",,,1
+ning1281,Anong,Trans-Himalayan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,?,,No examples or descriptions of ergative alignment of flagging in non-indicative moods were found,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+ning1281,Anong,Trans-Himalayan,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Yu 2007: 82,"Copulative clause described as intransitive: ""ŋa tɛ katɕhi ʂʅ o"" - I am really happy",,,1
+ning1281,Anong,Trans-Himalayan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,?,,No examples or descriptions of ergative alignment of flagging in irrealis status were found,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+ning1281,Anong,Trans-Himalayan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,0,"Yu 2007: 177, 178","""Agent or subject marker le follows a noun or a noun phrase which is the agent-like subject, i.e. it marks the agentive subject """,,,0
+ning1281,Anong,Trans-Himalayan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,"Yu 2007: 177, 178","""Object or patient marker tɛ also follows a noun or noun phrase which is the object or the patient-like subject""",,,1
+ning1281,Anong,Trans-Himalayan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,"Yu 2007: 82, 83","""ŋa nu ma le ŋa tɛ ti la o"" - My mother has beaten me
+",,,1
+ning1281,Anong,Trans-Himalayan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,0,"Yu 2007: 82, 83","""ŋa tɛ ŋa nu ma le ti la o"" - I was beaten by my mother",,,0
+ning1281,Anong,Trans-Himalayan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,"Yu 2007: 82, 178","Copulative clause described as intransitive: ""ŋa tɛ katɕhi ʂʅ o"" - I am really happy",,,1
+ning1281,Anong,Trans-Himalayan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,0,Yu 2007: 82,"""A can be marked by le while O can be marked by tɛ  when it is animate...""",,,0
+ning1281,Anong,Trans-Himalayan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Yu 2007: 82,"Copulative clause described as intransitive: ""ŋa tɛ katɕhi ʂʅ o"" - I am really happy",,,1
+ning1281,Anong,Trans-Himalayan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,?,,No examples or descriptions of ergative alignment of flagging in non-main clauses were found,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+ning1281,Anong,Trans-Himalayan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,?,,No examples or descriptions of ergative alignment by other factors were found,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+ning1281,Anong,Trans-Himalayan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,"Yu 2007: 177, 178",There's a specialized genitive marker (gɯ),,,0
+ning1281,Anong,Trans-Himalayan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,"Yu 2007: 174, 177",There's an instrumental nominalizer (-du),,,0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

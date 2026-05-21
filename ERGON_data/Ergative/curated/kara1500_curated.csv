@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Source_comment,Value,Comment,curated,curated_comment,final_value
+kara1500,Karajá,Macro-Jê,GB409_1,"Ribeiro, 2012, p. 257",1,S: -wa P: -bə̃,,"FLAGGED: Value 1 cannot be confirmed from cited source (Ribeiro 2012:257). Page 257 discusses nominalized complements where possessive prefixes (wa- 1sg, a- 2sg, i- 3sg) mark the absolutive argument of deverbal nouns (e.g., wa-rira ""my walking"", kOÎUd̈̈) b́́)d́́) ""turtle catching""), not overt absolutive case markers on independent NPs. Ribeiro (2012:54) explicitly classifies Karajá as nominative-accusative (backgrounding antipassive in an NOM-ACC language, not an ergative one). Ribeiro (2012:174) states: ""Person agreement displays a strictly nominative pattern."" The forms ""S: -wa P: -bə̃"" do not correspond to case markers in the grammar. Recommend expert review of original annotation. Value kept as 1 pending review.",1
+kara1500,Karajá,Macro-Jê,GB409_2,,0,,0,"Original value ""?"" resolved to 0. Free pronouns (dIkará̩ ""I"", kai ""you"", Ʌ́kɪ ""s/he"") are the same for S (intransitive subject) and A (transitive subject) — nominative pattern. Pronominal objects are obligatorily incorporated into the verb, not free pronouns with case marking. No ergative-absolutive distinction exists on 1st person pronouns. Source: Ribeiro 2012:174 (nominative agreement), 191-192 (pronominal objects incorporated).",0
+kara1500,Karajá,Macro-Jê,GB409_3,,0,,0,"Original value ""?"" resolved to 0. Same evidence as GB409_2: free pronouns show no ergative-absolutive distinction (nominative pattern). Source: Ribeiro 2012:174, 191-192.",0
+kara1500,Karajá,Macro-Jê,GB409_4,,0,,0,"Original value ""?"" resolved to 0. Third person free pronoun Ʌ́kɪ ""s/he"" is used for both intransitive S and transitive A (nominative pattern). Third person objects are incorporated into the verb. Source: Ribeiro 2012:174, 191-192.",0
+kara1500,Karajá,Macro-Jê,GB409_5,,0,,0,"Original value ""?"" resolved to 0. Full NPs show no overt case marking. Ribeiro (2012:51) explicitly states: ""when both subject and object are nouns, they can only be distinguished by the word order, canonically SOV."" Example: ha̩bu ha̩lOkOE 3-CTFG-TRANS-kill-PERF ""The man killed the jaguar"" — both NPs are zero-marked, distinguished only by position. Source: Ribeiro 2012:51.",0
+kara1500,Karajá,Macro-Jê,GB409_6,,0,,0,"Resolved to 0. No ergative flagging in Karajá (nominative-accusative language, Ribeiro 2012:54,174). No aspect-conditioned case split possible. Source: Ribeiro 2012.",0
+kara1500,Karajá,Macro-Jê,GB409_7,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_8,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_9,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_10,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_11,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_12,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_13,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_14,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_15,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_16,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_17,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_18,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_19,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_20,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_21,,0,,0,Resolved to 0. No ergative flagging in Karajá. Source: Ribeiro 2012.,0
+kara1500,Karajá,Macro-Jê,GB409_22,,0,,0,"Resolved to 0. No ergative flagging in Karajá, so no conditioning factor applies. Source: Ribeiro 2012.",0
+kara1500,Karajá,Macro-Jê,GB409_23,,0,,0,"Resolved to 0. No ergative marker exists in Karajá. Genitive/possessive uses prefixes (wa-, a-, i-) on the possessed noun, which have no ergative function. Source: Ribeiro 2012:52.",0
+kara1500,Karajá,Macro-Jê,GB409_24,,0,,0,Resolved to 0. No ergative marker exists in Karajá. The instrumental postposition èdɪ is distinct from any argument-marking morphology. Source: Ribeiro 2012:234.,0

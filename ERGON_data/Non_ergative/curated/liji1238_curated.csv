@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment,curated,curated_comment,final_value
+liji1238,Lijili,Atlantic-Congo,GB409_1,Is there an overt marker for the absolutive?,0,Stofberg 1978,,,"All 24 features correctly annotated as 0 (no ergative alignment). Lijili (liji1238, ISO mgi, Atlantic-Congo, Nigeria) is a nominative-accusative language. The language is also known as Migili, which is reflected in the source filename; Migili is not a separate language but an alternative name for Lijili. The Language and Family fields in the original file were left as 'VERIFICAR'; the correct values are 'Lijili' and 'Atlantic-Congo' respectively. Source: Stofberg (1978), a grammatical description of the language. Glottocode liji1238 is correct; the previously proposed migi1234 does not exist in Glottolog (Migili = alternative name for liji1238).",0
+liji1238,Lijili,Atlantic-Congo,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_4,Is there ergative alignment of flagging on third person pronouns?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_5,Is there ergative alignment of flagging on full NPs?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_8,Is there ergative alignment of flagging in the past tense?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_9,Is there ergative alignment of flagging in non-past tenses?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_10,Is there ergative alignment of flagging in the indicative mood?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_12,Is there ergative alignment of flagging in the realis status?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_13,Is there ergative alignment of flagging in the irrealis status?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_20,Is there ergative alignment of flagging in main clauses?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_21,Is there ergative alignment of flagging in non-main clauses?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Stofberg 1978,,,,0
+liji1238,Lijili,Atlantic-Congo,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Stofberg 1978,,,,0

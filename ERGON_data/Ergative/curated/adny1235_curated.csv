@@ -1,0 +1,30 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_1,Is there an overt marker for the absolutive?,0,Schebeck 1974: 2,There is no explicit marker for the absolutive case.,,,0
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,"Schebeck 1974: 10, 22","A split ergativity system is presented. In the singular, the first-person pronoun follows an ergative pattern. However, in the dual and plural forms, the pronouns follow a nominative-accusative pattern.",,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,"Schebeck 1974: 10, 26","A split ergativity system is presented. In the singular, the first-person pronoun follows an ergative pattern. However, in the dual and plural forms, the pronouns follow a nominative-accusative pattern.",,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,"Schebeck 1974: 10, 31","A split ergativity system is presented. In the singular, the first-person pronoun follows an ergative pattern. However, in the dual and plural forms, the pronouns follow a nominative-accusative pattern.",,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Schebeck 1974: 2-3,"The argument A is marked with the ergative suffixes -qa or -lu, while the arguments S and P are marked with a zero suffix (Ø).",,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,"Schebeck 1974: 3, 9, 26",Ergative alignment is maintained regardless of the verbal aspect.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,"Schebeck 1974: 3, 22, 28",Ergative alignment is maintained in the perfective aspect.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,"Schebeck 1974: 3, 22, 25, 26, 28",Verbal suffixes indicating past tense do not affect the ergative-absolutive case marking system in noun phrases.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,"Schebeck 1974: 22, 25","Ergative alignment holds in non-past tenses, such as the present and the future/hypothetical.",,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Schebeck 1974: 2-3,The indicative mood uses ergative-absolutive alignment.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,"Schebeck 1974: 22, 26",Ergative alignment is maintained in non-indicative moods such as the cohortative and imperative.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_12,Is there ergative alignment of flagging in the realis status?,1,"Schebeck 1974: 2-3, 28",Ergative alignment is the default system for declarative clauses that describe real events (status realis).,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,"Schebeck 1974: 22, 26, 46",Ergative alignment is maintained in irrealis contexts.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Schebeck 1974: 2-3,Ergative alignment is maintained in clauses with an agentive argument A.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,Schebeck 1974: 3,Ergative alignment holds even for non-agentive A arguments.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,"Schebeck 1974: 3, 10",The ergative alignment is clear and holds for A arguments that are topical or the main focus of the sentence.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,"Schebeck 1974: 3, 35",Ergative alignment holds even when argument A is not the topic of the sentence.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Schebeck 1974: 2-3,Ergative alignment is maintained when argument A is animate.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,Schebeck 1974: 3,Ergative alignment is maintained when argument A is inanimate.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Schebeck 1974: 2-3,"In the main clauses, the alignment is ergative-absolutive.",,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,"Schebeck 1974: 2-3, 46-47",Ergative alignment is maintained in non-main (subordinate) clauses.,,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,"Schebeck 1974: 2-3, 10","Alignment is primarily determined by pronominality and number, demonstrating a split ergativity system.",,,1
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,"Schebeck 1974: 3, 5-6",The marker used for the ergative and the marker for the genitive do not have the same form.,,,0
+adny1235,Adnyamathanha,Pama-Nyungan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Schebeck 1974: 3- 4,The ergative case has the same mark as the instrumental and comitative marker.,,,1
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

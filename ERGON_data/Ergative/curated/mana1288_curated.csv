@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment,curated,curated_comment,final_value
+mana1288,Manange,Trans-Himalayan,GB409_1,Is there an overt marker for the absolutive?,0,Hildebrandt 2004:67,,,,0
+mana1288,Manange,Trans-Himalayan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Hildebrandt 2004:67-68,,,,1
+mana1288,Manange,Trans-Himalayan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Hildebrandt 2004:67,,,,1
+mana1288,Manange,Trans-Himalayan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,0,Hildebrandt 2004:68,,,Value 0 (no ERG in non-past) is consistent with tense-based split ergativity typical of Himalayan Tibeto-Burman languages. Manange (Trans-Himalayan) likely has ergative marking only in perfective/past contexts. No source reference provided; recommend citing Hildebrandt 2004 with specific page(s) for the tense split.,0
+mana1288,Manange,Trans-Himalayan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,0,Hildebrandt 2004:69-70,,,Value 0 (no ERG in non-indicative) consistent with tense/aspect split. No source. Verify in Hildebrandt 2004.,0
+mana1288,Manange,Trans-Himalayan,GB409_12,Is there ergative alignment of flagging in the realis status?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,0,Hildebrandt 2004:68,,,Value 0 (no ERG in irrealis) consistent with realis/irrealis split typical of Trans-Himalayan. No source. Verify in Hildebrandt 2004.,0
+mana1288,Manange,Trans-Himalayan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,,,,No source reference provided. Researcher should add citation.,1
+mana1288,Manange,Trans-Himalayan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,,,,"No source. Value 0 may be incorrect if ERG is conditioned by tense/aspect (which the 0-values for GB409_9,11,13 already imply). Consider whether GB409_22 should be 1. Verify in Hildebrandt 2004.",0
+mana1288,Manange,Trans-Himalayan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,,,,No source. Verify ERG vs GEN marker distinction in Hildebrandt 2004:67-68.,0
+mana1288,Manange,Trans-Himalayan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Hildebrandt 2004:66,,,,1

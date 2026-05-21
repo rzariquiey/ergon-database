@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment
+mara1378,Marathi,Indo-European,GB409_1,Is there an overt marker for the absolutive?,0,Dhongde & Wali 2009:183-184,Animate P gets marked with the dative case.
+mara1378,Marathi,Indo-European,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,"Dhongde & Wali 2009:48, 182-183","First person pronouns ""act"" as if they were marked for ergativity, but they have the same form in the transitive and intransitive constructions. Also, there is a question as to what is the ""ERG"" form in p. 48."
+mara1378,Marathi,Indo-European,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,"Dhongde & Wali 2009:48, 182-183","Second person pronouns ""act"" as if they were marked for ergativity, but they have the same form in the transitive and intransitive constructions. Also, there is a question as to what is the ""ERG"" form in p. 48."
+mara1378,Marathi,Indo-European,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Dhongde & Wali 2009:49-50,
+mara1378,Marathi,Indo-European,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Dhongde & Wali 2009:181,Examples (9-10)
+mara1378,Marathi,Indo-European,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,0,Dhongde & Wali 2009:180-181,Examples (5-8)
+mara1378,Marathi,Indo-European,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Dhongde & Wali 2009:181,"Examples (9-10), except when P is animate, as in (12)."
+mara1378,Marathi,Indo-European,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Dhongde & Wali 2009:181,"Examples (9-10), except when P is animate, as in (12)."
+mara1378,Marathi,Indo-European,GB409_9,Is there ergative alignment of flagging in non-past tenses?,0,Dhongde & Wali 2009:180-181,Examples (5-8)
+mara1378,Marathi,Indo-European,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Dhongde & Wali 2009:181,"Examples (9-10), except when P is animate, as in (12)."
+mara1378,Marathi,Indo-European,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,?,,
+mara1378,Marathi,Indo-European,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Dhongde & Wali 2009:181,"Examples (9-10), except when P is animate, as in (12)."
+mara1378,Marathi,Indo-European,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Dhongde & Wali 2009:181-182,"Examples (13-14), except when P is animate, as in (15)."
+mara1378,Marathi,Indo-European,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Dhongde & Wali 2009:181,"Examples (9-10), except when P is animate, as in (12)."
+mara1378,Marathi,Indo-European,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,?,,
+mara1378,Marathi,Indo-European,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,,
+mara1378,Marathi,Indo-European,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,,
+mara1378,Marathi,Indo-European,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Dhongde & Wali 2009:181,"Examples (9-10), except when P is animate, as in (12)."
+mara1378,Marathi,Indo-European,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,Dhongde & Wali 2009:183-184,"A gets flagged, but verb is intransitive."
+mara1378,Marathi,Indo-European,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Dhongde & Wali 2009:181,"Examples (9-10), except when P is animate, as in (12)."
+mara1378,Marathi,Indo-European,GB409_21,Is there ergative alignment of flagging in non-main clauses?,?,,
+mara1378,Marathi,Indo-European,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,,
+mara1378,Marathi,Indo-European,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,,
+mara1378,Marathi,Indo-European,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,,

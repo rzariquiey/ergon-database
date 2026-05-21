@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
+munc1235,Mün Chin,Trans-Himalayan,GB409_1,Is there an overt marker for the absolutive?,0,Mang 2006:16,,,,0
+munc1235,Mün Chin,Trans-Himalayan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Mang 2006:16,"The source says: ""the K’Chò 1st and 2nd person verbal indexations, show nominative-accusative."" but in flagging is ergative alignment.",,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Mang 2006:16,,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,?,Mang 2006:in passim,"It is possible to assume that due the previous note, but it is not stated in the source, nor can any examples be found.",,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+munc1235,Mün Chin,Trans-Himalayan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Mang 2006:16,,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,?,Mang 2006:in passim,"There is no mention in the source of “imperfective aspect,” only the distinction of No-Future.",,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+munc1235,Mün Chin,Trans-Himalayan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,?,Mang 2006:in passim,"There is no mention in the source of “perfective aspect,” only the distinction of No-Future.",,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+munc1235,Mün Chin,Trans-Himalayan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Mang 2006:16,"Found in examples (5), (6), (8) and others.",,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Mang 2006:79,Found in examples (101) and others.,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,?,Mang 2006:in passim,"There is no explicit mention or examples found, but can me assumed.",,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+munc1235,Mün Chin,Trans-Himalayan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,?,Mang 2006:in passim,There is no explicit mention or examples found.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+munc1235,Mün Chin,Trans-Himalayan,GB409_12,Is there ergative alignment of flagging in the realis status?,?,Mang 2006:in passim,There is no explicit mention or examples found.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+munc1235,Mün Chin,Trans-Himalayan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Mang 2006:79,Found in examples (101) and others.,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Mang 2006:16,,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,Mang 2006:59,Found in example (67)b.,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,0,Mang 2006:87,Found in example (113)c.,,,0
+munc1235,Mün Chin,Trans-Himalayan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,Mang 2006:87,Found in example (113).,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Mang 2006:16,,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,Mang 2006:59,Found in example (67)b.,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Mang 2006:16,,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,Mang 2006:73,,,,1
+munc1235,Mün Chin,Trans-Himalayan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,?,Mang 2006:in passim,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+munc1235,Mün Chin,Trans-Himalayan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Mang 2006:44-45,,,,0
+munc1235,Mün Chin,Trans-Himalayan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Mang 2006:45,,,,0

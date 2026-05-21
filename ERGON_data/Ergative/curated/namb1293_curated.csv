@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
+namb1293,Nmbo,Trans-New Guinea,GB409_1,Is there an overt marker for the absolutive?,0,"Kashima 2020:178, 181",,,,0
+namb1293,Nmbo,Trans-New Guinea,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Kashima 2020:122,,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Kashima 2020:122,,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Kashima 2020:122,,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_5,Is there ergative alignment of flagging on full NPs?,1,"Kashima 2020:128, 179",Found in example (12).,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Kashima 2020:128,Found in example (12).,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Kashima 2020:124,Found in example (9).,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Kashima 2020:128,Found in example (13) an others.,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,"Kashima 2020:129, 130, 134","Found in example (14), (16), (18), (22) and others.",,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_10,Is there ergative alignment of flagging in the indicative mood?,?,Kashima 2020:in passim,"There is no explicit mention or examples found, but it can be assumed from pages 244 and 245.",,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+namb1293,Nmbo,Trans-New Guinea,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,"Kashima 2020:144, 145",,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_12,Is there ergative alignment of flagging in the realis status?,?,Kashima 2020:in passim,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+namb1293,Nmbo,Trans-New Guinea,GB409_13,Is there ergative alignment of flagging in the irrealis status?,?,Kashima 2020:in passim,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+namb1293,Nmbo,Trans-New Guinea,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Kashima 2020:123,Found in example (8).,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,Kashima 2020:181-182,Found in example (76).,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,Kashima 2020:355,Found in example (188).,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,"Kashima 2020:128, 238",Found in example (12).,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Kashima 2020:123,Found in example (8). Non-humannouns cannot take the plural form of the ergative case marker.,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,Kashima 2020:181-182,,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_20,Is there ergative alignment of flagging in main clauses?,1,"Kashima 2020:178, 181",,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,Kashima 2020:133,Found in example (22).,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,?,Kashima 2020:in passim,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+namb1293,Nmbo,Trans-New Guinea,GB409_23,Are the ergative and the genitive expressed by the same marker?,?,Kashima 2020:in passim,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+namb1293,Nmbo,Trans-New Guinea,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Kashima 2020:178,,,,0

@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment,curated,curated_comment,final_value
+mari1416,Maring,Trans-New Guinea,GB409_1,Is there an overt marker for the absolutive?,1,Kanshouwa 2016:100-101,,,,1
+mari1416,Maring,Trans-New Guinea,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Kanshouwa 2016:100,Example 54,,,1
+mari1416,Maring,Trans-New Guinea,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Kanshouwa 2016:317,Example 101,,,1
+mari1416,Maring,Trans-New Guinea,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Kanshouwa 2016:104,Example 75,,,1
+mari1416,Maring,Trans-New Guinea,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Kanshouwa 2016:100,Example 55,,,1
+mari1416,Maring,Trans-New Guinea,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Kanshouwa 2016:102,Example 65,,,1
+mari1416,Maring,Trans-New Guinea,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Kanshouwa 2016:101,Example 59,,,1
+mari1416,Maring,Trans-New Guinea,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Kanshouwa 2016:101,Example 59,,,1
+mari1416,Maring,Trans-New Guinea,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Kanshouwa 2016:102,Example 65,,,1
+mari1416,Maring,Trans-New Guinea,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Kanshouwa 2016:101,Example 59,,,1
+mari1416,Maring,Trans-New Guinea,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,1,Kanshouwa 2016:145,Example 250,,,1
+mari1416,Maring,Trans-New Guinea,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Kanshouwa 2016:101,Example 59,,,1
+mari1416,Maring,Trans-New Guinea,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Kanshouwa 2016:254,"Example 170, 172",,,1
+mari1416,Maring,Trans-New Guinea,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Kanshouwa 2016:101,Example 59,,,1
+mari1416,Maring,Trans-New Guinea,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,0,Kanshouwa 2016:101,"Example 58; this is but one example, check Example 65 in p. 102 for a non-agentive A which is marked with the ergative case.",,,0
+mari1416,Maring,Trans-New Guinea,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,0,Kanshouwa 2016:309-319,Example 62,,,0
+mari1416,Maring,Trans-New Guinea,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,,,,No source reference provided. Recommend citing the grammar for this feature.,1
+mari1416,Maring,Trans-New Guinea,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Kanshouwa 2016:101,Example 59,,,1
+mari1416,Maring,Trans-New Guinea,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,?,Kanshouwa 2016:181,Example 29,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+mari1416,Maring,Trans-New Guinea,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Kanshouwa 2016:101,Example 59,,,1
+mari1416,Maring,Trans-New Guinea,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,Kanshouwa 2016:272-75,,,,1
+mari1416,Maring,Trans-New Guinea,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,,,,No source reference provided. Recommend citing the grammar for this feature.,0
+mari1416,Maring,Trans-New Guinea,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,,,,No source reference provided. Recommend citing the grammar for this feature.,0
+mari1416,Maring,Trans-New Guinea,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Kanshouwa 2016:101,,,,1

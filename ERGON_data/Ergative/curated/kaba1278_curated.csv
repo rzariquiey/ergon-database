@@ -1,0 +1,25 @@
+Glottocode,Language,Family,Ergon_ID,Source_comment,Value,Comment,curated,curated_comment,final_value
+kaba1278,Kabardian,Northwest Caucasian,GB409_1,"Applebaum, 2013, p. 77, 116, 241",1,solo se marca en 3sg,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_2,"Applebaum, 2013, p. 77",0,,,,0
+kaba1278,Kabardian,Northwest Caucasian,GB409_3,"Applebaum, 2013, p. 77",0,,,,0
+kaba1278,Kabardian,Northwest Caucasian,GB409_4,"Applebaum, 2013, p. 113",1,solo en singular,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_5,"Applebaum, 2013",0,,,"Original value 0 is incorrect. Applebaum (2013:77) Table 3.25 'Summary of case marking in Kabardian' explicitly shows: common nouns ERG=-m, ABS=-r. Common nouns take the same ergative marker -m as 3rd person singular pronouns. Note: proper nouns are ERG=0 (unmarked), but common nouns have overt ERG flagging. Value corrected to 1. Source: Applebaum 2013:77, Table 3.25.",0
+kaba1278,Kabardian,Northwest Caucasian,GB409_6,"Applebaum, 2013, p. 55",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_7,"Applebaum, 2013, p. 79",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_8,"Applebaum, 2013, p. 73",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_9,"Applebaum, 2013, p. 55",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_10,"Applebaum, 2013, p. 79",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_11,"Applebaum, 2013, p. 55",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_12,"Applebaum, 2013, p. 79",2,,,,2
+kaba1278,Kabardian,Northwest Caucasian,GB409_13,"Applebaum, 2013, p. 55",2,,,,2
+kaba1278,Kabardian,Northwest Caucasian,GB409_14,"Applebaum, 2013, p. 79",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_15,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+kaba1278,Kabardian,Northwest Caucasian,GB409_16,"Applebaum, 2013, p. 79",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_17,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+kaba1278,Kabardian,Northwest Caucasian,GB409_18,"Applebaum, 2013, p. 92, 113",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_19,,,,,,
+kaba1278,Kabardian,Northwest Caucasian,GB409_20,"Applebaum, 2013, p. 79",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_21,"Applebaum, 2013, p. 80",1,,,,1
+kaba1278,Kabardian,Northwest Caucasian,GB409_22,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+kaba1278,Kabardian,Northwest Caucasian,GB409_23,,?,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+kaba1278,Kabardian,Northwest Caucasian,GB409_24,"Applebaum, 2013, p. 29, 242",0,,,,0
