@@ -1,0 +1,31 @@
+ERGON Database
+Curation Report — GB409 Feature Set
+Roberto Zariquiey (PUCP)  ·  May 2026
+Overview
+This report documents all curation decisions made during the expert review of the ERGON database (GB409 feature set: 24 ergativity features across typologically diverse languages). Annotations were verified against primary grammar sources (PDFs). The report covers value corrections, newly annotated blank features, flagged uncertain values, and languages with high rates of unresolved '?' values.
+
+
+1. Value Corrections (VALUE_CORRECTED)
+The following 11 feature values were found to be incorrect and have been corrected in the curated CSV files. Each correction is supported by direct evidence from the cited grammar source. Note that hunz1247 GB409_22 appears twice: a batch-correction (0→1) was applied, then reverted to 0 once GB409_9 was also corrected (see note in that row).
+
+
+2. Blank Features Filled (VALUE_ANNOTATED)
+The following feature had no value annotated (blank cell). A value was assigned based on evidence from an available grammar source.
+
+
+3. Flagged Values (VALUE_FLAGGED / DATA_QUALITY)
+The following values were retained as-is but flagged for researcher attention. They may be defensible under one interpretation but conflict with other evidence in the grammar, or they rely on insufficient documentation. These require human expert review before finalization.
+
+
+4. Languages with High Rates of Missing Values ('?')
+The following languages have the highest counts of unresolved '?' values in the ERGON database. These fichas are incomplete and require targeted grammar consultation to fill the missing feature values. Languages are ranked by number of missing values.
+
+
+5. Systematic Findings & Recommendations
+Full NP ergative marking (GB409_5): Three languages — Hunzib (Nakh-Daghestanian), Japhug (Trans-Himalayan), and Kabardian (Northwest Caucasian) — were incorrectly coded GB409_5=0. In each case the grammar source unambiguously documents overt ERG case morphology on full NPs. The error pattern appears to reflect annotator confusion between absence of a morpheme dedicated exclusively to the ergative (as opposed to an oblique/genitive multifunctional case) and absence of ergative flagging altogether. Recommendation: all remaining GB409_5=0 entries where GB409_2/3/4=1 (pronouns show ERG) should be audited.
+
+Non-past ergativity (GB409_9): Hunzib was coded GB409_9=0 despite Van den Berg (1995) providing present, aorist, future, and intentional transitive examples with ERG. The batch-corrected GB409_22 value was accordingly reverted. This pattern (GB409_8=1 but GB409_9=0) may affect other languages in the database and warrants a systematic audit.
+
+Revived/endangered languages (naru1238, east2379): These languages have fragmentary data. For Narungga, the historically attested data is insufficient to code full NP ERG with confidence; pronoun forms were reconstructed via community workshops. For Mparntwe Arrernte, the available grammar (Henderson 2013) focuses on phonology and does not describe the case paradigm in detail. Features GB409_6–22 remain blank for east2379 and require Wilkins (1989) for annotation.
+
+Source quality: 2,082 entries (76%) lack page-specific source references (MISSING_SOURCE). While values may be correct, reproducibility requires addition of page numbers from the cited grammars.

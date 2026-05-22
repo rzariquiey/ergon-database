@@ -1,0 +1,27 @@
+REPORTE DE CORRECCIONES ERGON,Unnamed: 1,Unnamed: 2,Unnamed: 3
+,,,
+Total de correcciones:,222,,
+,,,
+Por tipo de cambio,,,
+0→1,23,,
+1→0,2,,
+?→0,54,,
+?→1,67,,
+vacío→valor,2,,
+,,,
+Glottocode,Lengua,Familia,Correcciones
+iaai1238,Iaai,Austronesian,24
+ilon1239,Ilongot,Austronesian,24
+kara1500,Karajá,Macro-Jê,23
+moro1289,Marori,Trans-New Guinea,18
+guru1261,Gurung,Trans-Himalayan,16
+hurr1240,Hurrian,Hurro-Urartian,16
+maxa1247,Maxakalí,Maxakalían,16
+hunz1247,Hunzib,Nakh-Daghestanian,2
+lepc1244,Lepcha,Trans-Himalayan,2
+limb1266,Limbu,Trans-Himalayan,2
+east2379,Mparntwe Arrernte,Arandic,1
+japh1234,Japhug,Trans-Himalayan,1
+kaba1278,Kabardian,Northwest Caucasian,1
+lamj1247,Lamjung Yolmo,Trans-Himalayan,1
+lezg1247,Lezgian,Nakh-Daghestanian,1
