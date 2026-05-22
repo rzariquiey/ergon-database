@@ -1,0 +1,1118 @@
+Glottocode,Name,Family,Split,val_a,val_b,Category
+aben1249,Ayta Abenlen,Austronesian (Sambalic),"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+aben1249,Ayta Abenlen,Austronesian (Sambalic),"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+aben1249,Ayta Abenlen,Austronesian (Sambalic),"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+aben1249,Ayta Abenlen,Austronesian (Sambalic),"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+adny1235,Adnyamathanha,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+adny1235,Adnyamathanha,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+adny1235,Adnyamathanha,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+adny1235,Adnyamathanha,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+aghu1254,Aghu,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+aghu1254,Aghu,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+aghu1254,Aghu,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+agus1235,Agusan Manobo,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+agus1235,Agusan Manobo,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+agus1235,Agusan Manobo,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+agus1235,Agusan Manobo,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+ahin1234,Kalanguya,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+ahin1234,Kalanguya,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+ahin1234,Kalanguya,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+ahin1234,Kalanguya,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+aime1238,Eibela,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+aime1238,Eibela,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+aime1238,Eibela,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+aime1238,Eibela,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+akun1241,Akuntsu,Language isolate,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+akun1241,Akuntsu,Language isolate,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+akun1241,Akuntsu,Language isolate,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+akun1241,Akuntsu,Language isolate,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+alba1269,Albay Bikol,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+alba1269,Albay Bikol,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+alba1269,Albay Bikol,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+alba1269,Albay Bikol,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+aleu1260,Aleut,Eskimo-Aleut,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+aleu1260,Aleut,Eskimo-Aleut,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+aleu1260,Aleut,Eskimo-Aleut,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+aleu1260,Aleut,Eskimo-Aleut,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+alya1239,Alyawarra,Arandic,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+alya1239,Alyawarra,Arandic,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+alya1239,Alyawarra,Arandic,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+alya1239,Alyawarra,Arandic,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+amam1246,Amam,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",0,1,Expected split
+amam1246,Amam,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+amam1246,Amam,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+amam1246,Amam,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+amdo1237,Amdo Tibetan,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+amdo1237,Amdo Tibetan,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+amdo1237,Amdo Tibetan,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+amdo1237,Amdo Tibetan,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+amis1246,Amis,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+amis1246,Amis,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+amis1246,Amis,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+amis1246,Amis,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+ango1257,U'wa,Chibchan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+ango1257,U'wa,Chibchan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+ango1257,U'wa,Chibchan,"Mood
+(NON-IND vs IND)",0,1,Expected split
+ango1257,U'wa,Chibchan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+anut1237,Anutan,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+anut1237,Anutan,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+apin1244,Apinajé,Macro-Jê,"Aspect
+(IMPF vs PERF)",0,0,Uniform NOM-ACC
+apin1244,Apinajé,Macro-Jê,"Tense
+(NON-PAST vs PAST)",0,0,Uniform NOM-ACC
+apin1244,Apinajé,Macro-Jê,"Mood
+(NON-IND vs IND)",0,0,Uniform NOM-ACC
+apin1244,Apinajé,Macro-Jê,"Realis
+(IRR vs REAL)",0,0,Uniform NOM-ACC
+arab1267,Arabana,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+arab1267,Arabana,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+arab1267,Arabana,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+arab1267,Arabana,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+arta1239,Arta,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+arta1239,Arta,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+arta1239,Arta,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+arta1239,Arta,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+athp1241,Athpare,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+athp1241,Athpare,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+athp1241,Athpare,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+athp1241,Athpare,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+auye1238,Auye,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+auye1238,Auye,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+auye1238,Auye,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+awab1243,Awabakal,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+awab1243,Awabakal,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+awab1243,Awabakal,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+awab1243,Awabakal,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+awar1248,Avar,Nakh-Daghestanian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+awar1248,Avar,Nakh-Daghestanian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+awar1248,Avar,Nakh-Daghestanian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+awar1248,Avar,Nakh-Daghestanian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bahi1252,Bahing,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bahi1252,Bahing,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bahi1252,Bahing,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bahi1252,Bahing,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bala1311,Balangao,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bala1311,Balangao,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bala1311,Balangao,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bala1311,Balangao,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bala1316,Nêlêmwa,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bala1316,Nêlêmwa,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bala1316,Nêlêmwa,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bala1316,Nêlêmwa,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bamb1270,Pitu Ulunna Salu,Austronesian,"Aspect
+(IMPF vs PERF)",0,0,Uniform NOM-ACC
+bamb1270,Pitu Ulunna Salu,Austronesian,"Tense
+(NON-PAST vs PAST)",0,0,Uniform NOM-ACC
+bamb1270,Pitu Ulunna Salu,Austronesian,"Mood
+(NON-IND vs IND)",0,0,Uniform NOM-ACC
+bamb1270,Pitu Ulunna Salu,Austronesian,"Realis
+(IRR vs REAL)",0,0,Uniform NOM-ACC
+bant1281,Bantawa,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bant1281,Bantawa,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bant1281,Bantawa,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bant1281,Bantawa,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bara1357,Baram Thangmi,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bara1357,Baram Thangmi,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bara1357,Baram Thangmi,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bara1357,Baram Thangmi,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+basq1248,Basque,Language isolate,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+basq1248,Basque,Language isolate,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+basq1248,Basque,Language isolate,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+basq1248,Basque,Language isolate,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bawm1236,Bawm Chin,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bawm1236,Bawm Chin,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bawm1236,Bawm Chin,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bawm1236,Bawm Chin,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bayb1234,Utudnon,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bayb1234,Utudnon,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bayb1234,Utudnon,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bayb1234,Utudnon,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+belh1239,Belhare,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+belh1239,Belhare,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+belh1239,Belhare,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+belh1239,Belhare,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bina1277,Binahari,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bina1277,Binahari,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bina1277,Binahari,Trans-New Guinea,"Mood
+(NON-IND vs IND)",0,1,Expected split
+bina1277,Binahari,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+binu1244,Binukid,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+binu1244,Binukid,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+binu1244,Binukid,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+binu1244,Binukid,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+biri1256,Biri,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+biri1256,Biri,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+biri1256,Biri,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+biri1256,Biri,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+boun1245,Ku Waru,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+boun1245,Ku Waru,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+boun1245,Ku Waru,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+boun1245,Ku Waru,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bugi1244,Bugis,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bugi1244,Bugis,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bugi1244,Bugis,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bugi1244,Bugis,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bujh1238,Bhujel,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+bujh1238,Bhujel,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+bujh1238,Bhujel,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bujh1238,Bhujel,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+bund1253,Bundeli,Indo-European,"Aspect
+(IMPF vs PERF)",0,1,Expected split
+bund1253,Bundeli,Indo-European,"Tense
+(NON-PAST vs PAST)",0,1,Expected split
+bund1253,Bundeli,Indo-European,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+bund1253,Bundeli,Indo-European,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+byan1241,Byansi,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+byan1241,Byansi,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+byan1241,Byansi,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+byan1241,Byansi,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+caca1251,Kakataibo,Panoan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+caca1251,Kakataibo,Panoan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+caca1251,Kakataibo,Panoan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+caca1251,Kakataibo,Panoan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+caml1239,Camling,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+caml1239,Camling,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+caml1239,Camling,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+caml1239,Camling,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+casi1235,Casiguran Dumagat Agta,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+casi1235,Casiguran Dumagat Agta,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+casi1235,Casiguran Dumagat Agta,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+casi1235,Casiguran Dumagat Agta,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+cavi1250,Cavineña,Tacanan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+cavi1250,Cavineña,Tacanan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+cavi1250,Cavineña,Tacanan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+cavi1250,Cavineña,Tacanan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+cent2127,Central Alaskan Yupik,Eskimo-Aleut,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+cent2127,Central Alaskan Yupik,Eskimo-Aleut,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+cent2127,Central Alaskan Yupik,Eskimo-Aleut,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+cent2127,Central Alaskan Yupik,Eskimo-Aleut,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+chac1251,Chacobo,Panoan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+chac1251,Chacobo,Panoan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+chac1251,Chacobo,Panoan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+chac1251,Chacobo,Panoan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+chan1313,Chang Naga,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+chep1245,Chepang,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+chep1245,Chepang,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+chep1245,Chepang,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+chep1245,Chepang,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+choc1275,Chocangacakha,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+choc1275,Chocangacakha,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+chug1252,Duhumbi,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+chug1252,Duhumbi,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+chug1252,Duhumbi,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+chug1252,Duhumbi,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+chuk1273,Chukchi,Chukotko-Kamchatkan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+chuk1273,Chukchi,Chukotko-Kamchatkan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+chuk1273,Chukchi,Chukotko-Kamchatkan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+coch1272,Cochimí,Cochimí-Yuman,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+coch1272,Cochimí,Cochimí-Yuman,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+coeu1236,Coeur d'Alene,Salishan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+colu1241,Nxaamxcin,Salishan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+colu1241,Nxaamxcin,Salishan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+colu1241,Nxaamxcin,Salishan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+colu1241,Nxaamxcin,Salishan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+coos1249,Hanis Coos,Coosan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+coos1249,Hanis Coos,Coosan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+coos1249,Hanis Coos,Coosan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+coos1249,Hanis Coos,Coosan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+cuti1242,Katukina-Kanamari,Katukina,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+cuti1242,Katukina-Kanamari,Katukina,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+cuti1242,Katukina-Kanamari,Katukina,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+daai1236,Daai Chin,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+daai1236,Daai Chin,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+daai1236,Daai Chin,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+daai1236,Daai Chin,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+dara1250,Darai,Indo-European,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+dara1250,Darai,Indo-European,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dara1250,Darai,Indo-European,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+dara1250,Darai,Indo-European,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+darl1243,Paakantyi,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+darl1243,Paakantyi,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+darm1243,Darma,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+darm1243,Darma,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+darm1243,Darma,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+darm1243,Darma,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+dech1234,Lisu (Dechang dialect),Sino-Tibetan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+dech1234,Lisu (Dechang dialect),Sino-Tibetan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dech1234,Lisu (Dechang dialect),Sino-Tibetan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+dech1234,Lisu (Dechang dialect),Sino-Tibetan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+dhar1247,Thargari,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dhar1247,Thargari,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+dhar1247,Thargari,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+dhar1248,Dharumbal,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dhar1248,Dharumbal,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+dier1241,Dieri,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+dier1241,Dieri,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dier1241,Dieri,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+dier1241,Dieri,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+djam1255,Jaminjung,Mirndi,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+djam1255,Jaminjung,Mirndi,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+djin1251,Jingulu,Mirndi,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+djin1251,Jingulu,Mirndi,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+djin1251,Jingulu,Mirndi,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+doma1260,Domaaki,Indo-European,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+drun1238,Drung,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+drun1238,Drung,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+drun1238,Drung,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+dumi1241,Dumi,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+dumi1241,Dumi,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dumi1241,Dumi,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+dumi1241,Dumi,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+dura1244,Dura,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",0,1,Expected split
+dura1244,Dura,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dura1244,Dura,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+dura1244,Dura,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+duun1241,Duungidjawu,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+duun1241,Duungidjawu,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+duun1241,Duungidjawu,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+dyan1250,Dhanggati,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+dyan1250,Dhanggati,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dyan1250,Dhanggati,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+dyan1250,Dhanggati,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+dyir1250,Dyirbal,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dyir1250,Dyirbal,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+dzon1239,Dzongkha,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+dzon1239,Dzongkha,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+east2343,Yohlmo,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+east2343,Yohlmo,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+east2516,East Kewa,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+east2516,East Kewa,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+east2516,East Kewa,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+east2516,East Kewa,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+east2545,Eastern Pomo,Pomoan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+east2545,Eastern Pomo,Pomoan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+east2773,Dolakha Newar,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+east2773,Dolakha Newar,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+east2773,Dolakha Newar,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+east2773,Dolakha Newar,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+east2851,Geshiza,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+east2851,Geshiza,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+east2851,Geshiza,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+east2851,Geshiza,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+emai1242,Emai,Niger-Congo,"Aspect
+(IMPF vs PERF)",1,0,"Unexpected split
+(matches hypothesis)"
+emai1242,Emai,Niger-Congo,"Tense
+(NON-PAST vs PAST)",1,0,"Unexpected split
+(matches hypothesis)"
+emai1242,Emai,Niger-Congo,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+ersu1241,Ersu,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+fala1243,Falam Chin,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+fala1243,Falam Chin,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+fala1243,Falam Chin,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+fran1266,Francisco León Zoque,Mixe-Zoque,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+fran1266,Francisco León Zoque,Mixe-Zoque,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+fran1266,Francisco León Zoque,Mixe-Zoque,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+fran1266,Francisco León Zoque,Mixe-Zoque,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+fuln1247,Fulniô,Fulniô,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+fuln1247,Fulniô,Fulniô,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+futu1245,Futuna-Aniwa,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+futu1245,Futuna-Aniwa,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+futu1245,Futuna-Aniwa,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+futu1245,Futuna-Aniwa,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+gahr1239,Bunan,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+gahr1239,Bunan,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+gahr1239,Bunan,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+gana1278,Ganai,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+guan1266,Wobzi Khroskyabs,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+guan1266,Wobzi Khroskyabs,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+guan1266,Wobzi Khroskyabs,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+guan1266,Wobzi Khroskyabs,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+gugu1255,Guugu Yimithirr,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+gugu1255,Guugu Yimithirr,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+guiq1238,Guiqiong,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+guiq1238,Guiqiong,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+guiq1238,Guiqiong,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+gure1255,Gureng Gureng,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+gure1255,Gureng Gureng,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+gure1255,Gureng Gureng,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+gure1255,Gureng Gureng,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+guru1261,Gurung,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+guru1261,Gurung,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+guru1261,Gurung,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+guru1261,Gurung,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+hida1246,Hidatsa,Siouan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+hida1246,Hidatsa,Siouan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+hida1246,Hidatsa,Siouan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+hida1246,Hidatsa,Siouan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+hind1269,Hindi,Indo-European,"Aspect
+(IMPF vs PERF)",0,1,Expected split
+hind1269,Hindi,Indo-European,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+hind1269,Hindi,Indo-European,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+hual1240,Lisu (Central/Lipo dialect),Sino-Tibetan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+hual1240,Lisu (Central/Lipo dialect),Sino-Tibetan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+hual1240,Lisu (Central/Lipo dialect),Sino-Tibetan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+hual1240,Lisu (Central/Lipo dialect),Sino-Tibetan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+huas1242,Huastec,Mayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+huas1242,Huastec,Mayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+huas1242,Huastec,Mayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+huli1244,Huli,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+huli1244,Huli,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+hunz1247,Hunzib,Nakh-Daghestanian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+hunz1247,Hunzib,Nakh-Daghestanian,"Tense
+(NON-PAST vs PAST)",0,1,Expected split
+hunz1247,Hunzib,Nakh-Daghestanian,"Mood
+(NON-IND vs IND)",0,1,Expected split
+hunz1247,Hunzib,Nakh-Daghestanian,"Realis
+(IRR vs REAL)",0,1,Expected split
+hurr1240,Hurrian,Hurro-Urartian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+hurr1240,Hurrian,Hurro-Urartian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+hurr1240,Hurrian,Hurro-Urartian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+hurr1240,Hurrian,Hurro-Urartian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+iaai1238,Iaai,Austronesian,"Aspect
+(IMPF vs PERF)",0,0,Uniform NOM-ACC
+iaai1238,Iaai,Austronesian,"Tense
+(NON-PAST vs PAST)",0,0,Uniform NOM-ACC
+iaai1238,Iaai,Austronesian,"Mood
+(NON-IND vs IND)",0,0,Uniform NOM-ACC
+iaai1238,Iaai,Austronesian,"Realis
+(IRR vs REAL)",0,0,Uniform NOM-ACC
+ibal1244,Ibaloi,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+iban1267,Iban,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+iban1267,Iban,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+iban1267,Iban,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+isco1239,Iskonawa,Panoan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+isco1239,Iskonawa,Panoan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+isco1239,Iskonawa,Panoan,"Mood
+(NON-IND vs IND)",0,1,Expected split
+isco1239,Iskonawa,Panoan,"Realis
+(IRR vs REAL)",0,1,Expected split
+isin1239,Isinai,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+isin1239,Isinai,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+isin1239,Isinai,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+isin1239,Isinai,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+iwam1256,Iwam,Sepik,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+iwam1256,Iwam,Sepik,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+iwam1256,Iwam,Sepik,"Realis
+(IRR vs REAL)",0,1,Expected split
+jaru1254,Jaru,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+jaru1254,Jaru,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+jaru1254,Jaru,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+jaru1254,Jaru,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+jeru1240,Jero,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+jeru1240,Jero,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+jeru1240,Jero,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+jeru1240,Jero,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+kaba1278,Kabardian,Northwest Caucasian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+kaba1278,Kabardian,Northwest Caucasian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+kaba1278,Kabardian,Northwest Caucasian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+kaga1256,Kagayanen,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+kaga1256,Kagayanen,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+kaga1256,Kagayanen,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+kaga1256,Kagayanen,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+kaik1246,Kaike,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+kaik1246,Kaike,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+kaik1246,Kaike,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+kaik1246,Kaike,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+kaki1249,Kaki Ae,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+kaki1249,Kaki Ae,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+kala1399,Kalaallisut,Eskimo-Aleut,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+kala1399,Kalaallisut,Eskimo-Aleut,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+kala1399,Kalaallisut,Eskimo-Aleut,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+kala1399,Kalaallisut,Eskimo-Aleut,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+kalk1246,Kalkatungu,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+kalk1246,Kalkatungu,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+kalk1246,Kalkatungu,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+kalk1246,Kalkatungu,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+kamu1260,Kamula,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+kamu1260,Kamula,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+kamu1260,Kamula,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+kank1243,Kankanaey,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+kank1243,Kankanaey,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+kara1476,Karajarri,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+kara1487,Karao,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+kara1487,Karao,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+kara1487,Karao,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+kara1487,Karao,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+kara1500,Karajá,Macro-Jê,"Aspect
+(IMPF vs PERF)",0,0,Uniform NOM-ACC
+kara1500,Karajá,Macro-Jê,"Tense
+(NON-PAST vs PAST)",0,0,Uniform NOM-ACC
+kara1500,Karajá,Macro-Jê,"Mood
+(NON-IND vs IND)",0,0,Uniform NOM-ACC
+kara1500,Karajá,Macro-Jê,"Realis
+(IRR vs REAL)",0,0,Uniform NOM-ACC
+kari1254,Dzubukua,Karirí,"Tense
+(NON-PAST vs PAST)",0,1,Expected split
+kari1311,Karitiana,Tupian,"Aspect
+(IMPF vs PERF)",1,0,"Unexpected split
+(matches hypothesis)"
+kari1311,Karitiana,Tupian,"Tense
+(NON-PAST vs PAST)",0,1,Expected split
+kari1311,Karitiana,Tupian,"Mood
+(NON-IND vs IND)",0,1,Expected split
+kari1311,Karitiana,Tupian,"Realis
+(IRR vs REAL)",0,1,Expected split
+lamj1247,Lamjung Yolmo,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+lamj1247,Lamjung Yolmo,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+lamj1247,Lamjung Yolmo,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+lamj1247,Lamjung Yolmo,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+lemb1266,Lembena,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+lemb1266,Lembena,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+lemb1266,Lembena,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+lemb1266,Lembena,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+lepc1244,Lepcha,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+lepc1244,Lepcha,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+lepc1244,Lepcha,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+lepc1244,Lepcha,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+lezg1247,Lezgian,Nakh-Daghestanian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+lezg1247,Lezgian,Nakh-Daghestanian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+lezg1247,Lezgian,Nakh-Daghestanian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+lezg1247,Lezgian,Nakh-Daghestanian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+limb1266,Limbu,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+limb1266,Limbu,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+limb1266,Limbu,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+limb1266,Limbu,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+lipo1242,Lipo,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+lipo1242,Lipo,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+lipo1242,Lipo,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+lipo1242,Lipo,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+lush1249,Mizo,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+lush1249,Mizo,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+lush1249,Mizo,Trans-Himalayan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+lush1249,Mizo,Trans-Himalayan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+macu1259,Macushi,Cariban,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+macu1259,Macushi,Cariban,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+macu1259,Macushi,Cariban,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+macu1259,Macushi,Cariban,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+maga1263,Mag-anchi Agta,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+maga1263,Mag-anchi Agta,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+maga1263,Mag-anchi Agta,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+maga1263,Mag-anchi Agta,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mail1248,Magi,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mail1248,Magi,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+mail1248,Magi,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+mail1248,Magi,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mais1250,Maisin,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mais1250,Maisin,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+mais1250,Maisin,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+mais1250,Maisin,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mana1288,Manange,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mana1288,Manange,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",0,1,Expected split
+mana1288,Manange,Trans-Himalayan,"Mood
+(NON-IND vs IND)",0,1,Expected split
+mana1288,Manange,Trans-Himalayan,"Realis
+(IRR vs REAL)",0,1,Expected split
+mang1381,Mangarayi,Gunwinyguan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mang1381,Mangarayi,Gunwinyguan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+mang1381,Mangarayi,Gunwinyguan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+mang1381,Mangarayi,Gunwinyguan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mang1405,Manggarai,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mang1405,Manggarai,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+mang1405,Manggarai,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+mang1405,Manggarai,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+maor1246,Maori,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+maor1246,Maori,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+maor1246,Maori,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mara1378,Marathi,Indo-European,"Aspect
+(IMPF vs PERF)",0,1,Expected split
+mara1378,Marathi,Indo-European,"Tense
+(NON-PAST vs PAST)",0,1,Expected split
+mara1378,Marathi,Indo-European,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+marg1253,Margany,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+marg1253,Margany,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+marg1253,Margany,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+marg1253,Margany,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mari1416,Maring,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mari1416,Maring,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+mari1416,Maring,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+mari1416,Maring,Trans-New Guinea,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mari1424,Marrithiyel,Daly,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mari1424,Marrithiyel,Daly,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+mari1424,Marrithiyel,Daly,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+mari1424,Marrithiyel,Daly,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+masb1238,Masbatenyo,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+masb1238,Masbatenyo,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+masb1238,Masbatenyo,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+masb1238,Masbatenyo,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mati1255,Matis,Panoan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mati1255,Matis,Panoan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+mati1255,Matis,Panoan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+mati1255,Matis,Panoan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mats1244,Matsés,Panoan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mats1244,Matsés,Panoan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+mats1244,Matsés,Panoan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+mats1244,Matsés,Panoan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+maxa1247,Maxakalí,Maxakalían,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+maxa1247,Maxakalí,Maxakalían,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+maxa1247,Maxakalí,Maxakalían,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+maxa1247,Maxakalí,Maxakalían,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+mayk1239,Mayi-Kulan,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+mayk1239,Mayi-Kulan,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+mayk1239,Mayi-Kulan,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+melp1238,Melpa,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+melp1238,Melpa,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+melp1238,Melpa,Trans-New Guinea,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+mono1273,Mono-Alu,Austronesian,"Tense
+(NON-PAST vs PAST)",0,0,Uniform NOM-ACC
+mono1273,Mono-Alu,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+moro1289,Marori,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+moro1289,Marori,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+munc1235,Mün Chin,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+muru1266,Muruwari,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+nalc1240,Nalca,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+nalc1240,Nalca,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+namb1293,Nmbo,Trans-New Guinea,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+namb1293,Nmbo,Trans-New Guinea,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+nhan1238,Nhanda,Pama-Nyungan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+nhan1238,Nhanda,Pama-Nyungan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+nhan1238,Nhanda,Pama-Nyungan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+nhan1238,Nhanda,Pama-Nyungan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+nina1238,Ninam,Yanomaman,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+nina1238,Ninam,Yanomaman,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+nina1238,Ninam,Yanomaman,"Mood
+(NON-IND vs IND)",0,1,Expected split
+nina1238,Ninam,Yanomaman,"Realis
+(IRR vs REAL)",0,1,Expected split
+ning1281,Anong,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+niue1239,Niuean,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+niue1239,Niuean,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+niue1239,Niuean,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+niue1239,Niuean,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+noct1238,Nocte Naga,Trans-Himalayan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+noct1238,Nocte Naga,Trans-Himalayan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+noct1238,Nocte Naga,Trans-Himalayan,"Realis
+(IRR vs REAL)",0,0,Uniform NOM-ACC
+nort2745,Tundra Yukaghir,Yukaghir,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+nort2745,Tundra Yukaghir,Yukaghir,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+nort2745,Tundra Yukaghir,Yukaghir,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+nort2745,Tundra Yukaghir,Yukaghir,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+nort2885,Northern Subanen,Austronesian,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+nort2885,Northern Subanen,Austronesian,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+nort2885,Northern Subanen,Austronesian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+nort2885,Northern Subanen,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+nucl1302,Georgian,Kartvelian,"Aspect
+(IMPF vs PERF)",0,1,Expected split
+nucl1302,Georgian,Kartvelian,"Tense
+(NON-PAST vs PAST)",0,1,Expected split
+nucl1302,Georgian,Kartvelian,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+nucl1302,Georgian,Kartvelian,"Realis
+(IRR vs REAL)",0,1,Expected split
+panj1256,Punjabi,Indo-European,"Aspect
+(IMPF vs PERF)",0,1,Expected split
+panj1256,Punjabi,Indo-European,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+panj1256,Punjabi,Indo-European,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+pemo1248,Pemón,Cariban,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+pemo1248,Pemón,Cariban,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+pemo1248,Pemón,Cariban,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+pend1242,Pendau,Austronesian,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+ship1254,Shipibo-Konibo,Panoan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+ship1254,Shipibo-Konibo,Panoan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+ship1254,Shipibo-Konibo,Panoan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+ship1254,Shipibo-Konibo,Panoan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
+yami1256,Yaminawa,Panoan,"Aspect
+(IMPF vs PERF)",1,1,Uniform ERG
+yami1256,Yaminawa,Panoan,"Tense
+(NON-PAST vs PAST)",1,1,Uniform ERG
+yami1256,Yaminawa,Panoan,"Mood
+(NON-IND vs IND)",1,1,Uniform ERG
+yami1256,Yaminawa,Panoan,"Realis
+(IRR vs REAL)",1,1,Uniform ERG
