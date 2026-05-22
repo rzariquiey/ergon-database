@@ -1,0 +1,24 @@
+REPORTE DE INCIDENCIAS — BASE DE DATOS ERGON
+
+Este reporte documenta todas las fichas de la base de datos ERGON que presentan algún tipo de incidencia detectada durante el procesamiento automático: nombres de archivo no estándar (ya corregidos), errores en el nombre de la hoja de cálculo, inconsistencias entre el glottocode del archivo y su contenido, y fichas cuya lengua no pudo ser identificada con certeza a partir de la bibliografía disponible.
+1. Resumen ejecutivo
+
+2. Nombres de archivo corregidos
+Los siguientes archivos tenían nombres que incluían elementos distintos al glottocode (texto libre, nombre de investigador, etc.). El nombre ha sido corregido automáticamente al glottocode puro. Se recomienda verificar el caso de nucl1302.
+
+3. Nombre de hoja de cálculo incorrecto
+Estas fichas fueron creadas copiando una plantilla existente sin actualizar el nombre de la hoja. El nombre de la hoja contiene el glottocode y/o el nombre de otra lengua distinta a la que debería corresponder el archivo. Los datos internos parecen ser correctos, pero el nombre de la hoja debe ser corregido manualmente.
+
+4. Posible contenido de otra lengua
+El siguiente archivo presenta una inconsistencia grave entre su nombre (glottocode) y el contenido interno de la ficha.
+
+5. Inconsistencia de carpeta de origen
+El siguiente archivo estaba ubicado en una subcarpeta del ZIP original cuyo nombre (glottocode de la carpeta) no coincide con el nombre del archivo.
+
+6. Lengua no identificada — requiere verificación manual
+Para los siguientes glottocodes no fue posible identificar con certeza el nombre de la lengua ni su familia a partir de la bibliografía disponible en la ficha. Las columnas Language y Family están marcadas como "VERIFICAR" en estas fichas. Se indica la fuente bibliográfica disponible como pista para la identificación.
+
+7. Posible error de glottocode
+El siguiente archivo presenta una discrepancia entre el glottocode asignado y la bibliografía citada internamente.
+
+— Fin del reporte —

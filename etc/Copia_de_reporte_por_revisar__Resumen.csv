@@ -1,0 +1,8 @@
+Categoría,Descripción,N° archivos,Acción requerida
+A,Código propuesto NO EXISTE — inicial correcto,8,Mantener código inicial; renombrar archivos sin prefijo X_
+B,Código inicial NO EXISTE o incorrecto,4,Cambiar a código correcto identificado
+C,Código de familia usado como código de lengua,1,Cambiar a código de lengua (kana1291)
+D,Ambos válidos pero discrepancia de nivel/lengua,3,Determinar nivel de codificación y uniformizar
+E,Código correcto; datos pendientes de verificación,9,Revisar valores GB409_1–24 con fuente primaria
+F,Código incierto; verificación directa requerida,1,Consultar directamente https://glottolog.org
+TOTAL,,26,

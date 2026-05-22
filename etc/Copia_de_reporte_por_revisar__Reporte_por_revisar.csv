@@ -1,0 +1,90 @@
+"Glottocode
+Inicial","Lengua
+(en ficha)",Familia,"Glottocode
+Propuesto","Estado
+código inicial","Estado
+código propuesto",Problema encontrado,Corrección propuesta,Notas adicionales,Unnamed: 9
+CATEGORÍA A: Código propuesto NO EXISTE en Glottolog — el código inicial ES el correcto,,,,,,,,,
+bayb1234,"Utudnon
+(= Baybayanon)",Austronesian,utud1238,✓ VÁLIDO,✗ NO EXISTE,utud1238 no existe en Glottolog. 'Utudnon' es nombre local de Baybayanon (bayb1234).,Mantener bayb1234. Mover a correctos/ y renombrar.,"bayb1234 = Baybayanon (ISO bvy), Filipinas. Rubino 2005 es gramática de esta lengua.",ok
+fass1245,Momu-Fas,Ramu (Sepik-Ramu),momu1235,✓ VÁLIDO,✗ NO EXISTE,momu1235 no existe en Glottolog. fass1245 es el código correcto para Momu-Fas.,Mantener fass1245.,"fass1245 = Momu-Fas (ISO fqs), Papúa Nueva Guinea.",ok
+guan1266,"Khroskyabs
+(= Wobzi)",Trans-Himalayan,wobz1235,✓ VÁLIDO,✗ NO EXISTE,wobz1235 no existe en Glottolog. guan1266 es el código correcto para Khroskyabs.,Mantener guan1266.,"guan1266 = Khroskyabs (ISO: —), China. 'Wobzi' es nombre alternativo.",ok
+nucl1302,Georgian,Kartvelian,geon1241,✓ VÁLIDO,✗ NO EXISTE,geon1241 no existe en Glottolog. nucl1302 es el código correcto para Georgian.,Mantener nucl1302.,nucl1302 = Nuclear Georgian (ISO kat). Hewitt 1995 es gramática estándar del georgiano.,ok
+liji1238,"Lijili
+(= Migili)",Atlantic-Congo,migi1234,✓ VÁLIDO,✗ NO EXISTE,migi1234 no existe en Glottolog. 'Migili' es nombre alternativo de Lijili (liji1238).,Mantener liji1238.,"liji1238 = Lijili (ISO mgi), Nigeria. Stofberg 1978 es gramática de esta lengua.",ok
+ahin1234,Kalanguya,"Austronesian
+(Filipinas)",kala1373,✓ VÁLIDO,"✗ INCORRECTO
+(otra lengua)","kala1373 = Gawri (Indo-Ario, Pakistán), lengua completamente diferente. ahin1234 = Ahin-Kayapa Kalanguya es el código correcto.",Mantener ahin1234. Corregir propuesto a kall1244 si se prefiere nivel de lengua.,"ahin1234 = Ahin-Kayapa Kalanguya (ISO kak), Filipinas. kala1373 = Gawri (ISO gwc).",ok
+aime1238,"Eibela
+(= Aimele)",Trans-New Guinea,eibe1237,✓ VÁLIDO,? NO CONFIRMADO,eibe1237 no se pudo confirmar en Glottolog. aime1238 ya es el código correcto para Eibela.,Mantener aime1238. Eliminar eibe1237 propuesto.,"aime1238 = Aimele/Eibela (ISO ail), Papúa Nueva Guinea. Aiton 2016 es gramática de esta lengua.",ok
+bamb1270,"Pitu Ulunna Salu
+(ficha)
+/ Bambam
+(código)","Austronesian
+(Sulawesi)",pitu1241,"✓ VÁLIDO
+(= Bambam)",✗ NO EXISTE,La ficha usa bamb1270 (Bambam) pero nombra la lengua 'Pitu Ulunna Salu'. pitu1241 no existe; el código correcto de Pitu Ulunna Salu es pitu1237.,"Cambiar a pitu1237 si el contenido es sobre Pitu Ulunna Salu, o aclarar si es Bambam.",pitu1237 = Pitu Ulunna Salu (ISO ptu). bamb1270 = Bambam es una variedad de la misma lengua.,ok
+CATEGORÍA B: Código inicial NO EXISTE o es incorrecto en Glottolog,,,,,,,,,
+ango1257,"U'wa
+(= Tunebo)","Chibchan
+(Colombia)",uuwa1243,✗ NO ENCONTRADO,? NO CONFIRMADO,ango1257 no se encontró en Glottolog. U'wa (Tunebo) tiene códigos: cent2150 (Central Tunebo) o tune1260 (Tunebo general). uuwa1243 tampoco confirmado.,Cambiar a cent2150 (Central Tunebo) — la variedad descrita por Casilimas Rojas 1995.,La gramática 'Casilimas Rojas 1995' describe la variedad U'wa hablada por el pueblo Uwa en Colombia.,ok
+gana1278,"Ganai
+(= Kurnai)","Pama-Nyungan
+(Australia)",gana1278,"✗ PROBABLEMENTE
+INVÁLIDO","✗ IGUAL AL
+INICIAL","gana1278 no encontrado en Glottolog. El código correcto para Ganai/Kurnai es gana1268 (= Birrdhawal, ISO ihw).",Cambiar glottocode a gana1268.,"gana1268 = Birrdhawal (Ganai/Kurnai), Australia. Fesl 1985 documenta esta lengua.",ok
+dech1234,"VERIFICAR
+(¿Dadibi? ¿Lisu?)",VERIFICAR,dadi1250,✗ NO CONFIRMADO,✗ NO CONFIRMADO,"dech1234 no encontrado en Glottolog. La fuente 'Yu 2007' corresponde a la gramática de Lisu Central (hual1240), no a Dadibi. Posible error de contenido: ficha creada con gramática equivocada.","Verificar si el contenido es de Dadibi o de Lisu. Dadibi (ISO mps) requiere búsqueda directa en Glottolog. Si es Lisu, usar hual1240.",Yu (2007) = 'The Morphosyntax of Lisu'. Dadibi (Daribi) es lengua de Papúa Nueva Guinea sin relación con Lisu.,ok
+bala1316,"Nêlêmwa
+(ficha)","Austronesian
+(Nueva Caledonia)",nele1239,"✗ INCORRECTO
+(bala1316 = Balade,
+otra lengua)","✗ PROBABLEMENTE
+INVÁLIDO","bala1316 = Balade (otra lengua de Nueva Caledonia), NO Nêlêmwa. El código correcto para Nêlêmwa-Nixumwak es kuma1276. nele1239 no se pudo confirmar.",Cambiar a kuma1276 (Nêlêmwa-Nixumwak). nele1239 debe eliminarse.,kuma1276 = Nêlêmwa-Nixumwak (ISO nee). Ozanne-Rivierre 1998 es gramática de esta lengua.,ok
+CATEGORÍA C: Código de familia usado en lugar de código de lengua,,,,,,,,,
+cuti1242,Katukina-Kanamari,"Katukinan
+(Amazonía, Brasil)",katu1274,? A VERIFICAR,"✗ CÓDIGO DE
+FAMILIA","katu1274 = Katukinan (familia lingüística), no una lengua individual. El código correcto para Katukina-Kanamari es kana1291.",Cambiar propuesto a kana1291 (Katukina-Kanamari). Verificar también si cuti1242 existe.,kana1291 = Katukina-Kanamari (ISO knm). dos Anjos 2011 es la fuente usada en la ficha.,ok
+CATEGORÍA D: Ambos glottocodes son válidos pero corresponden a entidades distintas,,,,,,,,,
+bara1357,Baram Thangmi,"Trans-Himalayan
+(Nepal)",than1259,"✓ VÁLIDO
+(= Baraamu)","✓ VÁLIDO
+(= Thangmi)","bara1357 = Baraamu y than1259 = Thangmi son lenguas distintas. 'Baram Thangmi' en la ficha es otro nombre de Thangmi, por lo que el código correcto es than1259.",Cambiar a than1259 (Thangmi). Verificar contenido con Dhakal 2014.,"than1259 = Thangmi (ISO thf), Nepal. 'Baram Thangmi' es designación alternativa de la misma lengua.",ok
+hual1240,Lisu / Lisu Central,"Sino-Tibetan
+(China, Myanmar)",lisu1250,"✓ VÁLIDO
+(= Central Lisu)","✓ VÁLIDO
+(= Lisu)","La nota indica 'PDF apunta a Lisu, no a Hualapai'. hual1240 = Central Lisu (dialecto) y lisu1250 = Lisu (nivel de lengua). Ambos son válidos; Yu 2007 trata de Central Lisu/Lisu.","Cambiar a lisu1250 para uniformizar al nivel de lengua, si ese es el criterio del proyecto.",hual1240 = Central Lisu. lisu1250 = Lisu (ISO lis). Yu 2007 = 'A Grammar of Lisu'.,ok
+boun1245,Ku Waru,"Trans-New Guinea
+(Papúa N. Guinea)",kuwa1244,"✓ VÁLIDO
+(= Bo-Ung)",? NO CONFIRMADO,"boun1245 = Bo-Ung (Mbo-Ung, ISO mux) es válido. Ku Waru es una variedad de esta lengua. kuwa1244 no se encontró como código independiente en Glottolog.","Mantener boun1245, o verificar directamente en Glottolog si kuwa1244 existe como dialecto.",Merlan & Rumsey 1991 es gramática de Ku Waru. Ku Waru = variedad de Bo-Ung.,ok
+CATEGORÍA E: Glottocode correcto — datos de la ficha pendientes de verificación,,,,,,,,,
+kala1399,Kalaallisut,Eskimo-Aleut,kala1399,✓ VÁLIDO,"✓ VÁLIDO
+(mismo)",Código correcto. Ficha pendiente de revisión de valores.,Revisar y completar valores GB409_1–24 con Sadock 2003.,kala1399 = Kalaallisut (ISO kal). Sadock 2003 es la fuente.,ok
+gure1255,Gureng Gureng,Pama-Nyungan,gure1255,✓ VÁLIDO,"✓ VÁLIDO
+(mismo)",Código correcto. Ficha pendiente de revisión de valores.,Revisar y completar valores GB409_1–24 con Brasch 1975.,"gure1255 = Gureng Gureng (ISO gnr), Queensland, Australia.",ok
+dhar1248,Dharumbal,Pama-Nyungan,dhar1248,✓ VÁLIDO,"✓ VÁLIDO
+(mismo)",Código correcto. Ficha pendiente de revisión de valores.,Revisar y completar valores GB409_1–24 con Terrill 2002.,"dhar1248 = Dharumbal (ISO xgm), Queensland, Australia.",ok
+fran1266,Zoque (N. Chiapas),Mixe-Zoque,fran1266,✓ VÁLIDO,"✓ VÁLIDO
+(mismo)",Código correcto. Ficha pendiente de revisión de valores.,Revisar y completar valores GB409_1–24 con Engel & Bartholomew 1987.,"fran1266 = Francisco León Zoque (ISO zos), México. Valores mixtos 0/1.",ok
+alba1269,Bikol,"Austronesian
+(Filipinas)",alba1269,✓ VÁLIDO,"✓ VÁLIDO
+(mismo)",Código correcto. Ficha pendiente de revisión de valores.,Revisar y completar valores GB409_1–24 con Fincke 2002.,"alba1269 = Albay Bikol (ISO bhk), Filipinas. Sistema de voz/foco.",ok
+akun1241,Akuntsu,"Aislada
+(Rondônia, Brasil)",akun1241,✓ VÁLIDO,"✓ VÁLIDO
+(mismo)",Código correcto. Ficha pendiente de revisión de valores.,Revisar y completar valores GB409_1–24 con Aragon 2014.,"akun1241 = Akuntsu (ISO aqz), Brasil. Ergatividad en 1ª y 2ª persona, no en 3ª.",ok
+bilb1241,Bilibili,"Austronesian
+(Papúa N. Guinea)",bilb1241,✓ VÁLIDO,"✓ VÁLIDO
+(mismo)",Código correcto. Ficha pendiente de revisión de valores.,Revisar y completar valores GB409_1–24 con Dempwolff 1909.,"bilb1241 = Bilibil (ISO bpz), PNG. Todos los valores visibles = 0 (nominativo-acusativo).",ok
+kara1476,Karajarri,"Pama-Nyungan
+(Australia)",kara1476,✓ VÁLIDO,"✓ VÁLIDO
+(mismo)",Código correcto. TODOS los valores de la ficha son '?': la gramática (Mckelson 2004) no proporciona información suficiente para codificar los rasgos.,Revisar gramática Mckelson 2004 directamente o buscar fuente adicional.,"kara1476 = Karadjeri (ISO gbd), Australia Occidental.",ok
+aben1249,"VERIFICAR
+(Abenlen Ayta,
+no Abenaki)","Austronesian
+(Filipinas)",aben1249,"✓ VÁLIDO
+(= Abenlen Ayta)","✓ VÁLIDO
+(mismo)","aben1249 = Abenlen Ayta (Filipinas), NO Abenaki (Algonquino). El campo 'Language' dice VERIFICAR. Los pronombres citados (ako/ko, ka/kao, ya/hila) son filipinos. La fuente Nitsch 2009 trata Abenlen Ayta.",Confirmar que la ficha es de Abenlen Ayta (Filipinas) y completar campos Language y Family.,"aben1249 = Abenlen Ayta (ISO abp), Filipinas. Sistema de voz/foco característico.",ok
+CATEGORÍA F: Glottocode incierto — requiere verificación directa,,,,,,,,,
+amam1246,Amam,"Trans-New Guinea
+(Morobe, PNG)",amam1246,? NO CONFIRMADO,"? NO CONFIRMADO
+(mismo)",amam1246 no se pudo confirmar en Glottolog mediante búsqueda web. amam1247 = Amami-Oshima Sign Language (Japón). Amam (PNG) puede no tener código propio.,Verificar directamente en https://glottolog.org/resource/languoid/id/amam1246,"Amam (ISO wer = Weri) es lengua de Morobe, PNG. Si la fuente es Aki & Pennington 2013, verificar qué código Glottolog asignan.",ok
