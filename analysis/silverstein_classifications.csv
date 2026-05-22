@@ -1,0 +1,322 @@
+Glottocode,Name,Family,Ergative_type,p1st,p2nd,p3rd,pNPs,Pattern,Category,Violation
+aben1249,Ayta Abenlen,Austronesian (Sambalic),Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+achi1257,Acehnese,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+adny1235,Adnyamathanha,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+aghu1254,Aghu,Trans-New Guinea,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+agus1235,Agusan Manobo,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+ahin1234,Kalanguya,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+aime1238,Eibela,Trans-New Guinea,Ergative,1,1,0,1,"(1, 1, 0, 1)",VIOLATION,True
+akun1241,Akuntsu,Language isolate,Ergative,1,1,0,0,"(1, 1, 0, 0)",VIOLATION,True
+alba1269,Albay Bikol,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+aleu1260,Aleut,Eskimo-Aleut,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+alya1239,Alyawarra,Arandic,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+amam1246,Amam,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+amdo1237,Amdo Tibetan,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+amis1246,Amis,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+ango1257,U'wa,Chibchan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+anut1237,Anutan,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+apat1240,Apatani,Trans-Himalayan,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+apin1244,Apinajé,Macro-Jê,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+arab1267,Arabana,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+arta1239,Arta,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+athp1241,Athpare,Trans-Himalayan,Ergative,0,1,1,1,"(0, 1, 1, 1)","hier1
+[2nd–3rd + NPs]",False
+auye1238,Auye,Trans-New Guinea,Ergative,0,1,1,1,"(0, 1, 1, 1)","hier1
+[2nd–3rd + NPs]",False
+awab1243,Awabakal,Pama-Nyungan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+awar1248,Avar,Nakh-Daghestanian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+bahi1252,Bahing,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+bala1311,Balangao,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+bala1316,Nêlêmwa,Austronesian,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+bamb1270,Pitu Ulunna Salu,Austronesian,Ergative,1,1,1,0,"(1, 1, 1, 0)",VIOLATION,True
+bant1281,Bantawa,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+bara1357,Baram Thangmi,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+basq1248,Basque,Language isolate,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+bawm1236,Bawm Chin,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+bayb1234,Utudnon,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+belh1239,Belhare,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+bert1248,Berta,Nilo-Saharan,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+bier1244,Bierebo,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+bilb1241,Bilibil,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+bina1277,Binahari,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+binu1244,Binukid,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+biri1256,Biri,Pama-Nyungan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+boun1245,Ku Waru,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+bugi1244,Bugis,Austronesian,Ergative,1,1,1,0,"(1, 1, 1, 0)",VIOLATION,True
+bujh1238,Bhujel,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+bund1253,Bundeli,Indo-European,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+byan1241,Byansi,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+caca1251,Kakataibo,Panoan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+caml1239,Camling,Trans-Himalayan,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+casi1235,Casiguran Dumagat Agta,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+cavi1250,Cavineña,Tacanan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+cemu1238,Cemuhî,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+cent2127,Central Alaskan Yupik,Eskimo-Aleut,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+chac1251,Chacobo,Panoan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+chan1313,Chang Naga,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+chep1245,Chepang,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+choc1275,Chocangacakha,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+chug1252,Duhumbi,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+chuk1273,Chukchi,Chukotko-Kamchatkan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+coeu1236,Coeur d'Alene,Salishan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+colu1241,Nxaamxcin,Salishan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+coos1249,Hanis Coos,Coosan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+cuti1242,Katukina-Kanamari,Katukina,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+daai1236,Daai Chin,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+dara1250,Darai,Indo-European,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+darl1243,Paakantyi,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+darm1243,Darma,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+dech1234,Lisu (Dechang dialect),Sino-Tibetan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+dhar1247,Thargari,Pama-Nyungan,Ergative,0,1,1,1,"(0, 1, 1, 1)","hier1
+[2nd–3rd + NPs]",False
+dhar1248,Dharumbal,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+dier1241,Dieri,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+djam1255,Jaminjung,Mirndi,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+djap1238,Djapu,Pama-Nyungan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+djin1251,Jingulu,Mirndi,Ergative,1,1,0,1,"(1, 1, 0, 1)",VIOLATION,True
+drun1238,Drung,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+dumi1241,Dumi,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+dura1244,Dura,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+duun1241,Duungidjawu,Pama-Nyungan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+dyan1250,Dhanggati,Pama-Nyungan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+east2447,East Futunan,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+east2516,East Kewa,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+east2694,Eastern Subanun,Austronesian,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+east2773,Dolakha Newar,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+east2851,Geshiza,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+emai1242,Emai,Niger-Congo,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+ersu1241,Ersu,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+fass1245,Momu,Trans-New Guinea,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+fran1266,Francisco León Zoque,Mixe-Zoque,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+fuln1247,Fulniô,Fulniô,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+futu1245,Futuna-Aniwa,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+gahr1239,Bunan,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+guan1266,Wobzi Khroskyabs,Trans-Himalayan,Ergative,0,1,1,1,"(0, 1, 1, 1)","hier1
+[2nd–3rd + NPs]",False
+guiq1238,Guiqiong,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+guny1241,Gunya,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+gure1255,Gureng Gureng,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+guru1261,Gurung,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+hida1246,Hidatsa,Siouan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+hind1269,Hindi,Indo-European,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+hual1240,Lisu (Central/Lipo dialect),Sino-Tibetan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+huas1242,Huastec,Mayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+hula1239,Hula,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+huli1244,Huli,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+hunz1247,Hunzib,Nakh-Daghestanian,Ergative,0,0,1,0,"(0, 0, 1, 0)",VIOLATION,True
+hurr1240,Hurrian,Hurro-Urartian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+iaai1238,Iaai,Austronesian,Ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+ibal1244,Ibaloi,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+iban1267,Iban,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+ilon1239,Ilongot,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+isco1239,Iskonawa,Panoan,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+isin1239,Isinai,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+iwam1256,Iwam,Sepik,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+japh1234,Japhug,Trans-Himalayan,Ergative,0,0,1,0,"(0, 0, 1, 0)",VIOLATION,True
+jaru1254,Jaru,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+jeru1240,Jero,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+kaba1278,Kabardian,Northwest Caucasian,Ergative,0,0,1,0,"(0, 0, 1, 0)",VIOLATION,True
+kaga1256,Kagayanen,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+kaik1246,Kaike,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+kaki1249,Kaki Ae,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+kala1399,Kalaallisut,Eskimo-Aleut,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+kalk1246,Kalkatungu,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+kamu1260,Kamula,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+kank1243,Kankanaey,Austronesian,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+kara1476,Karajarri,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+kara1500,Karajá,Macro-Jê,Ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+kari1254,Dzubukua,Karirí,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+kari1311,Karitiana,Tupian,Ergative,1,0,0,0,"(1, 0, 0, 0)",VIOLATION,True
+katu1276,Katu,Austroasiatic,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+lamj1247,Lamjung Yolmo,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+lemb1266,Lembena,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+lepc1244,Lepcha,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+lezg1247,Lezgian,Nakh-Daghestanian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+lihi1237,Lihir,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+liji1238,Lijili,Atlantic-Congo,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+limb1266,Limbu,Trans-Himalayan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+limo1248,Limos Kalinga,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+lipo1242,Lipo,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+lush1249,Mizo,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+lush1252,Lushootseed,Salish,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+macu1259,Macushi,Cariban,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+maga1263,Mag-anchi Agta,Austronesian,Ergative,1,1,1,0,"(1, 1, 1, 0)",VIOLATION,True
+mail1248,Magi,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+mais1250,Maisin,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+mana1288,Manange,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+mang1381,Mangarayi,Gunwinyguan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+mang1405,Manggarai,Austronesian,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+mara1378,Marathi,Indo-European,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+mara1379,Maram Naga,Trans-Himalayan,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+mara1404,Maranao,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+marg1253,Margany,Pama-Nyungan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+mari1416,Maring,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+mari1424,Marrithiyel,Daly,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+masb1238,Masbatenyo,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+mati1255,Matis,Panoan,Ergative,1,0,0,1,"(1, 0, 0, 1)",VIOLATION,True
+mats1244,Matsés,Panoan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+maxa1247,Maxakalí,Maxakalían,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+mayk1239,Mayi-Kulan,Pama-Nyungan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+melp1238,Melpa,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+mono1273,Mono-Alu,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+moro1289,Marori,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+muru1266,Muruwari,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+nalc1240,Nalca,Trans-New Guinea,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+namb1293,Nmbo,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+naru1238,Narungga,Pama-Nyungan,Ergative,1,1,1,0,"(1, 1, 1, 0)",VIOLATION,True
+nhan1238,Nhanda,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+nina1238,Ninam,Yanomaman,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+niue1239,Niuean,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+noct1238,Nocte Naga,Trans-Himalayan,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+nort2722,Northern Qiang,Trans-Himalayan,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
+nort2745,Tundra Yukaghir,Yukaghir,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+nort2885,Northern Subanen,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+nucl1302,Georgian,Kartvelian,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+panj1256,Punjabi,Indo-European,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
+[3rd + NPs]",False
+patt1248,Pattani,Indo-European,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+pemo1248,Pemón,Cariban,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+pend1242,Pendau,Austronesian,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
+ship1254,Shipibo-Konibo,Panoan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
+[all persons + NPs]",False
+yami1256,Yaminawa,Panoan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
+[NPs only]",False
