@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
-chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_1,Is there an overt marker for the absolutive?,1,"Kantarovich, 2020:86, 126 ",See table (2.4) ,,,1
-chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,"Dunn, 1999: 65 ",,,,1
-chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,"Dunn, 1999: 65 ",,,,1
-chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,"Dunn, 1999: 65 ",,,,1
-chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,"Kantarovich, 2020: 126 ",See example (50.b),,,1
+chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_1,Is there an overt marker for the absolutive?,1,"Kantarovich, 2020:86, 126",See table (2.4),,,1
+chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,"Dunn, 1999: 65",,,"Kantarovich, 2020: 86; 125-130",1
+chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,"Dunn, 1999: 65",,,"Kantarovich, 2020: 86; 125-130",1
+chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,"Dunn, 1999: 65",,,"Kantarovich, 2020: 86; 125-130",1
+chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,"Kantarovich, 2020: 126",See example (50.b),,,1
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,"Kantarovich, 2020:127",See example (51.c),,,1
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,"Kantarovich, 2020:225",See example (158),,,1
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,"Kantarovich, 2020:225",See example (158),,,1
@@ -14,8 +14,8 @@ chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_12,Is there ergative alignment of fla
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,?,"Kantarovich, 2020:in passim; Dunn 1999: in passim","No mention of a split based on the realis/irrealis distinction, but there are no examples of irrealis clauses with overt A and P arguments in order to confirm this.",,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,"Kantarovich, 2020:108",see example (34),,,1
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,"Kantarovich, 2020: 87",,,,1
-chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,Dunn 1999: 343-344 ,No evidence in sources that the topicality of A conditions a split in case marking.,,,1
-chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,Dunn 1999: 343-344 ,No evidence in sources that the topicality of A conditions a split in case marking.,,,1
+chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,Dunn 1999: 343-344,No evidence in sources that the topicality of A conditions a split in case marking.,,,1
+chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,Dunn 1999: 343-344,No evidence in sources that the topicality of A conditions a split in case marking.,,,1
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,"Kantarovich, 2020:127",see example (51.c),,,1
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,"Kantarovich, 2020:94",see example (20),,,1
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,"Kantarovich, 2020:in passim",See example (50.b),,,1
@@ -23,8 +23,3 @@ chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_21,Is there ergative alignment of fla
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,"Kantarovich, 2020:in passim; Dunn 1999: in passim",No other factors found.,,,0
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Kantarovich 2020:126; Dunn 1999:149-150,,,,0
 chuk1273,Chukchi,Chukotko-Kamchatkan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,"Kantarovich, 2020:126; Dunn 1999:97",,,,1
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,

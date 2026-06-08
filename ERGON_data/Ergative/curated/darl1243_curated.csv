@@ -1,30 +1,25 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
-darl1243,Paakantyi,Pama-Nyungan,GB409_1,Is there an overt marker for the absolutive?,0,Hercus 1982: 57,unmarked/doble marcación,,,0
-darl1243,Paakantyi,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Hercus 1982:109,see list IV 2.2 only singular pronouns ,,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Hercus 1982:108,examples (209-210)  only singular pronouns ,,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Hercus 1982: 68,See table (2.7) / singular pronouns and demonstratives pronouns ,,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Hercus 1982:57,See examples (51-53),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,?,Hercus 1982:in passim,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
-darl1243,Paakantyi,Pama-Nyungan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Hercus 1982: 124,See examples (252),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Hercus 1982: 124,See examples (252),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Hercus 1982: 127,See examples (256),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Hercus 1982:57,See examples (51-53),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,?,Hercus 1982:in passim,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
-darl1243,Paakantyi,Pama-Nyungan,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Hercus 1982:57,See examples (51-53),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Hercus 1982: 124,See examples (252),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Hercus 1982:57,See examples (51-53),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,Hercus 1982:in passim,There is no mention nor evidence of a split based on agentive A or non-agentive A,,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,Hercus 1982:237,See example (654),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,Hercus 1982:236,See example (650),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Hercus 1982:236,See example (650); (51-53),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,Hercus 1982:242,See example (7),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Hercus 1982:57,See examples (51-53),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,Hercus 1982:151,See example (365),,,1
-darl1243,Paakantyi,Pama-Nyungan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,?,Hercus 1982: ,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
-darl1243,Paakantyi,Pama-Nyungan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Hercus 1982:53,,,,0
-darl1243,Paakantyi,Pama-Nyungan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Hercus 1982:53,,,,0
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+darl1243,Paakantyi,Pama-Nyungan,GB409_1,Is there an overt marker for the absolutive?,0,Hercus 1982: 57,unmarked/doble marcación,0,,0
+darl1243,Paakantyi,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Hercus 1982:109,see list IV 2.2 only singular pronouns ,0,Singular pronouns follow a tripartite alignment. Dual and plural pronouns follow an accusative alignment.,0
+darl1243,Paakantyi,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Hercus 1982:108,examples (209-210)  only singular pronouns ,0,Singular pronouns follow a tripartite alignment. Dual and plural pronouns follow an accusative alignment.,0
+darl1243,Paakantyi,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Hercus 1982: 68,See table (2.7) / singular pronouns and demonstratives pronouns ,0,Singular pronouns follow a tripartite alignment. Dual and plural pronouns follow an accusative alignment.,0
+darl1243,Paakantyi,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Hercus 1982:57,See examples (51-53),1,See examples (51-53),1
+darl1243,Paakantyi,Pama-Nyungan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,?,Hercus 1982:in passim,There are no examples in the source in order to corroborate this feature.,?,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+darl1243,Paakantyi,Pama-Nyungan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Hercus 1982: 124,See examples (252),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Hercus 1982: 124,See examples (252),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_9,Is there ergative alignment of flagging in non-past tenses?,1,Hercus 1982: 127,See examples (256),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_10,Is there ergative alignment of flagging in the indicative mood?,1,Hercus 1982:57,See examples (51-53),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_11,Is there ergative alignment of flagging in non-indicative moods?,?,Hercus 1982:in passim,There are no examples in the source in order to corroborate this feature.,?,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+darl1243,Paakantyi,Pama-Nyungan,GB409_12,Is there ergative alignment of flagging in the realis status?,1,Hercus 1982:57,See examples (51-53),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_13,Is there ergative alignment of flagging in the irrealis status?,1,Hercus 1982: 124,See examples (252),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_14,Is there ergative alignment of flagging in the context of an agentive A?,1,Hercus 1982:57,See examples (51-53),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_15,Is there ergative alignment of flagging in the context of a non-agentive A?,1,Hercus 1982:in passim,There is no mention nor evidence of a split based on agentive A or non-agentive A,1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_16,Is there ergative alignment of flagging in the context of a topical A?,1,Hercus 1982:237,See example (654),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_17,Is there ergative alignment of flagging in the context of a non-topical A?,1,Hercus 1982:236,See example (650),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_18,Is there ergative alignment of flagging in the context of an animate A?,1,Hercus 1982:236,See example (650); (51-53),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_19,Is there ergative alignment of flagging in the context of an inanimate A?,1,Hercus 1982:242,See example (7),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_20,Is there ergative alignment of flagging in main clauses?,1,Hercus 1982:57,See examples (51-53),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_21,Is there ergative alignment of flagging in non-main clauses?,1,Hercus 1982:151,See example (365),1,,1
+darl1243,Paakantyi,Pama-Nyungan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,?,Hercus 1982: ,There are no examples in the source in order to corroborate this feature.,?,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
+darl1243,Paakantyi,Pama-Nyungan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Hercus 1982:53,,0,,0
+darl1243,Paakantyi,Pama-Nyungan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Hercus 1982:53,,0,,0

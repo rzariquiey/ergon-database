@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
 dier1241,Dieri,Pama-Nyungan,GB409_1,Is there an overt marker for the absolutive?,1,Austin 2021:57,"Absolutive in common nouns is unmarked, but -nha is added to male personal names",,,1
-dier1241,Dieri,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Austin 2021:56-57,There is a split based on singular vs. non-singular 1st and 2nd pronouns. See table 3.2,,,1
-dier1241,Dieri,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Austin 2021:56-57,There is a split based on singular vs. non-singular 1st and 2nd pronouns. See table 3.2,,,1
-dier1241,Dieri,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Austin 2021:120,See example (181).,,,1
-dier1241,Dieri,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Austin 2021:48; 124,See example (200).,,,1
+dier1241,Dieri,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Austin 2021:56,There is a split based on singular vs. non-singular 1st and 2nd pronouns. See table 3.2,0,"First and second person non-singular pronouns have one form for P function (accusative) and one for both S and A (nominative), while all other pronouns (first and second person singular and all third person pronouns) have three separate forms for the functions A, S and P (that is, a tripartite alignment).",0
+dier1241,Dieri,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Austin 2021:56,There is a split based on singular vs. non-singular 1st and 2nd pronouns. See table 3.2,0,"First and second person non-singular pronouns have one form for P function (accusative) and one for both S and A (nominative), while all other pronouns (first and second person singular and all third person pronouns) have three separate forms for the functions A, S and P (that is, a tripartite alignment).",0
+dier1241,Dieri,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Austin 2021:120,See example (181).,0,"Third person pronouns have three separate forms for the functions A, S and P (that is, a tripartite alignment).",0
+dier1241,Dieri,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Austin 2021:48; 124,See example (200).,1,Only male personal proper nouns and singular common nouns follow an ergative alignment. Female personal proper nouns and non-singular common nouns follow a tripartite alignment.,1
 dier1241,Dieri,Pama-Nyungan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Austin 2021:in passim,"The grammar exhaustively describes splits in case marking and alignments in the language, there is no mention nor evidence of a split based on aspect.",,,1
 dier1241,Dieri,Pama-Nyungan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Austin 2021:in passim,"The grammar exhaustively describes splits in case marking and alignments in the language, there is no mention nor evidence of a split based on aspect.",,,1
 dier1241,Dieri,Pama-Nyungan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Austin 2021:131,See example (233).,,,1
@@ -23,8 +23,3 @@ dier1241,Dieri,Pama-Nyungan,GB409_21,Is there ergative alignment of flagging in 
 dier1241,Dieri,Pama-Nyungan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,1,Austin 2021:56-57,"There are splits based on number, personal nouns vs. common nouns, and gender. See table 3.2.",,,1
 dier1241,Dieri,Pama-Nyungan,GB409_23,Are the ergative and the genitive expressed by the same marker?,,Austin 2021:,,,No source reference. Researcher should cite the grammar for ERG/GEN or ERG/INSTR marker comparison.,
 dier1241,Dieri,Pama-Nyungan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Austin 2021:121,"""Nominal phrases marked for the ergative case appear in two main syntactic functions, namely as the subject (A) of a transitive or ditransitive verb, or as an instrumental.""",,,1
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,

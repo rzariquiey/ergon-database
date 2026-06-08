@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
 namb1293,Nmbo,Trans-New Guinea,GB409_1,Is there an overt marker for the absolutive?,0,"Kashima 2020:178, 181",,,,0
-namb1293,Nmbo,Trans-New Guinea,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Kashima 2020:122,,,,1
-namb1293,Nmbo,Trans-New Guinea,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Kashima 2020:122,,,,1
-namb1293,Nmbo,Trans-New Guinea,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Kashima 2020:122,,,,1
-namb1293,Nmbo,Trans-New Guinea,GB409_5,Is there ergative alignment of flagging on full NPs?,1,"Kashima 2020:128, 179",Found in example (12).,,,1
+namb1293,Nmbo,Trans-New Guinea,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Kashima 2020:122,,verified,"Verified against Kashima 2020:122 (Table 4.9; ex.7a, 8a). Distinct ABS/ERG pronoun series. S=ABS (ynd, ex.7a), A=ERG (yndo, ex.8a), P=ABS (ba in ex.8a). S=P with A distinct -> ergative-absolutive, not tripartite. Coding 1 confirmed.",1
+namb1293,Nmbo,Trans-New Guinea,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Kashima 2020:122,,verified,"Verified against Kashima 2020:122 (Table 4.9). 2nd person ABS bm vs ERG bmo follows the same S=P=ABS, A=ERG pattern; not tripartite. Coding 1 confirmed.",1
+namb1293,Nmbo,Trans-New Guinea,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Kashima 2020:122,,verified,"Verified against Kashima 2020:122-123 (Table 4.9; ex.8a). 3rd person ABS ba (S/P) vs ERG ymo (A); S=P with A distinct, not tripartite. Coding 1 confirmed.",1
+namb1293,Nmbo,Trans-New Guinea,GB409_5,Is there ergative alignment of flagging on full NPs?,1,"Kashima 2020:128, 179",Found in example (12).,verified,"Verified against Kashima 2020:177-181 (case table; ex.74-75). Common nouns: A=ERG -m/-vem (Doado-m, ex.74a), S=ABS zero (ex.75a), P=ABS zero (ex.75b). S=P with A distinct -> ergative-absolutive, not tripartite. Coding 1 confirmed.",1
 namb1293,Nmbo,Trans-New Guinea,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Kashima 2020:128,Found in example (12).,,,1
 namb1293,Nmbo,Trans-New Guinea,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Kashima 2020:124,Found in example (9).,,,1
 namb1293,Nmbo,Trans-New Guinea,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Kashima 2020:128,Found in example (13) an others.,,,1
