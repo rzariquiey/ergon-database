@@ -1,0 +1,402 @@
+﻿ERGON: A granular coding of split ergativity based on GB409 (20 sub-features)
+Roberto Zariquiey and Jaime Montoya
+PUCP
+1. Introduction
+The following is a proposal of binary coding features intended to capture the range of crosslinguistic variation of systems of ergative alignment of flagging. Grambank currently codes ergative alignments by means of a single feature (GB409, “Is there any ergative alignment of flagging?”). 390 languages are coded “1” for this feature, 1379 languages are coded “0”, and 150 are coded “?” (unknown). Nevertheless, there is evidence of a significant amount of crosslinguistic variation and complexity in ergative systems that far exceeds what can be captured by a single feature. In particular, it is usually the case that within a language there is a split in which certain factors condition an ergative alignment in some contexts and a non-ergative alignment in others; this is usually called split ergativity. Factors commonly involved in this phenomenon include the the referential properties of arguments, the degree of agency or control of the A argument, and the TAM values of the clause.
+2. Ergative flagging in Georgian and Kakataibo
+We will illustrate the phenomenon of split ergativity in Georgian and Kakataibo as evidence of the complexity that can be found in the ergative systems of the world.
+2.1. Georgian
+The following exposition is based on Hewitt’s (1995) grammar of Georgian. This language exhibits different alignment patterns of flagging conditioned by the TAM values of the clause. Three patterns are grouped into Series I, Series II and Series III “conjugations”. 
+Series I conjugations (constituted by the Present Indicative, Present Subjunctive, Imperfect Indicative, Future Indicative, Future Subjunctive, and Conditional (Hewitt, 1995, p. 122)) show evidence of a nominative-accusative alignment, as illustrated in the examples in (1). S and A arguments are marked with nominative case while P arguments are marked with dative case[1]. 
+1. a.        kal-i                vašl-s                mo-i-t’an-s
+woman-nom        apple-dat        pv-sv-bring-3sg.sbj(fut)
+‘The woman will bring the apple.’ (Hewitt, 1995, p. 125)
+
+
+        b.        bavšv-i                login-ze        c’ev-s
+                child-nom        bed-on                lie-3sg.sbj(prs)
+                ‘The child is lying on the bed.’ (p. 125)
+
+
+Series II conjugations are constituted by the Aorist Indicative and Aorist Subjunctive. Examples like the ones in (2) show an ergative-absolutive alignment, according to which the A argument is marked with ergative case while S and P arguments share the same case marker, which corresponds to the nominative case in Series I conjugations.
+2. a.        lenin-ma        es        k’alam-i        ga-mo-i-q’en-a
+Lenin-erg        this        pen-nom        pv-pv-sv-use-3sg.sbj.aor
+                ‘Lenin used this pen…’ (Hewitt, 1995, p. 577)
+
+
+        b.        avadmq’op-i                da-c’v-a
+                sick_person-nom        pv-lie-3sg.sbj.aor
+                ‘The sick person lay down/went to bed.’ (p. 557)
+
+
+However, there are intransitive verbs that do not behave like the one in (2b) and instead take ergative marking the Series II conjugations:
+3. a.        k’at’a-m        mo-šard-a
+cat-erg        pv-urinate-3sg.sbj.aor
+‘The cat urinated.’
+
+
+        b.        jaġl-ma        da-q’ep-a
+                dog-erg        pv-bark-3sg.sbj.aor
+                ‘The dog barked.’
+
+
+According to Hewitt (1995), these verbs belong to the “Medial” class. For Hewitt, although these verbs are intransitive on the surface, they are underlyingly transitive and thus pose no problem for the position that the Series II conjugations are characterized by an ergative-absolutive alignment in the case marking of nouns (Hewitt, 1995, p. 341). However, Hewitt lists under the category of “Medial” a variety of verbs which do not seem to be underlyingly transitive nor have a logical object at all: celkob ‘you behave naughtily’, zarmacob ‘you behave lazily’, ǰiut’ob ‘you behave obstinately’, q’oq’manob ‘you hesitate’, c’eraob ‘you screw around’, brč’q’vialebs ‘it glitters’, k’rtis ‘it glimmers’, prialebs ‘(flag) flutters’, bodialeb ‘you walk aimlessly’, čerčet’ob ‘you wander/talk mindlessly’, ġventavs ‘it drips’, cocxlob ‘you are alive’, cxovrob ‘you live’, among others. Therefore, “ergative-absolutive” does not seem to be adequate label for the alignment system of the Series II conjugations when these verbs are taken into consideration.
+Series III conjugations include the Perfect, Pluperfect, and IIIrd Subjunctive (Hevitt, 1995, p. 122). They exhibit an “inversion” of case markers, as can be seen in examples (4a-c), in which the logical subject is marked with the dative case and the logical object is marked with the nominative case:
+4. a.        varsken-s        ianvr-is        rva-s        p’irvel-ad
+Varsken-dat        January-gen        8-dat        first-adv
+u-c’am-eb-i-a                                šušanik’-i
+ov.3sg.iobj-torture-ts-perf-3sg.sbj        Shushanik’-nom
+‘Varsken apparently first tortured Shushanik’ on 8th January.’ (Hevvit, 1995, p. 259)
+
+
+        b.        šinabera-s        jaġl-is-tvis        jval-i                mi-u-c-i-a
+                spinster-dat        dog-gen-for        bone-nom        pv-ov.3sg.iobj-give-perf-3sg.sbj
+                ‘The spinster apparently gave/has given a/the bone to the/a dog.’ (p. 549)
+
+
+        c.        mtvral-s        (nard-i)                u-tamaš-(n)-i-a
+                drunk-dat        (backgammon-nom)        ov.3sg.ioj-play-(III)-perf-3sg.sbj
+                ‘The drunk apparently (has) played (backgammon).’ (p. 551)
+
+
+        d.        es                male        gada-c’q’vet’-il-a
+this.nom        soon        pv-decide-perf-3sg.sbj
+‘This was apparently soon decided.’ (p. 308)
+
+
+Example (4c) has an omissible logical object (marked with nominative case). The intransitive version of (4c) would suggest a nominative-accusative alignment when compared to the transitive constructions in (4a-b). Other intransitive verbs, however, behave like (3d) and mark their argument with nominative case. One possibility is to consider Series III conjugations to have an active alignment, according to which the S argument takes the marker for A or P according to its degree of agency, yielding sentences like (4c) and (4b). An alternative analysis would consider (4c) to be underlyingly transitive, as its verb agrees with both arguments, even if one of them can be omitted; this would make the argument marking in Series III conjugations to have an ergative-absolutive alignment (with dative case for the A argument and nominative case for S and P arguments). Nevertheless, the problem mentioned above regarding the Medial class of intransitive verbs remains an issue for the classification of the alignment of the Series III conjugations; i.e., some definitively intransitive verbs pattern like the intransitive version of (4c), despite there being no logically possible object to occur with those verbs.
+2.2. Kakataibo
+We now turn to the patterns of case marking in Kakataibo according to Zariquiey’s (2018) grammar. In Kakataibo, different patterns arise for nouns and for different classes of pronouns. Nouns follow an ergative-absolutive pattern; this is illustrated in (5), where the A argument in is marked with the ergative enclitic and S and P arguments are unmarked:
+5. a.        Emilio=nën        ka        ‘ó                ‘a-a-x-a
+                Emilio=erg        nar:3        tapir:abs        kill-pfv-3-non.prox
+                ‘Emilio killed the tapir.’ (Zariquiey, 2018, p. 488)
+
+
+        b.        Emilio                ka        ‘ux-a-x-a
+                Emilio:abs        nar:3        sleep-pfv-3-non.prox
+                ‘Emilio slept.’ (p. 488)
+A different pattern appears on (non-emphatic) pronouns, which show a tripartite alignment. Pronouns in S and A functions take enclitics =s and =n, respectively, while pronouns in P function are unmarked. This is illustrated in (6).
+6. a.        a=n        ka        ‘ë        mëë-a-x-a
+                 3sg=a        nar:3        1sg:p        hit-pfv-3-non.prox
+                 ‘He hit me.’ (Zariquiey, 2018: p. 489)
+
+
+         b.        a=x        ka        ‘ux-a-x-a
+                 3sg=s        nar:3        sleep-pfv-3-non.prox
+                 ‘He slept.’ (p. 488)
+The tripartite alignment is also found in anaphoric noun phrases. Although not an obligatory pattern, non-pronominal anaphoric topics in the S function tend to take the case marker =x ‘S’, which is obligatory for pronouns, instead of taking the (unmarked) absolutive case. Examples in (7) illustrate how marking the non-pronominal S argument with =x conveys a given or anaphoric reading.
+7. a.        achushi        uni=x                ka=is=a        ‘i-akë-x-a        
+                 one                man=s                nar=rep=3        be-rem.pst-3-non.prox 
+                 kaxori                        tëtan-i
+                 pomegranate:abs        tie-s/a>s:se
+‘It is said that that one man (you know about him) was holding pomegranates a long time ago.’ (Zariquiey, 2018, p. 547)
+
+
+         b.        achushi        uni                ka=is=a        ‘i-akë-x-a
+                 one                man:abs        nar=rep=3        be-rem.pst-3-non.prox
+                 kaxori                        tëtan-i
+                 pomegranate:abs        tie-s/a>s:se
+‘It is said that a/one man (indefinite or numeral) was holding pomegranates a long time ago.’ (p. 547)
+In addition, there is a set of emphatic pronouns that are formed by attaching the adverbial enclitic =bi ‘same, self’ to some of the personal pronouns. These are unmarked for their grammatical function and, therefore, they follow a neutral alignment. 
+8. a.        abi                ka        ‘ë        mëë-a-x-a
+         3sg:emp        nar:3        1sg:p        hit-pfv-3-non.prox
+         ‘He himself hit me.’
+
+
+b.        abi                ka        ‘ux-a-x-a
+        3sg:emp        nar:3        sleep-pfv-3-non.prox
+         ‘He himself slept.’
+
+
+c.         abi                ka=na                ‘ë=n                mëë-a-x-a
+         3sg:emp        nar=1sg        1sg=a                hit-pfv-3-non.prox
+         ‘I hit exactly him.’
+However, in the case of the first person singular emphatic pronoun ‘ëbi, even though it can appear unmarked just as abi in (8), the preferred option is for it to take the case marker =x ‘S’, which produces a horizontal alignment in which the A and P arguments remain unmarked.
+9. a.        ‘ëbi=x                ka        ‘ux-a-x-a
+         1sg:emp=s        nar:3        sleep-pfv-3-non.prox
+         ‘I myself slept.’
+
+
+b.        ‘ëbi                ka        a        mëë-a-x-a
+         1sg:emp        nar:3        3sg:p        hit-pfv-3-non.prox
+         ‘I myself hit him.’
+
+
+c.        ‘ëbi                ka=na                a=n        mëë-a-x-a
+         1sg:emp        nar=1sg        3=a        hit-pfv-3-non.prox
+         ‘He hit exactly me.’
+Therefore, argument flagging in Kakataibo can follow ergative, tripartite, neutral and horizontal alignments. These are summarized in the following table:
+Table 1. Alignments of flagging in Kakataibo (Zariquiey, 2018, p. 494)
+locus of flagging
+	ergative
+	tripartite
+	neutral
+	horizontal
+	Non-anaphoric nouns
+	✔
+	
+
+	
+
+	
+
+	Anaphoric nouns
+	
+
+	✔
+	
+
+	
+
+	Non-emphatic pronouns
+	
+
+	✔
+	
+
+	
+
+	Emphatic pronouns, except first person singular
+	
+
+	
+
+	✔
+	
+
+	First person singular emphatic pronoun
+	
+
+	
+
+	(✔)
+	✔
+	
+
+3. How Grambank has handled splits
+The previous descriptions of the patterns of flagging in Georgian and Kakataibo are evidence of the complexities that alignment splits can have in the world’s languages. In addition to the previously mentioned feature GB409, Grambank has four other features, presented in Table 2, which could potentially capture such splits in ergativity. These features, however, are not without problems. 
+Table 2. Grambank features that can potentially capture splits in ergativity.
+Id
+	Feature
+	GB095
+	Are variations in marking strategies of core participants based on TAM distinctions?
+	GB096
+	Are variations in marking strategies of core participants based on verb classes?
+	GB098
+	Are variations in marking strategies of core participants based on person distinctions?
+	GB146
+	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?
+	
+
+First, the features are defined so as to include marking strategies by both indexing and flagging. It would be typologically relevant to instead distinguish between indexing and flagging when discussing alignment possibilities. Addtionally, GB146 includes any controlled/uncontrolled split, even outside the domain of argument marking. 
+Second, these features group together different conditions which would be better captured by a different feature for each. For instance, we would like to know whether an alignment split in a certain language is based on either the tense, aspect or mood of the clause; such distinctions are impossible to capture just with GB095.
+And finally, these features don’t capture which values of a particular category are associated with ergative marking and which ones with other marking strategies. For example, if a language has an ergative alignment in nouns and an accusative alignment in pronouns, we would like to code it differently from a language (if there is one) in which nouns have the accusative alignment and pronouns the ergative alignment. This would prove to be fruitful for the testing of hypotheses about how alignments are distributed in different contexts.
+What is therefore needed is a granular approach to ergativity that divides the range of split ergative systems into more fine-grained features.
+4. Proposal
+Our proposal contains 22 features that are intended to capture different types of ergative splits. They also can be used in order to confirm hypotheses regarding the marked and unmarked values of categories that condition ergative marking within a split system.
+Coding these features requires searching for relevant information and examples within different sources, including grammars and grammar sketches:
+* In chapters or sections related to clause syntax or clause structure, look for how arguments are flagged in intransitive and transitive clauses.
+* In chapters or sections related to noun morphology, look for case markers (if there are any in the language).
+* In chapters related to word classes, look for nouns, pronouns, determiners and find out whether they take case marking. Look for adpositions (if there are any in the language) and find out whether they function as case markers.
+* If the source is a dictionary, look for a chapter about grammar (if there is any) at the start or end of the dictionary.
+* Sources available in Glottolog might not always be up-to-date. In cases you need more information in order to answer the features, a search in Google may reveal there are more recently published sources.
+
+
+1. Is there an overt marker for the absolutive?
+* Is an overt (phonologically non-empty) marker used to flag both S and P arguments, differently from the flagging for the A argument (i.e. is there a non-null absolutive marker)?
+* The marking can be phonologically free or bound. 
+* If there are phonologically free pronouns with suppletive absolutive and ergative forms, code 1 and mention the suppletion in the Comments column.
+* In the case of split flagging systems (in which a certain factor conditions different marking strategies), consider the distribution of markers in each context. Code 1 if S and P are flagged by the same overt marker in any of those contexts.
+
+
+2. Is there ergative alignment of flagging on first person pronouns?
+* Do first person pronouns exhibit ergative alignment by means of case or adpositions?
+* The marking can be phonologically free or bound. It can be overt or null.
+* If only a subset of first person pronouns exhibits an ergative alignment (e.g. only first person singular pronouns), code 1 and add the additional restriction in the Comments column.
+* If first person pronouns exhibit ergative alignment but other, independent conditions restrict this alignment to certain environments (e.g. only to past-tense clauses), code 1.
+
+
+3. Is there ergative alignment of flagging on second person pronouns?
+* Do second person pronouns exhibit ergative alignment by means of case or adpositions?
+* The marking can be phonologically free or bound. It can be overt or null.
+* If only a subset of second person pronouns exhibits an ergative alignment (e.g. only second person singular pronouns), code 1 and add the additional restriction in the Comments column.
+* If second person pronouns exhibit ergative alignment but other, independently-defined conditions restrict this alignment to certain environments (e.g. only to past-tense clauses), code 1.
+
+
+4. Is there ergative alignment of flagging on third person pronouns?
+* Do third person pronouns exhibit ergative alignment by means of case or adpositions?
+* The marking can be phonologically free or bound. It can be overt or null.
+* If only a subset of third person pronouns exhibits an ergative alignment (e.g. only third person singular pronouns), code 1 and add the additional restriction in the Comments column.
+* If third person pronouns exhibit ergative alignment but other, independently-defined conditions restrict this alignment to certain environments (e.g. only to past-tense clauses), code 1.
+
+
+5. Is there ergative alignment of flagging on full NPs?
+
+
+* Do non-pronominal NPs exhibit ergative alignment by means of case or adpositions?
+* The marking can be phonologically free or bound. It can be overt or null.
+* If non-pronominal NPs exhibit ergative alignment but other conditions, independent of the pronoun/NP distinction, restrict this alignment to certain environments (e.g. only to past-tense clauses, or only to animate NPs), code 1.
+
+
+6. Is there ergative alignment of flagging in the imperfective aspect?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses in the imperfective aspect. 
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, agency of A, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if imperfective clauses show ergative alignment of flagging in any of those environments.
+* The presence/absence of ergative alignment could be conditioned by other aspectual categories similar to the imperfective (continuous, progressive, etc.). If the ergative alignment of flagging is present/absent according to one of these aspectual categories, code either 1 or 0 accordingly for this feature and add the relevant category in the Comments column.
+
+
+7. Is there ergative alignment of flagging in the perfective aspect?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses in the perfective aspect. 
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, agency of A, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if perfective clauses show ergative alignment of flagging in any of those environments.
+* The presence/absence of ergative alignment could be conditioned by other aspectual categories similar to the perfective (telic, punctual, etc.). If the ergative alignment of flagging is present/absent according to one of these aspectual categories, code either 1 or 0 accordingly for this feature and add the relevant category in the Comments column.
+
+
+8. Is there ergative alignment of flagging in the past tense?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses in the past tense. 
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If the language has multiple past tense distinctions and only a subset of them exhibits an ergative alignment (for example, only the remote past but not the recent past), code 1 and add this additional restriction in the Comments column.
+* If there are other, independently-defined conditions (e.g. aspect, agency of A, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if past clauses show ergative alignment of flagging in any of those environments.
+
+
+9. Is there ergative alignment of flagging in non-past tenses?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses in non-past tenses.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If the language has multiple non-past tenses and only a subset of them exhibits an ergative alignment, code 1 and add this additional restriction in the Comments column.
+* If there are other, independently-defined conditions (e.g. aspect, agency of A, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if non-past clauses show ergative alignment of flagging in any of those environments.
+
+
+10. Is there ergative alignment of flagging in the indicative mood?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses in the indicative mood.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, agency of A, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if indicative clauses show ergative alignment of flagging in any of those environments.
+* The realis/irrealis distinction is not covered by feature.
+
+
+11. Is there ergative alignment of flagging in non-indicative moods?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses in non-indicative moods.
+* For this feature, consider non-assertive speech acts such as the interrogative and the imperative. A related but distinct category is modality (i.e. the speaker’s attitude towards the realization of the event: possibility, neccesity, permission, or obligation). Some languages may combine mood and modality within the same inflectional paradigm. Consider modal distinctions only insofar as they belong to the same paradigm as mood.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If the language has multiple non-indicative moods and only a subset of them exhibits an ergative alignment, code 1 and add this additional restriction in the Comments column.
+* If there are other, independently-defined conditions (e.g. aspect, agency of A, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if non-indicative clauses show ergative alignment of flagging in any of those environments.
+* The realis/irrealis distinction is not covered by feature.
+
+
+12. Is there ergative alignment of flagging in the realis status?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses in the realis status, i.e. realized events in the present and the past: “The realis portrays situations as actualized, as having occurred or actually occurring, knowable through direct perception.” (Mithun, 1999, p. 173).
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, agency of A, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if realis clauses show ergative alignment of flagging in any of those environments.
+
+
+13. Is there ergative alignment of flagging in the irrealis status?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses in the irrealis status, i.e. unrealized states of affairs: “The irrealis portrays situations as purely within the realm of thought, knowable only through imagination.” (Mithun, 1999, p. 173). The irrealis is used to refer to future events, negated events, hypothetical and counterfactual situations, commands, obligations and purposive complements (Michael, 2014).
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, agency of A, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if irrealis clauses show ergative alignment of flagging in any of those environments.
+
+
+14. Is there ergative alignment of flagging in the context of an agentive A?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses with an agentive A argument. Prototypical agents are volitional and instigate the situations in which they participate rather than be affected by them (Næss, 2007).
+* Code 1 if S and P arguments are flagged in the same way, differently from agentive A arguments. Non-agentive (i.e. less prototypically agentive) A arguments are not covered by this feature.
+* Split intransitivity is the phenomenon where the S argument is marked as either the A argument or the P argument according to factors such as its degree of agency. In such cases, consider the distribution of markers for each possibility of S-marking relative to a transitive clause with an agentive A argument. Code 1 if an ergative alignment of flagged occurs in any of such contexts.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, aspect, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if transitive clauses with an agentive A show ergative alignment of flagging in any of those environments.
+* The presence/absence of ergative alignment could be conditioned by specific categories related to agency of A (control vs. lack of control, affected agents vs. non-affected agents, active vs. stative events, etc.). If the ergative alignment of flagging is present/absent according to one of these categories, code either 1 or 0 accordingly for this feature and add the relevant category in the Comments column.
+
+
+15. Is there ergative alignment of flagging in the context of a non-agentive A?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses with an non-agentive A argument. Prototypical agents are volitional and instigate the situations in which they participate rather than be affected by them (Næss, 2007). Therefore, a non-agentive A argument will have less of these properties than a prototypical agentive A argument.
+* Code 1 if S and P arguments are flagged in the same way, differently from non-agentive A arguments.
+* For the purposes of this feature, experiencers of psychological verbs are considered non-agentive A arguments. Add a comment if psycological verbs (or a subset of them) follow a particular alignment of flagging.
+* Split intransitivity is the phenomenon where the S argument is marked as either the A argument or the P argument according to factors such as its degree of agency. In such cases, consider the distribution of markers for each possibility of S-marking relative to a transitive clause with an non-agentive A argument. Code 1 if an ergative alignment of flagged occurs in any of such contexts.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, aspect, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if transitive clauses with a non-agentive A show ergative alignment of flagging in any of those environments.
+* The presence/absence of ergative alignment could be conditioned by specific categories related to the agency of A (control vs. lack of control, non-affected agents vs. affected agents, active vs. stative events, etc.). If the ergative alignment of flagging is present/absent according to one of these categories, code either 1 or 0 accordingly for this feature and add the relevant category in the Comments column.
+
+
+16. Is there ergative alignment of flagging in the context of a topical A?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses with a topical A argument.
+* Code 1 if S and P arguments are flagged in the same way, differently from topical A arguments. Non-topical A arguments are not covered by this feature.
+* Split intransitivity is the phenomenon where the S argument is marked as either the A argument or the P argument according to factors such as its degree of agency. In such cases, consider the distribution of markers for each possibility of S-marking relative to a transitive clause with a topical A argument. Code 1 if an ergative alignment of flagged occurs in any of such contexts.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, aspect, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if transitive clauses with a topical A show ergative alignment of flagging in any of those environments.
+* The presence/absence of ergative alignment could be conditioned other categories related to the topicality of A (definiteness, focus, specificity, etc.). If the ergative alignment of flagging is present/absent according to one of these categories, code either 1 or 0 accordingly for this feature and add the relevant category in the Comments column.
+* Grammars may give insufficient or no information about the pragmatic status of arguments or about information structure. If the language shows any ergative alignment of flagging and you do not have a reason to believe that the author may have missed a topicality-based split, code 1. If argument marking is not described in detail in the grammar, or if you have a reason to believe that the author may have missed such a split, code ? and write down a comment.
+
+
+17. Is there ergative alignment of flagging in the context of a non-topical A?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses with an non-topical A argument.
+* Code 1 if S and P arguments are flagged in the same way, differently from non-topical A arguments.
+* Split intransitivity is the phenomenon where the S argument is marked as either the A argument or the P argument according to factors such as its degree of agency. In such cases, consider the distribution of markers for each possibility of S-marking relative to a transitive clause with an non-topical A argument. Code 1 if an ergative alignment of flagged occurs in any of such contexts.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, aspect, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if transitive clauses with a non-topical A show ergative alignment of flagging in any of those environments.
+* The presence/absence of ergative alignment could be conditioned other categories related to the topicality of A (definiteness, focus, specificity, etc.). If the ergative alignment of flagging is present/absent according to one of these categories, code either 1 or 0 accordingly for this feature and add the relevant category in the Comments column.
+* Grammars may give insufficient or no information about the pragmatic status of arguments or about information structure. If the language shows any ergative alignment of flagging and you do not have a reason to believe that the author may have missed a topicality-based split, code 1. If argument marking is not described in detail in the grammar, or if you have a reason to believe that the author may have missed such a split, code ? and write down a comment.
+
+
+18. Is there ergative alignment of flagging in the context of an animate A?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses with an animate A argument. 
+* Code 1 if S and P arguments are flagged in the same way, differently from animate A arguments. 
+* Humanness is also covered by this feature. If the language exhibits an ergative alignment of flagging relative to a human A rather than to an animate A, write the relevance of the human feature in the Comments column.
+* Split intransitivity is the phenomenon where the S argument is marked as either the A argument or the P argument according to factors such as its degree of agency. In such cases, consider the distribution of markers for each possibility of S-marking relative to a transitive clause with an animate A argument. Code 1 if an ergative alignment of flagged occurs in any of such contexts.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, aspect, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if transitive clauses with an animate A show ergative alignment of flagging in any of those environments.
+
+
+19. Is there ergative alignment of flagging in the context of an inanimate A?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in clauses with an inanimate A argument. 
+* Code 1 if S and P arguments are flagged in the same way, differently from inanimate A arguments.
+* Non-humanness is also covered by this feature. If the language exhibits an ergative alignment of flagging relative to a non-human A rather than to an inanimate A, write the relevance of the human feature in the Comments column.
+* Split intransitivity is the phenomenon where the S argument is marked as either the A argument or the P argument according to factors such as its degree of agency. In such cases, consider the distribution of markers for each possibility of S-marking relative to a transitive clause with an inanimate A argument. Code 1 if an ergative alignment of flagged occurs in any of such contexts.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, aspect, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if transitive clauses with an inanimate A show ergative alignment of flagging in any of those environments.
+
+
+20. Is there ergative alignment of flagging in main clauses?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in main clauses.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* If there are other, independently-defined conditions (e.g. tense, aspect, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if main clauses show ergative alignment of flagging in any of those environments.
+
+
+21. Is there ergative alignment of flagging in non-main clauses?
+* This question aims to capture whether an ergative alignment of flagging (case and adpositions) occurs in non-main clauses.
+* The argument markers can be phonologically free or bound. They can be overt or null.
+* Code 1 if any type of non-main clause exhibits an ergative alignment of flagging. For this feature, consider any type of non-main clauses, including complement clauses, relative clauses, as well as any kind of grammatical nominalizations (i.e., clausal structures that have been turned into NP-like expressions).
+* If only some types of non-main clauses exhibit ergative alignment of flagging, code 1 and indicate which ones in the Comments.
+* If there are other, independently-defined conditions (e.g. tense, aspect, etc.) that restrict the ergative alignment of flagging to certain environments, code 1 if non-main clauses show ergative alignment of flagging in any of those environments.
+
+
+22. Is ergative alignment of flagging conditioned by any other factor?
+* Is there an ergative alignment of flagging whose occurrence is conditioned by any factor not covered by the previous features?
+* In the case of coding 1 for this feature, add the relevant factor which conditions the occurrence of the ergative alignment.
+* Ergative alignment of flagging may be conditioned by semantic properties of S or P arguments. In such cases, code 1 and indicate in the comments the semantic properties of the S or P agument that condition the ergative alignment. For instance, in cases of split intransitivity, agentive and non-agentive S arguments condition different alignments; the phenomenon of differential object marking (DOM) may also change the alignment of flagging according to the animacy or definiteness of the P argument.
+
+
+23. Are the ergative and the genitive expressed by the same marker?
+* Does the marker used to flag the A argument (ergative) has the same form as the genitive marker?
+* Look for the information about the genitive marker in sections of the grammar related to case marking, adpositions, possession, or NP structure; if there are no such sections, search for the words “genitive” and/or “possessive”.
+* If the ergative marker does not have exactly the same form as the genitive marker, but according to the source one marker clearly originated from the other, code 1 and mention this in the Comments column. 
+* If only the ergative and the genitive only share some allomorphs, code 1 and indicate this in the Comments column.
+
+
+24. Are the ergative and the instrumental/comitative expressed by the same marker?
+* Does the marker used to flag the A argument (ergative) has the same form as the instrumental or comitative marker?
+* Look for the information about instrumental/comitative markers in sections of the grammar related to case marking, adjuncts, or semantic roles; if there are no such sections, search for the words “instrument”, “instrumental”, “accompaniment”, “comitative” and/or “with”.
+* If the language has different markers for the instrumental and the comitative, and only one of them has the same form as the ergative marker, code 1 and indicate which one in the Comments column.
+* If the ergative marker does not have exactly the same form as the instrumental/comitative marker, but according to the source one marker clearly originated from the other, code 1 and mention this in the Comments column. 
+* If only the ergative and the instrumental/comitative only share some allomorphs, code 1 and indicate this in the Comments column.
+
+
+REFERENCES
+Hewitt, B. G. (1995). Georgian: A structural reference grammar. John Benjamins Publishing Company.
+Michael, L. (2014). The Nanti reality status system: Implications for the typological validity of the realis/irrealis contrast. Linguistic Typology, 18(2). http://dx.doi.org/10.1515/lingty-2014-0011 Retrieved from https://escholarship.org/uc/item/9n3250df
+Mithun, M. (1999). The languages of native North America. Cambridge University Press.
+Næss, Å. (2007). Prototypical transitivity. John Benjamins Publishing Company.
+Zariquiey, R. (2018). A grammar of Kakataibo. De Gruyter Mouton.        
+
+
+
+
+
+
+________________
+[1] The motivation of the label “dative” for this case appears to come from it being used also for recipients in ditransitive constructions (Hewitt, 1995, p. 85).
