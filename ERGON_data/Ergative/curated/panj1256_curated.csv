@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
 panj1256,Punjabi,Indo-European,GB409_1,Is there an overt marker for the absolutive?,1,Bashir & Conners 2019:193-195,The direct case marks S and P in the imperfective aspect and operates as the absolutive. The oblique case marks the ergative in that context. There are different forms of the pronoun for the direct and oblique cases.,,,1
-panj1256,Punjabi,Indo-European,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,Bashir & Conners 2019:443,,,,0
-panj1256,Punjabi,Indo-European,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,Bashir & Conners 2019:443,,,,0
-panj1256,Punjabi,Indo-European,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Bashir & Conners 2019:443,,,,1
-panj1256,Punjabi,Indo-European,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Bashir & Conners 2019:443,See example (9.80).,,,1
+panj1256,Punjabi,Indo-European,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,Bashir & Conners 2019:443,,verified,"Verified against Bashir & Conners 2019:443 (ex. 9.78) and p.196. Value 0 confirmed. In the perfective transitive the 1st person subject stays in the DIRECT case, identical to S (mae~ do amb kha-de '1SG.DIR ate two mangoes'). The grammar states explicitly (p.196) that 1st/2nd person subjects remain in the direct case form. A = S = direct: no ergative flagging.",0
+panj1256,Punjabi,Indo-European,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,Bashir & Conners 2019:443,,verified,Verified against Bashir & Conners 2019:443 (ex. 9.79). Value 0 confirmed. 2nd person subject stays in DIRECT case in the perfective transitive (tuu~ ki kita e '2SG.DIR what done'). No ergative flagging on 2nd person pronouns.,0
+panj1256,Punjabi,Indo-European,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Bashir & Conners 2019:443,,verified,"Value 1 confirmed, but cited evidence refined. The 3rd person PRONOUN shows ergative alignment: ex. 6.3, p.196 (o ne gaddi ... litti '3SG.ERG rented a cart'); Table 6.3, pp.194-195 contrasts direct o/e vs. oblique os/aes. NB: the originally cited ex. 9.80 (p.443) is a full NP (hukam), not a pronoun. /ne/ is optional in Lahore Panjabi, but the 3rd person A is in the OBLIQUE (distinct from direct S) with or without /ne/, so ergative alignment holds either way.",1
+panj1256,Punjabi,Indo-European,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Bashir & Conners 2019:443,See example (9.80).,verified,"Verified against Bashir & Conners 2019:443 (ex. 9.80; also ex. 9.82). Value 1 confirmed. Full-NP A takes oblique + ergative /ne/ in the perfective (hukam ne ... ditta 'the officials (ERG) ordered'; dade ne thukkiya 'grandfather (ERG) spat'), distinct from the direct case of S.",1
 panj1256,Punjabi,Indo-European,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,0,Bashir & Conners 2019:441,,,,0
 panj1256,Punjabi,Indo-European,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,"Bashir & Conners 2019:435, 441","See example (9.51), (9.71).",,,1
 panj1256,Punjabi,Indo-European,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Bashir & Conners 2019:435,See example (9.51).,,,1
@@ -23,8 +23,3 @@ panj1256,Punjabi,Indo-European,GB409_21,Is there ergative alignment of flagging 
 panj1256,Punjabi,Indo-European,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,?,Bashir & Conners 2019:441-447,There are no additional splits in flagging.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 panj1256,Punjabi,Indo-European,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Bashir & Conners 2019:248,,,,0
 panj1256,Punjabi,Indo-European,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Bashir & Conners 2019:270,,,,0
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,

@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
 dhar1247,Thargari,Pama-Nyungan,GB409_1,Is there an overt marker for the absolutive?,1,Klokeid 1969:24,Unmarked. ,,,1
-dhar1247,Thargari,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,Klokeid 1969:20,Unmarked. ,,,0
-dhar1247,Thargari,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Klokeid 1969:20,See table.,,,1
-dhar1247,Thargari,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Klokeid 1969:20,See table.,,,1
-dhar1247,Thargari,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Klokeid 1969:25,See example (3),,,1
+dhar1247,Thargari,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,"Klokeid 1969:16-17, 24-26",Unmarked. ,0,"First and second person pronouns in P function take accusative -na. S and A forms are the same for singular 1st person pronouns, so they have an accusative alignment. Non-singular 1st person pronouns have different forms for S and A, and have therefore a tripartite alignment.",0
+dhar1247,Thargari,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,"Klokeid 1969:16-17, 24-26",See table.,0,"First and second person pronouns in P function take accusative -na. S and A forms are the same for the singular 2nd person pronoun, so it has an accusative alignment. Non-singular 2nd person pronouns have different forms for S and A, and have therefore a tripartite alignment.",0
+dhar1247,Thargari,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,"Klokeid 1969:16-17, 24-26",See table.,1,"Unlike first and second person pronouns, demonstratives (which function as third person pronouns in this language) follow an ergative alignment.",1
+dhar1247,Thargari,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Klokeid 1969:25,See example (3),1,Only for inanimate nouns. Animate nouns in P function can take accusative -na and therefore follow a tripartite alignment.,1
 dhar1247,Thargari,Pama-Nyungan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,?,Klokeid 1969:in passim,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 dhar1247,Thargari,Pama-Nyungan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,?,Klokeid 1969:in passim,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 dhar1247,Thargari,Pama-Nyungan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Klokeid 1969:25,See example (3).,,,1
@@ -23,8 +23,3 @@ dhar1247,Thargari,Pama-Nyungan,GB409_21,Is there ergative alignment of flagging 
 dhar1247,Thargari,Pama-Nyungan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,?,Klokeid 1969:in passim,There are no examples in the source in order to corroborate this feature.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 dhar1247,Thargari,Pama-Nyungan,GB409_23,Are the ergative and the genitive expressed by the same marker?,?,Klokeid 1969:in passim,There is no mention of the genitive case or possessives.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 dhar1247,Thargari,Pama-Nyungan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Klokeid 1969:23; 25,Ergative and instrumental are marked by the same suffixes ,,,1
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,

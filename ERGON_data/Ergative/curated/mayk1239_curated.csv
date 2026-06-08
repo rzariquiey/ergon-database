@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source_comment,Comment,curated,curated_comment,final_value
 mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_1,Is there an overt marker for the absolutive?,0,Breen 1981:39-40,,,,0
-mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,Breen 1981:46,,,,0
-mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,Breen 1981:46,,,,0
-mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,0,Breen 1981:46,,,,0
-mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Breen 1981:38,Example 22,,,1
+mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,0,Breen 1981:46,,,"Confirmed 0 (no change). Breen 1981 3.2.4: personal pronouns inflect NOMINATIVE (= subject of any clause: S and A) vs ACCUSATIVE (object): nom ngayu 'I' (ex.63-65) vs acc ngana 'me' / -nta (ex.66-67). S=A!=P => nominative-accusative, i.e. NOT ergative alignment on pronouns. Classic Pama-Nyungan Silverstein split.",0
+mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,0,Breen 1981:46,,,"Confirmed 0 (no change). Pronouns are nominative-accusative (Breen 1981: 3.2.4): nominative = S and A, accusative = O (ex.66-67). S=A!=P, not ergative.",0
+mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,0,Breen 1981:46,,,"Confirmed 0 (no change). Same nominative-accusative pronoun paradigm (Breen 1981: 3.2.4, 3.2.6). No ergative flagging on pronouns. Silverstein split.",0
+mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Breen 1981:38,Example 22,,"Confirmed 1 (no change). Breen 1981 3.2.3: full NPs show absolutive (unmarked) for S and O vs ergative -ngkV/-tV for A; e.g. erg panya-ngka 'woman-ERG' (ex.32) with unmarked O/S. S=P!=A => ergative flagging on full NPs. PROVENANCE: re-anchor citation - in this v2 the nominal ergative is pp.40-41 (ex.32/34/35), not p.38/ex.22; pronoun citation p.46 is correct. Examples are largely Ngawun; confirm Mayi-Kulan attestation where it matters.",1
 mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Breen 1981:38,Example 22,,,1
 mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Breen 1981:39,Example 25,,,1
 mayk1239,Mayi-Kulan,Pama-Nyungan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Breen 1981:39,Example 25,,,1

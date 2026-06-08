@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
 djam1255,Jaminjung,Mirndi,GB409_1,Is there an overt marker for the absolutive?,0,Schultze-Berndt 2000:54-55,,,,0
-djam1255,Jaminjung,Mirndi,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Schultze-Berndt 2000:65,See example (2-46).,,,1
-djam1255,Jaminjung,Mirndi,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Schultze-Berndt 2000:65,,,,1
-djam1255,Jaminjung,Mirndi,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Schultze-Berndt 2000:65,,,,1
-djam1255,Jaminjung,Mirndi,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Schultze-Berndt 2000:165,See example (4-12).,,,1
+djam1255,Jaminjung,Mirndi,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Schultze-Berndt 2000:64-65,See example (2-46).,,Ergative marking of independent pronouns is optional.,1
+djam1255,Jaminjung,Mirndi,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Schultze-Berndt 2000:64-65,,,Ergative marking of independent pronouns is optional.,1
+djam1255,Jaminjung,Mirndi,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Schultze-Berndt 2000:64-65,,,Ergative marking of independent pronouns is optional.,1
+djam1255,Jaminjung,Mirndi,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Schultze-Berndt 2000:164-165,See example (4-12).,,,1
 djam1255,Jaminjung,Mirndi,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,?,Schultze-Berndt 2000:,There is no mention nor evidence of a split based on aspect.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 djam1255,Jaminjung,Mirndi,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,?,Schultze-Berndt 2000:,There is no mention nor evidence of a split based on aspect.,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 djam1255,Jaminjung,Mirndi,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Schultze-Berndt 2000:165,See example (4-12).,,,1
@@ -23,8 +23,3 @@ djam1255,Jaminjung,Mirndi,GB409_21,Is there ergative alignment of flagging in no
 djam1255,Jaminjung,Mirndi,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,Schultze-Berndt 2000:164-168,,,,0
 djam1255,Jaminjung,Mirndi,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Schultze-Berndt 2000:54,,,,0
 djam1255,Jaminjung,Mirndi,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Schultze-Berndt 2000:54; 60-61,Ergative and instrumental are marked by -ni ~ -di. Commitative has a different mark.,,,1
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,

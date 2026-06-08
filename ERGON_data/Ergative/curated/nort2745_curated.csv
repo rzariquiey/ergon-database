@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
 nort2745,Tundra Yukaghir,Yukaghir,GB409_1,Is there an overt marker for the absolutive?,1,Schmalz 2013:81-82,Absolutive marker gets blocked by the possessive -gi/-da suffix.,,,1
-nort2745,Tundra Yukaghir,Yukaghir,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Schmalz 2013:204,Example 524a.,,,1
-nort2745,Tundra Yukaghir,Yukaghir,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Schmalz 2013:168,Example 405.,,,1
-nort2745,Tundra Yukaghir,Yukaghir,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Schmalz 2013:304,,,,1
-nort2745,Tundra Yukaghir,Yukaghir,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Schmalz 2013:81-82,,,,1
+nort2745,Tundra Yukaghir,Yukaghir,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Schmalz 2013:204,Example 524a.,verified,"Verified against Schmalz 2013:204 (ex.524a 'mit-ek'=1PL.FOC.ABS) and the alignment summary pp.247-248 (Tables 4.2.1, 4.2.4). Value 1 confirmed. Under focus the 1st person pronoun is ergatively aligned: S=O=metek (absolutive -ek) vs A=met (zero/ergative). CAVEAT: focus-conditioned ('pragmatic ergativity', Schmalz); accusative alignment (S=A=met, O=metul/metqane) when S not focused.",1
+nort2745,Tundra Yukaghir,Yukaghir,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Schmalz 2013:168,Example 405.,verified,Verified against Schmalz 2013:168 (ex.405 'tet-ek') and Tables 4.2.1/4.2.4. Value 1 confirmed. 2nd person parallel to 1st: S=O=tetek vs A=tet under focus (ergative); accusative when S not focused. Focus-conditioned (pragmatic ergativity).,1
+nort2745,Tundra Yukaghir,Yukaghir,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Schmalz 2013:304,,corrected: 1->0,"CORRECTED 1 -> 0. Directly contradicted by Schmalz's own summary, Schmalz 2013:247-248 (Tables 4.2.2, 4.2.4): 3rd person pronouns have NEUTRAL alignment under focus (S=A=O=tudel/tittel) and neutral or ACCUSATIVE alignment otherwise (O=tudeYane when A is 3rd). Schmalz: 3rd person pronouns 'disrupt the pragmatically triggered regular alternation between accusative and ergative alignment' and never pattern S=O!=A; they cannot take the absolutive -ek/-ley. Hence NO ergative alignment on 3rd person pronouns. The cited p.304 does not support an ergative 3rd person pronoun. Final value set to 0.",0
+nort2745,Tundra Yukaghir,Yukaghir,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Schmalz 2013:81-82,,verified,"Verified against Schmalz 2013:81-82 and Table 4.2.3/4.2.4 (3rd person NOMINAL). Value 1 confirmed. Under focus, full NPs are ergatively aligned: S=O=ileley (absolutive) vs A=ile (zero/ergative). Focus-conditioned (pragmatic ergativity); accusative when S not focused.",1
 nort2745,Tundra Yukaghir,Yukaghir,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Schmalz 2013:82,Example 138c,,,1
 nort2745,Tundra Yukaghir,Yukaghir,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Schmalz 2013:102,Example 206.,,,1
 nort2745,Tundra Yukaghir,Yukaghir,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Schmalz 2013:80,Example 129.,,,1
@@ -23,8 +23,3 @@ nort2745,Tundra Yukaghir,Yukaghir,GB409_21,Is there ergative alignment of flaggi
 nort2745,Tundra Yukaghir,Yukaghir,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,,,,No source reference provided. Recommend citing the grammar for this feature.,0
 nort2745,Tundra Yukaghir,Yukaghir,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,,,,No source reference provided. Recommend citing the grammar for this feature.,0
 nort2745,Tundra Yukaghir,Yukaghir,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,,,,No source reference provided. Recommend citing the grammar for this feature.,0
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,

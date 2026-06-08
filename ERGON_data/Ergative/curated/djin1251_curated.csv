@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
 djin1251,Jingulu,Mirndi,GB409_1,Is there an overt marker for the absolutive?,0,Pensalfini 2003:56-58,,,,0
-djin1251,Jingulu,Mirndi,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Pensalfini 2003:151,See table 5.3,,,1
-djin1251,Jingulu,Mirndi,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Pensalfini 2003:151,See table 5.3,,,1
-djin1251,Jingulu,Mirndi,GB409_4,Is there ergative alignment of flagging on third person pronouns?,0,Pensalfini 2003:151,See table 5.3,,,0
-djin1251,Jingulu,Mirndi,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Pensalfini 2003:176,See example (5.56a),,,1
+djin1251,Jingulu,Mirndi,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Pensalfini 2003:149-152,See table 5.3,,Tripartite alignment,0
+djin1251,Jingulu,Mirndi,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Pensalfini 2003:149-152,See table 5.3,,Tripartite alignment,0
+djin1251,Jingulu,Mirndi,GB409_4,Is there ergative alignment of flagging on third person pronouns?,0,Pensalfini 2003:149-152,See table 5.3,,Tripartite alignment,0
+djin1251,Jingulu,Mirndi,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Pensalfini 2003:175-176,See example (5.56a),,,1
 djin1251,Jingulu,Mirndi,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,1,Pensalfini 2003:176,See example (5.56a),,,1
 djin1251,Jingulu,Mirndi,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,?,Pensalfini 2003:in passim,,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 djin1251,Jingulu,Mirndi,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Pensalfini 2003:176,See example (5.56b),,,1
@@ -23,8 +23,3 @@ djin1251,Jingulu,Mirndi,GB409_21,Is there ergative alignment of flagging in non-
 djin1251,Jingulu,Mirndi,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,Pensalfini 2003: ,,,,0
 djin1251,Jingulu,Mirndi,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Pensalfini 2003:90,,,,0
 djin1251,Jingulu,Mirndi,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,0,Pensalfini 2003:188,,,,0
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,

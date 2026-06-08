@@ -1,9 +1,9 @@
 Glottocode,Language,Family,Ergon_ID,Feature,Value,Source,Comment,curated,curated_comment,final_value
 drun1238,Drung,Trans-Himalayan,GB409_1,Is there an overt marker for the absolutive?,0,Perlin 2019:105-111,The arguments S and O are not marked.,,,0
-drun1238,Drung,Trans-Himalayan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Perlin 2019:74,,,,1
-drun1238,Drung,Trans-Himalayan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Perlin 2019:75,,,,1
-drun1238,Drung,Trans-Himalayan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,1,Perlin 2019:76,,,,1
-drun1238,Drung,Trans-Himalayan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Perlin 2019:108,See example (148),,,1
+drun1238,Drung,Trans-Himalayan,GB409_2,Is there ergative alignment of flagging on first person pronouns?,1,Perlin 2019:74-75,,1,,1
+drun1238,Drung,Trans-Himalayan,GB409_3,Is there ergative alignment of flagging on second person pronouns?,1,Perlin 2019:74-75,,1,,1
+drun1238,Drung,Trans-Himalayan,GB409_4,Is there ergative alignment of flagging on third person pronouns?,0,Perlin 2019:74-75,,1,,1
+drun1238,Drung,Trans-Himalayan,GB409_5,Is there ergative alignment of flagging on full NPs?,1,Perlin 2019:103-108,See example (148),1,,1
 drun1238,Drung,Trans-Himalayan,GB409_6,Is there ergative alignment of flagging in the imperfective aspect?,?,Perlin 2019:105-111,There is no mention nor evidence of a split based on main clauses ,,"Value not resolved (""?""). Researcher must determine correct coding from the grammar source.",?
 drun1238,Drung,Trans-Himalayan,GB409_7,Is there ergative alignment of flagging in the perfective aspect?,1,Perlin 2019:108,See example (148),,,1
 drun1238,Drung,Trans-Himalayan,GB409_8,Is there ergative alignment of flagging in the past tense?,1,Perlin 2019:108,See example (148),,,1
@@ -23,8 +23,3 @@ drun1238,Drung,Trans-Himalayan,GB409_21,Is there ergative alignment of flagging 
 drun1238,Drung,Trans-Himalayan,GB409_22,Is ergative alignment of flagging conditioned by any other factor?,0,Perlin 2019:105-111,,,,0
 drun1238,Drung,Trans-Himalayan,GB409_23,Are the ergative and the genitive expressed by the same marker?,0,Perlin 2019:78,,,,0
 drun1238,Drung,Trans-Himalayan,GB409_24,Are the ergative and the instrumental/comitative expressed by the same marker?,1,Perlin 2019:104,,,,1
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
