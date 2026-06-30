@@ -49,7 +49,7 @@ bala1311,Balangao,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 bala1316,Nêlêmwa,Austronesian,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
 [3rd + NPs]",False
-bamb1270,Pitu Ulunna Salu,Austronesian,Ergative,1,1,1,0,"(1, 1, 1, 0)",VIOLATION,True
+bamb1270,Pitu Ulunna Salu,Austronesian,Ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
 bant1281,Bantawa,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 bara1357,Baram Thangmi,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
@@ -73,7 +73,7 @@ biri1256,Biri,Pama-Nyungan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
 [NPs only]",False
 boun1245,Ku Waru,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
-bugi1244,Bugis,Austronesian,Ergative,1,1,1,0,"(1, 1, 1, 0)",VIOLATION,True
+bugi1244,Bugis,Austronesian,Ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
 bujh1238,Bhujel,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 bund1253,Bundeli,Indo-European,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4

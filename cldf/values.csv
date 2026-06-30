@@ -600,9 +600,9 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 599,bala1316,GB409_23,1,Bril 2002: 52,The agent marker 'an' is historically derived from the possessive/genitive marker; emphatic agent constructions productively combine the agent base with genitive suffixes (Bril 2002: 52). ERG=GEN confirmed.
 600,bala1316,GB409_24,1,"Bril 2002: 53, 153",The agent marker 'ru' (used for focused/oblique agent NPs) also functions as the instrumental marker (Bril 2002: 153). Comitative uses different markers (bole-/ma). ERG=INST confirmed.
 601,bamb1270,GB409_1,1,Campbell 1989: 48-49,There is an explicit marker for the absolutive case.
-602,bamb1270,GB409_2,1,"Campbell 1989: 41, 48-49",First-person pronouns follow an ergative alignment pattern.
-603,bamb1270,GB409_3,1,"Campbell 1989: 33, 48, 77, 101",Second-person pronouns follow an ergative alignment pattern.
-604,bamb1270,GB409_4,1,"Campbell 1989: 48, 50, 55",Third-person pronouns follow an ergative alignment pattern.
+602,bamb1270,GB409_2,0,"Campbell 1989: 41, 47-49","Not flagging: Campbell (1989:47) states 'absolutive/ergative case inflections are limited to the arguments represented by pronominal affixes on the verb stem. There are no case markings on nouns.' Table 5 (p.48) shows ergative prefixes (ku-, mu-, na-) and absolutive clitics (-aq, -ko, -i) attached to the verb, not to NPs. Free pronouns show no case distinction."
+603,bamb1270,GB409_3,0,"Campbell 1989: 33, 47-49","Not flagging: Campbell (1989:47) states 'absolutive/ergative case inflections are limited to the arguments represented by pronominal affixes on the verb stem. There are no case markings on nouns.' These are ergative prefixes and absolutive clitics on the verb (indexing), not case flagging on NPs."
+604,bamb1270,GB409_4,0,"Campbell 1989: 47-50","Not flagging: Campbell (1989:47) states 'absolutive/ergative case inflections are limited to the arguments represented by pronominal affixes on the verb stem. There are no case markings on nouns.' These are ergative prefixes and absolutive clitics on the verb (indexing), not case flagging on NPs."
 605,bamb1270,GB409_5,0,"Campbell 1989: 12, 47, 55","Full NP's do not exhibit ergative alignment, but rather exhibit pronominal indexing on the verb."
 606,bamb1270,GB409_6,0,"Campbell 1989: 127, 131","Clauses with imperfective aspect do not exhibit ergative alignment, but rather exhibit pronominal indexing on the verb."
 607,bamb1270,GB409_7,0,"Campbell 1989: 55, 127, 130","Clauses with perfective aspect do not exhibit ergative alignment, but rather exhibit pronominal indexing on the verb."
@@ -864,9 +864,9 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 863,boun1245,GB409_23,0,Merlan and Rumsey 1991: 335,The ergative marker does not have the same form as the genitive marker.
 864,boun1245,GB409_24,1,Merlan and Rumsey 1991: 335,The ergative marker -n(i) is also used as the instrumental marker. Comitative uses a different form. ERG=INST confirmed.
 865,bugi1244,GB409_1,1,Hanson 2003: 59,There is an explicit marker for the absolutive case.
-866,bugi1244,GB409_2,1,Hanson 2003: 59-60,First-person pronouns follow an ergative alignment pattern.
-867,bugi1244,GB409_3,1,Hanson 2003: 59-60,Second-person pronouns follow an ergative alignment pattern.
-868,bugi1244,GB409_4,1,Hanson 2003: 59-60,Third-person pronouns follow an ergative alignment pattern.
+866,bugi1244,GB409_2,0,Hanson 2003: 59-60,"Not flagging: Hanson (2003:59-60) describes absolutive enclitics that 'cross-reference an intransitive subject or an object' and ergative proclitics that 'cross-reference the agent in a transitive clause and [are] prefixed to the verb.' These are indexing (bound pronominal forms on the verb), not case flagging on NPs. Free pronouns show no case distinction."
+867,bugi1244,GB409_3,0,Hanson 2003: 59-60,"Not flagging: Hanson (2003:59-60) describes absolutive enclitics that 'cross-reference an intransitive subject or an object' and ergative proclitics that 'cross-reference the agent in a transitive clause and [are] prefixed to the verb.' These are indexing (bound pronominal forms on the verb), not case flagging on NPs. Free pronouns show no case distinction."
+868,bugi1244,GB409_4,0,Hanson 2003: 59-60,"Not flagging: Hanson (2003:59-60) describes absolutive enclitics that 'cross-reference an intransitive subject or an object' and ergative proclitics that 'cross-reference the agent in a transitive clause and [are] prefixed to the verb.' These are indexing (bound pronominal forms on the verb), not case flagging on NPs. Free pronouns show no case distinction."
 869,bugi1244,GB409_5,0,"Hanson 2003: 126, 153",Full NP's do not exhibit ergative alignment.
 870,bugi1244,GB409_6,1,Hanson 2003: 82,Clauses with imperfective aspect exhibit ergative alignment.
 871,bugi1244,GB409_7,1,"Hanson 2003: 67, 82",Clauses with perfective aspect exhibit ergative alignment.
