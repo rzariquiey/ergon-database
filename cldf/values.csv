@@ -2119,7 +2119,7 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 2118,futu1245,GB409_2,1,"Dougherty, 1983, p. 53",
 2119,futu1245,GB409_3,1,"Dougherty, 1983, p. 55",
 2120,futu1245,GB409_4,1,"Dougherty, 1983, p. 53",
-2121,futu1245,GB409_5,1,"Dougherty, 1983: 42-46.","Solo de manera opcional y restringida. El marcador ""e"" puede usarse para marcar el sujeto de una cláusula transitiva (A) cuando sigue al verbo o en contextos de topicalización, pero no es propiamente ergativo ya que no es obligatorio y no distingue consistentemente entre A y S/P."
+2121,futu1245,GB409_5,0,"Dougherty, 1983: 42-46.","Solo de manera opcional y restringida. El marcador ""e"" puede usarse para marcar el sujeto de una cláusula transitiva (A) cuando sigue al verbo o en contextos de topicalización, pero no es propiamente ergativo ya que no es obligatorio y no distingue consistentemente entre A y S/P. Corregido de 1 a 0."
 2122,futu1245,GB409_6,1,"Dougherty, 1983, p. 53",
 2123,futu1245,GB409_7,1,"Dougherty, 1983, p. 53",
 2124,futu1245,GB409_8,1,"Dougherty, 1983, p. 54",
@@ -2908,10 +2908,10 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 2907,kalk1246,GB409_23,1,"Blake, 1979, 23",
 2908,kalk1246,GB409_24,1,"Blake, 1979, 42",
 2909,kamu1260,GB409_1,?,"Routamma, 1994, p. 59","ejemplo 249, pero misma marca que ergatividad en P"
-2910,kamu1260,GB409_2,1,"Routamma, 1994, p. 75",
-2911,kamu1260,GB409_3,1,"Routamma, 1994, p. 67",
-2912,kamu1260,GB409_4,1,"Routamma, 1994, p. 75",
-2913,kamu1260,GB409_5,1,"Routamma, 1994, p. 97",
+2910,kamu1260,GB409_2,0,"Routamma, 1994, p. 75","Routamma (1994:75) herself states -ta cannot be described as ergative: it marks both transitive and intransitive subjects and is optional."
+2911,kamu1260,GB409_3,0,"Routamma, 1994, p. 67","Routamma (1994:75) herself states -ta cannot be described as ergative: it marks both transitive and intransitive subjects and is optional."
+2912,kamu1260,GB409_4,0,"Routamma, 1994, p. 75","Routamma (1994:75) herself states -ta cannot be described as ergative: it marks both transitive and intransitive subjects and is optional."
+2913,kamu1260,GB409_5,0,"Routamma, 1994, p. 97","Routamma (1994:75) herself states -ta cannot be described as ergative: it marks both transitive and intransitive subjects and is optional."
 2914,kamu1260,GB409_6,1,"Routamma, 1994, p. 97",
 2915,kamu1260,GB409_7,1,"Routamma, 1994, p. 75",
 2916,kamu1260,GB409_8,1,"Routamma, 1994, p. 75",
