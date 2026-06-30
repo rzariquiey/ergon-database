@@ -103,8 +103,7 @@ chug1252,Duhumbi,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 chuk1273,Chukchi,Chukotko-Kamchatkan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
-coeu1236,Coeur d'Alene,Salishan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
-[all persons + NPs]",False
+coeu1236,Coeur d'Alene,Salishan,Ergative,?,?,?,1,"(?, ?, ?, 1)",unclassified,False
 colu1241,Nxaamxcin,Salishan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
 [NPs only]",False
 coos1249,Hanis Coos,Coosan,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
@@ -161,8 +160,7 @@ fran1266,Francisco León Zoque,Mixe-Zoque,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
 [3rd + NPs]",False
 fuln1247,Fulniô,Fulniô,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
 [3rd + NPs]",False
-futu1245,Futuna-Aniwa,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
-[all persons + NPs]",False
+futu1245,Futuna-Aniwa,Austronesian,Ergative,1,1,1,0,"(1, 1, 1, 0)",VIOLATION,True
 gahr1239,Bunan,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 guan1266,Wobzi Khroskyabs,Trans-Himalayan,Ergative,0,1,1,1,"(0, 1, 1, 1)","hier1
@@ -221,8 +219,7 @@ kala1399,Kalaallisut,Eskimo-Aleut,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
 [3rd + NPs]",False
 kalk1246,Kalkatungu,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
-kamu1260,Kamula,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
-[all persons + NPs]",False
+kamu1260,Kamula,Trans-New Guinea,Ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
 kank1243,Kankanaey,Austronesian,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
 [3rd + NPs]",False
 kara1476,Karajarri,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
