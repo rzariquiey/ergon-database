@@ -186,7 +186,8 @@ huas1242,Huastec,Mayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 hula1239,Hula,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
 huli1244,Huli,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
-hunz1247,Hunzib,Nakh-Daghestanian,Ergative,0,0,1,0,"(0, 0, 1, 0)",VIOLATION,True
+hunz1247,Hunzib,Nakh-Daghestanian,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier1
+[NPs + 3rd]",False
 hurr1240,Hurrian,Hurro-Urartian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 iaai1238,Iaai,Austronesian,Ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
@@ -202,12 +203,14 @@ isin1239,Isinai,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 iwam1256,Iwam,Sepik,Ergative,0,0,0,1,"(0, 0, 0, 1)","hier3
 [NPs only]",False
-japh1234,Japhug,Trans-Himalayan,Ergative,0,0,1,0,"(0, 0, 1, 0)",VIOLATION,True
+japh1234,Japhug,Trans-Himalayan,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier1
+[NPs + 3rd]",False
 jaru1254,Jaru,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 jeru1240,Jero,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
-kaba1278,Kabardian,Northwest Caucasian,Ergative,0,0,1,0,"(0, 0, 1, 0)",VIOLATION,True
+kaba1278,Kabardian,Northwest Caucasian,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier1
+[NPs + 3rd]",False
 kaga1256,Kagayanen,Austronesian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 kaik1246,Kaike,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
@@ -227,7 +230,7 @@ kara1476,Karajarri,Pama-Nyungan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 kara1500,Karajá,Macro-Jê,Ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
 kari1254,Dzubukua,Karirí,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
-kari1311,Karitiana,Tupian,Ergative,1,0,0,0,"(1, 0, 0, 0)",VIOLATION,True
+kari1311,Karitiana,Tupian,Ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
 katu1276,Katu,Austroasiatic,Ergative,0,0,1,1,"(0, 0, 1, 1)","hier2
 [3rd + NPs]",False
 lamj1247,Lamjung Yolmo,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4

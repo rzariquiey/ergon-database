@@ -1584,8 +1584,8 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 1583,djap1238,GB409_23,0,Murphy 1983:36,
 1584,djap1238,GB409_24,1,Murphy 1983:34,See table 3.2
 1585,djin1251,GB409_1,0,Pensalfini 2003:56-58,
-1586,djin1251,GB409_2,0,Pensalfini 2003:149-152,See table 5.3
-1587,djin1251,GB409_3,0,Pensalfini 2003:149-152,See table 5.3
+1586,djin1251,GB409_2,1,Pensalfini 2003:149-152,"Table 5.3 shows distinct ERG pronoun forms: 1sg ngayarni/ngayirni (ERG) vs. ngaya (NOM). Previously miscoded as 0."
+1587,djin1251,GB409_3,1,Pensalfini 2003:149-152,"Table 5.3 shows distinct ERG pronoun forms: 2sg nyamarni/nyamirni (ERG) vs. nyama (NOM). Previously miscoded as 0."
 1588,djin1251,GB409_4,0,Pensalfini 2003:149-152,See table 5.3
 1589,djin1251,GB409_5,1,Pensalfini 2003:175-176,See example (5.56a)
 1590,djin1251,GB409_6,1,Pensalfini 2003:176,See example (5.56a)
@@ -2479,7 +2479,7 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 2478,hunz1247,GB409_2,0,"Van den Berg, 1995",
 2479,hunz1247,GB409_3,0,"Van den Berg, 1995",
 2480,hunz1247,GB409_4,1,"Van den Berg, 1995, p. 42",
-2481,hunz1247,GB409_5,0,"Van den Berg, 1995",
+2481,hunz1247,GB409_5,1,"Van den Berg, 1995, p. 42","Ergative case suffix -l/-lo on full NPs: oz-di-l 'boy-OBL-ERG', wesa-l-lo 'shepherd-OBL-ERG' (section 3.4.2). Previously miscoded as 0."
 2482,hunz1247,GB409_6,1,"Van den Berg, 1995, p. 111",
 2483,hunz1247,GB409_7,1,"Van den Berg, 1995, p. 107",
 2484,hunz1247,GB409_8,1,"Van den Berg, 1995, p. 107",
@@ -2695,7 +2695,7 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 2694,japh1234,GB409_2,0,"Jacques, 2004",
 2695,japh1234,GB409_3,0,"Jacques, 2004",
 2696,japh1234,GB409_4,1,"Jacques, 2004, p. 464",
-2697,japh1234,GB409_5,0,"Jacques, 2004, p. 464",
+2697,japh1234,GB409_5,1,"Jacques, 2004, pp. 443-444, 464","Ergative particle ku on full NPs: Lhamo ku (ERG), bKra-shis ku (ERG). Previously miscoded as 0."
 2698,japh1234,GB409_6,?,,
 2699,japh1234,GB409_7,1,"Jacques, 2004, p. 348",
 2700,japh1234,GB409_8,?,,
@@ -2767,7 +2767,7 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 2766,kaba1278,GB409_2,0,"Applebaum, 2013, p. 77",
 2767,kaba1278,GB409_3,0,"Applebaum, 2013, p. 77",
 2768,kaba1278,GB409_4,1,"Applebaum, 2013, p. 113",solo en singular
-2769,kaba1278,GB409_5,0,"Applebaum, 2013",
+2769,kaba1278,GB409_5,1,"Applebaum, 2013, pp. 73, 77","Common nouns show ERG/ABS alignment: -m (ERG) vs. -r (ABS). Table 3.25. Proper nouns are neutral. Previously miscoded as 0."
 2770,kaba1278,GB409_6,1,"Applebaum, 2013, p. 55",
 2771,kaba1278,GB409_7,1,"Applebaum, 2013, p. 79",
 2772,kaba1278,GB409_8,1,"Applebaum, 2013, p. 73",
@@ -3052,7 +3052,7 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 3051,kari1254,GB409_23,0,"De Queiroz, 2012, p. 338",
 3052,kari1254,GB409_24,1,"De Queiroz, 2012, p. 228",
 3053,kari1311,GB409_1,1,"Everett, 2006, p. 449","""These consist of an absolutive agreement marker suffixed with the reflexive marker -/ʔasoːta"""
-3054,kari1311,GB409_2,1,"Everett, 2006, p. 434",erg es unmarked pero lo ponen dentro de 1sg
+3054,kari1311,GB409_2,0,"Everett, 2006, pp. 304, 365","No case morphology exists (p. 304). Everett explicitly rejects ergative analysis of free pronouns (p. 365). 1SG.ERG gloss on p. 434 reflects Landin 1984 analysis which Everett disputes. Previously miscoded as 1."
 3055,kari1311,GB409_3,0,"Everett, 2006, p. 339",erg es unmarked
 3056,kari1311,GB409_4,0,"Everett, 2006, p. 339",erg es unmarked
 3057,kari1311,GB409_5,0,"Everett, 2006, p. 339",erg es unmarked
