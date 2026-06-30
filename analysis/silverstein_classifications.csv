@@ -234,8 +234,7 @@ lamj1247,Lamjung Yolmo,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 lemb1266,Lembena,Trans-New Guinea,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
-lepc1244,Lepcha,Trans-Himalayan,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
-[all persons + NPs]",False
+lepc1244,Lepcha,Trans-Himalayan,Ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
 lezg1247,Lezgian,Nakh-Daghestanian,Ergative,1,1,1,1,"(1, 1, 1, 1)","hier4
 [all persons + NPs]",False
 lihi1237,Lihir,Austronesian,Non-ergative,0,0,0,0,"(0, 0, 0, 0)",none,False
