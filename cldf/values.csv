@@ -3148,10 +3148,10 @@ ID,Language_ID,Parameter_ID,Value,Source,Comment
 3147,lemb1266,GB409_23,0,,
 3148,lemb1266,GB409_24,1,Heineman 1998:44,Example 82
 3149,lepc1244,GB409_1,0,Plaisier 2007:127-129,
-3150,lepc1244,GB409_2,0,Plaisier 2007:127-129,"Plaisier (2007:127) states the ablative -nun ~ -nu 'works quite differently than a classic ergative': it marks both A and agentive S, is optional and semantically conditioned. Not a proper ergative marker."
-3151,lepc1244,GB409_3,0,Plaisier 2007:127-129,"Plaisier (2007:127) states the ablative -nun ~ -nu 'works quite differently than a classic ergative': it marks both A and agentive S, is optional and semantically conditioned. Not a proper ergative marker."
-3152,lepc1244,GB409_4,0,Plaisier 2007:127-129,"Plaisier (2007:127) states the ablative -nun ~ -nu 'works quite differently than a classic ergative': it marks both A and agentive S, is optional and semantically conditioned. Not a proper ergative marker."
-3153,lepc1244,GB409_5,0,Plaisier 2007:127-129,"Plaisier (2007:127) states the ablative -nun ~ -nu 'works quite differently than a classic ergative': it marks both A and agentive S, is optional and semantically conditioned. Not a proper ergative marker."
+3150,lepc1244,GB409_2,1,Plaisier 2007:127-129,
+3151,lepc1244,GB409_3,1,Plaisier 2007:127-129,
+3152,lepc1244,GB409_4,1,Plaisier 2007:127-129,
+3153,lepc1244,GB409_5,1,Plaisier 2007:127-129,
 3154,lepc1244,GB409_6,1,Plaisier 2007:127-129,
 3155,lepc1244,GB409_7,1,Plaisier 2007:127-129,
 3156,lepc1244,GB409_8,1,Plaisier 2007:127-129,
