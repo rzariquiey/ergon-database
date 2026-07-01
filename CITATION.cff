@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: "ERGON: A Grambank-Inspired Database for the Quantitative Typological Study of Ergativity"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+license: CC-BY-4.0
+repository-code: "https://github.com/rzariquiey/ergon-database"
+authors:
+  - family-names: Zariquiey
+    given-names: Roberto
+    affiliation: "Pontificia Universidad Católica del Perú (PUCP); Max Planck Institute for Evolutionary Anthropology"
+    email: rzariquiey@pucp.edu.pe
+  - family-names: Montoya
+    given-names: Jaime
+    affiliation: "Pontificia Universidad Católica del Perú (PUCP)"
+  - family-names: Gómez
+    given-names: Luisa
+    affiliation: "Pontificia Universidad Católica del Perú (PUCP)"
+  - family-names: Alvarado
+    given-names: Claudia
+    affiliation: "Pontificia Universidad Católica del Perú (PUCP)"
+  - family-names: Chu Príncipe
+    given-names: Santiago
+    affiliation: "Pontificia Universidad Católica del Perú (PUCP)"
+  - family-names: Lanasca
+    given-names: Leslie
+    affiliation: "Universidad Nacional Mayor de San Marcos; Pontificia Universidad Católica del Perú (PUCP)"
+  - family-names: Almendra
+    given-names: Anaís
+    affiliation: "Universidad de Chile"
+  - family-names: Poblete
+    given-names: Mariana
+    affiliation: "Pontificia Universidad Católica del Perú (PUCP); Leiden University"
+  - family-names: Greenhill
+    given-names: Simon
+    affiliation: "University of Auckland; Max Planck Institute for Evolutionary Anthropology"
+  - family-names: Gray
+    given-names: Russell D.
+    affiliation: "Max Planck Institute for Evolutionary Anthropology"
+keywords:
+  - ergativity
+  - typology
+  - cross-linguistic database
+  - CLDF
+  - Grambank
+  - ergative flagging
+  - split ergativity
+  - Silverstein hierarchy
+version: "1.0.0"
+date-released: "2026-07-01"

@@ -1,0 +1,76 @@
+{
+  "title": "ERGON: A Grambank-Inspired Database for the Quantitative Typological Study of Ergativity",
+  "description": "ERGON is a cross-linguistic typological database documenting patterns of ergative alignment of flagging across 177 ergative languages from 40 language families. Inspired by Grambank's feature GB409 (Is there any ergative alignment of flagging?), ERGON expands this single binary variable into 24 sub-features (GB409_1–GB409_24) that capture the full structural complexity of ergative flagging. The database is formatted as a CLDF StructureDataset.",
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "upload_type": "dataset",
+  "keywords": [
+    "ergativity",
+    "typology",
+    "cross-linguistic database",
+    "CLDF",
+    "Grambank",
+    "ergative flagging",
+    "split ergativity",
+    "Silverstein hierarchy",
+    "case marking",
+    "linguistic typology"
+  ],
+  "creators": [
+    {
+      "name": "Zariquiey, Roberto",
+      "affiliation": "Pontificia Universidad Católica del Perú (PUCP); Max Planck Institute for Evolutionary Anthropology",
+      "orcid": ""
+    },
+    {
+      "name": "Montoya, Jaime",
+      "affiliation": "Pontificia Universidad Católica del Perú (PUCP)"
+    },
+    {
+      "name": "Gómez, Luisa",
+      "affiliation": "Pontificia Universidad Católica del Perú (PUCP)"
+    },
+    {
+      "name": "Alvarado, Claudia",
+      "affiliation": "Pontificia Universidad Católica del Perú (PUCP)"
+    },
+    {
+      "name": "Chu Príncipe, Santiago",
+      "affiliation": "Pontificia Universidad Católica del Perú (PUCP)"
+    },
+    {
+      "name": "Lanasca, Leslie",
+      "affiliation": "Universidad Nacional Mayor de San Marcos; Pontificia Universidad Católica del Perú (PUCP)"
+    },
+    {
+      "name": "Almendra, Anaís",
+      "affiliation": "Universidad de Chile"
+    },
+    {
+      "name": "Poblete, Mariana",
+      "affiliation": "Pontificia Universidad Católica del Perú (PUCP); Leiden University"
+    },
+    {
+      "name": "Greenhill, Simon",
+      "affiliation": "University of Auckland; Max Planck Institute for Evolutionary Anthropology"
+    },
+    {
+      "name": "Gray, Russell D.",
+      "affiliation": "Max Planck Institute for Evolutionary Anthropology"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/rzariquiey/ergon-database",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "linguistics"
+    }
+  ]
+}
