@@ -65,7 +65,7 @@ Quantitative Typological Study of Ergativity}}
 
 \noindent\textbf{Abstract}
 
-ERGON is a cross-linguistic typological database documenting patterns of ergative alignment of flagging across 177 ergative languages from 40 language families. Directly inspired by Grambank \cite{grambank2023} and its feature GB409 (\textit{Is there any ergative alignment of flagging?}), ERGON expands this single binary variable into 24 sub-features (GB409\_1--GB409\_24) that capture the full structural complexity of ergative flagging: its distribution across the person and animacy hierarchy, its conditioning by aspect, tense, mood, realis status, agentivity, topicality, and clause type, and its formal overlap with other case categories. The database contains 4,104 coded binary values distributed across 196 languages (177 ergative, 13 non-ergative controls, 6 problematic) and is formatted as a Cross-Linguistic Data Format (CLDF) StructureDataset \cite{forkel2018}, ensuring interoperability with Glottolog, WALS, Grambank, and other typological resources. A structured curation protocol involving expert review against primary grammar sources yielded corrections across multiple languages; the full curation methodology is described in a companion paper \cite{zariquiey2026curation}. ERGON is publicly available at \url{https://github.com/rzariquiey/ergon-database}.
+ERGON is a cross-linguistic typological database documenting patterns of ergative alignment of flagging across 177 ergative languages from 40 language families. Directly inspired by Grambank \cite{grambank2023} and its feature GB409 (\textit{Is there any ergative alignment of flagging?}), ERGON expands this single binary variable into 24 sub-features (GB409\_1--GB409\_24) that capture the full structural complexity of ergative flagging: its distribution across the person and animacy hierarchy, its conditioning by aspect, tense, mood, realis status, agentivity, topicality, and clause type, and its formal overlap with other case categories. The database contains 4,104 coded binary values distributed across 196 languages --- selected primarily from the 390 languages coded as 1 (ergative alignment present) for Grambank's GB409 --- comprising 177 ergative languages, 13 non-ergative controls, and 6 problematic cases. The dataset is formatted as a Cross-Linguistic Data Format (CLDF) StructureDataset \cite{forkel2018}, ensuring interoperability with Glottolog, WALS, Grambank, and other typological resources. A structured curation protocol involving expert review against primary grammar sources yielded corrections across multiple languages; the full curation methodology is described in a companion paper \cite{zariquiey2026curation}. ERGON is publicly available at \url{https://github.com/rzariquiey/ergon-database}.
 
 \medskip
 \noindent\textbf{Keywords:} ergativity, typology, cross-linguistic database,
@@ -193,7 +193,7 @@ Of 159 ergative languages with complete data on all four hierarchy features (GB4
 
 The predominant pattern is hier4 (ergative marking on all persons and NPs), found in 100 languages (62.9\% of those with complete data). This finding indicates that the majority of ergative languages in the ERGON sample have a fully generalised ergative case marker that applies uniformly across all nominal categories, without person-based restrictions. The next most frequent patterns are hier3 (NPs only, 23 languages, 14.5\%) and hier2 (3rd person and NPs, 16 languages, 10.1\%), consistent with the Silverstein hierarchy prediction that partial ergative systems preferentially target the lower end of the animacy scale.
 
-Figure~\ref{fig:heatmap} presents a language-by-feature heatmap of the four Silverstein hierarchy features across all ergative languages with complete data, illustrating the predominance of the hier4 pattern and the location of the seven hierarchy violations. Figure~\ref{fig:silverstein_patterns} shows the frequency distribution of all Silverstein pattern categories.
+Figure~\ref{fig:silverstein} presents the full distribution of ergative marking configurations in an UpSet-style layout: the bars report the frequency of each attested configuration, while the dot matrix below identifies which of the four nominal categories (full NPs, 3rd person, 2nd person, 1st person) carry ergative marking in each configuration. Configurations conforming to the implicational hierarchy are shown in blue; the four violating configurations, totalling seven languages, are shown in red. The visual asymmetry of the plot --- with conforming patterns accounting for over 95\% of the sample --- provides an immediate summary of the strength of the Silverstein generalisation in the ERGON data.
 
 \subsection{Split ergativity patterns}
 
@@ -205,9 +205,9 @@ The phi coefficient for \feat{GB409\_8} (past tense) $\times$ \feat{GB409\_7} (p
 
 \subsection{Feature correlations}
 
-Figure~\ref{fig:phi} presents pairwise phi coefficients across all 24 ERGON features. The correlation matrix reveals several important structural patterns in the data. The tense/aspect/mood/realis block (GB409\_6--13) shows very high internal correlations ($\varphi > 0.85$), confirming that ergative marking in one temporal/modal context is a strong predictor of ergative marking in others. This pattern is consistent with the observation that most ergative languages maintain uniform ergative flagging across tense-aspect-mood categories, with splits along these dimensions being the exception rather than the rule. It also suggests that the eight features in this block may be reducible to a smaller number of underlying dimensions, a hypothesis that can be tested through dimensionality reduction techniques such as principal component analysis.
+Figure~\ref{fig:phi} presents pairwise phi coefficients across all 24 ERGON features. The correlation matrix reveals several important structural patterns in the data. The tense/aspect/mood/realis block (GB409\_6--13) shows consistently positive and often very high internal associations, with the strongest values linking past and perfective ($\varphi = .91$), indicative and past ($\varphi = .89$), and indicative and perfective ($\varphi = .81$), confirming that ergative marking in one temporal/modal context is a strong predictor of ergative marking in others. This pattern is consistent with the observation that most ergative languages maintain uniform ergative flagging across tense-aspect-mood categories, with splits along these dimensions being the exception rather than the rule. It also suggests that the eight features in this block may be reducible to a smaller number of underlying dimensions, a hypothesis that can be tested through dimensionality reduction techniques such as principal component analysis.
 
-The person features (GB409\_2--4) also correlate highly with each other ($\varphi > 0.70$), forming a coherent cluster that reflects the internal consistency of the Silverstein hierarchy: languages that mark the ergative on one pronominal person category tend to mark it on the others as well. However, the correlations between the person features and \feat{GB409\_5} (full NPs) are notably lower, reflecting the Silverstein hierarchy: many languages mark the ergative on full NPs but not on pronouns, creating an asymmetry that is visible in the correlation structure.
+The person features (GB409\_2--4) also correlate highly with each other (1st $\times$ 2nd person: $\varphi = .93$; 2nd $\times$ 3rd person: $\varphi = .67$; 1st $\times$ 3rd person: $\varphi = .60$), forming a coherent cluster that reflects the internal consistency of the Silverstein hierarchy: languages that mark the ergative on one pronominal person category tend to mark it on the others as well. However, the correlations between the person features and \feat{GB409\_5} (full NPs) are notably lower, reflecting the Silverstein hierarchy: many languages mark the ergative on full NPs but not on pronouns, creating an asymmetry that is visible in the correlation structure.
 
 The formal-overlap features (\feat{GB409\_23}, ERG=GEN; \feat{GB409\_24}, ERG=INSTR/COM) show moderate correlations with each other but low correlations with the rest of the feature set, indicating that the formal properties of the ergative marker (its syncretism with other case categories) are largely independent of the distributional properties of ergativity (where and when it appears). This independence is consistent with the view that the formal shape of an ergative marker is determined by its diachronic source, which varies across language families, while its distributional properties reflect synchronic functional pressures that are to some degree universal \cite{blake2001}.
 
@@ -598,63 +598,62 @@ the Philippines, Australia, Papua New Guinea, and Amazonian South America.}
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.92\textwidth]{fig4_feature_profile.png}
-\caption{\textbf{Feature prevalence across ERGON ergative languages.}
-Proportion of the 177 ergative languages coded as 1 (feature present) for
-each of the 24 GB409 sub-features. Coverage ($n$ languages with a binary value)
-varies across features; see Table~\ref{tab:features}. Features are grouped by
-thematic domain (person, aspect, tense, mood/realis, agentivity/topicality/animacy,
-clause type, formal overlap).}
+\includegraphics[width=0.95\textwidth]{fig_feature_prevalence_pro.png}
+\caption{\textbf{Prevalence of ergative flagging across the 24 ERGON features.}
+Proportion of ergative languages coded as 1 (feature present) for each of the
+24 GB409 sub-features, grouped and colour-coded by thematic domain (baseline,
+person, aspect, tense, mood, realis, agentivity, topicality, animacy, clause
+type, other, formal overlap). Sample sizes ($n$ = languages with a coded
+binary value) are reported on the right margin; see also
+Table~\ref{tab:features}.}
 \label{fig:feature_profile}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=\textwidth]{fig7_heatmap.png}
-\caption{\textbf{Silverstein hierarchy patterns across ERGON ergative languages.}
-Presence (blue) or absence (white) of ergative marking for the four
-person/animacy features (GB409\_2--5) across all 159 ergative languages with
-complete data. Languages are sorted by implicational pattern category
-(hier4, hier3, hier2, hier1 variants, violations). Seven
-languages (4.4\%) violate the Silverstein hierarchy prediction.}
-\label{fig:heatmap}
+\includegraphics[width=\textwidth]{fig_silverstein_upset.png}
+\caption{\textbf{Silverstein hierarchy patterns in ERGON.}
+UpSet-style summary of ergative marking configurations across the 159
+ergative languages with complete data on the four person/animacy features
+(GB409\_2--5). Bars report the number of languages displaying each
+configuration; the dot matrix below indicates which nominal categories
+(full NPs, 3rd person, 2nd person, 1st person) carry ergative marking in
+that configuration. Blue configurations conform to the implicational
+hierarchy (NPs $\geq$ 3rd $\geq$ 2nd $\geq$ 1st); red configurations violate
+it. The five conforming pattern types (hier4, hier3, hier2, hier1, none)
+account for 152 languages (95.6\%); the four violating configurations
+account for only seven languages (4.4\%).}
+\label{fig:silverstein}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.92\textwidth]{fig8_splits_overview.png}
-\caption{\textbf{Split ergativity patterns across four conditioning domains.}
-Distribution of pattern categories for languages with data on both features in
-each domain pair (aspect: imperfective vs.\ perfective; tense: past vs.\ non-past;
-mood: indicative vs.\ non-indicative; realis: realis vs.\ irrealis). The
-majority of languages show uniform ergative marking across both contexts of
-each pair, indicating that tense-aspect-mood splits are the exception rather
+\includegraphics[width=\textwidth]{fig_splits_pro.png}
+\caption{\textbf{Split ergativity across four conditioning domains.}
+For each domain pair (aspect: perfective vs.\ imperfective; tense: past vs.\
+non-past; mood: indicative vs.\ non-indicative; realis: realis vs.\ irrealis),
+the bars show the proportion of languages with ergative marking in both
+contexts (blue), in the unmarked context only (orange; the classic split
+pattern), in the marked context only (light orange; reverse split), or in
+neither (grey). Counts are printed within each segment. Uniform ergative
+marking across both contexts is by far the dominant pattern in all four
+domains, indicating that tense-aspect-mood splits are the exception rather
 than the rule.}
 \label{fig:splits}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.88\textwidth]{figA_phi_heatmap.png}
-\caption{\textbf{Pairwise feature correlations ($\varphi$ coefficient) across
-all 24 ERGON features.} Features are ordered by thematic domain. The
-tense/aspect/mood/realis block (GB409\_6--13) shows very high internal
-correlations ($\varphi > 0.85$). The person features (GB409\_2--4) form a
-second coherent cluster, with lower correlations to GB409\_5 (full NPs),
-consistent with the Silverstein hierarchy.}
+\includegraphics[width=\textwidth]{fig_phi_matrix_pro.png}
+\caption{\textbf{Pairwise feature associations ($\varphi$ coefficient) across
+the 24 ERGON features.} Features are ordered and blocked by thematic domain
+(black separators). Cell annotations report the $\varphi$ value for each
+feature pair. The tense/aspect/mood/realis block (GB409\_6--13) shows very
+high internal associations (e.g., $\varphi = .91$ for past $\times$
+perfective), while the person features (GB409\_2--4) form a second coherent
+cluster ($\varphi \geq .60$), with notably weaker associations to GB409\_5
+(full NPs), consistent with the Silverstein hierarchy.}
 \label{fig:phi}
-\end{figure}
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=0.92\textwidth]{fig5_silverstein_patterns.png}
-\caption{\textbf{Distribution of Silverstein hierarchy patterns.}
-Frequency of each implicational pattern category among the 159 ergative
-languages with complete data on all four hierarchy features (GB409\_2--5).
-The hier4 pattern (ergative marking on all persons and NPs) is by far the
-most common (100 languages, 62.9\%), followed by hier3 (NPs only, 23 languages)
-and hier2 (3rd person and NPs, 16 languages).}
-\label{fig:silverstein_patterns}
 \end{figure}
 
 \begin{figure}[H]
