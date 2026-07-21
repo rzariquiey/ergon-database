@@ -30,7 +30,6 @@
 
 \newcommand{\feat}[1]{\texttt{#1}}
 
-% ============================================================
 \title{\textbf{ERGON: A Grambank-Inspired Database for the Quantitative Typological Study of Ergativity}}
 
 \author[1,3,*]{Roberto Zariquiey}
@@ -59,7 +58,6 @@
 
 \date{}
 
-% ============================================================
 \begin{document}
 \maketitle
 
@@ -71,7 +69,6 @@ ERGON is a cross-linguistic typological database documenting patterns of ergativ
 \noindent\textbf{Keywords:} ergativity, typology, cross-linguistic database,
 CLDF, Grambank, ergative flagging, split ergativity, Silverstein hierarchy
 
-% ============================================================
 \section{Background \& Summary}
 
 Ergativity is one of the most theoretically significant and cross-linguistically diverse phenomena in linguistic typology. In an ergative alignment pattern, the sole argument of an intransitive clause (S) is treated morphosyntactically in the same way as the most patientive argument (P), rather than as the most agentive one (A) of a transitive predicate. This contrasts with the more widespread nominative-accusative pattern, in which S is grouped with A to the exclusion of P \cite{dixon1994,comrie1978}. A prototypical illustration is found in Basque, where the transitive agent receives the ergative suffix \textit{-k} (\textit{gizon-a-k} `the man', A), while the sole argument of an intransitive verb (\textit{gizon-a} `the man', S) and the patient of a transitive verb (\textit{ogi-a} `the bread', P) remain unmarked for case (absolutive). The ergative suffix \textit{-k} thus singles out the A argument of transitive predicates, while S and P share the same zero-marked absolutive form. This is the defining property of ergative alignment \cite{hualde2003}.
@@ -94,7 +91,6 @@ The database contains 4,104 coded binary values across 24 features, with 579 val
 
 In its current form, the database supports quantitative research on the Silverstein animacy/person hierarchy \cite{silverstein1976}, split ergativity conditioned by tense, aspect, mood, and reality status \cite{dixon1994,givon2001}, feature co-occurrence patterns \cite{bybee1994}, formal overlap between the ergative and other case categories \cite{blake2001}, and phylogenetic signal in ergativity distributions \cite{greenhill2010,blasi2019}, among many others.
 
-% ============================================================
 \section{Methods}
 
 \subsection{Language sample}
@@ -164,7 +160,6 @@ All corrections are documented in the \texttt{values.csv} file through the Comme
 
 The CLDF dataset was assembled from the curated language files using a dedicated build script (\texttt{build\_cldf.py}), available in the repository root. The pipeline performs the following operations: (1) it scans the curated and original data directories, giving priority to curated files where both exist for the same language; (2) it parses each file with automatic delimiter detection, handling both comma-separated and tab-separated formats; (3) it extracts the 24 coded feature values and associated metadata (source, comment) for each language; (4) it validates each language identifier against the Glottocode regular expression \texttt{[a-z]\{4\}[0-9]\{4\}}; and (5) it writes CLDF-compliant \texttt{languages.csv}, \texttt{parameters.csv}, and \texttt{values.csv} tables, together with a \texttt{StructureDataset-metadata.json} file declaring the CLDF conformance profile, column definitions, and foreign key constraints. The entire pipeline is deterministic and can be re-run from the raw source files to regenerate the CLDF dataset.
 
-% ============================================================
 \section{Data Records}
 
 The ERGON dataset is distributed as a CLDF StructureDataset \cite{forkel2018} hosted at \url{https://github.com/rzariquiey/ergon-database}. The CLDF format was chosen because it provides a standardised, machine-readable structure for cross-linguistic typological data that is interoperable with the major typological databases (Grambank, WALS, Lexibank, CLICS) and with the Glottolog language catalogue \cite{hammarstrom2024}. The CLDF dataset is located in the \texttt{cldf/} directory and consists of the following files.
@@ -179,7 +174,6 @@ The ERGON dataset is distributed as a CLDF StructureDataset \cite{forkel2018} ho
 
 Additional files in the repository include: \texttt{analysis/} (Python analysis scripts, output figures, and derived CSV tables including Silverstein classifications, ergativity scores, and dimensionality scores); \texttt{build\_cldf.py} (the CLDF build script); and \texttt{raw/} (the original and curated source sheets from which the CLDF dataset was built).
 
-% ============================================================
 \section{Technical Validation}
 
 \subsection{Feature coverage}
@@ -216,7 +210,6 @@ The person features (GB409\_2--4) also correlate highly with each other (1st $\t
 
 The formal-overlap features (\feat{GB409\_23}, ERG=GEN; \feat{GB409\_24}, ERG=INSTR/COM) show moderate correlations with each other but low correlations with the rest of the feature set, indicating that the formal properties of the ergative marker (its syncretism with other case categories) are largely independent of the distributional properties of ergativity (where and when it appears). This independence is consistent with the view that the formal shape of an ergative marker is determined by its diachronic source, which varies across language families, while its distributional properties reflect synchronic functional pressures that are to some degree universal \cite{blake2001}.
 
-% ============================================================
 \section{Usage Notes}
 
 ERGON is intended for use in quantitative typological research on ergativity and in comparative studies of grammatical diversity. The following considerations should be borne in mind when working with the data.
@@ -237,34 +230,25 @@ ds = pycldf.Dataset.from_metadata(
 
 \textbf{Genealogical non-independence.} Languages are not independent observations: closely related languages share features through common inheritance rather than independent innovation. The dataset includes family membership information (\texttt{Family} column in \texttt{languages.csv}) to support mixed-effects analyses that control for genealogical signal \cite{jaeger2011} and phylogenetic comparative methods that model trait evolution along language family trees \cite{greenhill2010,blasi2019}. Users should be aware that the ERGON sample is not a balanced genealogical sample: some families (Trans-Himalayan, Austronesian, Pama-Nyungan) are much more densely represented than others, which will influence frequency-based statistics unless appropriate weighting or mixed-effects modelling is applied. This, of course, has to do with the fact that these language families are densely populated by languages with ergativity.
 
-% ============================================================
 \section{Code Availability}
 
 All code used to build the CLDF dataset and to conduct the analyses described in the Technical Validation section is available at \url{https://github.com/rzariquiey/ergon-database} under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). The build script (\texttt{build\_cldf.py}) requires Python $\geq$ 3.9 and the \texttt{pycldf} library. Analysis scripts in \texttt{analysis/} additionally require \texttt{pandas}, \texttt{numpy}, \texttt{matplotlib}, \texttt{seaborn}, and \texttt{scipy}. A master analysis script (\texttt{analysis/run\_all\_v2.py}) regenerates all figures and derived tables from the CLDF source files.
 
-% ============================================================
 \section{Data Availability}
 
 The ERGON dataset is openly available at \url{https://github.com/rzariquiey/ergon-database} under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0). A versioned archive (v1.0.1) has been deposited at Zenodo and assigned a permanent DOI: \url{https://doi.org/10.5281/zenodo.21107436}. The dataset conforms to the CLDF StructureDataset specification \cite{forkel2018}. All raw source materials (original and curated fichas) are included in the repository for full reproducibility.
 
-% ============================================================
 \section*{Acknowledgements}
 
 We thank the Pontificia Universidad Cat\'{o}lica del Per\'{u} (PUCP) and the Estaci\'{o}n Cient\'{i}fica Chana para las Ciencias del Lenguaje y la Interculturalidad for their institutional and logistical support. We are also grateful to the Department of Linguistic and Cultural Evolution of the Max Planck Institute for Evolutionary Anthropology (Leipzig) for funding the research that gave rise to ERGON.
 
-% ============================================================
 \section*{Author Contributions}
 
 R.Z. conceived and designed the database, prepared the CLDF build pipeline and the quantitative analyses, and drafted the manuscript. R.Z. and J.M. designed the feature set, prepared the coding protocols and performed the expert curation. J.M., L.G., C.A., S.C.P., L.L., A.A., M.P., and A.V.-A. contributed to data collection, language annotation, and verification of coded values against source grammars. S.G. contributed to the analysis design and provided expertise on phylogenetic comparative methods. R.D.G. supervised the project, provided methodological guidance on quantitative typology, and contributed to the design of the validation analyses. All authors reviewed and approved the final manuscript.
 
-% ============================================================
 \section*{Competing Interests}
 
 The authors declare no competing interests.
-
-% ============================================================
-% REFERENCES
-% ============================================================
 
 \begin{thebibliography}{99}
 
@@ -484,10 +468,6 @@ MA thesis, University of Texas at Arlington (1989).
 
 \end{thebibliography}
 
-% ============================================================
-% TABLES
-% ============================================================
-
 \clearpage
 
 \begin{longtable}{llp{6.5cm}rr}
@@ -582,10 +562,6 @@ Narungga       & naru1238 & Pama-Nyungan    & (1, 1, 1, 0) \\
 \bottomrule
 \end{tabular}
 \end{table}
-
-% ============================================================
-% FIGURES
-% ============================================================
 
 \clearpage
 
