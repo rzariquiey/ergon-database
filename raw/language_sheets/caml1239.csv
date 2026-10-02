@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Ebert 1997: 56,There is not an explicit marker for the absolutive case.
+GB409_2,0,Ebert 1997: 56,First-person pronouns do not follow an ergative alignment pattern.
+GB409_3,0,Ebert 1997: 56,Second-person pronouns do not follow an ergative alignment pattern.
+GB409_4,1,Ebert 1997: 56,Third-person pronouns follow an ergative alignment pattern.
+GB409_5,1,"Ebert 1997: 45, 56",Full NP's exhibit ergative alignment.
+GB409_6,1,"Ebert 1997: 26, 56",Clauses with imperfective aspect exhibit ergative alignment.
+GB409_7,1,"Ebert 1997: 24, 56",Clauses with perfective aspect exhibit ergative alignment.
+GB409_8,1,"Ebert 1997: 26, 56",Past-tense clauses exhibit ergative alignment.
+GB409_9,1,"Ebert 1997: 29,56",Clauses in non-past tense exhibit ergative alignment.
+GB409_10,1,"Ebert 1997: 52, 56",Clauses in indicative mode show an ergative alignment.
+GB409_11,1,"Ebert 1997: 45,55",Clauses in non-indicative mode show an ergative alignment.
+GB409_12,1,"Ebert 1997: 24, 56",Clauses with realis status show ergative alignment.
+GB409_13,1,"Ebert 1997: 29, 67",Clauses with irrealis status show ergative alignment.
+GB409_14,1,"Ebert 1997: 46, 52","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,1,"Ebert 1997: 35, 67","In the context of a non-agentive argument A, ergative alignment is observed."
+GB409_16,1,"Ebert 1997: 57, 65","In the context of a topical A, ergative alignment is shown."
+GB409_17,1,"Ebert 1997: 45, 55","In the context of a topical A, ergative alignment is not shown."
+GB409_18,1,"Ebert 1997: 26, 46",Clauses with animated A arguments exhibit ergative alignment.
+GB409_19,1,"Ebert 1997: 29, 66",Clauses with non-animated A arguments exhibit ergative alignment.
+GB409_20,1,Ebert 1997: 56,Main clauses exhibit ergative alignment.
+GB409_21,1,"Ebert 1997: 62, 65",Non-main clauses exhibit ergative alignment.
+GB409_22,1,"Ebert 1997: 46, 56",Ergative alignment is conditioned by the Differential Object Marking based on animacy/humanity.
+GB409_23,0,Ebert 1997: 45,The ergative case do not have the same mark as the genitive marker.
+GB409_24,1,Ebert 1997: 45-46,"The ergative case has the same mark as the instrumental case, but is different from the comitative case."

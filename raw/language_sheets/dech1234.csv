@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Yu 2007: 177-178,The absolutive is zero-marked; the agentive marker le³³ marks only transitive A and Sa (agentive intransitive S).
+GB409_2,1,Yu 2007: cap. 3,All persons of pronouns have distinct ergative/agentive forms with le³³ in Dechang dialect of Lisu. Confirmed in Yu (2007). Changed from original annotation '?'→1.
+GB409_3,1,Yu 2007: cap. 3,All persons of pronouns have distinct ergative/agentive forms with le³³. Changed from original annotation '?'→1.
+GB409_4,1,Yu 2007: cap. 3,All persons of pronouns have distinct ergative/agentive forms with le³³. Changed from original annotation '?'→1.
+GB409_5,1,Yu 2007: 178,Full NPs take the agentive marker le³³ in transitive clauses. See example (312).
+GB409_6,1,Yu 2007: 178,Ergative/agentive marker le³³ appears in imperfective contexts. See example (312).
+GB409_7,1,Yu 2007: 209,Ergative/agentive marker le³³ appears in perfective contexts. See example (158a).
+GB409_8,1,Yu 2007: 209,le³³ present in past tense. See example (158a).
+GB409_9,1,Yu 2007: 184,le³³ present in non-past tenses. See example (2).
+GB409_10,1,Yu 2007: 178,le³³ in indicative clauses. See example (312).
+GB409_11,1,Yu 2007: 212,le³³ in non-indicative moods. See example (174a-b).
+GB409_12,1,Yu 2007: 178,le³³ in realis status. See example (312).
+GB409_13,1,Yu 2007: 212,le³³ in irrealis status. See example (174a-b).
+GB409_14,1,"Yu 2007: 178, 222","Agentive/volitional A takes le³³. See examples (312), (228)."
+GB409_15,0,Yu 2007: cap. 4,"Non-agentive intransitive S (So) takes zero marking (absolutive), not le³³. The active-stative system distinguishes Sa (agentive, takes le³³) from So (non-agentive, zero). Changed from original annotation '?'→0."
+GB409_16,0,Yu 2007: 82,"CORRECTED from original annotation 1→0. In the active-stative system, the conditioning factor is agentivity/control, not topicality. See example (3a-b): the split is between Sa and So, not between topical and non-topical A. Topicality does not systematically condition the presence/absence of le³³."
+GB409_17,1,Yu 2007: 82,Non-topical A takes le³³ as part of the active-stative system.
+GB409_18,1,Yu 2007: 82,Animate A takes le³³. See example (3a-b).
+GB409_19,?,Yu 2007: in passim,Inanimate A: original annotation 0 lacks specific citation for Dechang; Yu (2007) does not explicitly address inanimate agents for this dialect. Changed from original annotation 0→? (insufficient evidence).
+GB409_20,1,Yu 2007: 178,le³³ in main clauses. See example (312).
+GB409_21,?,Yu 2007: in passim,Non-main clauses: insufficient documentation in Yu (2007) for Dechang dialect to confirm or deny ergative marking in subordinate constructions.
+GB409_22,1,"Yu 2007: 82-83, 178","Ergative alignment conditioned by the active-stative (split-S) distinction: agentive/volitional Sa takes le³³, non-agentive So takes zero. The language follows an active-stative pattern."
+GB409_23,0,Yu 2007: 87,The ergative marker le³³ and the genitive marker are distinct.
+GB409_24,0,Yu 2007: cap. 4,"CORRECTED from original annotation '?'→0. In Dechang dialect, nɛ³³ is the LOCATIVE marker (Yu 2007), not the instrumental. The ergative/agentive marker is le³³; instrumental is du³³. ERG≠INST."

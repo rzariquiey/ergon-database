@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Jaiswal 1962: 99-100, 102, 146",There is not explicit marker for the absolutive case.
+GB409_2,1,"Jaiswal 1962: 69, 71",First-person pronouns show ergative alignment.
+GB409_3,1,Jaiswal 1962: 72-73,Second-person pronouns show ergative alignment.
+GB409_4,1,"Jaiswal 1962: 74-75, 100",Third-person pronouns show ergative alignment.
+GB409_5,1,"Jaiswal 1962: 65, 99-100",Full NP's exhibit ergative-absolutive alignment.
+GB409_6,0,"Jaiswal 1962: 76, 99, 144, 149",Clauses with imperfective aspect do  not exhibit ergative alignment.
+GB409_7,1,"Jaiswal 1962: 65, 76, 99, 146",Clauses with perfective aspect exhibit ergative alignment.
+GB409_8,1,"Jaiswal 1962: 134, 146, 149",Past-tense clauses exhibit ergative alignment.
+GB409_9,0,"Jaiswal 1962: 65, 76, 134, 144, 147",Clauses in non-past tense do not exhibit ergative alignment.
+GB409_10,1,"Jaiswal 1962: 100, 146",Clauses in indicative mode show an ergative alignment.
+GB409_11,1,Jaiswal 1962: 151,Clauses in non-indicative mode show an ergative alignment.
+GB409_12,1,"Jaiswal 1962: 100, 146",Clauses with realis status show ergative alignment.
+GB409_13,1,"Jaiswal 1962: 151, 161-162",Clauses with irrealis status show ergative alignment.
+GB409_14,1,"Jaiswal 1962: 100, 111, 146","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,0,Jaiswal 1962: 111,"In the context of a non-agentive argument A, ergative alignment is not observed."
+GB409_16,1,"Jaiswal 1962: 65, 99-100","In the context of a topical A, ergative alignment is shown."
+GB409_17,1,"Jaiswal 1962: 65, 99-100","In the context of a non-topical A, ergative alignment is shown."
+GB409_18,1,"Jaiswal 1962: 65, 100, 134",Clauses with animated A arguments do exhibit ergative alignment.
+GB409_19,1,"Jaiswal 1962: 76, 99-100",Clauses with non-animated A arguments exhibit ergative alignment.
+GB409_20,1,"Jaiswal 1962: 65, 100, 146",Main clauses do exhibit ergative alignment.
+GB409_21,1,"Jaiswal 1962: 78, 161, 163",Non-main clauses exhibit ergative alignment.
+GB409_22,1,"Jaiswal 1962: 100, 111","The ergative mark is conditioned by the lexical semantics of the verb, specifically manifested in split intransitivity and in lexical exceptions of transitive verbs."
+GB409_23,0,"Jaiswal 1962: 100, 104-105",The ergative case does not have the same marker as the genitive case.
+GB409_24,0,"Jaiswal 1962: 100-101, 103-104",The ergative case does not have the same marker as the instrumental or comitative marker.

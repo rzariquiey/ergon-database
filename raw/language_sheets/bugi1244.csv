@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Hanson 2003: 59,There is an explicit marker for the absolutive case.
+GB409_2,0,Hanson 2003: 59-60,"Not flagging: Hanson (2003:59-60) describes absolutive enclitics that 'cross-reference an intransitive subject or an object' and ergative proclitics that 'cross-reference the agent in a transitive clause and [are] prefixed to the verb.' These are indexing (bound pronominal forms on the verb), not case flagging on NPs. Free pronouns show no case distinction."
+GB409_3,0,Hanson 2003: 59-60,"Not flagging: Hanson (2003:59-60) describes absolutive enclitics that 'cross-reference an intransitive subject or an object' and ergative proclitics that 'cross-reference the agent in a transitive clause and [are] prefixed to the verb.' These are indexing (bound pronominal forms on the verb), not case flagging on NPs. Free pronouns show no case distinction."
+GB409_4,0,Hanson 2003: 59-60,"Not flagging: Hanson (2003:59-60) describes absolutive enclitics that 'cross-reference an intransitive subject or an object' and ergative proclitics that 'cross-reference the agent in a transitive clause and [are] prefixed to the verb.' These are indexing (bound pronominal forms on the verb), not case flagging on NPs. Free pronouns show no case distinction."
+GB409_5,0,"Hanson 2003: 126, 153",Full NP's do not exhibit ergative alignment.
+GB409_6,0,Hanson 2003: 82,Clauses with imperfective aspect exhibit ergative alignment.
+GB409_7,0,"Hanson 2003: 67, 82",Clauses with perfective aspect exhibit ergative alignment.
+GB409_8,0,"Hanson 2003: 45, 92",Past-tense clauses exhibit ergative alignment.
+GB409_9,0,"Hanson 2003: 42, 92",Clauses in non-past tense exhibit ergative alignment.
+GB409_10,0,Hanson 2003: 128-129,Clauses in indicative mode show an ergative alignment.
+GB409_11,0,"Hanson 2003: 283, 301",Clauses in non-indicative mode show an ergative alignment.
+GB409_12,0,"Hanson 2003: 128-129, 145, 167",Clauses with realis status show ergative alignment.
+GB409_13,0,"Hanson 2003: 167, 173, 264",Clauses with irrealis status show ergative alignment.
+GB409_14,0,"Hanson 2003: 128, 140","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,0,Hanson 2003: 140-141,"In the context of a non-agentive argument A, ergative alignment is observed."
+GB409_16,0,"Hanson 2003: 155, 165","In the context of a topical A, ergative alignment is shown."
+GB409_17,0,"Hanson 2003: 138, 169","In the context of a topical A, ergative alignment is not shown."
+GB409_18,0,Hanson 2003: 140,Clauses with animated A arguments exhibit ergative alignment.
+GB409_19,0,Hanson 2003: 141-142,Clauses with non-animated A arguments exhibit ergative alignment.
+GB409_20,0,Hanson 2003: 128-129,Main clauses exhibit ergative alignment.
+GB409_21,0,"Hanson 2003: 224, 275",Non-main clauses exhibit ergative alignment.
+GB409_22,0,"Hanson 2003: 125, 128",Ergative alignment is conditioned by a pragmatic factor: the definiteness or individuation of the patient.
+GB409_23,0,Hanson 2003: 60,The ergative case do not have the same mark as the genitive marker.
+GB409_24,0,"Hanson 2003: 262, 315",The ergative case does not have the same marker as the instrumental or comitative marker.

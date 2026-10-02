@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Doornenbal 2009: 12, 73-74",There is no explicit marker for the absolutive case.
+GB409_2,1,"Doornenbal 2009: 75, 84, 101",First-person pronouns show ergative alignment.
+GB409_3,1,"Doornenbal 2009: 59, 76, 119, 219",Second-person pronouns show ergative alignment.
+GB409_4,1,"Doornenbal 2009: 29, 76, 102, 111, 119, 226-227",Third-person pronouns show ergative alignment.
+GB409_5,1,"Doornenbal 2009: 12-13, 73-75, 214",Full NP's exhibit ergative alignment.
+GB409_6,1,"Doornenbal 2009: 75, 101, 175, 226",Ergative alignment present in the imperfective aspect.
+GB409_7,1,"Doornenbal 2009: 75, 174, 214, 222",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Doornenbal 2009: 73, 75, 84, 219",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Doornenbal 2009: 174, 219, 226, 308",Ergative alignment applied in non-past times.
+GB409_10,1,"Doornenbal 2009: 12-13, 74-75, 211",Ergative alignment is presented in indicative mode.
+GB409_11,1,"Doornenbal 2009: 219, 247, 274",Ergative alignment is presented in non-indicative mode.
+GB409_12,1,"Doornenbal 2009: 12-13, 75, 174, 226",Ergative alignment is present in the realis status.
+GB409_13,1,"Doornenbal 2009: 102, 196, 219, 323",Ergative alignment is present in the irrealis status.
+GB409_14,1,"Doornenbal 2009: 75, 84, 210, 214","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,1,"Doornenbal 2009: 13, 219-220, 226","In the context of a non-agentive argument A, ergative alignment is observed."
+GB409_16,1,"Doornenbal 2009: 13, 75, 307-308","In the context of a topical A, ergative alignment is shown."
+GB409_17,1,"Doornenbal 2009: 12, 101, 226, 307, 309","In the context of a non-topical A, ergative alignment is shown."
+GB409_18,1,"Doornenbal 2009: 12, 29, 73-75, 210",Clauses with animated A arguments exhibit ergative alignment.
+GB409_19,1,"Doornenbal 2009: 13, 74-75, 214, 219, 226",Clauses with non-animated A arguments exhibit ergative alignment.
+GB409_20,1,"Doornenbal 2009: 12-13, 29, 211, 219",Main clauses exhibit ergative alignment.
+GB409_21,1,"Doornenbal 2009: 196, 201, 323",Non-main clauses exhibit ergative alignment.
+GB409_22,1,"Doornenbal 2009: 76, 211","Ergative marking is conditioned by differential object marking. Although the standard pattern is Agent-ERG (-ʔa) and Patient-ABS (-Ø), the Patient (P) may be explicitly marked with the dative suffix -lai if it is animate, definite, or if emphasis is required to avoid ambiguity."
+GB409_23,0,"Doornenbal 2009: 73, 75, 78, 102",The ergative case does not have the same marker as the genitive case.
+GB409_24,1,"Doornenbal 2009: 73, 75, 84, 219","The ergative case has the same mark as the instrumental case, but is different from the comitative case."

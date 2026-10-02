@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,Nitsch 2009: 1-5,"Overt ABS markers: particles ye/ti for NPs, Class I pronouns (ako, ka, ya, hila) for persons (Chart 1, p.1; Chart 2, p.3)."
+GB409_2,1,"Nitsch 2009: 1-4, 6",Class I (ABS): ako (1sg); Class II (ERG): ko. Clear ABS/ERG distinction on 1st person pronouns.
+GB409_3,1,"Nitsch 2009: 1-5, 19",Class I (ABS): ka (2sg); Class II (ERG): mo. Clear ABS/ERG distinction.
+GB409_4,1,"Nitsch 2009: 1-5, 7","Class I (ABS): ya (3sg), hila (3pl); Class II (ERG): na (3sg), la (3pl). Clear ABS/ERG distinction."
+GB409_5,1,"Nitsch 2009: 1, 5",ABS particle ye/ti vs. ERG particle nin/ne for full NPs; consistent ERG alignment on full NPs.
+GB409_6,1,"Nitsch 2009: 4-5, 24",ERG alignment in progressive/imperfective aspect (aN- prefix); agent takes Class II (ERG).
+GB409_7,1,"Nitsch 2009: 12, 24",ERG alignment in perfective aspect (-in- infix); agent takes Class II (ERG).
+GB409_8,1,"Nitsch 2009: 12, 21",Past events (na- prefix) maintain ERG alignment.
+GB409_9,1,"Nitsch 2009: 4-5, 23",Non-past/future (m- prefix) clauses maintain ERG alignment.
+GB409_10,1,"Nitsch 2009: 1, 3-5, 12",Indicative declaratives consistently show ERG alignment.
+GB409_11,1,"Nitsch 2009: 1, 3, 5, 12, 19",Imperatives and other non-indicative forms maintain ERG alignment.
+GB409_12,1,"Nitsch 2009: 5, 12, 23",Completed/realis clauses maintain ERG alignment.
+GB409_13,1,"Nitsch 2009: 5, 7, 12, 19","Irrealis (future, imperative, purpose) maintains ERG alignment."
+GB409_14,1,"Nitsch 2009: 5, 7, 12",Agentive A (volitional actors) takes Class II (ERG) pronouns or ERG particle nin.
+GB409_15,?,Nitsch 2009: in passim,Source does not discuss non-agentive/experiencer A; insufficient data to determine.
+GB409_16,0,"Nitsch 2009: 4, 6, 9","In Philippine-type system, topical argument is always in ABS; A is always non-topical and ERG. GB409_16=0 is the canonical pattern."
+GB409_17,1,"Nitsch 2009: 1, 3, 5-6",Non-topical A takes nin/Class II (ERG) consistently in all transitive examples.
+GB409_18,1,"Nitsch 2009: 4-5, 12",All animate A in examples take ERG case.
+GB409_19,?,Nitsch 2009: in passim,No examples of inanimate A in this source; insufficient data.
+GB409_20,1,"Nitsch 2009: 1, 3-5",Main clauses consistently show ERG alignment.
+GB409_21,1,"Nitsch 2009: 6, 19","Subordinate clauses maintain ERG alignment (p.6, 19)."
+GB409_22,1,Nitsch 2009: 6,"Personal demonstrative pronouns never take ERG because their inherent definiteness requires them to be the absolutive argument (§1.3.1, p.6). Definiteness-based conditioning of ERG."
+GB409_23,1,"Nitsch 2009: 1-3, 5",Chart 1 (p.1) labels nin as 'ERG/GEN'; Class II pronouns used for both agent (ERG) and possessive (GEN) functions (pp.9-10).
+GB409_24,1,Nitsch 2009: 23,"Instrumental adverbs are case-marked with nin (the ERG/GEN marker): antoyhoken lan etak 'they are stabbing with machete' where etak (machete) = instrument marked with nin (§3.2.4, p.23)."

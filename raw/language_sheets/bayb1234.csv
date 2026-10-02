@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,Rubino 2005: 316-317,There is an explicit marker for the absolutive case.
+GB409_2,1,"Rubino 2005: 312, 315",First-person pronouns follow an ergative alignment pattern.
+GB409_3,1,"Rubino 2005: 312, 315",Second-person pronouns follow an ergative alignment pattern.
+GB409_4,1,"Rubino 2005: 312, 316",Third-person pronouns follow an ergative alignment pattern.
+GB409_5,1,"Rubino 2005: 316-317, 320",Full NP's exhibit ergative alignment.
+GB409_6,1,"Rubino 2005: 320-321, 326",Clauses with imperfective aspect exhibit ergative alignment.
+GB409_7,1,Rubino 2005: 320,Clauses with perfective aspect exhibit ergative alignment.
+GB409_8,1,"Rubino 2005: 312, 319-320",Past-tense clauses exhibit ergative alignment.
+GB409_9,1,"Rubino 2005: 320-321, 326",Clauses in non-past tense exhibit ergative alignment.
+GB409_10,1,"Rubino 2005: 312, 319-320",Clauses in indicative mode show an ergative alignment.
+GB409_11,1,"Rubino 2005: 320-321, 326",Clauses in non-indicative mode show an ergative alignment.
+GB409_12,1,Rubino 2005: 320,Clauses with realis status show ergative alignment.
+GB409_13,1,"Rubino 2005: 315, 320-321, 326",Clauses with irrealis status show ergative alignment.
+GB409_14,1,"Rubino 2005: 312, 320","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,1,"Rubino 2005: 320, 326","In the context of a non-agentive argument A, ergative alignment is observed."
+GB409_16,1,"Rubino 2005: 312, 320-321","In the context of a topical A, ergative alignment is shown."
+GB409_17,1,"Rubino 2005: 317, 320","In the context of a topical A, ergative alignment is shown."
+GB409_18,1,"Rubino 2005: 312, 317, 320",Clauses with animated A arguments exhibit ergative alignment.
+GB409_19,1,Rubino 2005: 316-317,Clauses with non-animated A arguments exhibit ergative alignment.
+GB409_20,1,"Rubino 2005: 312, 320",Main clauses exhibit ergative alignment.
+GB409_21,1,"Rubino 2005: 315, 324, 326",Non-main clauses exhibit ergative alignment.
+GB409_22,1,"Rubino 2005: 317, 320",Ergative marking is conditioned by the definiteness of the argument P.
+GB409_23,1,"Rubino 2005: 316-317, 320",The ergative case has the same mark as the genitive marker.
+GB409_24,1,"Rubino 2005: 312, 317, 320","The ergative case has the same mark as the instrumental marker, but there is no information about the comitative one."

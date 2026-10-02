@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Quigley 2002: 11, 13",There is no explicit marker for the absolutive case.
+GB409_2,1,"Quigley 2002: 20, 28",First-person pronouns show ergative alignment.
+GB409_3,1,"Quigley 2002: 14, 47, 107, 121",Second-person pronouns show ergative alignment.
+GB409_4,1,"Quigley 2002: 14, 61, 96",Third-person pronouns show ergative alignment.
+GB409_5,1,"Quigley 2002: 11, 14, 20, 43",Full NP's exhibit ergative alignment.
+GB409_6,1,"Quigley 2002: 14, 50",Ergative alignment occurs in the imperfective aspect.
+GB409_7,1,"Quigley 2002: 20, 82, 109",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Quigley 2002: 18, 20",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Quigley 2002: 11, 14, 26",Ergative alignment is applied in non-past times.
+GB409_10,1,"Quigley 2002: 11, 20, 61",Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,1,"Quigley 2002: 14, 26, 107",Ergative alignment occurs in sentences in the non-indicative mood.
+GB409_12,1,"Quigley 2002: 11, 14, 20, 61",Ergative alignment occurs in clauses with real status.
+GB409_13,1,"Quigley 2002: 14, 26, 79, 107",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,"Quigley 2002: 11, 20, 25",Ergative alignment exists in the context of an agentive A argument.
+GB409_15,1,"Quigley 2002: 14, 50",Ergative alignment exists in the context of a non-agentive argument A.
+GB409_16,1,"Quigley 2002: 11, 20, 61",Ergative alignment applies to topic arguments A.
+GB409_17,1,"Quigley 2002: 14, 48, 121",Ergative alignment occurs when argument A is not the main topic of the sentence.
+GB409_18,1,"Quigley 2002: 11, 14, 20, 43","Ergative alignment occurs in clauses with an animate argument A, whether human or non-human."
+GB409_19,1,"Quigley 2002: 22, 50, 115",Ergative alignment occurs in clauses with an inanimate argument A.
+GB409_20,1,"Quigley 2002: 11, 20",Ergative alignment occurs in main clauses.
+GB409_21,1,"Quigley 2002: 18, 58, 102",Non-principal clauses exhibit ergative alignment.
+GB409_22,0,Quigley 2002: 47-48,Ergative alignment is not conditioned by other factors.
+GB409_23,0,Quigley 2002: 20-21,The ergative marker and the genitive marker have different forms.
+GB409_24,1,Quigley 2002: 20,The ergative case has the same mark as the instrumental and comitative marker.

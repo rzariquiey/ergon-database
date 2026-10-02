@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,Otanes 1992: xvii-xviii,There is an explicit marker for the absolutive case.
+GB409_2,1,Otanes 1992: xviii-xx,First-person pronouns show ergative alignment.
+GB409_3,1,Otanes 1992: xiii-xx,Second-person pronouns show ergative alignment.
+GB409_4,1,Otanes 1992: xiii-xx,Third-person pronouns show ergative alignment.
+GB409_5,1,Otanes 1992: xvii-xviii,Full NP's exhibit ergative alignment.
+GB409_6,1,Otanes 1992: xxii-xxiii,Ergative alignment present in the imperfective aspect.
+GB409_7,1,"Otanes 1992: xxiii, xxv",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Otanes 1992: xviii, xxii",Ergative alignment occurs in past tense clauses.
+GB409_9,1,Otanes 1992: xxii,Ergative alignment applied in non-past times.
+GB409_10,1,"Otanes 1992: xviii, xxii-xxiii",Ergative alignment is presented in indicative mode.
+GB409_11,1,Otanes 1992: xxiv,Ergative alignment is presented in non-indicative mode.
+GB409_12,1,"Otanes 1992: xx, xxiii, xxvi",Ergative alignment is present in the realis status.
+GB409_13,1,"Otanes 1992: xxii, xxiv",Ergative alignment is present in the irrealis status.
+GB409_14,1,"Otanes 1992: xviii,xx, xxii","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,1,"Otanes 1992: xx, xxvi","In the context of a non-agentive argument A, ergative alignment is observed."
+GB409_16,1,"Otanes 1992: xvii, xxiii","In the context of a topical A, ergative alignment is shown."
+GB409_17,1,Otanes 1992: xvii-xviii,"In the context of a non-topical A, ergative alignment is shown."
+GB409_18,1,"Otanes 1992: xvii-xviii, xxi",Clauses with animated A arguments exhibit ergative alignment.
+GB409_19,1,Otanes 1992: xvii,Clauses with non-animated A arguments exhibit ergative alignment.
+GB409_20,1,"Otanes 1992: xvii-xviii, xxii-xxiii",Main clauses exhibit ergative alignment.
+GB409_21,1,Otanes 1992: xxiv,Non-main clauses exhibit ergative alignment.
+GB409_22,1,"Otanes 1992: xvii-xviii, xxv","Ergative alignment depends on the semantic properties of the object, such as the specificity and definiteness of the argument P."
+GB409_23,1,"Otanes 1992: xvii-xviii, xxii",The ergative case has the same mark as the genitive marker.
+GB409_24,0,Otanes 1992: xvii-xviii,The ergative case does not have the same marker as the instrumental or comitative marker.

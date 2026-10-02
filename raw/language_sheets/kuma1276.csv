@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Bril 2002: 31, 35, 51-52",There is no explicit marker for the absolutive case.
+GB409_2,0,Bril 2002: 40,First-person pronouns do not show a distinct ergative form; the same pronoun form is used for transitive A and intransitive S.
+GB409_3,0,Bril 2002: 40,Second-person pronouns do not show a distinct ergative form; the same pronoun form is used for transitive A and intransitive S.
+GB409_4,1,Bril 2002: 52,Third-person pronouns show ergative alignment; distinct agent forms exist.
+GB409_5,1,Bril 2002: 51-52,Full NPs exhibit ergative alignment with agent markers 'an' (common NPs) and 'ru' (oblique/focused NPs).
+GB409_6,1,"Bril 2002: 42, 50, 52",Ergative alignment occurs in the imperfective aspect.
+GB409_7,1,Bril 2002: 52-53,Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Bril 2002: 52, 205",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Bril 2002: 40, 50, 57",Ergative alignment is applied in non-past tenses.
+GB409_10,1,Bril 2002: 51-52,Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,1,"Bril 2002: 52, 60",Ergative alignment occurs in non-indicative moods.
+GB409_12,1,Bril 2002: 51-53,Ergative alignment occurs in clauses with realis status.
+GB409_13,1,"Bril 2002: 50, 52, 59, 118",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,Bril 2002: 52-53,Ergative alignment exists in the context of an agentive A argument.
+GB409_15,1,Bril 2002: 53,Ergative alignment exists in the context of a non-agentive A argument.
+GB409_16,0,Bril 2002: 57,"When A is thematized (fronted to pre-verbal position), the ergative marker is OBLIGATORILY removed (Bril 2002: §3.7.1, p.57: 'Le sujet thématisé du verbe transitif apparaît sans les marques d'agent an ou ru'). Corrected from original annotation 1→0."
+GB409_17,1,Bril 2002: 52-53,"When A is not thematized (basic VSO order), the ergative marker is present."
+GB409_18,1,"Bril 2002: 36, 51-53",Ergative alignment occurs in clauses with an animate A.
+GB409_19,1,"Bril 2002: 51, 53",Ergative alignment occurs in clauses with an inanimate A.
+GB409_20,1,Bril 2002: 51-52,Ergative alignment occurs in main clauses.
+GB409_21,1,"Bril 2002: 63, 220, 225",Non-main clauses exhibit ergative alignment.
+GB409_22,1,Bril 2002: 57,"Ergative alignment is conditioned by thematization: when A is fronted to initial position (SVO structure), the ergative marker is obligatorily removed. This is the additional conditioning factor."
+GB409_23,1,Bril 2002: 52,The agent marker 'an' is historically derived from the possessive/genitive marker; emphatic agent constructions productively combine the agent base with genitive suffixes (Bril 2002: 52). ERG=GEN confirmed.
+GB409_24,1,"Bril 2002: 53, 153",The agent marker 'ru' (used for focused/oblique agent NPs) also functions as the instrumental marker (Bril 2002: 153). Comitative uses different markers (bole-/ma). ERG=INST confirmed.

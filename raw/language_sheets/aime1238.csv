@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,Aiton 2016: 176-179,There is an explicit marker for the absolutive case.
+GB409_2,1,"Aiton 2016: 117, 119, 177","First-person pronouns show split ergative alignment, since the pronoun naːnaː (non-volitional) is used for both the S-argument and the P-argument, while nɛː is employed for the A-argument."
+GB409_3,1,"Aiton 2016: 117, 119",Second-person pronouns exhibit split ergative alignment.
+GB409_4,0,"Aiton 2016: 80, 117, 270","Third-person pronouns do not exhibit ergative alignment, as there is only one form (ɛː) that is used for both A and S, following a nominative-accusative pattern."
+GB409_5,1,"Aiton 2016: 176-177, 179",Full NP's exhibit ergative-absolutive alignment.
+GB409_6,1,Aiton 2016: 79,"Ergative marking can appear in clauses with imperfective aspect, since the case system remains active regardless of verbal aspect."
+GB409_7,1,"Aiton 2016: 177, 179, 231",Ergative alignment is evident in clauses with perfective aspect.
+GB409_8,1,"Aiton 2016: 177, 179, 360","Ergative alignment consistently appears in past-tense clauses, where transitive subjects are marked ergatively for pragmatic reasons, without distinction between types of past tense."
+GB409_9,1,Aiton 2016: 129,Ergative alignment also appears in non-past tenses.
+GB409_10,1,"Aiton 2016: 177, 179, 360","In the indicative mood, ergative alignment is the primary marking strategy in transitive clauses."
+GB409_11,1,"Aiton 2016: 129, 248",Ergative alignment also appears in non-indicative moods.
+GB409_12,1,"Aiton 2016: 79, 177","In the realis status, ergative alignment is common, although its use depends on pragmatic factors."
+GB409_13,1,"Aiton 2016: 129, 248",Ergative alignment also occurs in irrealis status.
+GB409_14,1,"Aiton 2016: 177, 179",Ergative alignment prototypically applies to agentive A arguments.
+GB409_15,0,"Aiton 2016: 185, 193",Ergative alignment does not apply to non-agentive A-arguments. Inanimate or uncontrolled causes are marked with the instrumental case (-kɛi).
+GB409_16,1,Aiton 2016: 188,"Ergative alignment does hold for topical A-arguments, since topicality does not interfere with case marking."
+GB409_17,1,Aiton 2016: 360-361,"Ergative alignment occurs when argument A is not topical, since in these contexts ergative marking serves a disambiguative function."
+GB409_18,1,"Aiton 2016: 177, 179, 360","Ergative alignment is primarily seen in animate arguments A, which typically play agentive and volitional roles."
+GB409_19,0,"Aiton 2016: 185, 363","Inanimate agents are marked with the instrumental case, reserving the ergative for prototypically animate agents."
+GB409_20,1,"Aiton 2016: 179, 360","Ergative alignment is clearly evident in main clauses, where the A argument of a transitive clause is marked ergatively, and the S and O arguments are marked with the absolutive."
+GB409_21,1,Aiton 2016: 315,"Ergative alignment also appears in non-main clauses, such as relative or dependent clauses."
+GB409_22,1,"Aiton 2016: 179, 360 -361","Its use is optional and is conditioned by pragmatic factors to avoid ambiguity, such as the non-canonical order of constituents and the contrastive focus."
+GB409_23,0,"Aiton 2016:  80, 123, 178, 186","The ergative and the genitive are not generally expressed with the same marker, although there is a case of homophony in a specific context."
+GB409_24,0,"Aiton 2016: 174, 178, 185",The ergative case does not have the same marker as the instrumental or comitative marker.

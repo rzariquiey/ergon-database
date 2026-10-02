@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,"Wu 2006: 79, 81, 87",There is an explicit marker for the absolutive case and is called the nominative.
+GB409_2,1,"Wu 2006: 70, 85, 285",First-person pronouns show ergative alignment.
+GB409_3,1,"Wu 2006: 75, 85-86",Second-person pronouns show ergative alignment.
+GB409_4,1,"Wu 2006: 85, 121, 285, 289",Third-person pronouns show ergative alignment.
+GB409_5,1,"Wu 2006: 79, 81, 87",Full NP's exhibit ergative alignment.
+GB409_6,1,Wu 2006: 98-99,Ergative alignment is present in the imperfective aspect.
+GB409_7,1,"Wu 2006: 87, 118, 123, 184",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Wu 2006: 87, 99, 123",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Wu 2006: 99, 285",Ergative alignment is applied in non-past times.
+GB409_10,1,"Wu 2006: 87, 285",Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,1,"Wu 2006: 106, 134, 134",Ergative alignment occurs in non-indicative moods.
+GB409_12,1,"Wu 2006: 87, 99, 104, 342",Ergative alignment occurs in clauses with real status.
+GB409_13,1,"Wu 2006: 99, 105-106, 285",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,"Wu 2006: 81, 87, 285",Ergative alignment exists in the context of an agentive A argument.
+GB409_15,1,"Wu 2006: 88, 199","Ergative alignment is present in the context of a non-agentive A, such as an inanimate causative or an experiencer of a psychological verb."
+GB409_16,1,"Wu 2006: 13, 381",Ergative alignment applies to topic arguments A.
+GB409_17,1,"Wu 2006: 87, 199, 221",Ergative alignment occurs when argument A is not the main topic of the sentence.
+GB409_18,1,"Wu 2006: 81, 87","Ergative alignment occurs in clauses with an animate argument A, whether human or non-human."
+GB409_19,1,"Wu 2006: 82, 215",Ergative alignment also occurs in clauses with an inanimate argument A.
+GB409_20,1,"Wu 2006: 81, 87, 285","An ergative alignment is present in the main clauses, although this is conditioned by the voice system of the verb, which makes it a split ergativity system."
+GB409_21,1,"Wu 2006: 341-342, 345-346","Ergative alignment is found in non-main clause constructions, particularly in relative clauses and in displacement constructions and nominal WH questions."
+GB409_22,1,Wu 2006: 285,"Ergative alignment is conditioned by the semantic properties of the arguments, specifically in a divided intransitivity system."
+GB409_23,1,"Wu 2006: 81, 296",The ergative and genitive markers are expressed with the same marker.
+GB409_24,0,"Wu 2006: 83, 391",The ergative case does not have the same marker as the instrumental or comitative marker.

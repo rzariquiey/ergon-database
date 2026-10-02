@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Sadock 2003: 66; Fortescue 1984: §2.1.1.1,ABS is zero-marked in the singular (bare stem); plural -t is not a dedicated ABS marker (shared with common plural). No overt ABS case marker. Original annotation of 1 was incorrect.
+GB409_2,0,Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2,1st and 2nd person pronouns have a single 'direct case' (DIR) form for all grammatical roles (Sadock §2.11.1.2: 'The first and second person pronouns have only one form for all the direct cases'). No distinct ERG form. Corrected from 1 to 0.
+GB409_3,0,Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2,Same as GB409_2: 2nd person pronouns use a single DIR form with no distinct ergative. Corrected from 1 to 0.
+GB409_4,1,Sadock 2003: 66; Fortescue 1984: §2.1.1.2.3,"No dedicated 3rd person pronouns; demonstratives serve as 3rd person and DO have distinct ERG forms (e.g., matuma = ERG singular of 'this'). Value 1 confirmed."
+GB409_5,1,Sadock 2003: 66; Fortescue 1984: §2.1.1.1,Full NPs take ERG/relative suffix -(u)p (singular) or -it (plural) as transitive subjects.
+GB409_6,1,Sadock 2003: 54; Fortescue 1984: in passim,ERG applies regardless of aspect; no aspect-based split documented in either source.
+GB409_7,1,Sadock 2003: 54; Fortescue 1984: in passim,ERG applies regardless of aspect; no aspect-based split documented.
+GB409_8,1,Sadock 2003: 54; Fortescue 1984: in passim,ERG marking not conditioned by tense; applies in all temporal contexts.
+GB409_9,1,Sadock 2003: 54; Fortescue 1984: in passim,ERG marking applies in non-past (including future -ssa-) without conditioning.
+GB409_10,1,"Sadock 2003: 54, 41",Indicative is the primary mood; ERG applies throughout.
+GB409_11,1,Sadock 2003: 54; Fortescue 1984: §1.7-1.9,WG has 9 moods; ERG applies across all of them including conjunctive and participial subordinate moods (Fortescue §1.7-1.9).
+GB409_12,1,"Sadock 2003: 54, 41",All declarative/realis contexts show ERG alignment.
+GB409_13,1,Sadock 2003: 54; Fortescue 1984: in passim,"In future/optative (irrealis-like) contexts, ERG still marks transitive subjects."
+GB409_14,1,Sadock 2003: 57 (§9.2.1.6),Sadock §9.2.1.6: 'the ergative marks the more agentive term of transitives.' Value filled in from empty cell.
+GB409_15,1,Fortescue 1984: §2.1.1.2.2; Sadock 2003: §9.2.1.6,Fortescue §2.1.1.2.2: 'no distinction between agentive/non-agentive.' Even non-agentive subjects of derived transitives retain ERG marking.
+GB409_16,1,Sadock 2003: 54; Fortescue 1984: §1.12,Topicality does not condition case marking (Fortescue §1.12: WG is not topic-prominent).
+GB409_17,1,Fortescue 1984: §1.12; Sadock 2003: §9.2.1,Same: topicality does not condition case marking; non-topical A also takes ERG.
+GB409_18,1,Sadock 2003: 54; Fortescue 1984: §2.1.1.2.2,Animate transitive subjects consistently take ERG (Fortescue §2.1.1.2.2).
+GB409_19,1,Fortescue 1984: §2.1.1.2.2; Sadock 2003: §9.2.1,Animacy does not condition ERG marking; inanimate transitive subjects also take -(u)p.
+GB409_20,1,Sadock 2003: 54; Fortescue 1984: §3.1-3.5,ERG applies in main clauses throughout.
+GB409_21,1,Fortescue 1984: §3.1-3.5; Sadock 2003: §9.3,"In subordinate clauses (conjunctive, participial, dependent moods), nominal transitive subjects retain ERG -(u)p."
+GB409_22,0,Sadock 2003: in passim; Fortescue 1984: in passim,"No additional conditioning beyond the core transitive subject function. Person-based split (GB409_2=0, GB409_3=0) is already captured in earlier features."
+GB409_23,1,Sadock 2003: 28 (§5.5.3.1); Fortescue 1984: §2.1.1.4.6,Possessor phrases take the same ERG/relative case -(u)p (Sadock §5.5.3.1; Fortescue §2.1.1.4.6). Explicit ERG=GEN syncretism.
+GB409_24,0,Sadock 2003: 57; Fortescue 1984: §2.1.1.4.3,"Instrumental = -mik (Fortescue §2.1.1.4.3), distinct from ERG -(u)p. Comitative expressed derivationally. No ERG=INST/COM syncretism."

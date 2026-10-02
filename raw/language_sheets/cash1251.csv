@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Zariquiey 2018: §6.7.1.3, p. 252; §15.2, p. 571",The absolutive is the unmarked case in Kakataibo. Both full NPs and pronouns in P function bear no case marker.
+GB409_2,0,"Zariquiey 2018: §5.1.1.1, p. 175; §1.3.6, p. 44","Pronouns follow tripartite alignment: A==(a)n, S==x, P=∅. This is NOT ergative alignment (S and P are not treated alike)."
+GB409_3,0,"Zariquiey 2018: §5.1.1.1, p. 175; §1.3.6, p. 44",Same as 1st person: tripartite alignment on pronouns. S and P are not treated alike.
+GB409_4,0,"Zariquiey 2018: §5.1.1.1, p. 175; §1.3.6, p. 44; ex. (4), p. 44",Same as 1st and 2nd person: tripartite alignment on pronouns.
+GB409_5,1,"Zariquiey 2018: §6.7.1.1, p. 250; §1.3.6, p. 44; ex. (5), p. 44; Table 26, p. 116","Full NPs follow ergative alignment: A marked with =(a)n / =nën (ERG), S and P unmarked (ABS)."
+GB409_6,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No aspect-based split is documented. Ergative alignment on full NPs applies regardless of aspect.
+GB409_7,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No aspect-based split is documented. Ergative alignment on full NPs applies regardless of aspect.
+GB409_8,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No tense-based split is documented. Ergative alignment on full NPs applies regardless of tense.
+GB409_9,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No tense-based split is documented. Ergative alignment on full NPs applies regardless of tense.
+GB409_10,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No mood-based split is documented. Ergative alignment on full NPs applies regardless of mood.
+GB409_11,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No mood-based split is documented. Ergative alignment on full NPs applies regardless of mood.
+GB409_12,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No realis/irrealis split is documented for case marking. Ergative alignment on full NPs applies in realis contexts.
+GB409_13,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No realis/irrealis split is documented for case marking. Ergative alignment on full NPs applies in irrealis contexts.
+GB409_14,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No agentivity-based split is documented. Ergative alignment on full NPs applies with agentive A.
+GB409_15,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No agentivity-based split is documented. Ergative alignment on full NPs applies with non-agentive A.
+GB409_16,1,"Zariquiey 2018: §6.7.1.1, p. 250; §16.5","No topicality-based split in basic case marking. Note: §16.5 documents discourse-level variation where NPs may follow tripartite alignment, but the default is ergative."
+GB409_17,1,"Zariquiey 2018: §6.7.1.1, p. 250; §16.5",No topicality-based split in basic case marking. Ergative alignment on full NPs applies with non-topical A.
+GB409_18,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No animacy-based split is documented. Ergative alignment on full NPs applies with animate A.
+GB409_19,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",No animacy-based split is documented. Ergative alignment on full NPs applies with inanimate A.
+GB409_20,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571",Ergative alignment on full NPs is documented in main clauses.
+GB409_21,1,"Zariquiey 2018: §6.7.1.1, p. 250; §15.2, p. 571; §14 (nominalization)",Ergative alignment on full NPs also applies in dependent/nominalized clauses.
+GB409_22,1,"Zariquiey 2018: §1.3.6, p. 44; §5.1.1.1, p. 175; §16.5",§16.5 documents discourse-level variation where NPs may follow tripartite alignment if referring to previously introduced topics.
+GB409_23,1,"Zariquiey 2018: Table 26, p. 116; §6.7.1.1, p. 250","Yes. The marker =(a)n expresses ergative, genitive, instrumental, and temporal locative functions (multifunctional marker)."
+GB409_24,1,"Zariquiey 2018: Table 26, p. 116; §6.7.1.1, p. 250; §6.7.1.4",Yes for instrumental: =(a)n marks both ergative and instrumental. No for comitative: comitative has distinct markers -bë(ton) and -këñun.

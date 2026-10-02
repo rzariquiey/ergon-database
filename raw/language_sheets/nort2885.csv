@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,"Daguman 2004: 58, 82, 86, 116",There is an explicit marker for the absolutive case.
+GB409_2,1,"Daguman 2004: 60-61, 65, 82",First-person pronouns show ergative alignment.
+GB409_3,1,"Daguman 2004: 47, 50, 82",Second-person pronouns show ergative alignment.
+GB409_4,1,"Daguman 2004: 47, 82",Third-person pronouns show ergative alignment.
+GB409_5,1,Daguman 2004: 116,Full NP's exhibit ergative-absolutive alignment.
+GB409_6,1,Daguman 2004: 262,Clauses with imperfective aspect exhibit ergative alignment.
+GB409_7,1,Daguman 2004: 116,Clauses with perfective aspect exhibit ergative alignment.
+GB409_8,1,Daguman 2004: 116,Past-tense clauses exhibit ergative alignment.
+GB409_9,1,"Daguman 2004: 262, 273, 331",Clauses in non-past tense exhibit ergative alignment.
+GB409_10,1,Daguman 2004: 116,Clauses in indicative mode show an ergative alignment.
+GB409_11,1,Daguman 2004: 502-503,Clauses in non-indicative mode show an ergative alignment.
+GB409_12,1,Daguman 2004: 116,Clauses with realis status show ergative alignment.
+GB409_13,1,"Daguman 2004: 262, 273",Clauses with irrealis status show ergative alignment.
+GB409_14,1,Daguman 2004: 116,"In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,1,"Daguman 2004: 403, 413, 422","In the context of a non-agentive argument A, ergative alignment is observed."
+GB409_16,1,"Daguman 2004: 65, 118, 150","In the context of a topical A, ergative alignment is shown."
+GB409_17,1,Daguman 2004: 116,"In the context of a non-topical A, ergative alignment is shown."
+GB409_18,1,Daguman 2004: 116-117,Clauses with animated A arguments exhibit ergative alignment.
+GB409_19,1,"Daguman 2004: 116, 473",Clauses with non-animated A arguments exhibit ergative alignment.
+GB409_20,1,"Daguman 2004: 116, 150",Main clauses exhibit ergative alignment.
+GB409_21,1,"Daguman 2004: 573, 576",Non-main clauses exhibit ergative alignment.
+GB409_22,1,"Daguman 2004: 114, 116, 153, 199, 207",Ergative marking is conditioned by the nature of the noun and by restrictions on the use of demonstratives.
+GB409_23,1,"Daguman 2004: 86, 123",The ergative case has the same mark as the genitive marker.
+GB409_24,1,"Daguman 2004: 116, 123",The ergative case has the same mark as the instrumental and comitative marker.

@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Rapacha 2008: 23, 56",There is no explicit marker for the absolutive case.
+GB409_2,1,"Rapacha 2008: 23, 56",First-person pronouns show ergative alignment.
+GB409_3,1,"Rapacha 2008: 46, 50",Second-person pronouns show ergative alignment.
+GB409_4,1,"Rapacha 2008: 23, 47, 56",Third-person pronouns show ergative alignment.
+GB409_5,1,"Rapacha 2008: 23, 56, 65",Full NP's exhibit ergative alignment.
+GB409_6,1,"Rapacha 2008: 46-47, 56",Ergative alignment present in the imperfective aspect.
+GB409_7,1,"Rapacha 2008: 23, 44, 56",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Rapacha 2008: 23, 47, 56",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Rapacha 2008: 49-50, 56",Ergative alignment applied in non-past times.
+GB409_10,1,"Rapacha 2008: 23, 49, 56",Ergative alignment is presented in indicative mode.
+GB409_11,1,"Rapacha 2008: 40, 54, 61",Ergative alignment is presented in non-indicative mode.
+GB409_12,1,"Rapacha 2008: 23, 47, 56",Ergative alignment is present in the realis status.
+GB409_13,1,"Rapacha 2008: 49, 54, 56, 60",Ergative alignment is present in the irrealis status.
+GB409_14,1,"Rapacha 2008: 23, 50, 56",The subjects of agentive transitive verbs are marked with the ergative case.
+GB409_15,1,"Rapacha 2008: 50, 61",The subjects of non-agentive transitive verbs are marked with the ergative case.
+GB409_16,1,"Rapacha 2008: 23, 47, 65-66",Ergative alignment occurs with topical A arguments.
+GB409_17,1,"Rapacha 2008: 51, 61",Ergative alignment occurs with non-topical A arguments.
+GB409_18,1,"Rapacha 2008: 23, 51, 56, 58",The ergative case marker is present for animate arguments A.
+GB409_19,1,Rapacha 2008: 23,The ergative case marker is present for inanimate arguments A.
+GB409_20,1,"Rapacha 2008: 23, 56",Ergative alignment is present in the main clauses.
+GB409_21,1,Rapacha 2008: 66,Ergative alignment is present in the non-main clauses.
+GB409_22,1,"Rapacha 2008: 20, 23, 56","Ergative alignment is conditioned by time, animacy and differential marking and object."
+GB409_23,0,Rapacha 2008: 23-24,The ergative mark and the genitive are not expressed with the same marker.
+GB409_24,1,Rapacha 2008: 23,"The ergative case has the same mark as the instrumental case, but is different from the comitative case."

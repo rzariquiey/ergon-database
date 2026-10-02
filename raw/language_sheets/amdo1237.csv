@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Haller 2004: 62, 74, 81",There is no explicit marker for the absolutive case.
+GB409_2,1,Haller 2004: 62,First-person pronouns show ergative alignment.
+GB409_3,1,Haller 2004: 62,Second-person pronouns show ergative alignment.
+GB409_4,1,Haller 2004: 62,Third-person pronouns show ergative alignment.
+GB409_5,1,"Haller 2004: 62, 81",Full NP's exhibit ergative alignment.
+GB409_6,1,"Haller 2004: 76, 81, 137",Ergative alignment is present in the imperfective aspect.
+GB409_7,1,"Haller 2004: 74, 82, 141",Ergative alignment occurs in the perfective aspect. The ergative marking system is independent of the verbal aspect.
+GB409_8,1,"Haller 2004: 74, 82, 141",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Haller 2004: 76, 81, 137",Ergative alignment is applied in non-past times.
+GB409_10,1,"Haller 2004: 74, 81",Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,1,"Haller 2004: 70, 148, 150",Ergative alignment occurs in non-indicative moods.
+GB409_12,1,"Haller 2004: 74, 76, 81-82",Ergative alignment occurs in clauses with real status.
+GB409_13,1,"Haller 2004: 145, 147-148, 161",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,"Haller 2004: 74-75, 135",Ergative alignment exists in the context of an agentive A argument.
+GB409_15,1,"Haller 2004: 111, 128","Ergative alignment is present in the context of a non-agentive A, specifically with transitive verb experiencers."
+GB409_16,1,Haller 2004: 81,Ergative alignment applies to topic arguments A.
+GB409_17,1,Haller 2004: 157,Ergative alignment occurs when argument A is not the main topic of the sentence.
+GB409_18,1,"Haller 2004: 74, 76, 81, 94","Ergative alignment occurs in clauses with an animate argument A, whether human or non-human."
+GB409_19,1,"Haller 2004: 63, 112","Ergative alignment also occurs in clauses with an inanimate argument A, although these cases typically express the cause or instrument of an action rather than a volitional agent."
+GB409_20,1,"Haller 2004: 74, 81",Ergative alignment occurs in main clauses.
+GB409_21,1,"Haller 2004: 137, 157",Ergative alignment is maintained in non-main clauses.
+GB409_22,1,"Haller 2004: 74, 81","Ergative alignment is conditioned by the semantic class of the verb. Verbs are divided into ""controllable"" and ""uncontrollable,"" and the case marking of arguments depends on this classification."
+GB409_23,1,Haller 2004: 62,The ergative and genitive markers are expressed with the same marker.
+GB409_24,1,Haller 2004: 63,The ergative case has the same mark as the instrumental and comitative marker.

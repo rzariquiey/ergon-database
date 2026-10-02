@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Casilimas Rojas 1995: 141-142,There is no explicit marker for the absolutive case.
+GB409_2,1,"Casilimas Rojas 1995: 141-142, 187",First-person pronouns show ergative alignment.
+GB409_3,1,Casilimas Rojas 1995: 143,Second-person pronouns show ergative alignment.
+GB409_4,1,Casilimas Rojas 1995: 142,Third-person pronouns show ergative alignment.
+GB409_5,1,"Casilimas Rojas 1995: 187, 189",Full NP's exhibit ergative alignment.
+GB409_6,1,"Casilimas Rojas 1995: 193, 202",Ergative alignment is present in the imperfective aspect.
+GB409_7,1,"Casilimas Rojas 1995: 194, 196",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Casilimas Rojas 1995: 187, 194",Ergative alignment is present in past tense clauses.
+GB409_9,1,Casilimas Rojas 1995: 192-193,Ergative alignment is applied in non-past times.
+GB409_10,1,"Casilimas Rojas 1995: 188, 194",Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,0,Casilimas Rojas 1995: 126,Ergative alignment does not occur in non-indicative modes.
+GB409_12,1,"Casilimas Rojas 1995: 142, 187, 193-194",Ergative alignment occurs in clauses with real status.
+GB409_13,1,"Casilimas Rojas 1995: 126, 210, 224",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,"Casilimas Rojas 1995: 187, 194, 211",Ergative alignment exists in the context of an agentive A argument.
+GB409_15,1,Casilimas Rojas 1995: 143,"Ergative alignment is also present in the context of a non-agentive A, such as the experiencer of a perception verb."
+GB409_16,1,"Casilimas Rojas 1995: 142, 197",Ergative alignment applies to topic arguments A.
+GB409_17,1,"Casilimas Rojas 1995: 153, 210",Ergative alignment occurs when argument A is not the main topic of the sentence.
+GB409_18,1,"Casilimas Rojas 1995: 143, 186, 210","Ergative alignment occurs in clauses with an animate argument A, whether human or non-human."
+GB409_19,?,Casilimas Rojas 1995: in passim,"Based on the information provided in the document, it is not possible to determine this feature with certainty."
+GB409_20,1,Casilimas Rojas 1995: 141-142,Ergative alignment occurs in main clauses.
+GB409_21,1,Casilimas Rojas 1995: 140,"Ergative alignment occurs in non-main clauses, such as relative clauses."
+GB409_22,0,"Casilimas Rojas 1995: 140-142, 186",Ergative alignment is not conditioned by other factors.
+GB409_23,0,"Casilimas Rojas 1995: 87, 110, 138-139, 142",The ergative marker does not have the same form as the genitive marker.
+GB409_24,0,"Casilimas Rojas 1995: 142, 146, 152",The ergative case does not have the same marker as the instrumental or comitative marker.

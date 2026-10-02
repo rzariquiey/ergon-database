@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Reichle 1981: 7, 23, 25-26, 35",There is not explicit marker for the absolutive case.
+GB409_2,1,"Reichle 1981: 24, 143-145",First-person pronouns show nominative-accusative alignment.
+GB409_3,1,"Reichle 1981: 67, 143-145",Second-person pronouns show nominative-accusative alignment.
+GB409_4,1,Reichle 1981: 143-145,Third-person pronouns show ergative alignment.
+GB409_5,1,"Reichle 1981: 7, 26, 35-36, 51",Full NP's exhibit ergative alignment.
+GB409_6,1,"Reichle 1981: 14, 62",Ergative alignment occurs in the imperfective aspect.
+GB409_7,1,"Reichle 1981: 27, 62",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Reichle 1981: 28, 61",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Reichle 1981: 48, 152",Ergative alignment is applied in non-past times.
+GB409_10,1,"Reichle 1981: 26, 36",Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,1,"Reichle 1981: 49, 78, 158, 166",Ergative alignment occurs in sentences in the non-indicative mood.
+GB409_12,1,"Reichle 1981: 26-28, 36, 174",Ergative alignment occurs in clauses with real status.
+GB409_13,1,"Reichle 1981: 26, 48, 72, 78",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,"Reichle 1981: 27-29, 35",Ergative alignment exists in the context of an agentive A argument.
+GB409_15,1,Reichle 1981: 26-27,Ergative alignment exists in the context of a non-agentive argument A.
+GB409_16,1,"Reichle 1981: 26, 35-36, 152",Ergative alignment applies to topic arguments A.
+GB409_17,1,"Reichle 1981: 78, 158, 166",Ergative alignment occurs when argument A is not the main topic of the sentence.
+GB409_18,1,"Reichle 1981: 28, 36, 211","Ergative alignment occurs in clauses with an animate argument A, whether human or non-human."
+GB409_19,1,"Reichle 1981: 33, 72, 159, 193",Ergative alignment occurs in clauses with an inanimate argument A.
+GB409_20,1,"Reichle 1981: 26, 35-36, 211",Ergative alignment occurs in main clauses.
+GB409_21,1,"Reichle 1981: 72, 93, 106",Non-principal clauses exhibit ergative alignment.
+GB409_22,0,"Reichle 1981: 29, 35-36",Ergative alignment is not conditioned by any other factor.
+GB409_23,0,"Reichle 1981: 26, 39-40",The ergative case does not have the same mark as the genitive marker.
+GB409_24,0,"Reichle 1981: 29, 32, 35, 127",The ergative case does not have the same marker as the instrumental or comitative marker.

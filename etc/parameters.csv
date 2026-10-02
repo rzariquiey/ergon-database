@@ -1,0 +1,25 @@
+ID,Name,Description,Domain,Subdomain,Paired_with,Grambank_parent
+GB409_1,Overt absolutive,Is there an overt marker for the absolutive?,Form of the marker,Absolutive marking,,GB409
+GB409_2,ERG on 1st person pronouns,Is there ergative alignment of flagging on first person pronouns?,Nominal category,Person/NP type,,GB409
+GB409_3,ERG on 2nd person pronouns,Is there ergative alignment of flagging on second person pronouns?,Nominal category,Person/NP type,,GB409
+GB409_4,ERG on 3rd person pronouns,Is there ergative alignment of flagging on third person pronouns?,Nominal category,Person/NP type,,GB409
+GB409_5,ERG on full NPs,Is there ergative alignment of flagging on full NPs?,Nominal category,Person/NP type,,GB409
+GB409_6,ERG in imperfective,Is there ergative alignment of flagging in the imperfective aspect?,Clausal context,Aspect,GB409_7,GB409
+GB409_7,ERG in perfective,Is there ergative alignment of flagging in the perfective aspect?,Clausal context,Aspect,GB409_6,GB409
+GB409_8,ERG in past,Is there ergative alignment of flagging in the past tense?,Clausal context,Tense,GB409_9,GB409
+GB409_9,ERG in non-past,Is there ergative alignment of flagging in non-past tenses?,Clausal context,Tense,GB409_8,GB409
+GB409_10,ERG in indicative,Is there ergative alignment of flagging in the indicative mood?,Clausal context,Mood,GB409_11,GB409
+GB409_11,ERG in non-indicative,Is there ergative alignment of flagging in non-indicative moods?,Clausal context,Mood,GB409_10,GB409
+GB409_12,ERG in realis,Is there ergative alignment of flagging in the realis status?,Clausal context,Reality status,GB409_13,GB409
+GB409_13,ERG in irrealis,Is there ergative alignment of flagging in the irrealis status?,Clausal context,Reality status,GB409_12,GB409
+GB409_14,ERG with agentive A,Is there ergative alignment of flagging in the context of an agentive A?,Properties of A,Agentivity,GB409_15,GB409
+GB409_15,ERG with non-agentive A,Is there ergative alignment of flagging in the context of a non-agentive A?,Properties of A,Agentivity,GB409_14,GB409
+GB409_16,ERG with topical A,Is there ergative alignment of flagging in the context of a topical A?,Properties of A,Topicality,GB409_17,GB409
+GB409_17,ERG with non-topical A,Is there ergative alignment of flagging in the context of a non-topical A?,Properties of A,Topicality,GB409_16,GB409
+GB409_18,ERG with animate A,Is there ergative alignment of flagging in the context of an animate A?,Properties of A,Animacy,GB409_19,GB409
+GB409_19,ERG with inanimate A,Is there ergative alignment of flagging in the context of an inanimate A?,Properties of A,Animacy,GB409_18,GB409
+GB409_20,ERG in main clauses,Is there ergative alignment of flagging in main clauses?,Clausal context,Clause type,GB409_21,GB409
+GB409_21,ERG in non-main clauses,Is there ergative alignment of flagging in non-main clauses?,Clausal context,Clause type,GB409_20,GB409
+GB409_22,ERG conditioned by other factor,Is ergative alignment of flagging conditioned by any other factor?,Other conditioning,Other,,GB409
+GB409_23,ERG = GEN,Are the ergative and the genitive expressed by the same marker?,Form of the marker,Syncretism,,GB409
+GB409_24,ERG = INS/COM,Are the ergative and the instrumental/comitative expressed by the same marker?,Form of the marker,Syncretism,,GB409

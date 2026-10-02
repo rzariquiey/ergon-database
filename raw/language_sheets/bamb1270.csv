@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Campbell 1989: 48-49,There is an explicit marker for the absolutive case.
+GB409_2,0,"Campbell 1989: 41, 47-49","Not flagging: Campbell (1989:47) states 'absolutive/ergative case inflections are limited to the arguments represented by pronominal affixes on the verb stem. There are no case markings on nouns.' Table 5 (p.48) shows ergative prefixes (ku-, mu-, na-) and absolutive clitics (-aq, -ko, -i) attached to the verb, not to NPs. Free pronouns show no case distinction."
+GB409_3,0,"Campbell 1989: 33, 47-49","Not flagging: Campbell (1989:47) states 'absolutive/ergative case inflections are limited to the arguments represented by pronominal affixes on the verb stem. There are no case markings on nouns.' These are ergative prefixes and absolutive clitics on the verb (indexing), not case flagging on NPs."
+GB409_4,0,Campbell 1989: 47-50,"Not flagging: Campbell (1989:47) states 'absolutive/ergative case inflections are limited to the arguments represented by pronominal affixes on the verb stem. There are no case markings on nouns.' These are ergative prefixes and absolutive clitics on the verb (indexing), not case flagging on NPs."
+GB409_5,0,"Campbell 1989: 12, 47, 55","Full NP's do not exhibit ergative alignment, but rather exhibit pronominal indexing on the verb."
+GB409_6,0,"Campbell 1989: 127, 131","Clauses with imperfective aspect do not exhibit ergative alignment, but rather exhibit pronominal indexing on the verb."
+GB409_7,0,"Campbell 1989: 55, 127, 130","Clauses with perfective aspect do not exhibit ergative alignment, but rather exhibit pronominal indexing on the verb."
+GB409_8,0,"Campbell 1989: 55, 60, 127, 130","Past-tense clauses do not exhibit ergative alignment, but rather exhibit pronominal indexing on the verb."
+GB409_9,0,"Campbell 1989: 55, 140","Clauses in non-past tense do not exhibit ergative alignment, but rather exhibit pronominal indexing on the verb."
+GB409_10,0,"Campbell 1989: 12, 47, 55","Clauses in indicative mode do not show an ergative alignment, but rather exhibit pronominal indexing on the verb."
+GB409_11,0,"Campbell 1989: 56, 153, 155","Clauses in non-indicative mode do not show an ergative alignment, but rather exhibit pronominal indexing on the verb."
+GB409_12,0,"Campbell 1989: 55, 60, 140","Clauses with realis status do not show ergative alignment, but rather exhibit pronominal indexing on the verb."
+GB409_13,0,"Campbell 1989: 12, 55, 139-140","Clauses with irrealis status do not show ergative alignment, but rather exhibit pronominal indexing on the verb."
+GB409_14,0,"Campbell 1989: 55-56, 60","In the context of an agentive A argument, ergative alignment is not observed."
+GB409_15,0,"Campbell 1989: 12, 55, 106","In the context of a non-agentive argument A, ergative alignment is not observed."
+GB409_16,0,Campbell 1989: 53-55,"In the context of a topical A, ergative alignment is not shown."
+GB409_17,0,"Campbell 1989: 47, 55","In the context of a topical A, ergative alignment is not shown."
+GB409_18,0,"Campbell 1989: 12, 56",Clauses with animated A arguments do not exhibit ergative alignment.
+GB409_19,0,Campbell 1989: 94-95,Clauses with non-animated A arguments do not exhibit ergative alignment.
+GB409_20,0,"Campbell 1989: 49, 55",Main clauses exhibit ergative alignment.
+GB409_21,0,"Campbell 1989: 52, 109",Non-main clauses exhibit ergative alignment.
+GB409_22,0,"Campbell 1989: 12, 55-56","Ergative marking is conditioned by the nature of NP. Specifically, the system is one of split ergativity: the ergative-absolutive marking occurs only in bound pronouns and free pronouns have no morphological case marking."
+GB409_23,0,"Campbell 1989: 48, 52",The ergative case has the same mark as the genitive marker.
+GB409_24,0,"Campbell 1989: 12, 100, 119",The ergative case does not have the same marker as the instrumental or comitative marker.

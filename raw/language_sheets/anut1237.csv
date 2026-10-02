@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Feinberg 1977: 14, 18, 21",There is no explicit marker for the absolutive case.
+GB409_2,1,Feinberg 1977: 14-18,First-person pronouns show ergative alignment.
+GB409_3,1,Feinberg 1977: 14-18,Second-person pronouns show ergative alignment.
+GB409_4,1,Feinberg 1977: 14-18,Third-person pronouns show ergative alignment.
+GB409_5,1,"Feinberg 1977: 17-18,  21, 24",Full NP's exhibit ergative alignment.
+GB409_6,?,Feinberg 1977: in passim,"Based on the information provided in the document, it is not possible to determine this feature with certainty."
+GB409_7,1,"Feinberg 1977: 18, 21",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Feinberg 1977: 17-18, 21",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Feinberg 1977: 17-18, 21",Ergative alignment is applied in non-past times.
+GB409_10,1,"Feinberg 1977: 17-18, 21-22",Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,?,Feinberg 1977: in passim,"Based on the information provided in the document, it is not possible to determine this feature with certainty."
+GB409_12,1,"Feinberg 1977:  17-18, 21",Ergative alignment occurs in clauses with real status.
+GB409_13,1,"Feinberg 1977: 17-18, 21-22",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,"Feinberg 1977: 17-18, 21",Ergative alignment exists in the context of an agentive A argument.
+GB409_15,?,Feinberg 1977: in passim,"Based on the information provided in the document, it is not possible to determine this feature with certainty."
+GB409_16,1,"Feinberg 1977: 14, 17-18",Ergative alignment applies to topic arguments A.
+GB409_17,1,Feinberg 1977: 17-18,Ergative alignment occurs when argument A is not the main topic of the sentence.
+GB409_18,1,"Feinberg 1977: 17-18, 21","Ergative alignment occurs in clauses with an animate argument A, whether human or non-human."
+GB409_19,?,Feinberg 1977: in passim,"Based on the information provided in the document, it is not possible to determine this feature with certainty."
+GB409_20,1,"Feinberg 1977: 17-18, 21",Ergative alignment occurs in main clauses.
+GB409_21,0,Feinberg 1977: 21-23,Non-principal clauses do not exhibit ergative alignment.
+GB409_22,0,Feinberg 1977: 17-18,Ergative alignment is not conditioned by other factors.
+GB409_23,0,Feinberg 1977: 17-18,The ergative marker and the genitive marker have different forms.
+GB409_24,0,"Feinberg 1977:  14-15, 17",The ergative case does not have the same marker as the instrumental or comitative marker.

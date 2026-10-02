@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Terrill 1998: 14-15,There is not explicit marker for the absolutive case.
+GB409_2,0,"Terrill 1998: 14, 23",First-person pronouns show nominative alignment.
+GB409_3,0,Terrill 1998: 23-24,Second-person pronouns show nominative alignment.
+GB409_4,0,Terrill 1998: 24,Third-person pronouns show nominative alignment.
+GB409_5,1,Terrill 1998: 14-15,Full NP's exhibit ergative-absolutive alignment.
+GB409_6,1,Terrill 1998: 37-38,Clauses with imperfective aspect exhibit ergative alignment.
+GB409_7,1,"Terrill 1998: 20, 36",Clauses with perfective aspect exhibit ergative alignment.
+GB409_8,1,Terrill 1998: 36,Past-tense clauses exhibit ergative alignment.
+GB409_9,1,"Terrill 1998: 15, 35",Clauses in non-past tense exhibit ergative alignment.
+GB409_10,1,"Terrill 1998: 15, 26",Clauses in indicative mode show an ergative alignment.
+GB409_11,1,"Terrill 1998: 38, 50",Clauses in non-indicative mode show an ergative alignment.
+GB409_12,1,Terrill 1998: 35-36,Clauses with realis status show ergative alignment.
+GB409_13,1,"Terrill 1998: 15, 36",Clauses with irrealis status show ergative alignment.
+GB409_14,1,"Terrill 1998: 15-16, 20","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,1,"Terrill 1998: 18, 62","In the context of a non-agentive argument A, ergative alignment is observed."
+GB409_16,1,"Terrill 1998: 15, 29","In the context of a topical A, ergative alignment is shown."
+GB409_17,1,"Terrill 1998: 15, 39","In the context of a non-topical A, ergative alignment is shown."
+GB409_18,1,"Terrill 1998: 15, 36",Clauses with animated A arguments do exhibit ergative alignment.
+GB409_19,1,"Terrill 1998: 39, 51",Clauses with non-animated A arguments do exhibit ergative alignment.
+GB409_20,1,Terrill 1998: 14-15,Main clauses do exhibit ergative alignment.
+GB409_21,1,"Terrill 1998: 35, 59, 62",Non-main clauses exhibit ergative alignment.
+GB409_22,1,"Terrill 1998: 14, 23, 38",The ergative mark is conditioned by word class or noun phrase type (animacy/pronominality hierarchy).
+GB409_23,0,"Terrill 1998: 14,17",The ergative case does not have the same marker as the genitive case.
+GB409_24,1,Terrill 1998: 14-15,"The ergative case has the same mark as the instrumental case, but is different from the comitative case."

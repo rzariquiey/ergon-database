@@ -1,0 +1,8 @@
+# Tested with Python 3.13.15
+pycldf==2.1.1
+csvw==4.1.0
+clldutils==4.0.0
+pybtex==0.26.1
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2

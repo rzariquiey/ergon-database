@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Wilson 2002: 11, 13, 44",There is not an explicit marker for the absolutive case.
+GB409_2,1,"Wilson 2002: 13, 30",First-person pronouns follow an ergative alignment pattern.
+GB409_3,1,"Wilson 2002: 13, 16, 38",Second-person pronouns follow an ergative alignment pattern.
+GB409_4,1,"Wilson 2002: 12, 39, 46",Third-person pronouns follow an ergative alignment pattern.
+GB409_5,1,"Wilson 2002: 27, 36, 44",Full NP's exhibit ergative alignment.
+GB409_6,1,"Wilson 2002: 23, 27",Clauses with imperfective aspect exhibit ergative alignment.
+GB409_7,1,"Wilson 2002: 23, 44",Clauses with perfective aspect exhibit ergative alignment.
+GB409_8,1,"Wilson 2002: 12, 23, 44",Past-tense clauses exhibit ergative alignment.
+GB409_9,1,"Wilson 2002: 13, 27",Clauses in non-past tense exhibit ergative alignment.
+GB409_10,1,"Wilson 2002: 23, 27",Clauses in indicative mode show an ergative alignment.
+GB409_11,0,Wilson 2002: 32,Clauses in non-indicative mode do not show an ergative alignment.
+GB409_12,1,"Wilson 2002: 14, 27, 44",Clauses with realis status show ergative alignment.
+GB409_13,1,"Wilson 2002: 13, 38",Clauses with irrealis status show ergative alignment.
+GB409_14,1,"Wilson 2002: 12, 37, 44","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,0,"Wilson 2002: 10, 15, 23","In the context of a non-agentive argument A, ergative alignment is not observed."
+GB409_16,0,"Wilson 2002: 13, 24, 44","In the context of a topical A, ergative alignment is not shown."
+GB409_17,1,"Wilson 2002: 12-13, 23","In the context of a topical A, ergative alignment is shown."
+GB409_18,1,"Wilson 2002: 23, 27, 44",Clauses with animated A arguments exhibit ergative alignment.
+GB409_19,0,Wilson 2002: 23,Clauses with non-animated A arguments do not exhibit ergative alignment.
+GB409_20,1,"Wilson 2002: 23, 27, 44",Main clauses exhibit ergative alignment.
+GB409_21,1,"Wilson 2002: 12, 46",Non-main clauses exhibit ergative alignment.
+GB409_22,0,Wilson 2002: in passim,Ergative alignment is not conditioned by any other factor.
+GB409_23,0,"Wilson 2002: 10, 12, 44",The ergative case has the same mark as the genitive marker.
+GB409_24,1,"Wilson 2002: 11, 23, 46","The ergative case has the same mark as the instrumental case, but is different from the comitative case."

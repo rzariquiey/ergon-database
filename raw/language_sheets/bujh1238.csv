@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Regmi 2007: 156, 158",There is not an explicit marker for the absolutive case.
+GB409_2,1,"Regmi 2007: 156-157, 184",First-person pronouns show ergative alignment.
+GB409_3,1,"Regmi 2007: 157, 184",Second-person pronouns show ergative alignment.
+GB409_4,1,"Regmi 2007: 156-157, 184",Third-person pronouns show ergative alignment.
+GB409_5,1,"Regmi 2007: 156, 285, 289",Full NP's exhibit ergative alignment.
+GB409_6,1,"Regmi 2007: 156-157, 392",Ergative alignment present in the imperfective aspect.
+GB409_7,1,"Regmi 2007: 156-157, 216",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Regmi 2007: 156-157, 213, 395",Ergative alignment occurs in past tense clauses.
+GB409_9,1,Regmi 2007: 156-157,Ergative alignment applied in non-past times.
+GB409_10,1,"Regmi 2007: 156, 285",Ergative alignment is presented in indicative mode.
+GB409_11,1,"Regmi 2007: 314, 318, 321",Ergative alignment is presented in non-indicative mode.
+GB409_12,1,"Regmi 2007: 156-157, 395",Ergative alignment is present in the realis status.
+GB409_13,1,"Regmi 2007: 156, 161, 318, 322",Ergative alignment is present in the irrealis status.
+GB409_14,1,"Regmi 2007: 156-157, 284-285","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,1,"Regmi 2007: 162, 165, 426","In the context of a non-agentive argument A, ergative alignment is observed."
+GB409_16,1,"Regmi 2007: 156, 286-287","In the context of a topical A, ergative alignment is shown."
+GB409_17,1,Regmi 2007: 287,"In the context of a non-topical A, ergative alignment is shown."
+GB409_18,1,Regmi 2007: 156-157,Clauses with animated A arguments exhibit ergative alignment.
+GB409_19,1,"Regmi 2007: 156, 171",Clauses with non-animated A arguments exhibit ergative alignment.
+GB409_20,1,Regmi 2007: 285,Main clauses exhibit ergative alignment.
+GB409_21,1,"Regmi 2007: 338, 342, 344",Non-main clauses exhibit ergative alignment.
+GB409_22,1,"Regmi 2007: 163, 175, 396","Ergative alignment is conditioned by the semantic properties of the object, specifically humanity and definiteness."
+GB409_23,0,"Regmi 2007: 158, 166",The ergative case do not have the same mark as the genitive marker.
+GB409_24,1,"Regmi 2007: 158, 161","The ergative case has the same mark as the instrumental case, but is different from the comitative case."

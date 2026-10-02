@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Neely 2019,Absolutive = zero (unmarked); nouns in absolutive case bear no overt suffix
+GB409_2,0,Neely 2019,1st person pronouns follow NOM/ACC alignment: ẽ (NOM=A/S) vs. ea (ACC=P); no ergative marking
+GB409_3,0,Neely 2019,2nd person pronouns follow NOM/ACC alignment: mĩ (NOM=A/S) vs. bia (ACC=P); no ergative marking
+GB409_4,0,Neely 2019,"3rd person pronouns: a (3SG, unmarked), atu (3PL.ABS); no distinct ergative pronoun form attested"
+GB409_5,1,Neely 2019,"Full NPs take ergative suffix -N (syncretic with instrumental) on A argument; e.g. tsua-N 'who-ERG', wede-N 'husband-ERG'"
+GB409_6,1,Neely 2019,Ergative marking on full NPs attested in imperfective contexts throughout corpus
+GB409_7,1,Neely 2019,Ergative marking on full NPs attested in perfective contexts throughout corpus
+GB409_8,1,Neely 2019,Ergative marking on full NPs attested in past tense contexts (PST1–PST6 all attested with -N)
+GB409_9,1,Neely 2019,Ergative marking on full NPs attested in non-past (future imperfective) contexts
+GB409_10,1,Neely 2019,Ergative marking on full NPs attested in indicative mood contexts
+GB409_11,1,Neely 2019,"Non-indicative moods (imperative, optative, hortative) not described for NP case alternations; unclear"
+GB409_12,1,Neely 2019,Ergative marking on full NPs attested in realis contexts
+GB409_13,1,Neely 2019,Irrealis/desiderative contexts: no explicit description of NP case alternation; unclear
+GB409_14,1,Neely 2019,No evidence of agentivity-based split; ergative marking applies to A of transitive regardless of agentivity
+GB409_15,1,Neely 2019,No evidence of topicality-based split in NP flagging
+GB409_16,1,Neely 2019,No evidence of animacy-based split in NP flagging
+GB409_17,1,Neely 2019,Ergative marking on full NPs attested in main clauses
+GB409_18,1,Neely 2019,Complement clauses: switch-reference system described but NP case in complements not explicitly discussed
+GB409_19,1,Neely 2019,Ergative marking on full NPs attested in adverbial/switch-reference clauses (e.g. DS clauses)
+GB409_20,1,Neely 2019,Relative clauses: not explicitly described in available sections
+GB409_21,1,Neely 2019,Other non-main clause types: insufficient data
+GB409_22,0,Neely 2019,
+GB409_23,1,Neely 2019,ERG = INS: the ergative suffix -N is explicitly described as syncretic with the instrumental (Appendix C)
+GB409_24,0,Neely 2019,No evidence of ERG = comitative syncretism; comitative has its own suffix (COM)

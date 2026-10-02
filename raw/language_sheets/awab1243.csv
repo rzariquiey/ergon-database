@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Lissarrague 2006: 27,There is no explicit marker for the absolutive case.
+GB409_2,0,"Lissarrague 2006: 7, 39-40",First-person pronouns follow a Nominative-Accusative alignment pattern.
+GB409_3,0,Lissarrague 2006: 40-41,Second-person pronouns follow a Nominative-Accusative alignment pattern.
+GB409_4,0,"Lissarrague 2006: 7, 39-41",Third-person pronouns follow a Nominative-Accusative alignment pattern.
+GB409_5,1,"Lissarrague 2006: 7, 26-27",Full NP's exhibit ergative alignment.
+GB409_6,1,"Lissarrague 2006: 27, 67",Ergative alignment is present in the imperfective aspect.
+GB409_7,1,"Lissarrague 2006: 27, 34",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Lissarrague 2006: 27, 34",Ergative alignment is present in past tense clauses.
+GB409_9,1,"Lissarrague 2006: 27, 67, 77",Ergative alignment is applied in non-past times.
+GB409_10,1,"Lissarrague 2006: 34, 86",Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,1,"Lissarrague 2006: 27, 78",Ergative alignment is manifested in non-indicative moods.
+GB409_12,1,"Lissarrague 2006: 27, 34",Ergative alignment occurs in clauses with real status.
+GB409_13,1,"Lissarrague 2006: 27, 77",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,"Lissarrague 2006: 7, 27",Ergative alignment exists in the context of an agentive A argument.
+GB409_15,1,"Lissarrague 2006: 34, 86",Ergative alignment exists in the context of a non agentive A argument.
+GB409_16,0,"Lissarrague 2006: 7, 39-40",The most topical elements do not follow an ergative alignment.
+GB409_17,1,"Lissarrague 2006: 7, 26-27",Arguments with less topicality follow an Ergative-Absolutive pattern.
+GB409_18,1,"Lissarrague 2006: 7, 26-27","Ergative alignment occurs in clauses with an animate argument A, whether human or non-human."
+GB409_19,1,"Lissarrague 2006: 26, 34, 86",Ergative alignment exists in the context of an inanimate argument A.
+GB409_20,1,"Lissarrague 2006: 7, 26-27",Ergative alignment occurs in main clauses.
+GB409_21,1,Lissarrague 2006: 78,Ergative alignment occurs in non main clauses.
+GB409_22,1,"Lissarrague 2006: 7, 26, 39",A split ergativity system is presented based on the nominal type.
+GB409_23,0,"Lissarrague 2006: 26-27, 33",The ergative marker does not have the same form as the genitive marker.
+GB409_24,1,"Lissarrague 2006: 26, 28, 40","The ergative case has the same mark as the instrumental case, but is different from the comitative case."

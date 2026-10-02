@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,"Verstraelen 1968-1969: 811, 814",There is an explicit marker for the absolutive case.
+GB409_2,?,"Verstraelen 1968-1969: 810-811, 814","An ergative alignment is presented, where the absolutive marking is -'a (1sg), kámi (1pl); while the ergative/genitive marking is -ko (1sg), -(ka)námi (1pl)."
+GB409_3,?,"Verstraelen 1968-1969: 811, 814","An ergative alignment is presented, where the absolutive markers are -ka/sikúna (2nd sg), sikándan (2nd pl); while the ergative/genitive markers are -no (2nd sg), -(kán)dan (2nd pl)."
+GB409_4,?,"Verstraelen 1968-1969: 811, 814","An ergative alignment is presented, where the absolutive markings are sikándin (3 sg), sikándan (3 pl); while the ergative/genitive markings are -din/sikándin (3 sg), -(kán)dan (3 pl)."
+GB409_5,1,"Verstraelen 1968-1969: 811, 814","The alignment is split: proper names are ergative (si/ni), but common names are not."
+GB409_6,1,Verstraelen 1968-1969: 810,"The continuous aspect, marked with the verbal affix paN-, maintains the ergative marking."
+GB409_7,1,Verstraelen 1968-1969: 810,"The ""factual tense"" corresponds to the perfective aspect, consistently using the ergative alignment."
+GB409_8,1,Verstraelen 1968-1969: 810-811,"Ergative marking is consistently applied in the ""factual tense"", which is interpreted  as past."
+GB409_9,1,Verstraelen 1968-1969: 810,The “non-factual” (future) tense maintains the same ergative marking system.
+GB409_10,1,Verstraelen 1968-1969: 809-814,Ergative alignment is the pattern for declarative (indicative) clauses.
+GB409_11,1,"Verstraelen 1968-1969: 809-810, 812, 814",Ergative alignment is maintained in imperative and modal negation constructions.
+GB409_12,1,Verstraelen 1968-1969: 810-811,"The ""factual tense"" corresponds to the realis status and consistently uses ergative marking."
+GB409_13,1,"Verstraelen 1968-1969: 810, 812, 814","The ""non-factual tense"" that corresponds to the irrealis maintains the ergative pattern."
+GB409_14,1,Verstraelen 1968-1969: 810-811,Arguments (A) are agentive and consistently receive the ergative mark.
+GB409_15,1,Verstraelen 1968-1969: 811,"The experiencer of perception verbs (non-agentive A) is marked with the ergative case, maintaining alignment."
+GB409_16,0,Verstraelen 1968-1969: 811,"When the agent (A) is the topic, the alignment changes to nominative-accusative (A=S)."
+GB409_17,1,"Verstraelen 1968-1969: 809-811, 814","In the ""passive"" construction, the agent (A) is inherently non-topic and is marked with the genitive case."
+GB409_18,1,Verstraelen 1968-1969: 810-811,Agents (A) that are animated follow the ergative pattern.
+GB409_19,?,Verstraelen 1968-1969: in passim,"Based on the information provided in the document, it is not possible to determine this feature with certainty."
+GB409_20,1,"Verstraelen 1968-1969: 809-811, 814",Ergative alignment is the fundamental pattern described for the structure of main clauses.
+GB409_21,1,Verstraelen 1968-1969: 814-815,"In nominalizations with pag-, the subject (S/P) is transformed into a genitive phrase, maintaining the alignment."
+GB409_22,?,Verstraelen 1968-1969: in passim,"Based on the information provided in the document, it is not possible to determine this feature with certainty."
+GB409_23,1,"Verstraelen 1968-1969: 809-811, 813",The marker for the agent (A) and the possessor is identical .
+GB409_24,0,Verstraelen 1968-1969: 810,The ergative case does not have the same marker as the instrumental or comitative marker.

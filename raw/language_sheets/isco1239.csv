@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Zariquiey 2015: §5.2.2,"Absolutive is consistently unmarked (zero) for both nouns and pronouns. Ergative is overtly marked with nasal-bearing allomorphs (-n, -an, -man, -nin)."
+GB409_2,0,"Zariquiey 2015: §5.2.1, Table 30",1st person singular (ena/eah/ea) and 1st person plural exclusive (enabo/eahbo/eabo) show TRIPARTITE alignment: A≠S≠P. Not ergative.
+GB409_3,0,"Zariquiey 2015: §5.2.1, Table 30","2nd person singular (mi/mi/mia) and plural (mibo/mibo/miabo) show ACCUSATIVE alignment: A=S≠P. Not ergative. Variation toward tripartite and ergative also attested (Table 31, Table 32)."
+GB409_4,1,"Zariquiey 2015: §5.2.1, Table 30",3rd person singular (oaton/oa/oa) and plural (aboton/abo/abo) show ERGATIVE alignment: A≠S=P. 1st person plural inclusive (non(bo)/no(bo)/no(bo)) also ergative.
+GB409_5,1,Zariquiey 2015: §5.2.2,"Full nouns systematically show ergative alignment: A is marked with nasal allomorphs (-n, -an, -man, -nin depending on syllable structure); S and P are unmarked (absolutive = zero). Variation toward neutral (unmarked A) also attested due to language obsolescence."
+GB409_6,1,"Zariquiey 2015: §5.2.2, §9.2",No aspect-conditioned split is described. Ergative marking on full NPs applies in both imperfective (-i) and perfective (-a) contexts.
+GB409_7,1,"Zariquiey 2015: §5.2.2, §9.2",No aspect-conditioned split is described. Ergative marking on full NPs applies in both perfective (-a) and imperfective (-i) contexts.
+GB409_8,1,"Zariquiey 2015: §5.2.2, §9.3","No tense-conditioned split is described. Iskonawa has a graded tense system (remote past, recent past, etc.) but none of these conditions ergative marking."
+GB409_9,1,"Zariquiey 2015: §5.2.2, §9.3",No tense-conditioned split is described. Ergative marking on full NPs applies in non-past contexts as well.
+GB409_10,1,Zariquiey 2015: §5.2.2,No mood-conditioned split is described for full NPs. Ergative marking applies in indicative contexts.
+GB409_11,0,"Zariquiey 2015: §8.3.1, §9.4.2",Desiderative and immediate purpose constructions of transitive verbs take an S-type (absolutive) subject instead of an A-type (ergative) subject — a double-absolutive construction. This constitutes a split in the ergative pattern conditioned by irrealis/modal contexts.
+GB409_12,1,Zariquiey 2015: §5.2.2,No realis/irrealis split is explicitly described for full NPs in realis contexts. Ergative marking applies.
+GB409_13,0,Zariquiey 2015: §8.3.1,Desiderative constructions (irrealis) may double-absolutive pattern: transitive subject appears in absolutive (S-type) form rather than ergative. This is a neutralization of ergative marking in irrealis/modal contexts.
+GB409_14,1,Zariquiey 2015: §5.2.2,No agentivity-conditioned split is described. Ergative marking on full NPs applies regardless of agentivity of A.
+GB409_15,1,Zariquiey 2015: §5.2.2,No topicality-conditioned split is described for full NPs.
+GB409_16,1,Zariquiey 2015: §5.2.2,No animacy-conditioned split is described for full NPs. Ergative marking applies to animate and inanimate A arguments alike.
+GB409_17,1,Zariquiey 2015: §5.2.2,Ergative marking on full NPs is documented primarily in main clauses throughout the grammar.
+GB409_18,1,Zariquiey 2015: §12.2,Nominalization is the main strategy for complement clauses. The internal syntax of nominalized clauses is not fully described with respect to case marking. Uncertain.
+GB409_19,1,Zariquiey 2015: §12.3,"Switch-reference suffixes (-hon for S/A>A, -ah for S/A>S) operate on {A,S} vs. {P}, consistent with ergative alignment in adverbial/chained clauses."
+GB409_20,1,Zariquiey 2015: §12.2,Relative clauses are formed via nominalization. Case marking inside nominalized relative clauses is not explicitly described. Uncertain.
+GB409_21,1,Zariquiey 2015: §12,Insufficient data in the grammar to determine case marking in all non-main clause types. Uncertain.
+GB409_22,1,"Zariquiey 2015: §5.2, §5.2.3, §8.3.1",OBSOLESCENCE: free variation between ergative and neutral (unmarked A) in 3rd person and full NPs.
+GB409_23,1,"Zariquiey 2015: §5.2.2, §6.4.1","The dominant ergative allomorph -nin is formally identical to the genitive suffix -nin (§6.4.1). E.g., German-nin (ERG) 'Germán-ERG' vs. German-nin (GEN) 'Germán's'. The other ergative allomorphs (-n, -an, -man) are distinct from the genitive."
+GB409_24,0,"Zariquiey 2015: §5.2.2, §6.3.2, §6.3.4","Instrumental is -pan (§6.3.2), distinct from all ergative allomorphs (-n, -an, -man, -nin). Comitative is -be(tan) (§6.3.4), also distinct. No syncretism between ergative and instrumental/comitative."

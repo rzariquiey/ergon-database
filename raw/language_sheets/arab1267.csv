@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,"Hercus 1994: 66, 106",There is no explicit marker for the absolutive case.
+GB409_2,1,"Hercus 1994: 110, 113","First-person pronoun exhibits ergative alignment only in its singular form. However, it is worth noting that the system is tripartite, not purely ergative-absolutive, since the argument P also receives a distinct mark. Nevertheless, because there is a specific ergative mark for A that is not used for S, ergative marking is considered to exist."
+GB409_3,1,"Hercus 1994: 110, 113","Second-person pronoun exhibits ergative alignment only in its singular form. However, it is worth noting that the system is tripartite, not purely ergative-absolutive, since the argument P also receives a distinct mark. Nevertheless, because there is a specific ergative mark for A that is not used for S, ergative marking is considered to exist."
+GB409_4,1,"Hercus 1994: 66, 111, 113","Third-person pronoun exhibits ergative alignment only in its singular form. However, it is worth noting that the system is tripartite, not purely ergative-absolutive, since the argument P also receives a distinct mark. Nevertheless, because there is a specific ergative mark for A that is not used for S, ergative marking is considered to exist."
+GB409_5,1,Hercus 1994: 66-68,Full NP's exhibit ergative alignment.
+GB409_6,1,Hercus 1994: 160,Ergative alignment is present in the imperfective aspect.
+GB409_7,1,Hercus 1994: 166,Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Hercus 1994: 164, 169-170",Ergative alignment is present in past tense clauses.
+GB409_9,1,"Hercus 1994: 161, 184",Ergative alignment is applied in non-past times.
+GB409_10,1,"Hercus 1994: 68, 278",Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,1,"Hercus 1994: 127, 188, 237","Ergative alignment is manifested in non-indicative moods such as the interrogative, the irrealis, and in constructions of obligation/prohibition."
+GB409_12,1,"Hercus 1994: 68, 161",Ergative alignment occurs in clauses with real status.
+GB409_13,1,"Hercus 1994: 184, 187-188",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,"Hercus 1994: 66, 161, 278",Ergative alignment exists in the context of an agentive A argument.
+GB409_15,1,"Hercus 1994: 68, 78, 272","The ergative marker is used to mark argument A, even when it is not a prototypical volitional agent."
+GB409_16,0,"Hercus 1994: 66, 106, 113",The most topical elements do not follow an ergative alignment.
+GB409_17,1,Hercus 1994: 65-68,A split ergativity system based on the animacy hierarchy is presented.
+GB409_18,1,"Hercus 1994: 66, 170, 294","Ergative alignment occurs in clauses with an animate argument A, whether human or non-human."
+GB409_19,1,"Hercus 1994: 66, 68",Ergative alignment exists in the context of an inanimate argument A.
+GB409_20,1,"Hercus 1994: 66, 68",Ergative alignment occurs in main clauses.
+GB409_21,1,Hercus 1994: 279-280,"Ergative case marking is maintained within subordinate clauses, such as purpose clauses, time clauses, or warning clauses. When there is a change of reference, the new transitive subject (A) of the subordinate clause carries the ergative mark if it is a noun or pronoun that requires it."
+GB409_22,1,Hercus 1994: 65-67,Alignment is conditioned by the animacy hierarchy. The system is split ergativity.
+GB409_23,0,"Hercus 1994: 61, 68, 73, 110",The ergative marker does not have the same form as the genitive marker.
+GB409_24,1,"Hercus 1994: 61, 68-69","The ergative case has the same mark as the instrumental case, but is different from the comitative case."

@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,Valenzuela 2010: 71 (Table 1),"allomorph -a appears on 1sg, 2sg, 1pl pronouns and interrogative tso-. Ergative is overtly marked with -n (rich allomorphy)."
+GB409_2,1,"Valenzuela 2010: 71-72 (Table 1, exx. 1-4)",1sg: ERG e-n vs. ABS e-a; 1pl: ERG no-n vs. ABS no-a. All persons follow ergative-absolutive alignment. SK is the only Panoan language where ALL personal pronouns follow ergative-absolutive distribution (p.93).
+GB409_3,1,"Valenzuela 2010: 71-73 (Table 1, exx. 8-10)",2sg: ERG mi-n vs. ABS mi-a; 2pl: ERG mato-n vs. ABS mato. All second person pronouns follow ergative-absolutive alignment.
+GB409_4,1,"Valenzuela 2010: 71-72 (Table 1, exx. 11-13)",3sg: ERG ja-n vs. ABS ja; 3pl: ERG jato-n~jabaon vs. ABS jato~jabo. All third person pronouns follow ergative-absolutive alignment.
+GB409_5,1,"Valenzuela 2010: 71-76 (Table 1, exx. 3-6, 14-26)","Full NPs marked with -n (ergative) vs. zero (absolutive). System is highly consistent and syntactically based, applying regardless of agentivity, volitionality, or animacy of A argument."
+GB409_6,1,Valenzuela 2010: 72-76,"Ergative-absolutive alignment applies in imperfective (incompletive -ai) clauses. The only exception is the dedicated progressive construction (VERB-i ik-), which is neutral (see GB409_22)."
+GB409_7,1,"Valenzuela 2010: 72-76 (exx. 4, 18-26)",Ergative-absolutive alignment applies in perfective (completive -ke) clauses without exception.
+GB409_8,1,Valenzuela 2010: 72-76,Ergative-absolutive alignment applies in past tense clauses. No tense-based split reported.
+GB409_9,1,Valenzuela 2010: 72-76,Ergative-absolutive alignment applies in non-past clauses. No tense-based split reported.
+GB409_10,1,Valenzuela 2010: 72-76,Ergative-absolutive alignment applies in indicative clauses. No mood-based split reported for indicative.
+GB409_11,1,Valenzuela 2010: 76-77,"Ergative-absolutive alignment maintained in non-indicative moods. The desiderative -kas creates an intransitive construction with both arguments in absolutive, but this is a valency-reducing operation, not a mood-based split per se."
+GB409_12,1,Valenzuela 2010: 72-76,Ergative-absolutive alignment applies in realis clauses. No realis/irrealis split reported.
+GB409_13,1,Valenzuela 2010: 72-76,Ergative-absolutive alignment applies in irrealis clauses. No realis/irrealis split reported.
+GB409_14,1,Valenzuela 2010: 74-76 (exx. 18-26),Ergative marking applies to agentive A arguments.
+GB409_15,1,Valenzuela 2010: 74-76 (exx. 18-26),"Crucially, ergative marking is maintained even with non-volitional, non-controller, non-initiator agents (exx. 18-20) and inanimate agents (exx. 21-22). The system is syntactically based, not semantically based."
+GB409_16,1,Valenzuela 2010: 72-76,Ergative marking applies regardless of topicality of A. No discourse-pragmatic split reported for case marking on core arguments.
+GB409_17,1,Valenzuela 2010: 72-76,Ergative marking applies regardless of topicality. No discourse-pragmatic split reported.
+GB409_18,1,Valenzuela 2010: 72-76,Ergative marking applies to animate A arguments.
+GB409_19,1,"Valenzuela 2010: 74-76 (exx. 21-22, 25)","Ergative marking applies even to inanimate A arguments (e.g. 'rice sack', 'vomit', 'flowing water' as A). This is explicitly highlighted as a notable feature of SK."
+GB409_20,1,Valenzuela 2010: 72-76,Ergative-absolutive alignment applies in main clauses.
+GB409_21,1,Valenzuela 2010: 80-83 (exx. 43-49),"Ergative-absolutive alignment applies in subordinate/relative clauses. Internally-headed relative clauses exhibit an absolutive pivot (syntactic ergativity), but case marking on NPs within the relative clause remains ergative-absolutive."
+GB409_22,1,Valenzuela 2010: 83-85 (exx. 50-54),SPLIT: The dedicated progressive construction (VERB-i ik-) triggers neutral case marking (both A and O in absolutive) for most speakers. This is analyzed as a recent reanalysis of a biclausal structure. Some speakers still allow ergative in this construction. This is the only instance of a case-marking split in SK.
+GB409_23,1,"Valenzuela 2010: 71 (Table 1), 68","Yes. The marker -n (with rich allomorphy) expresses both ergative and genitive functions. For most nouns and pronouns (except 1sg), the ergative and genitive forms are identical (Table 1). The abstract marker -n covers ergative, genitive, instrumental, and other oblique functions."
+GB409_24,1,"Valenzuela 2010: 68, 71 (Table 1)","Yes. The marker -n expresses ergative, genitive, instrumental, and other oblique functions (p.68). Instrumental is expressed by the same -n marker (e.g. jiwi-n 'with a stick', exx. 18, 23-24). Comitative is expressed by a distinct marker -be (e.g. mi-bé 'with you', ex. 46)."

@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,Aragon 2014: 204,"Dependent pronoun clitics (o=, e=, i=) function as absolutive markers cross-referenced on the verb."
+GB409_2,1,Aragon 2014: 178-182,1sg: on (independent/ERG) vs. o= (dependent/ABS); ergative alignment on 1st person.
+GB409_3,1,Aragon 2014: 178-182,2sg: en (independent/ERG) vs. e= (dependent/ABS); ergative alignment on 2nd person.
+GB409_4,0,"Aragon 2014: 178-182, 204-206",3rd person is three-way: independent te for A; dependent i= for P; coreferential te= for S. No clean ERG-ABS split.
+GB409_5,0,"Aragon 2014: 153, 194, 198, 202","Explicitly stated: 'there are no nominative, ergative or absolutive case markers as affixes on nouns' (p.153). Full NPs carry zero case marking."
+GB409_6,1,Aragon 2014: 223-224,Imperfective (marked -ra) clauses maintain ERG-ABS alignment with pronominal arguments.
+GB409_7,1,Aragon 2014: 222-231,Perfective (unmarked verb) clauses also maintain ERG-ABS alignment.
+GB409_8,1,Aragon 2014: 222,Past events expressed with unmarked verb form; ERG-ABS alignment maintained.
+GB409_9,1,Aragon 2014: 226-228,Future clauses (projective marker kom) maintain ERG alignment.
+GB409_10,1,Aragon 2014: 233,Indicative clauses maintain ERG-ABS alignment.
+GB409_11,1,Aragon 2014: 234-235,Interrogative mood maintains ERG alignment; imperative shifts to NOM-ACC pattern (absolutive-clitic subjects).
+GB409_12,1,Aragon 2014: 232,Realis clauses are consistently ERG-ABS.
+GB409_13,1,"Aragon 2014: 226, 334",Future tense (irrealis) and interrogatives (irrealis-like) maintain ERG alignment.
+GB409_14,1,"Aragon 2014: 182, 286",Agentive A arguments take independent ergative pronouns (on/en/te); S and P take dependent absolutive clitics.
+GB409_15,0,"Aragon 2014: 181, 196","Experiencer/non-agentive predicates (fear, hear) are INTRANSITIVE in Akuntsu; their single argument takes the absolutive dependent clitic, not the ergative independent pronoun (e=pip 'you are afraid', o=apinom 'I hear'). Corrected from original value of 1."
+GB409_16,1,Aragon 2014: 181-182,Topical A (1st/2nd person) take independent ERG pronouns consistently.
+GB409_17,1,Aragon 2014: 254-255,Non-topical A in transitive clauses also uses independent pronouns.
+GB409_18,1,"Aragon 2014: 181-182, 201",Animate pronominal A (humans) take independent ERG pronouns.
+GB409_19,0,Aragon 2014: 153,Ergativity is limited to pronominal arguments; inanimate A (full NPs) follow neutral alignment.
+GB409_20,1,Aragon 2014: 181-182,Main clause transitive constructions consistently show ERG-ABS alignment.
+GB409_21,?,Aragon 2014: 205 fn.114,"Aragon (2014: 205, fn.114) explicitly states: 'Additional aspects of ergativity, particularly in complex sentences, is still under investigation.'"
+GB409_22,1,"Aragon 2014: 153, 179, 205, 234","Split ergativity conditioned by: (1) pronoun vs. full NP status, (2) person hierarchy (1/2 > 3), (3) patient animacy, (4) verbal mood."
+GB409_23,0,"Aragon 2014: 160, 178-179, 201, 204",Ergative = independent pronouns (on/en/te); genitive = dependent pronouns (o=/e=/i=). Different paradigm sets.
+GB409_24,0,"Aragon 2014: 154, 156, 159","Instrumental = oblique clitic =(b)o (p.154); comitative = postposition ete (pp.156, 159). Both distinct from independent ERG pronouns."

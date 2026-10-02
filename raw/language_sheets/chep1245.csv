@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,Pons 2022:347,Table 112. Absolutive is unmarked.
+GB409_2,1,Pons 2022:470,Ergative alignment is not affected. See example (560)
+GB409_3,1,Pons 2022:468,Ergative alignment is not affected. See example (557).
+GB409_4,1,Pons 2022:460,Ergative alignment is not affected. See example (541).
+GB409_5,1,"Pons 2022:379, 395","Ergative alignment is not affected. See example (309), (295)."
+GB409_6,1,"Pons 2022:381, 624","See example (314), (772), (774)."
+GB409_7,1,"Pons 2022:381, 623","See example (315), (769)."
+GB409_8,1,"Pons 2022:381, 623","See example (315), (769)."
+GB409_9,1,"Pons 2022:379-380, 479","See examples (310), (579)."
+GB409_10,1,"Pons 2022:350, 379, 381","See examples (309), (315)."
+GB409_11,1,Pons 2022:485,See example (588).
+GB409_12,1,"Pons 2022: 625, 623",No mention nor evidence of a split in case marking based on the realis-irrealis distinction. See example (769) in past tense.
+GB409_13,1,"Pons 2022: 625,  479",No mention nor evidence of a split in case marking based on the realis-irrealis distinction. See example (579) in future tense.
+GB409_14,1,"Pons 2022:381, 395","See example (315), (295)"
+GB409_15,1,"Pons 2022:370, 468","Verbs with an experiencer and a stimulus mark the experiencer with the absolutive and the stimulus with the dative. Since S arguments are marked with the absolutive, this yields a nominative-accusative alignment. See example (279). Other psychological verbs follow ergative-absolutive alignment (557)."
+GB409_16,?,Pons 2022:in passim,There is no information about whether the topicality of A changes the alignment.
+GB409_17,?,Pons 2022:in passim,There is no information about whether the topicality of A changes the alignment.
+GB409_18,1,Pons 2022:460,See example (541)
+GB409_19,1,Pons 2022:465,See example (554)
+GB409_20,1,Pons 2022:315,See example (381)
+GB409_21,1,Pons 2022:402,"See example (386), (388)"
+GB409_22,1,"Pons 2022:350, 365-366, 370-373","There may be a tripartite alignment (A-erg, S-abs, P-dat) according to the humanness, animacy, and definiteness of the P argument."
+GB409_23,0,Pons 2022:398,"The marking for the ergative and genitive cases are different. The marking for the genitive case in this language is the enclitic =ko, while for the ergative case it is the enclitic =i."
+GB409_24,1,Pons 2022:347,"The same ergative marker is used for the instrumental (=i) but not for the comitative (=kusi), according to Table 112."

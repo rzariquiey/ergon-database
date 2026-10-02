@@ -1,0 +1,25 @@
+ID,Name,Domain,Subdomain,n_coded,pct_coded,n_1,n_0,n_unknown,pct_1_of_coded
+GB409_1,Overt absolutive,Form of the marker,Absolutive marking,162,97.0,58,104,5,35.8
+GB409_2,ERG on 1st person pronouns,Nominal category,Person/NP type,157,94.0,106,51,10,67.5
+GB409_3,ERG on 2nd person pronouns,Nominal category,Person/NP type,156,93.4,106,50,11,67.9
+GB409_4,ERG on 3rd person pronouns,Nominal category,Person/NP type,160,95.8,126,34,7,78.8
+GB409_5,ERG on full NPs,Nominal category,Person/NP type,166,99.4,163,3,1,98.2
+GB409_6,ERG in imperfective,Clausal context,Aspect,140,83.8,132,8,27,94.3
+GB409_7,ERG in perfective,Clausal context,Aspect,151,90.4,149,2,16,98.7
+GB409_8,ERG in past,Clausal context,Tense,158,94.6,156,2,9,98.7
+GB409_9,ERG in non-past,Clausal context,Tense,145,86.8,138,7,22,95.2
+GB409_10,ERG in indicative,Clausal context,Mood,157,94.0,156,1,10,99.4
+GB409_11,ERG in non-indicative,Clausal context,Mood,131,78.4,124,7,36,94.7
+GB409_12,ERG in realis,Clausal context,Reality status,156,93.4,155,1,11,99.4
+GB409_13,ERG in irrealis,Clausal context,Reality status,134,80.2,127,7,33,94.8
+GB409_14,ERG with agentive A,Properties of A,Agentivity,155,92.8,153,2,12,98.7
+GB409_15,ERG with non-agentive A,Properties of A,Agentivity,124,74.3,106,18,43,85.5
+GB409_16,ERG with topical A,Properties of A,Topicality,136,81.4,120,16,31,88.2
+GB409_17,ERG with non-topical A,Properties of A,Topicality,125,74.9,116,9,42,92.8
+GB409_18,ERG with animate A,Properties of A,Animacy,159,95.2,158,1,8,99.4
+GB409_19,ERG with inanimate A,Properties of A,Animacy,116,69.5,105,11,51,90.5
+GB409_20,ERG in main clauses,Clausal context,Clause type,165,98.8,163,2,2,98.8
+GB409_21,ERG in non-main clauses,Clausal context,Clause type,117,70.1,110,7,50,94.0
+GB409_22,ERG conditioned by other factor,Other conditioning,Other,131,78.4,73,58,36,55.7
+GB409_23,ERG = GEN,Form of the marker,Syncretism,153,91.6,52,101,14,34.0
+GB409_24,ERG = INS/COM,Form of the marker,Syncretism,152,91.0,82,70,15,53.9

@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,"Kimoto 2017: 134-136, 188",There is an explicit marker for the absolutive case.
+GB409_2,1,"Kimoto 2017: 156, 161",First-person pronouns show ergative alignment.
+GB409_3,1,"Kimoto 2017: 156, 161",Second-person pronouns show ergative alignment.
+GB409_4,1,"Kimoto 2017: 136, 156, 161",Third-person pronouns show ergative alignment.
+GB409_5,1,"Kimoto 2017: 134-136, 188",Full NP's exhibit ergative alignment.
+GB409_6,1,Kimoto 2017: 328-330,Ergative alignment occurs in the imperfective aspect.
+GB409_7,1,Kimoto 2017: 327-329,Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Kimoto 2017: 136, 328-331",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Kimoto 2017: 234, 330-331",Ergative alignment is applied in non-past times.
+GB409_10,1,"Kimoto 2017: 136, 234, 241",Ergative alignment occurs in sentences in the indicative mood.
+GB409_11,1,"Kimoto 2017: 285, 342, 376",Ergative alignment occurs in sentences in the non-indicative mood.
+GB409_12,1,"Kimoto 2017: 150, 169, 330",Ergative alignment occurs in clauses with real status.
+GB409_13,1,"Kimoto 2017: 234, 285, 331, 345, 362",Ergative alignment occurs in clauses with irrealis status.
+GB409_14,1,"Kimoto 2017: 136, 234, 319",Ergative alignment exists in the context of an agentive A argument.
+GB409_15,1,"Kimoto 2017: 251, 355, 358",Ergative alignment exists in the context of a non-agentive argument A.
+GB409_16,1,"Kimoto 2017: 156, 161, 418",Ergative alignment applies to topic arguments A.
+GB409_17,1,"Kimoto 2017: 188, 191",Ergative alignment occurs when argument A is not the main topic of the sentence.
+GB409_18,1,"Kimoto 2017: 135, 186, 188, 319","Ergative alignment occurs in clauses with an animate argument A, whether human or non-human."
+GB409_19,1,"Kimoto 2017: 139, 143, 188",Ergative alignment occurs in clauses with an inanimate argument A.
+GB409_20,1,Kimoto 2017: 234,Ergative alignment occurs in main clauses.
+GB409_21,1,"Kimoto 2017: 208, 269, 357",Non-principal clauses exhibit ergative alignment.
+GB409_22,1,"Kimoto 2017: 137-139, 255-260","Ergative alignment is conditioned by additional factors such as the definiteness and identifiability of the argument P, the negative polarity in existential predicates, and the metonymic conceptualization of objects as locations."
+GB409_23,1,"Kimoto 2017: 139, 156, 188",The ergative marker and the genitive marker have different forms.
+GB409_24,0,"Kimoto 2017: 188, 240-241",The ergative case does not have the same marker as the instrumental or comitative marker.

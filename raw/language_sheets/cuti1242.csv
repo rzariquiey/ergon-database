@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,0,dos Anjos 2011: 283,The absolutive is zero-marked (unmarked).
+GB409_2,1,dos Anjos 2011: 141-142,No person-based split on pronouns documented; all persons show ergative alignment.
+GB409_3,1,dos Anjos 2011: 141-142,No person-based split on pronouns documented; all persons show ergative alignment.
+GB409_4,1,dos Anjos 2011: 141-142,No person-based split on pronouns documented; all persons show ergative alignment.
+GB409_5,1,Queixalos 2007: 8,Full NPs exhibit ergative-absolutive alignment. See example (25).
+GB409_6,1,Queixalos 2007: in passim,"Imperfective aspect is morphologically unmarked in Katukina-Kanamari; the feature is effectively ill-posed for this language. No evidence of imperfective-conditioned NOM-ACC alignment exists, but no positive ergative evidence in imperfective specifically was found."
+GB409_7,1,Queixalos 2007: 8,Ergative alignment occurs in the perfective aspect. See example (25).
+GB409_8,1,Queixalos 2007: 8,Ergative alignment is present in past tense clauses. See example (25).
+GB409_9,1,dos Anjos 2011: 138,Ergative alignment in non-past tenses. See example (212).
+GB409_10,1,Queixalos 2007: 8,Ergative alignment in the indicative mood. See example (25).
+GB409_11,1,Queixalos 2007: 11,Ergative alignment in non-indicative moods. See example (44).
+GB409_12,1,Queixalos 2007: 10,Ergative alignment in clauses with realis status. See example (32).
+GB409_13,1,dos Anjos 2011: 285,Ergative alignment in clauses with irrealis status. See example (486).
+GB409_14,1,Queixalos 2007: 8,Ergative alignment in the context of an agentive A. See example (25).
+GB409_15,1,dos Anjos 2011: 209,Ergative alignment attested for non-agentive A. See example (278a).
+GB409_16,0,Queixalos 2007: 10,"When A is topical (topic-prominent construction), the ergative marker is absent. See examples (37)-(39)."
+GB409_17,1,Queixalos 2007: 10,"Non-topical A takes ergative marking. See examples (37), (38)."
+GB409_18,1,Queixalos 2007: in passim,All documented A arguments in examples are animate; ergative alignment confirmed for animate A.
+GB409_19,?,Queixalos 2007: in passim,"No examples with inanimate A found in either source. Animacy split not documented, but absence of inanimate A examples prevents confirmation."
+GB409_20,1,Queixalos 2007: 8,Ergative alignment occurs in main clauses. See example (25).
+GB409_21,1,Queixalos 2007: 13; dos Anjos 2011: 366,Ergative alignment in non-main clauses (relative clauses and subordinate clauses). See example (50) and dos Anjos (2011) ex.(372).
+GB409_22,0,Queixalos 2007: in passim; dos Anjos 2011: in passim,No additional conditioning factors documented beyond the topicality factor already captured in GB409_16.
+GB409_23,1,Queixalos 2007: 5; dos Anjos 2011: 220,The ergative marker -na= is syncretic with the genitive/possessive marker. ERG=GEN confirmed.
+GB409_24,1,"dos Anjos 2011: 157, 220",The ergative marker -na= is also used for instrumental and comitative functions. ERG=INST/COM confirmed.

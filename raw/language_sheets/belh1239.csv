@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,Bickel 2003: 549,"There is an explicit marker for the absolutive case, but it is used only with the singular interrogative pronoun."
+GB409_2,1,Bickel 2003: 549,"First-person pronouns show ergative alignment, but only inclusive first-person pronouns receive explicit ergative marking (split ergativity)."
+GB409_3,1,Bickel 2003: 549,Second-person pronouns show ergative alignment.
+GB409_4,1,Bickel 2003: 548-549,Third-person pronouns show ergative alignment.
+GB409_5,1,Bickel 2003: 549,Full NP's exhibit ergative alignment.
+GB409_6,1,"Bickel 2003: 551, 557",Ergative alignment present in the imperfective aspect.
+GB409_7,1,"Bickel 2003: 556, 564",Ergative alignment occurs in the perfective aspect.
+GB409_8,1,"Bickel 2003: 558, 561",Ergative alignment occurs in past tense clauses.
+GB409_9,1,"Bickel 2003: 551, 557",Ergative alignment applied in non-past times.
+GB409_10,1,"Bickel 2003: 557, 561",Ergative alignment is presented in indicative mode.
+GB409_11,1,"Bickel 2003: 555, 562",Ergative alignment is presented in non-indicative mode.
+GB409_12,1,"Bickel 2003: 549, 556",Ergative alignment is present in the realis status.
+GB409_13,1,Bickel 2003: 554-555,Ergative alignment is present in the irrealis status.
+GB409_14,1,"Bickel 2003: 549, 561, 564","In the context of an agentive A argument, ergative alignment is observed."
+GB409_15,1,"Bickel 2003: 549, 555","In the context of a non-agentive argument A, ergative alignment is observed."
+GB409_16,1,"Bickel 2003: 549, 561","In the context of a topical A, ergative alignment is shown."
+GB409_17,1,Bickel 2003: 561-562,"In the context of a non-topical A, ergative alignment is shown."
+GB409_18,1,"Bickel 2003: 549, 558, 564",Clauses with animated A arguments exhibit ergative alignment.
+GB409_19,1,"Bickel 2003: 549, 555",Clauses with non-animated A arguments exhibit ergative alignment.
+GB409_20,1,"Bickel 2003: 549, 557, 561",Main clauses exhibit ergative alignment.
+GB409_21,1,"Bickel 2003: 562, 564",Non-main clauses exhibit ergative alignment.
+GB409_22,1,"Bickel 2003: 549, 557",Ergative marking is conditioned by object specificity and object empathy.
+GB409_23,0,"Bickel 2003: 549, 563",The ergative case does not have the same marker as the genitive case.
+GB409_24,1,"Bickel 2003: 549, 555","The ergative case has the same mark as the instrumental case, but is different from the comitative case."

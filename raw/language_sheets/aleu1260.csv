@@ -1,0 +1,25 @@
+Parameter_ID,Value,Source,Comment
+GB409_1,1,"Bergsland and Dirks 1981: 3, 8",There is an explicit marker for the absolutive case.
+GB409_2,0,"Bergsland and Dirks 1981: 13,17",First-person pronouns show a nominative-accusative alignment.
+GB409_3,0,"Bergsland and Dirks 1981: 13-14, 17",Second-person pronouns show a nominative-accusative alignment.
+GB409_4,1,Bergsland and Dirks 1981: 8-9,"There is ergative alignment in the marking of third-person pronouns, but in a complex and split manner that depends on the presence of the object."
+GB409_5,1,"Bergsland and Dirks 1981: 3, 8-9","Full NP's exhibit ergative alignment, but it is a split ergativity system conditioned by the presence or absence of the object."
+GB409_6,1,"Bergsland and Dirks 1981: 9, 55","There is ergative alignment in the marking in the imperfective aspect, but it is conditioned by the omission of the object."
+GB409_7,1,"Bergsland and Dirks 1981: 9, 23, 58","There is ergative alignment in the marking in the perfective aspect, conditioned in the same way by the omission of the object."
+GB409_8,1,"Bergsland and Dirks 1981: 9, 58-59",Ergative alignment exists in the past.
+GB409_9,1,"Bergsland and Dirks 1981: 9, 62","There is ergative alignment in the marking in times not past, and it is conditioned by the omission of the object."
+GB409_10,1,"Bergsland and Dirks 1981: 3, 8-9",Ergative alignment in marking occurs in indicative mode.
+GB409_11,1,Bergsland and Dirks 1981: 10,Ergative alignment in marking is found in interrogative mode.
+GB409_12,1,"Bergsland and Dirks 1981: 9, 55, 58",Ergative alignment is observed in clauses with realis status.
+GB409_13,1,"Bergsland and Dirks 1981: 10, 62",Ergative alignment  is found in clauses with irrealis status.
+GB409_14,1,"Bergsland and Dirks 1981: 9, 62",Ergative alignment is observed in clauses with an agentive argument A.
+GB409_15,?,Bergsland and Dirks 1981: in passim,"Based on the information provided in the document, it is not possible to determine this feature with certainty."
+GB409_16,1,Bergsland and Dirks 1981: 8-9,"Ergative alignment is directly conditioned by the informational structure of the clause, which is related to topicality."
+GB409_17,1,"Bergsland and Dirks 1981: 9, 44","Ergative alignment is applied to an argument A regardless of its topical or non-topical status, provided that the main condition is met: that the object (P) is topical and omitted."
+GB409_18,1,"Bergsland and Dirks 1981: 3, 8-9","There is an ergative alignment when argument A is animate, but only under the condition that argument P (object) is omitted and referenced in the verb."
+GB409_19,?,Bergsland and Dirks 1981: in passim,"Based on the information provided in the document, it is not possible to determine this feature with certainty."
+GB409_20,1,"Bergsland and Dirks 1981: 3, 8-9",Only under specific conditions does the alignment of case marking in main clauses depend on whether the object (P) is present as an explicit noun phrase.
+GB409_21,1,"Bergsland and Dirks 1981: 127, 132","Ergative alignment is observed in non-main clauses, especially in participle constructions and nominalizations."
+GB409_22,1,"Bergsland and Dirks 1981: 6, 8-9",The main factor that conditions ergative alignment in main clauses is the presence and status of the argument P (object).
+GB409_23,1,"Bergsland and Dirks 1981: 9, 20",The marker used to denote argument A has the same form as the genitive marker.
+GB409_24,0,"Bergsland and Dirks 1981: 12, 35, 85",The ergative case does not have the same marker as the instrumental or comitative marker.
