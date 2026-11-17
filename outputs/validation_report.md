@@ -8,11 +8,10 @@ Languages: 196; parameters: 24; values: 4704; sources: 201
 
 - none
 
-## Warnings (3)
+## Warnings (2)
 
 - S5 bibliography entry Henderson2022 is incomplete (marked VERIFY)
 - S5 bibliography entry Delmer2018 is incomplete (marked VERIFY)
-- A1 1 languages without coder attribution (Coders column)
 
 ## Information (1)
 

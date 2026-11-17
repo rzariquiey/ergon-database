@@ -1,7 +1,7 @@
 Parameter_ID,Value,Source,Comment
-GB409_1,0,Sadock 2003: 66; Fortescue 1984: §2.1.1.1,ABS is zero-marked in the singular (bare stem); plural -t is not a dedicated ABS marker (shared with common plural). No overt ABS case marker. Original annotation of 1 was incorrect.
-GB409_2,0,Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2,1st and 2nd person pronouns have a single 'direct case' (DIR) form for all grammatical roles (Sadock §2.11.1.2: 'The first and second person pronouns have only one form for all the direct cases'). No distinct ERG form. Corrected from 1 to 0.
-GB409_3,0,Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2,Same as GB409_2: 2nd person pronouns use a single DIR form with no distinct ergative. Corrected from 1 to 0.
+GB409_1,0,Sadock 2003: 66; Fortescue 1984: §2.1.1.1,ABS is zero-marked in the singular (bare stem); plural -t is not a dedicated ABS marker (shared with common plural). No overt ABS case marker.
+GB409_2,0,Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2,1st and 2nd person pronouns have a single 'direct case' (DIR) form for all grammatical roles (Sadock §2.11.1.2: 'The first and second person pronouns have only one form for all the direct cases'). No distinct ERG form.
+GB409_3,0,Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2,Same as GB409_2: 2nd person pronouns use a single DIR form with no distinct ergative.
 GB409_4,1,Sadock 2003: 66; Fortescue 1984: §2.1.1.2.3,"No dedicated 3rd person pronouns; demonstratives serve as 3rd person and DO have distinct ERG forms (e.g., matuma = ERG singular of 'this'). Value 1 confirmed."
 GB409_5,1,Sadock 2003: 66; Fortescue 1984: §2.1.1.1,Full NPs take ERG/relative suffix -(u)p (singular) or -it (plural) as transitive subjects.
 GB409_6,1,Sadock 2003: 54; Fortescue 1984: in passim,ERG applies regardless of aspect; no aspect-based split documented in either source.

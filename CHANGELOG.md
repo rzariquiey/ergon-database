@@ -13,10 +13,12 @@ statistics, tables and figures. Every value change is listed in `raw/curation_lo
   Lisu (lisu1250), Lipo (lipo1242), Lisu Dechang (dech1234), Lisu Central/Lipo (hual1240).
 - **Review round (November 2026).** Team members re-examined 25 issues raised during harmonisation and by the
   comparison with WALS, AUTOTYP and ATLAs (`scripts/legacy/review_2026_11/`). Emai (emai1242), Fulniô (fuln1247)
-  and Huastec (huas1242) are now `non-ergative`; 103 cells in 11 languages were changed (rule R1, or S1 for the
-  reclassified languages), including Apinajé (TAM contexts, so the former validation exception is gone),
-  Agusan Manobo, Aleut, Manange, Ninam, Mparntwe Arrernte (now fully coded from Wilkins 1989), Futuna-Aniwa
-  and Georgian; page references were added to many cells; the `Coders` column was filled.
+  and Huastec (huas1242) are now `non-ergative`. Relative to the first v1.1.0 draft, 103 cells in 11 languages
+  changed value; relative to v1.0.1 these appear in `raw/curation_log.csv` as 28 rows with rule R1 (Apinajé, whose
+  TAM contexts were recoded so that the former validation exception is gone, Agusan Manobo, Manange, Ninam,
+  Futuna-Aniwa and others) plus the S1 rows of the three reclassified languages, while the 20 Mparntwe Arrernte
+  cells (M1) are now coded from Wilkins (1989). Sources, page references and comments were added or corrected in
+  many further cells (for example Aleut and Georgian); the `Coders` column was filled.
   Totals: 164 ergative, 22 non-ergative, 10 problematic.
 - **Glottocodes.** caca1251 (invalid) → cash1251 (Kakataibo); yami1258 (invalid) → yami1256 (Yaminawa);
   bala1316 → kuma1276 (the coded source, Bril 2002, describes Nêlêmwa).

@@ -9,7 +9,7 @@ GB409_7,1,Yu 2007: cap. 5,Ergative/agentive marker le³³ appears in perfective 
 GB409_8,1,Yu 2007: 178,le³³ is present in past tense contexts.
 GB409_9,1,Yu 2007: 178,le³³ is present in non-past (present/future) contexts.
 GB409_10,1,Yu 2007: cap. 5,le³³ appears in indicative clauses.
-GB409_11,1,Yu 2007: cap. 5,le³³ appears in non-indicative moods (imperative/optative). Confirmed from Yu (2007); changed from original annotation '?'→1.
+GB409_11,1,Yu 2007: cap. 5,le³³ appears in non-indicative moods (imperative/optative). Confirmed from Yu (2007).
 GB409_12,1,Yu 2007: cap. 5,le³³ appears in realis contexts.
 GB409_13,1,Yu 2007: cap. 5,le³³ appears in irrealis contexts.
 GB409_14,1,Yu 2007: cap. 4,Agentive/volitional A takes le³³ (Sa in active-stative system).
@@ -22,4 +22,4 @@ GB409_20,1,Yu 2007: 178,le³³ appears in main clauses.
 GB409_21,?,Yu 2007: in passim,Non-main clauses: insufficient documentation in Yu (2007) to confirm or deny ergative marking in subordinate constructions for this dialect.
 GB409_22,1,Yu 2007: 176,"Ergative alignment is conditioned by the active-stative (split-S) distinction: agentive/volitional Sa takes le³³, non-agentive So takes zero. This semantic/agentivity conditioning constitutes additional conditioning beyond basic transitivity."
 GB409_23,0,Yu 2007: cap. 3,The ergative marker le³³ and the genitive marker are distinct.
-GB409_24,0,Yu 2007: cap. 4,"CORRECTED from original annotation 1→0. Original annotation cited nɛ³³ as both ergative and instrumental, but PDF verification (Yu 2007) confirms that nɛ³³ is the LOCATIVE marker in Central Lisu, not instrumental. The agentive/ergative marker is le³³; the instrumental marker is du³³. ERG≠INST."
+GB409_24,0,Yu 2007: cap. 4,"In Yu (2007), nɛ³³ is the LOCATIVE marker in Central Lisu, not instrumental. The agentive/ergative marker is le³³; the instrumental marker is du³³. ERG≠INST."

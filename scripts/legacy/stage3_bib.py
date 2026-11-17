@@ -4,15 +4,18 @@ import sys,csv,json,collections,re,unicodedata
 sys.path.insert(0,'.')
 from bibmatch import *
 from cites import surnames
-OUT='/home/claude/release/ergon/raw/'
+import pathlib as _p
+ROOT=_p.Path(__file__).resolve().parents[2]
+EXT=ROOT/'external'   # see 'make external'; glsrc = Glottolog 5.3 sources.bib
+OUT=str(ROOT/'raw')+'/'
 LC=json.load(open('lang_cites.json'))
-G={r['ID']:r for r in csv.DictReader(open('/home/claude/ext/glottolog-cldf/cldf/languages.csv'))}
+G={r['ID']:r for r in csv.DictReader(open(EXT/'glottolog-cldf'/'cldf'/'languages.csv'))}
 gbkeys=collections.defaultdict(set)
-for r in csv.DictReader(open('/home/claude/ext/grambank/cldf/values.csv')):
+for r in csv.DictReader(open(EXT/'grambank'/'cldf'/'values.csv')):
     for k in re.findall(r'([^;\[]+)(?:\[[^\]]*\])?', r['Source']):
         if k.strip(): gbkeys[r['Language_ID']].add(k.strip())
 allk=set().union(*gbkeys.values())
-GB=parse_bib('/home/claude/ext/grambank/cldf/sources.bib', lambda k,f: k in allk)
+GB=parse_bib(EXT/'grambank'/'cldf'/'sources.bib', lambda k,f: k in allk)
 # manual resolutions: (glottocode, author, year) -> ('gb', key) | ('gl', glottolog_ref_id) | ('manual', None), note
 GLMAN={
  ('auye1238','Moxness','2011'):('gl','37733',''),
@@ -57,7 +60,7 @@ MANUAL={
  ('iwam1256','Conrad','1999'):'@misc{Conrad1999,\n    author = {Conrad, Robert J. [VERIFY]},\n    year = {1999},\n    title = {[VERIFY: full reference of the Iwam source cited as Conrad 1999]}\n}',
 }
 need=set(GLMAN[k][1] for k in GLMAN if GLMAN[k][0]=='gl')
-GL=parse_bib('/home/claude/ext/glsrc/sources.bib', lambda k,f: f.get('glottolog_ref_id') in need)
+GL=parse_bib(EXT/'glsrc'/'sources.bib', lambda k,f: f.get('glottolog_ref_id') in need)
 GLbyid={e['fields']['glottolog_ref_id']:(k,e) for k,e in GL.items()}
 KEEP=['author','editor','year','title','booktitle','journal','volume','number','pages','series','publisher','address','school','howpublished','edition','note','doi','url','glottolog_ref_id']
 def bibkey(e):

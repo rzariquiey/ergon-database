@@ -18,7 +18,9 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 PIDS = [f'GB409_{i}' for i in range(1, 25)]
 PAIRS = [(6, 7), (8, 9), (10, 11), (12, 13), (14, 15), (16, 17), (18, 19), (20, 21)]
 SPANISH = re.compile(r'\b(el|los|las|del|que|una|está|según|página|gramática|ejemplos?|pero|también|marca|se marca|no hay|lengua|tiene|solo|sólo|glosad[oa]|part[ií]cula|sujeto|cuando|aunque|oración)\b', re.I)
-ARTEFACTS = re.compile(r'(researcher (must|should)|recommend citing|VERIFICAR|value not resolved|TODO|FIXME)', re.I)
+ARTEFACTS = re.compile(r'(researcher (must|should)|recommend citing|VERIFICAR|value not resolved|TODO|FIXME|'
+                       r'original (annotation|coding|value)|corrected from|changed from|not accessed|unreadable|'
+                       r'\bpdf\b|legible copy|re-verified|curator|curation)', re.I)
 
 
 def read(path):
@@ -112,7 +114,7 @@ def main():
     # C1-C2 comment hygiene
     for v in values:
         c = v['Comment'] or ''
-        if len(SPANISH.findall(c)) >= 2 or re.search(r'\b(la|el) (marca|lengua|part[ií]cula)\b|sujeto pron', c, re.I):
+        if len(SPANISH.findall(c)) >= 2 or re.search(r'\w+ciones?\b|\w+ción\b', c) or re.search(r'\b(la|el) (marca|lengua|part[ií]cula)\b|sujeto pron', c, re.I):
             errors.append(f"C1 {v['ID']}: comment appears not to be in English: {c[:80]!r}")
         if ARTEFACTS.search(c):
             errors.append(f"C2 {v['ID']}: comment contains a workflow note: {c[:80]!r}")

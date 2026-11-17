@@ -429,7 +429,7 @@ def resource_counts(ext):
 # ====================================================================== figures
 def save(fig, name):
     fig.savefig(OUT / f'{name}.png', bbox_inches='tight', facecolor='white')
-    fig.savefig(OUT / f'{name}.pdf', bbox_inches='tight', facecolor='white')
+    fig.savefig(OUT / f'{name}.pdf', bbox_inches='tight', facecolor='white', metadata={'CreationDate': None, 'ModDate': None})
     plt.close(fig)
 
 
@@ -577,7 +577,7 @@ def write_macros(S):
             m[k] = num(v)
     for d, r in S['pairs'].items():
         key = ''.join(w.capitalize() for w in d.replace(' of A', '').split())
-        m[f'pair{key}N'] = r['n']; m[f'pair{key}Both'] = r['both']; m[f'pair{key}Uniform'] = r['pct_uniform']
+        m[f'pair{key}N'] = r['n']; m[f'pair{key}Both'] = r['both']; m[f'pair{key}Uniform'] = r['pct_uniform']; m[f'pair{key}OnlyB'] = r['only_b']
     for p, r in S['features'].items():
         k = 'f' + p.split('_')[1].replace('1', 'One').replace('2', 'Two').replace('3', 'Three').replace('4', 'Four') \
             .replace('5', 'Five').replace('6', 'Six').replace('7', 'Seven').replace('8', 'Eight').replace('9', 'Nine').replace('0', 'Zero')

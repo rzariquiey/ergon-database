@@ -1,7 +1,9 @@
 # Provenance script used once to prepare ERGON v1.1.0 from the v1.0.1 archive (see README.md in this folder).
 # Paths refer to the working copies used at the time (v1.0.1 checkout; Grambank v1.0 and Glottolog 5.3 clones).
 import csv, io, re, pathlib, collections
-REPO = pathlib.Path('/home/claude/rzariquiey/ergon-database')
+import os
+# a checkout of the v1.0.1 tree of rzariquiey/ergon-database (set ERGON_V1_REPO to override)
+REPO = pathlib.Path(os.environ.get('ERGON_V1_REPO', pathlib.Path(__file__).resolve().parents[3] / 'ergon-database-v1.0.1'))
 DATA = REPO/'ERGON_data'
 GC = re.compile(r'^[a-z]{4}\d{4}$')
 

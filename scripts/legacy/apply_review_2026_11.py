@@ -24,11 +24,11 @@ SHEETS = ROOT / 'raw' / 'language_sheets'
 
 NEW_NON_ERGATIVE = {
     'emai1242': ('LL', 'No ergative alignment of flagging; the "subject concord" marker of imperfective transitive clauses '
-                 'is not a case marker (Schaefer & Egbokhare 2017:37-42; 2026 review).'),
+                 'is not a case marker (Schaefer & Egbokhare 2017:37-42).'),
     'fuln1247': ('CA', 'Ergative alignment is found only in indexing (third-person singular pronominal clitics on the verb); '
-                 'pronouns and full NPs show no ergative flagging (Costa 1999:145-146, 309; 2026 review).'),
+                 'pronouns and full NPs show no ergative flagging (Costa 1999:145-146, 309).'),
     'huas1242': ('CA', 'Person marking on the verb resembles an inverse system; there is no flagging of nouns or pronouns, '
-                 'hence no ergative flagging (Kondić 2012; 2026 review).'),
+                 'hence no ergative flagging (Kondić 2012).'),
 }
 # English translations of the Spanish comments entered for Georgian in the review sheet (reviewer JM).
 # The sheet cites the source as "Hewitt 1990"; the work is Hewitt (1995) (confirmed in responses_to_issues.csv).
@@ -100,6 +100,28 @@ def clean_comment(c):
     if GENERIC.match(c):
         return 'No relevant evidence in the source.'
     return c
+
+
+WORKFLOW = [   # editing notes that do not belong in a released comment
+    (r'^Original coding uncertain; not re-verified during curation because no legible copy of the source was available\.$',
+     'No relevant evidence in the source.'),
+    (r'\s*CORRECTED from original annotation [^.]*?\.', ''),
+    (r'\s*Corrected from original annotation [^.]*\.', ''),
+    (r'\s*Corrected from (?:original value of )?\S+(?: to \S+)?\.', ''),
+    (r'\s*Original annotation \(value=\d\) was a coding error[^.]*\.', ''),
+    (r'\s*Changed from original annotation [^.]*\.', ''),
+    (r'[;,]?\s*changed from original annotation [^.]*\.', '.'),
+    (r'\s*Original annotation of \S+ was incorrect\.', ''),
+    (r'Original annotation cited nɛ³³ as both ergative and instrumental, but PDF verification \(Yu 2007\) confirms that nɛ³³ is',
+     'In Yu (2007), nɛ³³ is'),
+    (r'original annotation 0 lacks specific citation for Dechang; ', ''),
+]
+
+
+def clean_workflow(c):
+    for a, b in WORKFLOW:
+        c = re.sub(a, b, c)
+    return c.strip()
 
 
 def fix_cell(gc, pid, old, new):
@@ -175,6 +197,22 @@ def main():
         row['Comment'] = row['Comment'].replace('Hewitt (1990, pp.', 'Hewitt (1995, pp.')
     write(SHEETS / 'nucl1302.csv', sheet, list(sheet[0].keys()))
 
+    # two Spanish comments missed by the first translation pass
+    for gc, pid, old, new in [('darl1243', 'GB409_1', 'unmarked/doble marcación', 'Unmarked (double marking).'),
+                              ('guiq1238', 'GB409_17', 'indexación al adjetivo', 'Indexing on the adjective.')]:
+        sh = read(SHEETS / f'{gc}.csv')
+        for row in sh:
+            if row['Parameter_ID'] == pid and row['Comment'].strip() == old:
+                row['Comment'] = new
+        write(SHEETS / f'{gc}.csv', sh, list(sh[0].keys()))
+
+    # remove editing notes from all comments
+    for path in sorted(SHEETS.glob('*.csv')):
+        sh = read(path)
+        new = [dict(r, Comment=clean_workflow(r['Comment'])) for r in sh]
+        if new != sh:
+            write(path, new, list(sh[0].keys()))
+
     # Apinaje: the review recodes all TAM contexts as 1 (ergative flagging in subordinate clauses of
     # every TAM value), so the documented exception to check L2 is no longer needed.
     exc = read(ROOT / 'etc' / 'validation_exceptions.csv')
@@ -201,6 +239,8 @@ def main():
             log.append(e)
             logged[k] = e
     log = [e for e in log if e['Value_v1_0_1'] != e['Value_v1_1_0']]
+    for e in log:   # rule H3 is coding rule C5 (no inference from expectations)
+        e['Rationale'] = e['Rationale'].replace('(coding rule C4)', '(coding rule C5)')
     log.sort(key=lambda e: (e['Glottocode'], int(e['Parameter_ID'].split('_')[1])))
     write(ROOT / 'raw' / 'curation_log.csv', log, logfields)
 
@@ -209,6 +249,7 @@ def main():
     for r in read(REV / 'coders.csv'):
         parts = [p.strip() for p in (r['Coders'] or '').split(',')]
         L[r['Glottocode']]['Coders'] = ';'.join(names.get(p, p) for p in parts if p and p != '?')
+    L['mati1255']['Coders'] = 'RZ'     # Matis: coded by RZ (author, 2026-11-17)
     write(ROOT / 'raw' / 'languages.csv', langs, lfields)
 
     # ---------------------------------------------------------------- sources (responses_to_issues.csv)

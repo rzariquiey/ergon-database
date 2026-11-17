@@ -181,7 +181,7 @@ GB409_11-akun1241,akun1241,GB409_11,1,GB409_11-1,Interrogative mood maintains ER
 GB409_12-akun1241,akun1241,GB409_12,1,GB409_12-1,Realis clauses are consistently ERG-ABS.,g_Aragon_Akuntsu[232],Aragon 2014: 232
 GB409_13-akun1241,akun1241,GB409_13,1,GB409_13-1,Future tense (irrealis) and interrogatives (irrealis-like) maintain ERG alignment.,"g_Aragon_Akuntsu[226, 334]","Aragon 2014: 226, 334"
 GB409_14-akun1241,akun1241,GB409_14,1,GB409_14-1,Agentive A arguments take independent ergative pronouns (on/en/te); S and P take dependent absolutive clitics.,"g_Aragon_Akuntsu[182, 286]","Aragon 2014: 182, 286"
-GB409_15-akun1241,akun1241,GB409_15,0,GB409_15-0,"Experiencer/non-agentive predicates (fear, hear) are INTRANSITIVE in Akuntsu; their single argument takes the absolutive dependent clitic, not the ergative independent pronoun (e=pip 'you are afraid', o=apinom 'I hear'). Corrected from original value of 1.","g_Aragon_Akuntsu[181, 196]","Aragon 2014: 181, 196"
+GB409_15-akun1241,akun1241,GB409_15,0,GB409_15-0,"Experiencer/non-agentive predicates (fear, hear) are INTRANSITIVE in Akuntsu; their single argument takes the absolutive dependent clitic, not the ergative independent pronoun (e=pip 'you are afraid', o=apinom 'I hear').","g_Aragon_Akuntsu[181, 196]","Aragon 2014: 181, 196"
 GB409_16-akun1241,akun1241,GB409_16,1,GB409_16-1,Topical A (1st/2nd person) take independent ERG pronouns consistently.,g_Aragon_Akuntsu[181-182],Aragon 2014: 181-182
 GB409_17-akun1241,akun1241,GB409_17,1,GB409_17-1,Non-topical A in transitive clauses also uses independent pronouns.,g_Aragon_Akuntsu[254-255],Aragon 2014: 254-255
 GB409_18-akun1241,akun1241,GB409_18,1,GB409_18-1,Animate pronominal A (humans) take independent ERG pronouns.,"g_Aragon_Akuntsu[181-182, 201]","Aragon 2014: 181-182, 201"
@@ -662,7 +662,7 @@ GB409_12-kuma1276,kuma1276,GB409_12,1,GB409_12-1,Ergative alignment occurs in cl
 GB409_13-kuma1276,kuma1276,GB409_13,1,GB409_13-1,Ergative alignment occurs in clauses with irrealis status.,"g_Bril_Nelemwa[50, 52, 59, 118]","Bril 2002: 50, 52, 59, 118"
 GB409_14-kuma1276,kuma1276,GB409_14,1,GB409_14-1,Ergative alignment exists in the context of an agentive A argument.,g_Bril_Nelemwa[52-53],Bril 2002: 52-53
 GB409_15-kuma1276,kuma1276,GB409_15,1,GB409_15-1,Ergative alignment exists in the context of a non-agentive A argument.,g_Bril_Nelemwa[53],Bril 2002: 53
-GB409_16-kuma1276,kuma1276,GB409_16,0,GB409_16-0,"When A is thematized (fronted to pre-verbal position), the ergative marker is OBLIGATORILY removed (Bril 2002: §3.7.1, p.57: 'Le sujet thématisé du verbe transitif apparaît sans les marques d'agent an ou ru'). Corrected from original annotation 1→0.",g_Bril_Nelemwa[57],Bril 2002: 57
+GB409_16-kuma1276,kuma1276,GB409_16,0,GB409_16-0,"When A is thematized (fronted to pre-verbal position), the ergative marker is OBLIGATORILY removed (Bril 2002: §3.7.1, p.57: 'Le sujet thématisé du verbe transitif apparaît sans les marques d'agent an ou ru').",g_Bril_Nelemwa[57],Bril 2002: 57
 GB409_17-kuma1276,kuma1276,GB409_17,1,GB409_17-1,"When A is not thematized (basic VSO order), the ergative marker is present.",g_Bril_Nelemwa[52-53],Bril 2002: 52-53
 GB409_18-kuma1276,kuma1276,GB409_18,1,GB409_18-1,Ergative alignment occurs in clauses with an animate A.,"g_Bril_Nelemwa[36, 51-53]","Bril 2002: 36, 51-53"
 GB409_19-kuma1276,kuma1276,GB409_19,1,GB409_19-1,Ergative alignment occurs in clauses with an inanimate A.,"g_Bril_Nelemwa[51, 53]","Bril 2002: 51, 53"
@@ -998,8 +998,8 @@ GB409_12-boun1245,boun1245,GB409_12,1,GB409_12-1,Clauses with realis status show
 GB409_13-boun1245,boun1245,GB409_13,1,GB409_13-1,Clauses with irrealis status show ergative alignment.,ssoc_MerlanRumsey_KuWaru[330-333],Merlan and Rumsey 1991: 330-333
 GB409_14-boun1245,boun1245,GB409_14,1,GB409_14-1,"In the context of an agentive A argument, ergative alignment is observed.","ssoc_MerlanRumsey_KuWaru[337, 339-340]","Merlan and Rumsey 1991: 337, 339-340"
 GB409_15-boun1245,boun1245,GB409_15,1,GB409_15-1,"In the context of a non-agentive A, ergative alignment is observed. Merlan and Rumsey (1991: 339) document Type IV clause constructions where experiencer-like arguments (e.g., 'hunger-ERG', 'sleep-ERG') take the ergative marker.",ssoc_MerlanRumsey_KuWaru[339],Merlan and Rumsey 1991: 339
-GB409_16-boun1245,boun1245,GB409_16,1,GB409_16-1,"No topicality-based split is documented in Merlan and Rumsey (1991). The optional dropping of -n(i) is conditioned by phonological/discourse factors, not by the topicality of A per se. Topical A retains ergative marking. Changed from original annotation '?' to 1.",ssoc_MerlanRumsey_KuWaru[337-339],Merlan and Rumsey 1991: 337-339
-GB409_17-boun1245,boun1245,GB409_17,1,GB409_17-1,No topicality-based split documented. Non-topical A takes ergative marking as expected. Changed from original annotation '?' to 1.,ssoc_MerlanRumsey_KuWaru[337-339],Merlan and Rumsey 1991: 337-339
+GB409_16-boun1245,boun1245,GB409_16,1,GB409_16-1,"No topicality-based split is documented in Merlan and Rumsey (1991). The optional dropping of -n(i) is conditioned by phonological/discourse factors, not by the topicality of A per se. Topical A retains ergative marking.",ssoc_MerlanRumsey_KuWaru[337-339],Merlan and Rumsey 1991: 337-339
+GB409_17-boun1245,boun1245,GB409_17,1,GB409_17-1,No topicality-based split documented. Non-topical A takes ergative marking as expected.,ssoc_MerlanRumsey_KuWaru[337-339],Merlan and Rumsey 1991: 337-339
 GB409_18-boun1245,boun1245,GB409_18,1,GB409_18-1,Clauses with animate A arguments exhibit ergative alignment.,"ssoc_MerlanRumsey_KuWaru[337, 339-340]","Merlan and Rumsey 1991: 337, 339-340"
 GB409_19-boun1245,boun1245,GB409_19,1,GB409_19-1,Clauses with inanimate A arguments exhibit ergative alignment.,ssoc_MerlanRumsey_KuWaru[339],Merlan and Rumsey 1991: 339
 GB409_20-boun1245,boun1245,GB409_20,1,GB409_20-1,Main clauses exhibit ergative alignment.,ssoc_MerlanRumsey_KuWaru[337-339],Merlan and Rumsey 1991: 337-339
@@ -1559,7 +1559,7 @@ GB409_21-dara1250,dara1250,GB409_21,1,GB409_21-1,See example (26),g_Dhakal_Darai
 GB409_22-dara1250,dara1250,GB409_22,?,,no information available,g_Dhakal_Darai[in passim],Dhakal 2012:in passim
 GB409_23-dara1250,dara1250,GB409_23,0,GB409_23-0,,g_Dhakal_Darai[39],Dhakal 2012:39
 GB409_24-dara1250,dara1250,GB409_24,1,GB409_24-1,"alomorfos ᷈i, hi᷈, ei᷈",g_Dhakal_Darai[41],Dhakal 2012:41
-GB409_1-darl1243,darl1243,GB409_1,0,GB409_1-0,unmarked/doble marcación,g_Hercus_Bagandji[57],Hercus 1982: 57
+GB409_1-darl1243,darl1243,GB409_1,0,GB409_1-0,Unmarked (double marking).,g_Hercus_Bagandji[57],Hercus 1982: 57
 GB409_2-darl1243,darl1243,GB409_2,0,GB409_2-0,There is split is between a tripartite alignment (singular pronouns) and an accusative alignment (non-singular pronouns).,g_Hercus_Bagandji[109-110],Hercus 1982:109-110
 GB409_3-darl1243,darl1243,GB409_3,0,GB409_3-0,There is split is between a tripartite alignment (singular pronouns) and an accusative alignment (non-singular pronouns).,g_Hercus_Bagandji[109-110],Hercus 1982:109-110
 GB409_4-darl1243,darl1243,GB409_4,0,GB409_4-0,Tripartite alignment.,g_Hercus_Bagandji[114],Hercus 1982: 114
@@ -1608,9 +1608,9 @@ GB409_22-darm1243,darm1243,GB409_22,0,GB409_22-0,,g_Willis_Darma_2019[in passim]
 GB409_23-darm1243,darm1243,GB409_23,0,GB409_23-0,possessive =gu,g_Willis_Darma_2019[203],Willis 2019:203
 GB409_24-darm1243,darm1243,GB409_24,1,GB409_24-1,"Instrumental =su, Comitative =ru","g_Willis_Darma_2019[159, 161]",Willis 2019:159; 161
 GB409_1-dech1234,dech1234,GB409_1,0,GB409_1-0,The absolutive is zero-marked; the agentive marker le³³ marks only transitive A and Sa (agentive intransitive S).,s_Yu_Lisu[177-178],Yu 2007: 177-178
-GB409_2-dech1234,dech1234,GB409_2,1,GB409_2-1,All persons of pronouns have distinct ergative/agentive forms with le³³ in Dechang dialect of Lisu. Confirmed in Yu (2007). Changed from original annotation '?'→1.,s_Yu_Lisu[ca3],Yu 2007: cap. 3
-GB409_3-dech1234,dech1234,GB409_3,1,GB409_3-1,All persons of pronouns have distinct ergative/agentive forms with le³³. Changed from original annotation '?'→1.,s_Yu_Lisu[ca3],Yu 2007: cap. 3
-GB409_4-dech1234,dech1234,GB409_4,1,GB409_4-1,All persons of pronouns have distinct ergative/agentive forms with le³³. Changed from original annotation '?'→1.,s_Yu_Lisu[ca3],Yu 2007: cap. 3
+GB409_2-dech1234,dech1234,GB409_2,1,GB409_2-1,All persons of pronouns have distinct ergative/agentive forms with le³³ in Dechang dialect of Lisu. Confirmed in Yu (2007).,s_Yu_Lisu[ca3],Yu 2007: cap. 3
+GB409_3-dech1234,dech1234,GB409_3,1,GB409_3-1,All persons of pronouns have distinct ergative/agentive forms with le³³.,s_Yu_Lisu[ca3],Yu 2007: cap. 3
+GB409_4-dech1234,dech1234,GB409_4,1,GB409_4-1,All persons of pronouns have distinct ergative/agentive forms with le³³.,s_Yu_Lisu[ca3],Yu 2007: cap. 3
 GB409_5-dech1234,dech1234,GB409_5,1,GB409_5-1,Full NPs take the agentive marker le³³ in transitive clauses. See example (312).,s_Yu_Lisu[178],Yu 2007: 178
 GB409_6-dech1234,dech1234,GB409_6,1,GB409_6-1,Ergative/agentive marker le³³ appears in imperfective contexts. See example (312).,s_Yu_Lisu[178],Yu 2007: 178
 GB409_7-dech1234,dech1234,GB409_7,1,GB409_7-1,Ergative/agentive marker le³³ appears in perfective contexts. See example (158a).,s_Yu_Lisu[209],Yu 2007: 209
@@ -1621,16 +1621,16 @@ GB409_11-dech1234,dech1234,GB409_11,1,GB409_11-1,le³³ in non-indicative moods.
 GB409_12-dech1234,dech1234,GB409_12,1,GB409_12-1,le³³ in realis status. See example (312).,s_Yu_Lisu[178],Yu 2007: 178
 GB409_13-dech1234,dech1234,GB409_13,1,GB409_13-1,le³³ in irrealis status. See example (174a-b).,s_Yu_Lisu[212],Yu 2007: 212
 GB409_14-dech1234,dech1234,GB409_14,1,GB409_14-1,"Agentive/volitional A takes le³³. See examples (312), (228).","s_Yu_Lisu[178, 222]","Yu 2007: 178, 222"
-GB409_15-dech1234,dech1234,GB409_15,0,GB409_15-0,"Non-agentive intransitive S (So) takes zero marking (absolutive), not le³³. The active-stative system distinguishes Sa (agentive, takes le³³) from So (non-agentive, zero). Changed from original annotation '?'→0.",s_Yu_Lisu[ca4],Yu 2007: cap. 4
-GB409_16-dech1234,dech1234,GB409_16,0,GB409_16-0,"CORRECTED from original annotation 1→0. In the active-stative system, the conditioning factor is agentivity/control, not topicality. See example (3a-b): the split is between Sa and So, not between topical and non-topical A. Topicality does not systematically condition the presence/absence of le³³.",s_Yu_Lisu[82],Yu 2007: 82
+GB409_15-dech1234,dech1234,GB409_15,0,GB409_15-0,"Non-agentive intransitive S (So) takes zero marking (absolutive), not le³³. The active-stative system distinguishes Sa (agentive, takes le³³) from So (non-agentive, zero).",s_Yu_Lisu[ca4],Yu 2007: cap. 4
+GB409_16-dech1234,dech1234,GB409_16,0,GB409_16-0,"In the active-stative system, the conditioning factor is agentivity/control, not topicality. See example (3a-b): the split is between Sa and So, not between topical and non-topical A. Topicality does not systematically condition the presence/absence of le³³.",s_Yu_Lisu[82],Yu 2007: 82
 GB409_17-dech1234,dech1234,GB409_17,1,GB409_17-1,Non-topical A takes le³³ as part of the active-stative system.,s_Yu_Lisu[82],Yu 2007: 82
 GB409_18-dech1234,dech1234,GB409_18,1,GB409_18-1,Animate A takes le³³. See example (3a-b).,s_Yu_Lisu[82],Yu 2007: 82
-GB409_19-dech1234,dech1234,GB409_19,?,,Inanimate A: original annotation 0 lacks specific citation for Dechang; Yu (2007) does not explicitly address inanimate agents for this dialect. Changed from original annotation 0→? (insufficient evidence).,s_Yu_Lisu[in passim],Yu 2007: in passim
+GB409_19-dech1234,dech1234,GB409_19,?,,Inanimate A: Yu (2007) does not explicitly address inanimate agents for this dialect.,s_Yu_Lisu[in passim],Yu 2007: in passim
 GB409_20-dech1234,dech1234,GB409_20,1,GB409_20-1,le³³ in main clauses. See example (312).,s_Yu_Lisu[178],Yu 2007: 178
 GB409_21-dech1234,dech1234,GB409_21,?,,Non-main clauses: insufficient documentation in Yu (2007) for Dechang dialect to confirm or deny ergative marking in subordinate constructions.,s_Yu_Lisu[in passim],Yu 2007: in passim
 GB409_22-dech1234,dech1234,GB409_22,1,GB409_22-1,"Ergative alignment conditioned by the active-stative (split-S) distinction: agentive/volitional Sa takes le³³, non-agentive So takes zero. The language follows an active-stative pattern.","s_Yu_Lisu[82-83, 178]","Yu 2007: 82-83, 178"
 GB409_23-dech1234,dech1234,GB409_23,0,GB409_23-0,The ergative marker le³³ and the genitive marker are distinct.,s_Yu_Lisu[87],Yu 2007: 87
-GB409_24-dech1234,dech1234,GB409_24,0,GB409_24-0,"CORRECTED from original annotation '?'→0. In Dechang dialect, nɛ³³ is the LOCATIVE marker (Yu 2007), not the instrumental. The ergative/agentive marker is le³³; instrumental is du³³. ERG≠INST.",s_Yu_Lisu[ca4],Yu 2007: cap. 4
+GB409_24-dech1234,dech1234,GB409_24,0,GB409_24-0,"In Dechang dialect, nɛ³³ is the LOCATIVE marker (Yu 2007), not the instrumental. The ergative/agentive marker is le³³; instrumental is du³³. ERG≠INST.",s_Yu_Lisu[ca4],Yu 2007: cap. 4
 GB409_1-dhar1247,dhar1247,GB409_1,1,GB409_1-1,Unmarked.,s_Klokeid_Thargari[24],Klokeid 1969:24
 GB409_2-dhar1247,dhar1247,GB409_2,0,GB409_2-0,Unmarked.,"s_Klokeid_Thargari[16-17, 24-26]","Klokeid 1969:16-17, 24-26"
 GB409_3-dhar1247,dhar1247,GB409_3,0,GB409_3-0,See table.,"s_Klokeid_Thargari[16-17, 24-26]","Klokeid 1969:16-17, 24-26"
@@ -2400,27 +2400,27 @@ GB409_22-gahr1239,gahr1239,GB409_22,1,GB409_22-1,"A may or may not be marked dep
 GB409_23-gahr1239,gahr1239,GB409_23,0,GB409_23-0,,g_Widmer_Bunan[681],"Widmer, 2014, p. 681"
 GB409_24-gahr1239,gahr1239,GB409_24,0,GB409_24-0,,"g_Widmer_Bunan[713, 690]","Widmer, 2014, p. 713, 690"
 GB409_1-gana1278,gana1278,GB409_1,0,GB409_1-0,see examples on page 112,s_Fesl_Ganai[112],Fesl 1985: 112
-GB409_2-gana1278,gana1278,GB409_2,?,,Original coding uncertain; not re-verified during curation because no legible copy of the source was available.,s_Fesl_Ganai[assim],Fesl 1985: passim
-GB409_3-gana1278,gana1278,GB409_3,?,,Original coding uncertain; not re-verified during curation because no legible copy of the source was available.,s_Fesl_Ganai[assim],Fesl 1985: passim
+GB409_2-gana1278,gana1278,GB409_2,?,,No relevant evidence in the source.,s_Fesl_Ganai[assim],Fesl 1985: passim
+GB409_3-gana1278,gana1278,GB409_3,?,,No relevant evidence in the source.,s_Fesl_Ganai[assim],Fesl 1985: passim
 GB409_4-gana1278,gana1278,GB409_4,1,GB409_4-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
 GB409_5-gana1278,gana1278,GB409_5,1,GB409_5-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
 GB409_6-gana1278,gana1278,GB409_6,1,GB409_6-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
 GB409_7-gana1278,gana1278,GB409_7,1,GB409_7-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
 GB409_8-gana1278,gana1278,GB409_8,1,GB409_8-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
-GB409_9-gana1278,gana1278,GB409_9,?,,Original coding uncertain; not re-verified during curation because no legible copy of the source was available.,s_Fesl_Ganai[assim],Fesl 1985: passim
+GB409_9-gana1278,gana1278,GB409_9,?,,No relevant evidence in the source.,s_Fesl_Ganai[assim],Fesl 1985: passim
 GB409_10-gana1278,gana1278,GB409_10,1,GB409_10-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
-GB409_11-gana1278,gana1278,GB409_11,?,,Original coding uncertain; not re-verified during curation because no legible copy of the source was available.,s_Fesl_Ganai[assim],Fesl 1985: passim
+GB409_11-gana1278,gana1278,GB409_11,?,,No relevant evidence in the source.,s_Fesl_Ganai[assim],Fesl 1985: passim
 GB409_12-gana1278,gana1278,GB409_12,1,GB409_12-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
-GB409_13-gana1278,gana1278,GB409_13,?,,Original coding uncertain; not re-verified during curation because no legible copy of the source was available.,s_Fesl_Ganai[assim],Fesl 1985: passim
+GB409_13-gana1278,gana1278,GB409_13,?,,No relevant evidence in the source.,s_Fesl_Ganai[assim],Fesl 1985: passim
 GB409_14-gana1278,gana1278,GB409_14,1,GB409_14-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
-GB409_15-gana1278,gana1278,GB409_15,?,,Original coding uncertain; not re-verified during curation because no legible copy of the source was available.,s_Fesl_Ganai[assim],Fesl 1985: passim
+GB409_15-gana1278,gana1278,GB409_15,?,,No relevant evidence in the source.,s_Fesl_Ganai[assim],Fesl 1985: passim
 GB409_16-gana1278,gana1278,GB409_16,1,GB409_16-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
-GB409_17-gana1278,gana1278,GB409_17,?,,Original coding uncertain; not re-verified during curation because no legible copy of the source was available.,s_Fesl_Ganai[assim],Fesl 1985: passim
+GB409_17-gana1278,gana1278,GB409_17,?,,No relevant evidence in the source.,s_Fesl_Ganai[assim],Fesl 1985: passim
 GB409_18-gana1278,gana1278,GB409_18,1,GB409_18-1,see examples on page 2 (index II),s_Fesl_Ganai[INDEX II: 2],Fesl 1985: INDEX II: 2
 GB409_19-gana1278,gana1278,GB409_19,1,GB409_19-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
 GB409_20-gana1278,gana1278,GB409_20,1,GB409_20-1,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 6],Fesl 1985: INDEX II: 6
-GB409_21-gana1278,gana1278,GB409_21,?,,Original coding uncertain; not re-verified during curation because no legible copy of the source was available.,s_Fesl_Ganai[assim],Fesl 1985: passim
-GB409_22-gana1278,gana1278,GB409_22,?,,Original coding uncertain; not re-verified during curation because no legible copy of the source was available.,s_Fesl_Ganai[assim],Fesl 1985: passim
+GB409_21-gana1278,gana1278,GB409_21,?,,No relevant evidence in the source.,s_Fesl_Ganai[assim],Fesl 1985: passim
+GB409_22-gana1278,gana1278,GB409_22,?,,No relevant evidence in the source.,s_Fesl_Ganai[assim],Fesl 1985: passim
 GB409_23-gana1278,gana1278,GB409_23,0,GB409_23-0,see examples on page 6 (index II),s_Fesl_Ganai[INDEX II: 16],Fesl 1985: INDEX II: 16
 GB409_24-gana1278,gana1278,GB409_24,?,,the source does not show these marks.,s_Fesl_Ganai[117],Fesl 1985: 117
 GB409_1-guan1266,guan1266,GB409_1,0,GB409_1-0,,g_Lai_Lavrung-Wobzi,"Lai, 2017"
@@ -2487,7 +2487,7 @@ GB409_13-guiq1238,guiq1238,GB409_13,1,GB409_13-1,,g_Li_Guiqiong[256],"Li, 2014, 
 GB409_14-guiq1238,guiq1238,GB409_14,1,GB409_14-1,,g_Li_Guiqiong[342],"Li, 2014, 342"
 GB409_15-guiq1238,guiq1238,GB409_15,?,,No relevant evidence in the source.,g_Li_Guiqiong[assim],Li 2014: passim
 GB409_16-guiq1238,guiq1238,GB409_16,1,GB409_16-1,,g_Li_Guiqiong[342],"Li, 2014, 342"
-GB409_17-guiq1238,guiq1238,GB409_17,1,GB409_17-1,indexación al adjetivo,g_Li_Guiqiong[345],"Li, 2014, 345"
+GB409_17-guiq1238,guiq1238,GB409_17,1,GB409_17-1,Indexing on the adjective.,g_Li_Guiqiong[345],"Li, 2014, 345"
 GB409_18-guiq1238,guiq1238,GB409_18,1,GB409_18-1,,g_Li_Guiqiong[342],"Li, 2014, 342"
 GB409_19-guiq1238,guiq1238,GB409_19,?,,,,
 GB409_20-guiq1238,guiq1238,GB409_20,1,GB409_20-1,,g_Li_Guiqiong[342],"Li, 2014, 342"
@@ -2649,7 +2649,7 @@ GB409_7-hual1240,hual1240,GB409_7,1,GB409_7-1,Ergative/agentive marker le³³ ap
 GB409_8-hual1240,hual1240,GB409_8,1,GB409_8-1,le³³ is present in past tense contexts.,s_Yu_Lisu[178],Yu 2007: 178
 GB409_9-hual1240,hual1240,GB409_9,1,GB409_9-1,le³³ is present in non-past (present/future) contexts.,s_Yu_Lisu[178],Yu 2007: 178
 GB409_10-hual1240,hual1240,GB409_10,1,GB409_10-1,le³³ appears in indicative clauses.,s_Yu_Lisu[ca5],Yu 2007: cap. 5
-GB409_11-hual1240,hual1240,GB409_11,1,GB409_11-1,le³³ appears in non-indicative moods (imperative/optative). Confirmed from Yu (2007); changed from original annotation '?'→1.,s_Yu_Lisu[ca5],Yu 2007: cap. 5
+GB409_11-hual1240,hual1240,GB409_11,1,GB409_11-1,le³³ appears in non-indicative moods (imperative/optative). Confirmed from Yu (2007).,s_Yu_Lisu[ca5],Yu 2007: cap. 5
 GB409_12-hual1240,hual1240,GB409_12,1,GB409_12-1,le³³ appears in realis contexts.,s_Yu_Lisu[ca5],Yu 2007: cap. 5
 GB409_13-hual1240,hual1240,GB409_13,1,GB409_13-1,le³³ appears in irrealis contexts.,s_Yu_Lisu[ca5],Yu 2007: cap. 5
 GB409_14-hual1240,hual1240,GB409_14,1,GB409_14-1,Agentive/volitional A takes le³³ (Sa in active-stative system).,s_Yu_Lisu[ca4],Yu 2007: cap. 4
@@ -2662,7 +2662,7 @@ GB409_20-hual1240,hual1240,GB409_20,1,GB409_20-1,le³³ appears in main clauses.
 GB409_21-hual1240,hual1240,GB409_21,?,,Non-main clauses: insufficient documentation in Yu (2007) to confirm or deny ergative marking in subordinate constructions for this dialect.,s_Yu_Lisu[in passim],Yu 2007: in passim
 GB409_22-hual1240,hual1240,GB409_22,1,GB409_22-1,"Ergative alignment is conditioned by the active-stative (split-S) distinction: agentive/volitional Sa takes le³³, non-agentive So takes zero. This semantic/agentivity conditioning constitutes additional conditioning beyond basic transitivity.",s_Yu_Lisu[176],Yu 2007: 176
 GB409_23-hual1240,hual1240,GB409_23,0,GB409_23-0,The ergative marker le³³ and the genitive marker are distinct.,s_Yu_Lisu[ca3],Yu 2007: cap. 3
-GB409_24-hual1240,hual1240,GB409_24,0,GB409_24-0,"CORRECTED from original annotation 1→0. Original annotation cited nɛ³³ as both ergative and instrumental, but PDF verification (Yu 2007) confirms that nɛ³³ is the LOCATIVE marker in Central Lisu, not instrumental. The agentive/ergative marker is le³³; the instrumental marker is du³³. ERG≠INST.",s_Yu_Lisu[ca4],Yu 2007: cap. 4
+GB409_24-hual1240,hual1240,GB409_24,0,GB409_24-0,"In Yu (2007), nɛ³³ is the LOCATIVE marker in Central Lisu, not instrumental. The agentive/ergative marker is le³³; the instrumental marker is du³³. ERG≠INST.",s_Yu_Lisu[ca4],Yu 2007: cap. 4
 GB409_1-huas1242,huas1242,GB409_1,0,GB409_1-0,,g_Kondic_Huastec[assim],Kondić 2012: passim
 GB409_2-huas1242,huas1242,GB409_2,0,GB409_2-0,,g_Kondic_Huastec[assim],Kondić 2012: passim
 GB409_3-huas1242,huas1242,GB409_3,0,GB409_3-0,,g_Kondic_Huastec[assim],Kondić 2012: passim
@@ -3119,9 +3119,9 @@ GB409_21-kaki1249,kaki1249,GB409_21,?,,No relevant evidence in the source.,s_Cli
 GB409_22-kaki1249,kaki1249,GB409_22,?,,No relevant evidence in the source.,s_Clifton_KakiAe[assim],Clifton 1995: passim
 GB409_23-kaki1249,kaki1249,GB409_23,?,,No relevant evidence in the source.,s_Clifton_KakiAe[assim],Clifton 1995: passim
 GB409_24-kaki1249,kaki1249,GB409_24,?,,No relevant evidence in the source.,s_Clifton_KakiAe[assim],Clifton 1995: passim
-GB409_1-kala1399,kala1399,GB409_1,0,GB409_1-0,ABS is zero-marked in the singular (bare stem); plural -t is not a dedicated ABS marker (shared with common plural). No overt ABS case marker. Original annotation of 1 was incorrect.,Sadock2003Kalaallisut[66];g_Fortescue_WGreenlandic[§2.1.1.1],Sadock 2003: 66; Fortescue 1984: §2.1.1.1
-GB409_2-kala1399,kala1399,GB409_2,0,GB409_2-0,1st and 2nd person pronouns have a single 'direct case' (DIR) form for all grammatical roles (Sadock §2.11.1.2: 'The first and second person pronouns have only one form for all the direct cases'). No distinct ERG form. Corrected from 1 to 0.,Sadock2003Kalaallisut[66 (§2.11.1.2)];g_Fortescue_WGreenlandic[§2.1.1.2.2],Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2
-GB409_3-kala1399,kala1399,GB409_3,0,GB409_3-0,Same as GB409_2: 2nd person pronouns use a single DIR form with no distinct ergative. Corrected from 1 to 0.,Sadock2003Kalaallisut[66 (§2.11.1.2)];g_Fortescue_WGreenlandic[§2.1.1.2.2],Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2
+GB409_1-kala1399,kala1399,GB409_1,0,GB409_1-0,ABS is zero-marked in the singular (bare stem); plural -t is not a dedicated ABS marker (shared with common plural). No overt ABS case marker.,Sadock2003Kalaallisut[66];g_Fortescue_WGreenlandic[§2.1.1.1],Sadock 2003: 66; Fortescue 1984: §2.1.1.1
+GB409_2-kala1399,kala1399,GB409_2,0,GB409_2-0,1st and 2nd person pronouns have a single 'direct case' (DIR) form for all grammatical roles (Sadock §2.11.1.2: 'The first and second person pronouns have only one form for all the direct cases'). No distinct ERG form.,Sadock2003Kalaallisut[66 (§2.11.1.2)];g_Fortescue_WGreenlandic[§2.1.1.2.2],Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2
+GB409_3-kala1399,kala1399,GB409_3,0,GB409_3-0,Same as GB409_2: 2nd person pronouns use a single DIR form with no distinct ergative.,Sadock2003Kalaallisut[66 (§2.11.1.2)];g_Fortescue_WGreenlandic[§2.1.1.2.2],Sadock 2003: 66 (§2.11.1.2); Fortescue 1984: §2.1.1.2.2
 GB409_4-kala1399,kala1399,GB409_4,1,GB409_4-1,"No dedicated 3rd person pronouns; demonstratives serve as 3rd person and DO have distinct ERG forms (e.g., matuma = ERG singular of 'this'). Value 1 confirmed.",Sadock2003Kalaallisut[66];g_Fortescue_WGreenlandic[§2.1.1.2.3],Sadock 2003: 66; Fortescue 1984: §2.1.1.2.3
 GB409_5-kala1399,kala1399,GB409_5,1,GB409_5-1,Full NPs take ERG/relative suffix -(u)p (singular) or -it (plural) as transitive subjects.,Sadock2003Kalaallisut[66];g_Fortescue_WGreenlandic[§2.1.1.1],Sadock 2003: 66; Fortescue 1984: §2.1.1.1
 GB409_6-kala1399,kala1399,GB409_6,1,GB409_6-1,ERG applies regardless of aspect; no aspect-based split documented in either source.,Sadock2003Kalaallisut[54];g_Fortescue_WGreenlandic[in passim],Sadock 2003: 54; Fortescue 1984: in passim
@@ -4556,7 +4556,7 @@ GB409_11-nucl1302,nucl1302,GB409_11,1,GB409_11-1,Ergative marking occurs in non-
 GB409_12-nucl1302,nucl1302,GB409_12,1,GB409_12-1,"The realis corresponds to Series II, which is ergative.",g_Hewitt_Georgian[296],Hewitt 1995: 296
 GB409_13-nucl1302,nucl1302,GB409_13,0,GB409_13-0,"The irrealis corresponds to Series I, which is nominative.",g_Hewitt_Georgian[240],Hewitt 1995: 240
 GB409_14-nucl1302,nucl1302,GB409_14,1,GB409_14-1,"Agentive subjects are marked in Series II. Agentivity does not by itself trigger ergative marking, however; see for example Series III (Hewitt 1995:338).","g_Hewitt_Georgian[170-200, 338]","Hewitt 1995: 170-200, 338"
-GB409_15-nucl1302,nucl1302,GB409_15,1,GB409_15-1,"Non-agentive A takes ergative marking in Series II. Hewitt (1995, pp.187-189) provides multiple examples of inanimate/abstract agents with no volitional control taking the ergative case: sun-ERG (dried the field), sweat-ERG (penetrated the shirt), pleasure-ERG (made me dizzy), God-ERG (let you grow old), illness-ERG (weakened the man’s knees). These are Series II constructions and therefore take the ergative. Original annotation (value=0) was a coding error directly contradicted by the examples cited in the same comment.",g_Hewitt_Georgian[187-189],Hewitt 1995: 187-189
+GB409_15-nucl1302,nucl1302,GB409_15,1,GB409_15-1,"Non-agentive A takes ergative marking in Series II. Hewitt (1995, pp.187-189) provides multiple examples of inanimate/abstract agents with no volitional control taking the ergative case: sun-ERG (dried the field), sweat-ERG (penetrated the shirt), pleasure-ERG (made me dizzy), God-ERG (let you grow old), illness-ERG (weakened the man’s knees). These are Series II constructions and therefore take the ergative.",g_Hewitt_Georgian[187-189],Hewitt 1995: 187-189
 GB409_16-nucl1302,nucl1302,GB409_16,1,GB409_16-1,There is no evidence that topicality affects case marking; ergative marking occurs in both contexts.,g_Hewitt_Georgian[81-83],Hewitt 1995: 81-83
 GB409_17-nucl1302,nucl1302,GB409_17,1,GB409_17-1,There is no evidence that topicality affects case marking; ergative marking occurs in both contexts.,g_Hewitt_Georgian[81-83],Hewitt 1995: 81-83
 GB409_18-nucl1302,nucl1302,GB409_18,1,GB409_18-1,The source mentions no split in ergative marking based on the animacy of A.,g_Hewitt_Georgian[151],Hewitt 1995: 151

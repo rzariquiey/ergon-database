@@ -90,13 +90,13 @@ east2545,Eastern Pomo,North America,38.5647,-122.586,east2545,peb,Eastern Pomo,l
 east2694,Eastern Subanun,Papunesia,8.2475,123.5234,east2694,sfe,Eastern Subanen,language,east2694,Austronesian,aust1307,ergative,,LL;AVA,AVA,s_Verstraelen_Subanon
 east2773,Dolakha Newar,Eurasia,27.576985,86.033964,east2773,,Eastern Newari,language,east2773,Sino-Tibetan,sino1245,ergative,,LL;AVA,AVA,g_Genetti_Dolakha-Newar
 east2851,Geshiza,Eurasia,31.1026,101.72,east2851,ero,Eastern Geshiza,dialect,horp1239,Sino-Tibetan,sino1245,ergative,,LL;AVA,AVA,g_Honkasalo_Geshiza
-emai1242,Emai,Africa,7.09089,5.84494,emai1242,ema,Emai,dialect,emai1241,Atlantic-Congo,atla1278,non-ergative,"No ergative alignment of flagging; the ""subject concord"" marker of imperfective transitive clauses is not a case marker (Schaefer & Egbokhare 2017:37-42; 2026 review).",LL;AVA,AVA,g_SchaeferEgbokhare_Emai
+emai1242,Emai,Africa,7.09089,5.84494,emai1242,ema,Emai,dialect,emai1241,Atlantic-Congo,atla1278,non-ergative,"No ergative alignment of flagging; the ""subject concord"" marker of imperfective transitive clauses is not a case marker (Schaefer & Egbokhare 2017:37-42).",LL;AVA,AVA,g_SchaeferEgbokhare_Emai
 ersu1241,Ersu,Eurasia,29.2867,102.213,ersu1241,ers,Ersu,language,ersu1241,Sino-Tibetan,sino1245,ergative,,LL;AVA,AVA,g_Zhang_Ersu
 fala1243,Falam Chin,Eurasia,23.7892833333,92.3254633333,fala1243,cfm,Falam Chin,language,fala1243,Sino-Tibetan,sino1245,ergative,,LL;AVA,AVA,s_King_Falam-Chin
 fass1245,Momu,Papunesia,-3.10868,141.64,fass1245,fqs,Momu-Fas,language,fass1245,Baibai-Fas,baib1250,non-ergative,"Nominative-accusative; the clitic =m marks objects/obliques, not A (Honeyman 2016; Blake 2007).",CA;RZ,RZ,Honeyman2016Momu
 fasu1242,Fasu,Papunesia,-6.62687,143.284,fasu1242,faa,Fasu,language,fasu1242,Isolate,,ergative,,CA,,g_LoewekeMay_Fasu
 fran1266,Francisco León Zoque,North America,17.3654,-93.3633,fran1266,zos,Northern Chiapas Zoque,language,fran1266,Mixe-Zoque,mixe1284,ergative,,CA,,s_BartholomewEngel_Zoque
-fuln1247,Fulniô,South America,-9.02591,-37.1402,fuln1247,fun,Fulniô,language,fuln1247,Isolate,,non-ergative,"Ergative alignment is found only in indexing (third-person singular pronominal clitics on the verb); pronouns and full NPs show no ergative flagging (Costa 1999:145-146, 309; 2026 review).",CA,,g_daCosta_Yathe
+fuln1247,Fulniô,South America,-9.02591,-37.1402,fuln1247,fun,Fulniô,language,fuln1247,Isolate,,non-ergative,"Ergative alignment is found only in indexing (third-person singular pronominal clitics on the verb); pronouns and full NPs show no ergative flagging (Costa 1999:145-146, 309).",CA,,g_daCosta_Yathe
 futu1245,Futuna-Aniwa,Papunesia,-19.5303,170.215,futu1245,fut,Futuna-Aniwa,language,futu1245,Austronesian,aust1307,ergative,,CA,,g_Dougherty_WFutuna-Aniwa
 gahr1239,Bunan,Eurasia,32.2168,77.9596,gahr1239,bfu,Bunan,language,gahr1239,Sino-Tibetan,sino1245,ergative,,CA,,g_Widmer_Bunan
 gana1278,Ganai,Australia,-38.58,146.5,gana1278,unn,Ganai,language,gana1278,Pama-Nyungan,pama1250,ergative,,CA,,s_Fesl_Ganai
@@ -110,7 +110,7 @@ haka1240,Haka Chin,Eurasia,22.8735,92.8208,haka1240,cnh,Haka Chin,language,haka1
 hida1246,Hidatsa,North America,47.33,-102.0,hida1246,hid,Hidatsa,language,hida1246,Siouan,siou1252,ergative,,CA,,g_Park_Hidatsa
 hind1269,Hindi,Eurasia,25.0,77.0,hind1269,hin,Hindi,language,hind1269,Indo-European,indo1319,ergative,,CA,,g_Koul_Hindi
 hual1240,Lisu (Central/Lipo dialect),Eurasia,26.91,98.94,hual1240,lis,Central Lisu,dialect,lisu1250,Sino-Tibetan,sino1245,problematic,"Active-stative (split-S) flagging: le33 marks A and agentive S, non-agentive S is unmarked like P (Yu 2007). Split-S systems fall outside the operational definition used in this release, and the coding is derived from the same source as dech1234.",CA,,s_Yu_Lisu
-huas1242,Huastec,North America,21.6153,-98.5028,huas1242,hus,Huastec,language,huas1242,Mayan,maya1287,non-ergative,"Person marking on the verb resembles an inverse system; there is no flagging of nouns or pronouns, hence no ergative flagging (Kondić 2012; 2026 review).",CA,,g_Kondic_Huastec
+huas1242,Huastec,North America,21.6153,-98.5028,huas1242,hus,Huastec,language,huas1242,Mayan,maya1287,non-ergative,"Person marking on the verb resembles an inverse system; there is no flagging of nouns or pronouns, hence no ergative flagging (Kondić 2012).",CA,,g_Kondic_Huastec
 hula1239,Hula,Papunesia,-9.99427,147.705,hula1239,hul,Hula,language,hula1239,Austronesian,aust1307,non-ergative,No ergative case morphology described (Short 1938).,CA,CA,s_Short_Hula
 huli1244,Huli,Papunesia,-5.97212,142.963,huli1244,hui,Huli,language,huli1244,Nuclear Trans New Guinea,nucl1709,ergative,,CA,,g_Lomas_Huli
 hunz1247,Hunzib,Eurasia,42.0808,46.1369,hunz1247,huz,Hunzib,language,hunz1247,Nakh-Daghestanian,nakh1245,ergative,,CA,,g_vandenBerg_Hunzib
@@ -167,7 +167,7 @@ marg1253,Margany,Australia,-26.789,144.892,marg1253,zmc,Margany,language,marg125
 mari1416,Maring,Eurasia,24.2854,94.0723,mari1416,nng,Maring Naga,language,mari1416,Sino-Tibetan,sino1245,ergative,,SCP,,Kanshouwa2016Descriptive
 mari1424,Marrithiyel,Australia,-13.8818,130.237,mari1424,mfr,Marithiel,language,mari1424,Western Daly,west2434,ergative,,SCP,,g_Green_Marrithiyel
 masb1238,Masbatenyo,Papunesia,12.21453,123.63579,masb1238,msb,Masbatenyo,language,masb1238,Austronesian,aust1307,ergative,,SCP,,s_Rosero_Masbatenyo
-mati1255,Matis,South America,-4.3553,-70.2079,mati1255,mpq,Matís,language,mati1255,Pano-Tacanan,pano1259,ergative,,,,Fleck2010Ergativity
+mati1255,Matis,South America,-4.3553,-70.2079,mati1255,mpq,Matís,language,mati1255,Pano-Tacanan,pano1259,ergative,,RZ,,Fleck2010Ergativity
 mats1244,Matsés,South America,-5.73914,-72.6281,mats1244,mcf,Matsés,language,mats1244,Pano-Tacanan,pano1259,ergative,,RZ,,Fleck2010Ergativity
 maxa1247,Maxakalí,South America,-16.9402,-40.7891,maxa1247,mbl,Maxakalí,language,maxa1247,Nuclear-Macro-Je,nucl1710,problematic,"Campos (2009, §9.2.1) analyses the system as tripartite-active: A and agentive S take the postposition -te, non-agentive S is marked by a person prefix, and P is unmarked. It does not instantiate S=P≠A flagging.",SCP,,g_Campos_Maxakali
 mayk1239,Mayi-Kulan,Australia,-20.4352,140.481,mayk1239,mnt,Maykulan,language,mayk1239,Pama-Nyungan,pama1250,ergative,,SCP,,hvs_Breen_Mayi
