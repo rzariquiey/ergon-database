@@ -1,8 +1,8 @@
 Parameter_ID,Value,Source,Comment
 GB409_1,1,"Bergsland and Dirks 1981: 3, 8",There is an explicit marker for the absolutive case.
-GB409_2,0,"Bergsland and Dirks 1981: 13,17",First-person pronouns show a nominative-accusative alignment.
-GB409_3,0,"Bergsland and Dirks 1981: 13-14, 17",Second-person pronouns show a nominative-accusative alignment.
-GB409_4,1,Bergsland and Dirks 1981: 8-9,"There is ergative alignment in the marking of third-person pronouns, but in a complex and split manner that depends on the presence of the object."
+GB409_2,0,"Bergsland and Dirks 1981: 17-18; Bergsland 1997: 56-57, 343-344","First-person pronouns maintain the absolute form for both emphatic subjects and objects, without ergative case inflection."
+GB409_3,0,"Bergsland and Dirks 1981: 17-18; Bergsland 1997: 56-57, 343-344","Second-person pronouns maintain the absolute form for objects and emphatic subjects, while subjects are marked on the verb."
+GB409_4,1,"Bergsland and Dirks 1981: 17-18, 37-38; Bergsland 1997: 56-57",Third-person pronominal demonstratives distinguish the absolutive case for S/P and the relative/ergative case for A.
 GB409_5,1,"Bergsland and Dirks 1981: 3, 8-9","Full NP's exhibit ergative alignment, but it is a split ergativity system conditioned by the presence or absence of the object."
 GB409_6,1,"Bergsland and Dirks 1981: 9, 55","There is ergative alignment in the marking in the imperfective aspect, but it is conditioned by the omission of the object."
 GB409_7,1,"Bergsland and Dirks 1981: 9, 23, 58","There is ergative alignment in the marking in the perfective aspect, conditioned in the same way by the omission of the object."

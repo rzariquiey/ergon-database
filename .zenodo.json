@@ -2,7 +2,7 @@
   "title": "ERGON: sub-features of ergative flagging (Grambank GB409) for 196 languages",
   "version": "1.1.0",
   "upload_type": "dataset",
-  "description": "ERGON expands Grambank feature GB409 (Is there any ergative alignment of flagging?) into 24 binary sub-features coded from published grammatical descriptions for 196 languages (167 with ergative flagging). Distributed as a CLDF StructureDataset with page-level sources, a coding protocol, build and validation scripts.",
+  "description": "ERGON expands Grambank feature GB409 (Is there any ergative alignment of flagging?) into 24 binary sub-features coded from published grammatical descriptions for 196 languages (164 with ergative flagging). Distributed as a CLDF StructureDataset with page-level sources, a coding protocol, build and validation scripts.",
   "license": {
     "id": "CC-BY-4.0"
   },

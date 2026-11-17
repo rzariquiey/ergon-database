@@ -1,8 +1,8 @@
 Parameter_ID,Value,Source,Comment
 GB409_1,1,Austin 2021:57,"Absolutive in common nouns is unmarked, but -nha is added to male personal names"
-GB409_2,0,Austin 2021:56,There is a split based on singular vs. non-singular 1st and 2nd pronouns. See table 3.2
-GB409_3,0,Austin 2021:56,There is a split based on singular vs. non-singular 1st and 2nd pronouns. See table 3.2
-GB409_4,0,Austin 2021:120,See example (181).
+GB409_2,0,Austin 2021:56,"First and second person non-singular pronouns have one form for P function (accusative) and one for both S and A (nominative), while all other pronouns (first and second person singular and all third person pronouns) have three separate forms for the functions A, S and P (that is, a tripartite alignment)."
+GB409_3,0,Austin 2021:56,"First and second person non-singular pronouns have one form for P function (accusative) and one for both S and A (nominative), while all other pronouns (first and second person singular and all third person pronouns) have three separate forms for the functions A, S and P (that is, a tripartite alignment)."
+GB409_4,0,Austin 2021:120,"Third person pronouns have three separate forms for the functions A, S and P (that is, a tripartite alignment)."
 GB409_5,1,Austin 2021:48; 124,See example (200).
 GB409_6,1,Austin 2021:in passim,"The grammar exhaustively describes splits in case marking and alignments in the language, there is no mention nor evidence of a split based on aspect."
 GB409_7,1,Austin 2021:in passim,"The grammar exhaustively describes splits in case marking and alignments in the language, there is no mention nor evidence of a split based on aspect."

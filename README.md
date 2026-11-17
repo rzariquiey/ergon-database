@@ -12,8 +12,8 @@ Archive: Zenodo, v1.0.1 [doi:10.5281/zenodo.21107436](https://doi.org/10.5281/ze
 | | |
 |---|---|
 | Languages | 196 (Glottolog 5.3 languoids) |
-| – with ergative flagging (`Status = ergative`) | 167 languages, 36 families + 6 isolates, 6 macroareas |
-| – Grambank GB409 = 1 but ergative flagging not confirmed (`non-ergative`) | 19 |
+| – with ergative flagging (`Status = ergative`) | 164 languages, 34 families + 5 isolates, 5 macroareas |
+| – Grambank GB409 = 1 but ergative flagging not confirmed (`non-ergative`) | 22 |
 | – classification unresolved (`problematic`) | 10 |
 | Features | 24 |
 | Values | 4,704 (4,183 coded 0/1; 521 `?` = not known) |
@@ -37,7 +37,7 @@ raw/                  harmonised sources from which cldf/ is built
   curation_log.csv    every value change between v1.0.1 and v1.1.0, with rule and rationale
   curation_history_v1_0.csv     changes made during expert curation before v1.0 (original coding -> v1.0 value)
   curation_notes.csv  language-level curation notes
-etc/                  feature definitions, contributors, Glottolog snapshot, validation exceptions
+etc/                  feature definitions, contributors, Glottolog snapshot, validation exceptions (none at present)
 docs/                 coding protocol and description of the automated checks
 scripts/              build, validation, technical validation, inter-coder reliability; legacy/ = one-off migration from v1.0.1
 outputs/              validation report, statistics, tables and figures of the Data Descriptor

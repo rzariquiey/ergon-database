@@ -1,9 +1,9 @@
 Parameter_ID,Value,Source,Comment
 GB409_1,1,"Verstraelen 1968-1969: 811, 814",There is an explicit marker for the absolutive case.
-GB409_2,?,"Verstraelen 1968-1969: 810-811, 814","An ergative alignment is presented, where the absolutive marking is -'a (1sg), kámi (1pl); while the ergative/genitive marking is -ko (1sg), -(ka)námi (1pl)."
-GB409_3,?,"Verstraelen 1968-1969: 811, 814","An ergative alignment is presented, where the absolutive markers are -ka/sikúna (2nd sg), sikándan (2nd pl); while the ergative/genitive markers are -no (2nd sg), -(kán)dan (2nd pl)."
-GB409_4,?,"Verstraelen 1968-1969: 811, 814","An ergative alignment is presented, where the absolutive markings are sikándin (3 sg), sikándan (3 pl); while the ergative/genitive markings are -din/sikándin (3 sg), -(kán)dan (3 pl)."
-GB409_5,1,"Verstraelen 1968-1969: 811, 814","The alignment is split: proper names are ergative (si/ni), but common names are not."
+GB409_2,1,"Verstraelen 1968: 811, 814; Delmer 2018: 60-62, 217","First-person pronouns exhibit a systematic opposition between the absolutive series (Set 1), used for the intransitive subject (S) and the transitive patient (P), and the ergative/genitive series (Set 2) used for the transitive agent (A)."
+GB409_3,1,"Verstraelen 1968: 811, 814; Delmer 2018: 60-62, 217","Second-person pronouns contrast the absolutive form, representing the subject/patient (Set 1), with the ergative enclitic, representing the agent (Set 2), in both the singular and plural."
+GB409_4,1,"Verstraelen 1968: 811, 814; Delmer 2018: 60-62, 217","The third-person singular absolutive form exhibits a zero marker (Ø) in Set 1 for S and P, whereas the agent A is obligatorily marked with the Set 2 ergative enclitic (-din / -zin)."
+GB409_5,1,"Verstraelen 1968: 811-814; Delmer 2018: 48-49, 57, 217","Full noun phrases exhibit split-ergative alignment via prenominal case markers, with the subclass of proper nouns explicitly distinguishing the absolutive case (marked by -si for S and P) from the ergative case (marked by -ni for A)."
 GB409_6,1,Verstraelen 1968-1969: 810,"The continuous aspect, marked with the verbal affix paN-, maintains the ergative marking."
 GB409_7,1,Verstraelen 1968-1969: 810,"The ""factual tense"" corresponds to the perfective aspect, consistently using the ergative alignment."
 GB409_8,1,Verstraelen 1968-1969: 810-811,"Ergative marking is consistently applied in the ""factual tense"", which is interpreted  as past."

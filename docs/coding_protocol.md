@@ -54,7 +54,7 @@ Jaminjung *=ni*) are flags: their bound status is irrelevant.
 |---|---|
 | `1` | The consulted source(s) document ergative flagging in the context named by the feature (explicit statement or examples), or the default rule C2/C3 applies. |
 | `0` | The source documents that ergative flagging does **not** occur in that context (statement, paradigm or examples with A flagged like S, or no flag at all), or the language has no ergative flagging at all. |
-| `?` | **Not known**: the source was consulted but its description of argument marking in that context is insufficient to decide (no relevant examples, a possible but undescribed split, contradictory information). In 19 cells (one language, east2379) the feature was never coded; these cells carry the comment "Not coded". |
+| `?` | **Not known**: the source was consulted but its description of argument marking in that context is insufficient to decide (no relevant examples, a possible but undescribed split, contradictory information). |
 
 ### 2.1 Decision rules for the context features (GB409_6–21)
 
@@ -80,8 +80,8 @@ Jaminjung *=ni*) are flags: their bound status is irrelevant.
   condition (e.g. only in the past tense), a context feature is `1` if ergative flagging
   occurs in that context in *any* of the environments allowed by the other condition.
 * **Pairs.** For a language with ergative flagging, at least one member of each context pair
-  must be `1` or `?`. The only documented exception is Apinajé (ergative flagging limited to
-  non-finite clauses that lack TAM inflection; see `etc/validation_exceptions.csv`).
+  must be `1` or `?`. Documented exceptions would be listed in `etc/validation_exceptions.csv`; there are
+  none in v1.1.0 (Apinajé, the former exception, was recoded from its source in the 2026 review round).
 
 ### 2.2 Notes on specific features
 
@@ -126,7 +126,7 @@ Jaminjung *=ni*) are flags: their bound status is irrelevant.
 ## 4. Sources and provenance
 
 Each value cites the source(s) and pages used (`Source`, BibTeX keys with page ranges) and the
-citation as written by the coder (`Source_comment`). For 146 coded values the coding sheet did
+citation as written by the coder (`Source_comment`). For 118 coded values the coding sheet did
 not record a page; these cite the principal source of the language without pages and say so in
 `Source_comment`. The bibliography (`sources.bib`) was resolved against Grambank v1.0 and
 Glottolog 5.3 (`raw/source_map.csv`).

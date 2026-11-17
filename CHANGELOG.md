@@ -11,7 +11,13 @@ statistics, tables and figures. Every value change is listed in `raw/curation_lo
   (bamb1270), Kamula (kamu1260), Iaai (iaai1238), Karajá (kara1500), Karitiana (kari1311). Four entries
   coded from a single description of Lisu (Yu 2007), which describes split-S flagging, are now `problematic`:
   Lisu (lisu1250), Lipo (lipo1242), Lisu Dechang (dech1234), Lisu Central/Lipo (hual1240).
-  Totals: 167 ergative, 19 non-ergative, 10 problematic.
+- **Review round (November 2026).** Team members re-examined 25 issues raised during harmonisation and by the
+  comparison with WALS, AUTOTYP and ATLAs (`scripts/legacy/review_2026_11/`). Emai (emai1242), Fulniô (fuln1247)
+  and Huastec (huas1242) are now `non-ergative`; 103 cells in 11 languages were changed (rule R1, or S1 for the
+  reclassified languages), including Apinajé (TAM contexts, so the former validation exception is gone),
+  Agusan Manobo, Aleut, Manange, Ninam, Mparntwe Arrernte (now fully coded from Wilkins 1989), Futuna-Aniwa
+  and Georgian; page references were added to many cells; the `Coders` column was filled.
+  Totals: 164 ergative, 22 non-ergative, 10 problematic.
 - **Glottocodes.** caca1251 (invalid) → cash1251 (Kakataibo); yami1258 (invalid) → yami1256 (Yaminawa);
   bala1316 → kuma1276 (the coded source, Bril 2002, describes Nêlêmwa).
 - **Invalid and missing values.** Two values coded `2` (Kabardian GB409_12–13) and a spurious parameter `all`
@@ -19,7 +25,7 @@ statistics, tables and figures. Every value change is listed in `raw/curation_lo
 - **Coding harmonisation** under the explicit rules of `docs/coding_protocol.md` (C2: default when no split is
   documented; C3: grammatical category absent; C5: no inference from areal expectations); see rules H1–H5, P1, V1.
 - **Optional ergative marking** counts as ergative flagging (Futuna-Aniwa GB409_5 restored to 1).
-- **Comments** translated into English (91 comments), workflow notes removed from value comments;
+- **Comments** translated into English (108 comments, including those entered in the 2026 review round), workflow notes removed from value comments;
   language-level notes moved to `raw/curation_notes.csv`.
 - **Sources.** Free-text citations resolved to a BibTeX bibliography (201 references) and given as
   CLDF source references with pages; citation as written by the coder kept in `Source_comment`.

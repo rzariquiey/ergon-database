@@ -1,5 +1,5 @@
 ID,Name,Affiliation,Roles
-RZ,Roberto Zariquiey,"Pontificia Universidad Católica del Perú; Max Planck Institute for Evolutionary Anthropology","Conceptualisation, feature design, coding, expert review, curation, data release"
+RZ,Roberto Zariquiey,Pontificia Universidad Católica del Perú; Max Planck Institute for Evolutionary Anthropology,"Conceptualisation, feature design, coding, expert review, curation, data release"
 JM,Jaime Montoya,Pontificia Universidad Católica del Perú,"Feature design, coding guidelines, coding, review"
 LG,Luisa Gomez,Pontificia Universidad Católica del Perú,"Coding, review"
 CA,Claudia Alvarado,Pontificia Universidad Católica del Perú,"Coding, review"
@@ -8,5 +8,9 @@ LL,Leslie Lanasca-Moura,Universidad Nacional Mayor de San Marcos; Pontificia Uni
 AA,Anaís Almendra,Universidad de Chile,Coding
 MP,Mariana Poblete,Pontificia Universidad Católica del Perú; Leiden University,Coding
 AVA,Alonso Vásquez-Aguilar,Pontificia Universidad Católica del Perú,"Coding, review"
-SG,Simon Greenhill,University of Auckland; Max Planck Institute for Evolutionary Anthropology,"Analysis design"
+SG,Simon Greenhill,University of Auckland; Max Planck Institute for Evolutionary Anthropology,Analysis design
 RDG,Russell D. Gray,Max Planck Institute for Evolutionary Anthropology,"Supervision, analysis design"
+MO,Manuel Olórtegui,[VERIFY],Coding
+AT,Amy Trujillo,[VERIFY],Coding
+JN,Josué Nuñez,[VERIFY],Coding
+GV,Gerson Vizcarra,[VERIFY],Coding

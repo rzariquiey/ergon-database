@@ -1,25 +1,25 @@
 Parameter_ID,Value,Source,Comment
-GB409_1,0,Hewitt 1990: 33-45,
-GB409_2,0,Hewitt 1990: 76-77,"The source states that first and second person pronouns, singular and plural, do not change form."
-GB409_3,0,Hewitt 1990: 76-77,"The source states that first and second person pronouns, singular and plural, do not change form."
-GB409_4,1,Hewitt 1990: 76-77,
-GB409_5,1,Hewitt 1990: 45-68,
-GB409_6,0,Hewitt 1990: 145-146,
-GB409_7,1,Hewitt 1990: 145-146,
-GB409_8,1,Hewitt 1990: 143-144,"The source states that the past corresponds to Series II, which is ergative."
-GB409_9,0,Hewitt 1990: 143-144,"The source states that the present and future correspond to Series I, which is nominative."
-GB409_10,1,Hewitt 1990: 527,Ergative marking occurs in the indicative provided the verb form belongs to Series II.
-GB409_11,1,Hewitt 1990: 527,Ergative marking occurs in non-indicative moods provided the verb form belongs to Series II.
-GB409_12,1,,"The source states that realis corresponds to Series II, which is ergative."
-GB409_13,0,Hewitt 1990: 240,"The source states that irrealis corresponds to Series I, which is nominative."
-GB409_14,1,"Hewitt 1990: 170-200,; Hewitt 1990: 338","Agentive subjects are marked within Series II. However, agentivity does not necessarily trigger ergativity, e.g. in Series III (Hewitt 1990:338)."
-GB409_15,1,Hewitt 1990: 187-189,"Non-agentive A takes ergative marking in Series II. Hewitt (1990, pp.187-189) provides multiple examples of inanimate/abstract agents with no volitional control taking the ergative case: sun-ERG (dried the field), sweat-ERG (penetrated the shirt), pleasure-ERG (made me dizzy), God-ERG (let you grow old), illness-ERG (weakened the man’s knees). These are Series II constructions and therefore take the ergative. Original annotation (value=0) was a coding error directly contradicted by the examples cited in the same comment."
-GB409_16,1,Hewitt 1990: 81-83,There is no evidence that topicality affects case marking; ergative marking occurs in both scenarios.
-GB409_17,1,Hewitt 1990: 81-83,There is no evidence that topicality affects case marking; ergative marking occurs in both scenarios.
-GB409_18,1,Hewitt 1990: 151,No ergativity split based on the animacy of A is mentioned.
-GB409_19,1,Hewitt 1990: 170-200,No ergativity split based on the animacy of A is mentioned; the examples given for GB409_15 also apply.
-GB409_20,1,Hewitt 1990: 170-200,
-GB409_21,1,Hewitt 1990: 613-618,"No exclusion of the marking in non-main clauses is mentioned: factual (Hewitt 1990:614), speech reporting (614), direct quotation (615)."
-GB409_22,0,Hewitt 1990: ,"No other factor conditioning ergative case marking is mentioned. However, Hewitt (1990:446-490) lists some irregular verbs, notably 'know', which historically belongs to Series II; e.g. gmrot-mav (0-)i-c-i-s 'God knows' (God-ERG (3rd.PER-)SV-know-PRS.INDIC-he), where the subject of 'know' carries the ergative marker in the present, outside Series II."
-GB409_23,0,Hewitt 1990: 523,"In general, -ma/-n is used as the ergative marker, whereas -s and -is are used for the genitive."
-GB409_24,0,Hewitt 1990: 523,"In general, -ma/-n is used as the ergative marker, whereas -it is used for the instrumental. No other marker identical to the ergative is mentioned."
+GB409_1,0,Hewitt 1995: 33-45,
+GB409_2,0,Hewitt 1995: 76-77,"The source states that first- and second-person pronouns, singular and plural, do not change form (no case marking)."
+GB409_3,0,Hewitt 1995: 76-77,"The source states that first- and second-person pronouns, singular and plural, do not change form (no case marking)."
+GB409_4,1,Hewitt 1995: 76-77,
+GB409_5,1,Hewitt 1995: 45-68,
+GB409_6,0,Hewitt 1995: 145-146,
+GB409_7,1,Hewitt 1995: 145-146,
+GB409_8,1,Hewitt 1995: 143-144,"The past corresponds to Series II, which is ergative."
+GB409_9,0,Hewitt 1995: 143-144,"Present and future correspond to Series I, which is nominative."
+GB409_10,1,Hewitt 1995: 527,Ergative marking occurs in the indicative whenever the verb form belongs to Series II.
+GB409_11,1,Hewitt 1995: 527,Ergative marking occurs in non-indicative moods whenever the verb form belongs to Series II.
+GB409_12,1,Hewitt 1995: 296,"The realis corresponds to Series II, which is ergative."
+GB409_13,0,Hewitt 1995: 240,"The irrealis corresponds to Series I, which is nominative."
+GB409_14,1,"Hewitt 1995: 170-200, 338","Agentive subjects are marked in Series II. Agentivity does not by itself trigger ergative marking, however; see for example Series III (Hewitt 1995:338)."
+GB409_15,1,Hewitt 1995: 187-189,"Non-agentive A takes ergative marking in Series II. Hewitt (1995, pp.187-189) provides multiple examples of inanimate/abstract agents with no volitional control taking the ergative case: sun-ERG (dried the field), sweat-ERG (penetrated the shirt), pleasure-ERG (made me dizzy), God-ERG (let you grow old), illness-ERG (weakened the man’s knees). These are Series II constructions and therefore take the ergative. Original annotation (value=0) was a coding error directly contradicted by the examples cited in the same comment."
+GB409_16,1,Hewitt 1995: 81-83,There is no evidence that topicality affects case marking; ergative marking occurs in both contexts.
+GB409_17,1,Hewitt 1995: 81-83,There is no evidence that topicality affects case marking; ergative marking occurs in both contexts.
+GB409_18,1,Hewitt 1995: 151,The source mentions no split in ergative marking based on the animacy of A.
+GB409_19,1,Hewitt 1995: 170-200,The source mentions no split in ergative marking based on the animacy of A; the examples given for GB409_15 also apply.
+GB409_20,1,Hewitt 1995: 170-200,
+GB409_21,1,Hewitt 1995: 613-618,"The source mentions no exclusion of ergative marking from non-main clauses: factual clauses (Hewitt 1995:614), speech reporting (614), direct quotation (615)."
+GB409_22,0,Hewitt 1990: ,"The source mentions no other factor conditioning ergative case marking. Hewitt (1995:446-490) discusses some irregular verbs, notably ""know"", which historically belongs to Series II: gmrot-mav (0-)i-c-i-s God-ERG (3rd.PER-)SV-know--PRS.INDIC-he ""God knows"", where the subject takes ergative marking with a present-tense third-person form, outside Series II."
+GB409_23,0,Hewitt 1995: 523,"In general -ma/-n is the ergative marker, whereas -s/-is mark the genitive."
+GB409_24,0,Hewitt 1995: 523,"In general -ma/-n is the ergative marker, whereas -it marks the instrumental; no other marker is identical to the ergative."

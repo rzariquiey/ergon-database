@@ -10,12 +10,13 @@ sources in `raw/`. They are kept for provenance only; the regular build starts f
 | 1 | `stage1_collect.py` (uses `legacy_loader.py`) | one JSON file with all v1.0.1 values plus the original coding and curation notes from the legacy sheets |
 | 2 | `migrate_v1_0_to_v1_1.py` | `raw/language_sheets/*.csv`, `raw/languages.csv`, `raw/curation_log.csv`, `raw/curation_history_v1_0.csv`, `raw/curation_notes.csv` |
 | 3 | `stage3_bib.py` (uses `bibmatch.py`, `../citations.py`) | `raw/sources.bib`, `raw/source_map.csv` |
+| 4 | `apply_review_2026_11.py` (inputs in `review_2026_11/`: the team's revised cells, the Coders sheet and the answers to the 25 review issues) | updates `raw/language_sheets/`, `raw/languages.csv`, `raw/curation_log.csv`, `raw/source_map.csv`, `raw/sources.bib`, `etc/validation_exceptions.csv` |
 
 Inputs that are not part of this repository: the v1.0.1 archive, Grambank v1.0
 (`grambank/grambank`, `cldf/sources.bib`, `cldf/values.csv`) and Glottolog 5.3
 (`glottolog/glottolog-cldf` v5.3, `cldf/sources.bib`).
 
-`translations_es_en.json` contains the English translations of the 88 Spanish-language
+`translations_es_en.json` contains the English translations of the 91 Spanish-language
 comments of v1.0.1 (applied in step 2). `review_round_2026.csv` is the assignment of
 coding sheets to team members during the 2026 review round (source of the
 `Reviewer` column).
@@ -35,3 +36,4 @@ in `raw/curation_log.csv`. The rules are:
 | H4 | Subset rule for GB409_5 (proper names flagged ergatively) |
 | H5 | Logically impossible, unsourced pair of 0s → `?` |
 | P1 | Optional A-only marking restored as ergative flagging (scope definition, §2 of docs/coding_protocol.md) |
+| R1 | Recoded in the November 2026 review round against the source (step 4) |

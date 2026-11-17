@@ -15,20 +15,14 @@ WALS 99A,any of GB409_2-4 vs. pronoun alignment = ergative-absolutive,lepc1244,L
 WALS 99A,any of GB409_2-4 vs. pronoun alignment = ergative-absolutive,maor1246,Maori,1,0
 WALS 99A,any of GB409_2-4 vs. pronoun alignment = ergative-absolutive,mara1378,Marathi,1,0
 WALS 99A,any of GB409_2-4 vs. pronoun alignment = ergative-absolutive,nucl1302,Georgian,1,0
-AUTOTYP,GB409_5 vs. S=P≠A flagging of nouns in any condition,emai1242,Emai,1,0
 AUTOTYP,GB409_5 vs. S=P≠A flagging of nouns in any condition,maor1246,Maori,1,0
 AUTOTYP,GB409_5 vs. S=P≠A flagging of nouns in any condition,melp1238,Melpa,1,0
 AUTOTYP,GB409_5 vs. S=P≠A flagging of nouns in any condition,nort2722,Northern Qiang,0,1
-AUTOTYP,ERGON status vs. S=P≠A flagging anywhere,emai1242,Emai,1,0
 AUTOTYP,ERGON status vs. S=P≠A flagging anywhere,maor1246,Maori,1,0
 AUTOTYP,ERGON status vs. S=P≠A flagging anywhere,melp1238,Melpa,1,0
-ATLAs,GB409_5 vs. ergative among noun alignments (Align-02),fuln1247,Fulniô,1,0
-ATLAs,GB409_5 vs. ergative among noun alignments (Align-02),huas1242,Huastec,1,0
 ATLAs,GB409_5 vs. ergative among noun alignments (Align-02),kari1254,Dzubukua,1,0
 ATLAs,GB409_5 vs. ergative among noun alignments (Align-02),maxa1247,Maxakalí,0,1
 ATLAs,GB409_5 vs. ergative among noun alignments (Align-02),nort2745,Tundra Yukaghir,1,0
 ATLAs,any of GB409_2-4 vs. ergative among pronoun alignments (Align-05),aleu1260,Aleut,1,0
-ATLAs,any of GB409_2-4 vs. ergative among pronoun alignments (Align-05),fuln1247,Fulniô,1,0
-ATLAs,any of GB409_2-4 vs. ergative among pronoun alignments (Align-05),huas1242,Huastec,1,0
 ATLAs,any of GB409_2-4 vs. ergative among pronoun alignments (Align-05),maxa1247,Maxakalí,0,1
 ATLAs,any of GB409_2-4 vs. ergative among pronoun alignments (Align-05),nort2745,Tundra Yukaghir,1,0

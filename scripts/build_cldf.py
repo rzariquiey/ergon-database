@@ -82,6 +82,11 @@ def main(outdir=ROOT / 'cldf'):
             ))
 
     # ------------------------------------------------------------- dataset
+    # start from an empty folder, so that nothing from an earlier build (e.g. an uncited source) survives
+    if outdir.exists():
+        for f in outdir.iterdir():
+            if f.is_file():
+                f.unlink()
     ds = pycldf.StructureDataset.in_dir(outdir)
     ds.add_component('LanguageTable',
                      {'name': 'Glottolog_Name', 'dc:description': 'Name of the languoid in Glottolog 5.3'},

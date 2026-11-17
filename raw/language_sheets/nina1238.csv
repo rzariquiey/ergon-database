@@ -12,14 +12,14 @@ GB409_10,1,"Gomez:1990, 99",
 GB409_11,0,"Gomez:1990, 63; 106; 133",
 GB409_12,1,"Gomez:1990, 95",
 GB409_13,0,"Gomez:1990, 99",
-GB409_14,?,,
-GB409_15,?,,
-GB409_16,?,,
-GB409_17,?,,
-GB409_18,1,"Gomez:1990, 130",
-GB409_19,0,"Gomez:1990, 130",
+GB409_14,1,Gomez 1990:129,See examples in page 129.
+GB409_15,1,Gomez 1990:131,See first example in page 131.
+GB409_16,?,Gomez 1990:127,The grammar describes case marking and alignments in the language but there is no mention nor evidence of a split based on the topicality of the A argument.
+GB409_17,?,Gomez 1990:127,The grammar describes case marking and alingments in the language but there is no mention nor evidence of a split based on the topicality of the A argument.
+GB409_18,1,Gomez 1990:130,
+GB409_19,0,Gomez 1990:130,
 GB409_20,0,"Gomez:1990, 105; 131",
 GB409_21,1,"Gomez:1990, 105; 132",
-GB409_22,0,,
-GB409_23,0,,
+GB409_22,0,Gomez 1990: passim,
+GB409_23,0,Gomez 1990:71,
 GB409_24,1,"Gomez:1990, 76; 92; 129","The instrumental case of a noun is marked by -n. The predating subordinator is composed by ""ha… -n"", and it is frequently suppressed and only -n is expressed."

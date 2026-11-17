@@ -4,22 +4,22 @@ GB409_2,1,"McKelson 2004: 11, 39",1SG takes ERG suffix -lu when transitive subje
 GB409_3,1,"McKelson 2004: 6, 39","2SG nyuntu takes -lu as transitive subject: nyuntulu kawa mayi walipikarti 'You take the tucker' (Lesson 5, p.6)."
 GB409_4,1,McKelson 2004: 39,"3rd person full NPs take -lu/-ju as transitive subjects: wakalalu jinkanu jurru 'the woman hit the snake' (Lesson 39, p.39). Demonstrative pronouns also take -lu in A role."
 GB409_5,1,McKelson 2004: 39-40,"Full NPs take ERG suffix -lu (after vowels) / -ju (after consonants): wakalalu (woman-ERG), wilarrju (turtle-ERG). McKelson p.39-40 explicitly explains the rule."
-GB409_6,1,,Aspect (perfective/imperfective) is not a grammaticalized binary morphological category in this grammar; tense distinctions (present/past/future) are present but not aspect. Category absent.
-GB409_7,1,,Same as GB409_6: perfective/imperfective aspect not grammaticalized. Category absent.
+GB409_6,?,McKelson 2004: passim,No relevant evidence in the source.
+GB409_7,?,McKelson 2004: passim,No relevant evidence in the source.
 GB409_8,1,McKelson 2004: 39,Past tense examples in Lesson 39-40 show ERG -lu/-ju on transitive subjects (jinkanu = past hit).
 GB409_9,1,McKelson 2004: 39-40,No tense-based conditioning of ERG marking documented; -lu/-ju applies across tenses.
 GB409_10,1,McKelson 2004: 39,All declarative/indicative examples show ERG marking on transitive A.
-GB409_11,?,,"Imperative forms do not show -lu/-ju on A, but this appears to be a structural property of 2nd-person commands (not a mood-based split). Insufficient data for other moods."
-GB409_12,1,,Realis/irrealis distinction is not a grammatical category in this grammar. Category absent.
-GB409_13,1,,Realis/irrealis distinction absent. Category absent.
+GB409_11,?,McKelson 2004: passim,"Imperative forms do not show -lu/-ju on A, but this appears to be a structural property of 2nd-person commands (not a mood-based split). Insufficient data for other moods."
+GB409_12,?,McKelson 2004: passim,No relevant evidence in the source.
+GB409_13,?,McKelson 2004: passim,No relevant evidence in the source.
 GB409_14,1,"McKelson 2004: 5-6, 39","All documented A arguments (woman, turtle, person) are agentive and take ERG -lu/-ju."
-GB409_15,?,,No examples of non-agentive A in source; insufficient data.
-GB409_16,?,,No discussion of topicality conditioning in source; insufficient data.
-GB409_17,?,,No discussion of topicality conditioning; insufficient data.
+GB409_15,?,McKelson 2004: passim,No examples of non-agentive A in source; insufficient data.
+GB409_16,?,McKelson 2004: passim,No discussion of topicality conditioning in source; insufficient data.
+GB409_17,?,McKelson 2004: passim,No discussion of topicality conditioning; insufficient data.
 GB409_18,1,McKelson 2004: 39,"All ERG-marked A arguments in examples are animate (woman, turtle, people)."
-GB409_19,?,,No examples of inanimate A in transitive clauses in this source.
+GB409_19,?,McKelson 2004: passim,No examples of inanimate A in transitive clauses in this source.
 GB409_20,1,McKelson 2004: 39,All ergative examples occur in main clauses; ERG -lu/-ju consistently applies.
-GB409_21,?,,Source does not present subordinate clauses; insufficient data.
+GB409_21,?,McKelson 2004: passim,Source does not present subordinate clauses; insufficient data.
 GB409_22,0,McKelson 2004: 39,McKelson (p.39) states: 'lu and ju indicate an object-affecting subject' — a simple categorical rule with no additional conditioning mentioned.
 GB409_23,0,McKelson 2004: 8,"Genitive/possessive = -kura (Lesson 7, p.8: japulukura 'father's'). Entirely distinct from ERG -lu/-ju."
 GB409_24,0,McKelson 2004: 14-15,"Comitative = pari 'with' (Lesson 14, p.15: warnku pari 'with money'). Entirely distinct from ERG -lu/-ju."

@@ -217,16 +217,17 @@ def main(external=None):
         return phis.get((p, q), phis.get((q, p)))
     def getn(p, q):
         return phin.get((p, q), phin.get((q, p)))
+    r2 = lambda v, d=2: None if v is None else round(v, d)
     S['nPastPerfZero'] = sum(1 for g in erg if V[g]['GB409_7'] == '0' or V[g]['GB409_8'] == '0')
-    S['phiPastPerf'] = round(getphi('GB409_7', 'GB409_8'), 2); S['nPhiPastPerf'] = getn('GB409_7', 'GB409_8')
-    S['phiIndPast'] = round(getphi('GB409_8', 'GB409_10'), 2)
-    S['phiIndPerf'] = round(getphi('GB409_7', 'GB409_10'), 2)
-    S['phiFirstSecond'] = round(getphi('GB409_2', 'GB409_3'), 2)
-    S['phiSecondThird'] = round(getphi('GB409_3', 'GB409_4'), 2)
-    S['phiFirstThird'] = round(getphi('GB409_2', 'GB409_4'), 2)
+    S['phiPastPerf'] = r2(getphi('GB409_7', 'GB409_8'), 2); S['nPhiPastPerf'] = getn('GB409_7', 'GB409_8')
+    S['phiIndPast'] = r2(getphi('GB409_8', 'GB409_10'), 2)
+    S['phiIndPerf'] = r2(getphi('GB409_7', 'GB409_10'), 2)
+    S['phiFirstSecond'] = r2(getphi('GB409_2', 'GB409_3'), 2)
+    S['phiSecondThird'] = r2(getphi('GB409_3', 'GB409_4'), 2)
+    S['phiFirstThird'] = r2(getphi('GB409_2', 'GB409_4'), 2)
     # Reviewer 1: restricted to languages that show any TAM split
     gs = [g for g in tam if V[g]['GB409_7'] in '01' and V[g]['GB409_8'] in '01']
-    S['phiPastPerfSplitOnly'] = round(phi([V[g]['GB409_7'] == '1' for g in gs], [V[g]['GB409_8'] == '1' for g in gs]), 2)
+    S['phiPastPerfSplitOnly'] = r2(phi([V[g]['GB409_7'] == '1' for g in gs], [V[g]['GB409_8'] == '1' for g in gs]), 2)
     S['nPhiPastPerfSplitOnly'] = len(gs)
     # share of pairs whose phi is driven by uniformly-1 languages
     with open(OUT / 'phi_matrix.csv', 'w', newline='') as f:

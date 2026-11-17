@@ -1,25 +1,25 @@
 Parameter_ID,Value,Source,Comment
-GB409_1,0,Hildebrandt 2004:67,
-GB409_2,1,,
-GB409_3,1,,
-GB409_4,1,,
-GB409_5,1,,
+GB409_1,0,"Hildebrandt 2004:67,74-75","An animate P takes the patient enclitic =ri, which creates a tripartite alignment."
+GB409_2,1,Hildebrandt 2004:66,Example (3.87)
+GB409_3,1,Hildebrandt 2004: passim,"According to the explanation given by the author, there is no reason to doubt that the second person pronoun would receive an ergative mark. However, the grammar does not provide examples to confirm this. Example (4.5) (Hildebrandt 2004:83) shows a second person pronoun in a transitive clause without an ergative mark, but it so happens that the clause is also in an irrealis mood, which may explain its omission."
+GB409_4,1,Hildebrandt 2004:91,Example (4.28)
+GB409_5,1,Hildebrandt 2004:53,Example (3.36)
 GB409_6,1,Hildebrandt 2004:67-68,
 GB409_7,1,Hildebrandt 2004:67,
-GB409_8,1,,
-GB409_9,0,Hildebrandt 2004:68,
-GB409_10,1,,
+GB409_8,1,Hildebrandt 2004:67,
+GB409_9,1,Hildebrandt 2004:74,"Example (3.108), with an explicit future gloss"
+GB409_10,1,Hildebrandt 2004:68,"Example (3.90, a.)"
 GB409_11,0,Hildebrandt 2004:69-70,
-GB409_12,1,,
+GB409_12,1,Hildebrandt 2004:68,
 GB409_13,0,Hildebrandt 2004:68,
-GB409_14,1,,
-GB409_15,1,,
-GB409_16,1,,
-GB409_17,1,,
-GB409_18,1,,
-GB409_19,1,,
-GB409_20,1,,
-GB409_21,1,,
-GB409_22,?,,
-GB409_23,0,,
+GB409_14,1,Hildebrandt 2004:68,Example (3.92)
+GB409_15,1,"Hildebrandt 2004:91, 94","Example (4.28), Example (4.39)"
+GB409_16,?,Hildebrandt 2004:78,"No reason to believe a topicalised argument would not be marked. However, the author describes the indefinite enclitic =ri which can function as a topicaliser and is also the patient enclitic, which could block an ergative-alignment in a topicalised clause."
+GB409_17,1,Hildebrandt 2004:68,"Example (3.90, a.)"
+GB409_18,1,Hildebrandt 2004:85,Example (4.10)
+GB409_19,1,Hildebrandt 2004:107,"Example (4.72, c.)"
+GB409_20,1,Hildebrandt 2004:68,"Example (3.90, a.)"
+GB409_21,1,Hildebrandt 2004:83,Example (4.5)
+GB409_22,?,Hildebrandt 2004:69-70,"The author thinks that semantic and pragmatic factors might be affecting the occurence of the ergative alignment as it seems that it is optional ""sometimes""."
+GB409_23,0,Hildebrandt 2004:66,
 GB409_24,1,Hildebrandt 2004:66,
