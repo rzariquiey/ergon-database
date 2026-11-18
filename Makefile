@@ -2,7 +2,7 @@
 PY ?= python3
 EXT ?= external   # folder with clones of grambank, wals, autotyp-data and atlas-data (optional)
 
-all: cldf validate analysis
+all: cldf validate analysis xlsx
 
 cldf:
 	$(PY) scripts/build_cldf.py
@@ -10,6 +10,9 @@ cldf:
 validate:
 	cldf validate cldf/StructureDataset-metadata.json
 	$(PY) scripts/validate.py
+
+xlsx:
+	$(PY) scripts/export_xlsx.py
 
 analysis:
 	$(PY) scripts/technical_validation.py $(if $(wildcard $(EXT)/grambank),--external $(EXT),)
@@ -22,4 +25,4 @@ external:
 	git clone https://github.com/autotyp/autotyp-data external/autotyp-data && git -C external/autotyp-data checkout a8f294f4810ed882ae6dbffa4e5490e3bafa041e
 	git clone https://github.com/davidainman/atlas-data external/atlas-data && git -C external/atlas-data checkout eb038884306061c798c6149b137008fc23c3d403
 
-.PHONY: all cldf validate analysis external
+.PHONY: xlsx all cldf validate analysis external

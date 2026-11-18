@@ -40,7 +40,8 @@ raw/                  harmonised sources from which cldf/ is built
 etc/                  feature definitions, contributors, Glottolog snapshot, validation exceptions (none at present)
 docs/                 coding protocol and description of the automated checks
 scripts/              build, validation, technical validation, inter-coder reliability; legacy/ = one-off migration from v1.0.1
-outputs/              validation report, statistics, tables and figures of the Data Descriptor
+outputs/              validation report, statistics, tables and figures of the Data Descriptor,
+                      and ERGON_v1.1.0.xlsx, a spreadsheet copy of the CLDF tables
 intercoder/           sample and blank sheets for the inter-coder reliability study
 ```
 
