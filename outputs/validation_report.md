@@ -8,10 +8,9 @@ Languages: 196; parameters: 24; values: 4704; sources: 201
 
 - none
 
-## Warnings (2)
+## Warnings (0)
 
-- S5 bibliography entry Henderson2022 is incomplete (marked VERIFY)
-- S5 bibliography entry Delmer2018 is incomplete (marked VERIFY)
+- none
 
 ## Information (1)
 

@@ -63,10 +63,18 @@ BERGSLAND = '''@book{g_Bergsland_Aleut,
     volume = {10},
     year = {1997}
 }'''
-DELMER = '''@misc{Delmer2018,
-    author = {Delmer, Jean-Fran\u00e7ois [VERIFY]},
+DELMER = '''@mastersthesis{Delmer2018,
+    author = {Delmer, Jean-Fran\u00e7ois},
     year = {2018},
-    title = {[VERIFY: full reference of the Agusan Manobo source cited as Delmer 2018]}
+    title = {Manobo Verbs and Their Arguments},
+    school = {Payap University}
+}'''
+HENDERSON = '''@phdthesis{Henderson2022,
+    author = {Henderson, Claire Emma},
+    year = {2022},
+    title = {Ergativity in East Futunan Oral Narratives},
+    school = {University of California, Davis},
+    url = {https://escholarship.org/uc/item/6h69f1zc}
 }'''
 GENERIC = re.compile(r"^\s*(there'?s no evidence( on (the )?source)?|no evidence)\.?\s*$", re.I)
 
@@ -260,6 +268,7 @@ def main():
     smap = [r for r in smap if (r['Glottocode'], r['Citation']) != ('iwam1256', 'Conrad 1999')]
     notes = {('kara1487', 'Brainard 1993'): 'Cited as 1993 in the coding sheet; confirmed as Brainard (1994) in the 2026 review.',
              ('nucl1302', 'Hewitt 1990'): 'Cited as Hewitt 1990 in the coding sheet; confirmed as Hewitt (1995) in the 2026 review.',
+             ('east2447', 'Henderson 2022'): 'Record completed in the 2026 review (UC Davis dissertation).',
              ('ayiw1239', 'N\ufffdss 2015'): 'Confirmed in the 2026 review: Naess (2015), The Aiwoo verb phrase, Journal of Linguistics 51(1).'}
     for r in smap:
         if (r['Glottocode'], r['Citation']) in notes:
@@ -273,9 +282,10 @@ def main():
             ('kari1254', 'de Queiroz 2012', 'g_deQueiroz_Dzubukua', 'Grambank v1.0 sources.bib'),
             ('nucl1302', 'Hewitt 1995', 'g_Hewitt_Georgian', 'Grambank v1.0 sources.bib')]:
         smap.append(dict(Glottocode=gc, Citation=cit, BibKey=key, Match=match,
-                         Note='Added in the 2026 review.' + (' Bibliographic record incomplete; VERIFY.' if match == 'manual' else '')))
+                         Note='Added in the 2026 review.' + (' MA thesis, Payap University (reference supplied by the authors).' if match == 'manual' else '')))
     bib = (ROOT / 'raw' / 'sources.bib').read_text(encoding='utf-8')
     bib = re.sub(r'@misc\{Conrad1999,.*?\n\}\n*', '', bib, flags=re.S)
+    bib = re.sub(r'@misc\{Henderson2022,.*?\n\}', lambda m: HENDERSON, bib, flags=re.S)
     if 'g_Bergsland_Aleut' not in bib:
         bib = bib.rstrip() + '\n\n' + BERGSLAND + '\n\n' + DELMER + '\n'
     (ROOT / 'raw' / 'sources.bib').write_text(bib, encoding='utf-8')
