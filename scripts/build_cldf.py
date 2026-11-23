@@ -123,13 +123,11 @@ def main(outdir=ROOT / 'cldf'):
         '"Is there any ergative alignment of flagging?", coded from published grammatical descriptions.')
     ds.properties['dc:license'] = 'https://creativecommons.org/licenses/by/4.0/'
     ds.properties['dcat:accessURL'] = 'https://github.com/rzariquiey/ergon-database'
-    # VERIFY: replace with the DOI of the v1.1.0 Zenodo record once it is minted
-    # (the v1.0.1 record is https://doi.org/10.5281/zenodo.21107436).
-    ds.properties['dc:identifier'] = 'https://github.com/rzariquiey/ergon-database/tree/v1.1.0'
+    ds.properties['dc:identifier'] = 'https://doi.org/10.5281/zenodo.24484168'
     ds.properties['dc:bibliographicCitation'] = (
         'Zariquiey, R., Montoya, J., Gomez, L., Alvarado, C., Chau Príncipe, S., Lanasca-Moura, L., Almendra, A., '
-        f'Poblete, M., Vásquez-Aguilar, A., Greenhill, S. J. & Gray, R. D. ERGON (v{VERSION}). '
-        'https://github.com/rzariquiey/ergon-database')
+        f'Poblete, M., Vásquez-Aguilar, A., Greenhill, S. J. & Gray, R. D. ERGON (v{VERSION}) [Data set]. Zenodo. '
+        'https://doi.org/10.5281/zenodo.24484168')
     ds.properties['schema:version'] = VERSION
     ds.properties['prov:wasDerivedFrom'] = [
         {'rdf:about': 'https://github.com/grambank/grambank', 'dc:title': 'Grambank v1.0 (language sample; feature GB409)'},

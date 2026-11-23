@@ -88,4 +88,4 @@ which `make external` downloads.
 
 Zariquiey, R., Montoya, J., Gomez, L., Alvarado, C., Chau Príncipe, S., Lanasca-Moura, L., Almendra, A.,
 Poblete, M., Vásquez-Aguilar, A., Greenhill, S. J. & Gray, R. D. ERGON (v1.1.0) [Data set]. Zenodo.
-https://doi.org/10.5281/zenodo.XXXXXXX <!-- VERIFY: DOI of the v1.1.0 record -->
+https://doi.org/10.5281/zenodo.24484168

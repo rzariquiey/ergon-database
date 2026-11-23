@@ -62,6 +62,7 @@ def main():
     ws.title = 'README'
     readme = [
         f'ERGON v{VERSION}',
+        'https://doi.org/10.5281/zenodo.24484168',
         '',
         'Spreadsheet copy of the CLDF dataset in the folder cldf/ of the release. The CLDF tables are the',
         'reference version; this file contains the same values.',

@@ -5,8 +5,7 @@ type: dataset
 license: CC-BY-4.0
 repository-code: "https://github.com/rzariquiey/ergon-database"
 version: "1.1.0"
-# date-released: "YYYY-MM-DD"  # set on release
-# doi: "10.5281/zenodo.XXXXXXX"  # add the DOI that Zenodo assigns to v1.1.0
+doi: "10.5281/zenodo.24484168"
 authors:
   - family-names: "Zariquiey"
     given-names: "Roberto"

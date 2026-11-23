@@ -5,10 +5,10 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Zariquiey, R., Montoya, J., Gomez, L., Alvarado, C., Chau Pr\u00edncipe, S., Lanasca-Moura, L., Almendra, A., Poblete, M., V\u00e1squez-Aguilar, A., Greenhill, S. J. & Gray, R. D. ERGON (v1.1.0). https://github.com/rzariquiey/ergon-database",
+    "dc:bibliographicCitation": "Zariquiey, R., Montoya, J., Gomez, L., Alvarado, C., Chau Pr\u00edncipe, S., Lanasca-Moura, L., Almendra, A., Poblete, M., V\u00e1squez-Aguilar, A., Greenhill, S. J. & Gray, R. D. ERGON (v1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24484168",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:description": "Cross-linguistic dataset of 24 binary sub-features (GB409_1-GB409_24) of Grambank feature GB409 \"Is there any ergative alignment of flagging?\", coded from published grammatical descriptions.",
-    "dc:identifier": "https://github.com/rzariquiey/ergon-database/tree/v1.1.0",
+    "dc:identifier": "https://doi.org/10.5281/zenodo.24484168",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "ERGON: sub-features of ergative flagging (Grambank GB409) for 196 languages",
