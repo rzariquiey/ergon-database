@@ -26,8 +26,10 @@ SHEETS = ROOT / 'raw' / 'language_sheets'
 NEW_NON_ERGATIVE = {
     'emai1242': ('LL', 'No ergative alignment of flagging; the "subject concord" marker of imperfective transitive clauses '
                  'is not a case marker (Schaefer & Egbokhare 2017:37-42).'),
-    'fuln1247': ('CA', 'Ergative alignment is found only in indexing (third-person singular pronominal clitics on the verb); '
-                 'pronouns and full NPs show no ergative flagging (Costa 1999:145-146, 309).'),
+    'fuln1247': ('CA', 'A, S and P are not case-marked: grammatical relations are coded by constituent order (SOV), and '
+                 'postpositions mark only semantic roles such as the instrumental te. Ergative patterns are found only in the '
+                 'third-person singular person indices on the verb (series I ta for A, series II e for S and P) and in '
+                 'relativisation (-ho for A, -dowa for S and P) (Costa 1999:145-146, 309).'),
     'huas1242': ('CA', 'Person marking on the verb resembles an inverse system; there is no flagging of nouns or pronouns, '
                  'hence no ergative flagging (Kondić 2012).'),
 }
