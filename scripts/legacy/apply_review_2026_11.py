@@ -1,10 +1,11 @@
 """
 Apply the November 2026 review round to raw/ (provenance script; run once).
 
-Inputs (copies of the team's Google Sheets, folder "respuesta a revisores", 2026-10-30 / 2026-11-05):
-  review_2026_11/rasgos_revisados.csv     revised cells (Glottocode, Ergon_ID, Feature, Value, Source, Comment)
-  review_2026_11/coders.csv               Coders column for raw/languages.csv
-  review_2026_11/responses_to_issues.csv  answers to author_review_queue.csv
+Inputs: the team's working sheets of the review round (revised cells, the Coders sheet and the
+answers to the review issues). They are kept by the authors and are not part of the public
+release; set ERGON_REVIEW_DIR to the folder that holds them (rasgos_revisados.csv, coders.csv,
+responses_to_issues.csv). The effect of the review on the data is recorded in raw/language_sheets/
+and, cell by cell, in raw/curation_log.csv (rules R1 and S1).
 
 Decisions applied (Roberto Zariquiey, 2026-11-16):
   * Emai, Fulnio and Huastec reclassified as non-ergative (team review); all values 0 (protocol s.3).
@@ -16,10 +17,10 @@ Decisions applied (Roberto Zariquiey, 2026-11-16):
   * A generic "no evidence" comment does not overwrite an existing substantive comment.
 Every value change is written to raw/curation_log.csv with rule R1.
 """
-import csv, collections, pathlib, re
+import csv, collections, os, pathlib, re
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
-REV = pathlib.Path(__file__).resolve().parent / 'review_2026_11'
+REV = pathlib.Path(os.environ.get('ERGON_REVIEW_DIR', pathlib.Path(__file__).resolve().parent / 'review_2026_11'))
 SHEETS = ROOT / 'raw' / 'language_sheets'
 
 NEW_NON_ERGATIVE = {

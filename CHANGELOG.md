@@ -12,7 +12,7 @@ statistics, tables and figures. Every value change is listed in `raw/curation_lo
   coded from a single description of Lisu (Yu 2007), which describes split-S flagging, are now `problematic`:
   Lisu (lisu1250), Lipo (lipo1242), Lisu Dechang (dech1234), Lisu Central/Lipo (hual1240).
 - **Review round (November 2026).** Team members re-examined 25 issues raised during harmonisation and by the
-  comparison with WALS, AUTOTYP and ATLAs (`scripts/legacy/review_2026_11/`). Emai (emai1242), Fulniô (fuln1247)
+  comparison with WALS, AUTOTYP and ATLAs. Emai (emai1242), Fulniô (fuln1247)
   and Huastec (huas1242) are now `non-ergative`. Relative to the first v1.1.0 draft, 103 cells in 11 languages
   changed value; relative to v1.0.1 these appear in `raw/curation_log.csv` as 28 rows with rule R1 (Apinajé, whose
   TAM contexts were recoded so that the former validation exception is gone, Agusan Manobo, Manange, Ninam,

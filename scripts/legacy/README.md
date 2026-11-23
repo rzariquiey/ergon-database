@@ -10,16 +10,14 @@ sources in `raw/`. They are kept for provenance only; the regular build starts f
 | 1 | `stage1_collect.py` (uses `legacy_loader.py`) | one JSON file with all v1.0.1 values plus the original coding and curation notes from the legacy sheets |
 | 2 | `migrate_v1_0_to_v1_1.py` | `raw/language_sheets/*.csv`, `raw/languages.csv`, `raw/curation_log.csv`, `raw/curation_history_v1_0.csv`, `raw/curation_notes.csv` |
 | 3 | `stage3_bib.py` (uses `bibmatch.py`, `../citations.py`) | `raw/sources.bib`, `raw/source_map.csv` |
-| 4 | `apply_review_2026_11.py` (inputs in `review_2026_11/`: the team's revised cells, the Coders sheet and the answers to the 25 review issues) | updates `raw/language_sheets/`, `raw/languages.csv`, `raw/curation_log.csv`, `raw/source_map.csv`, `raw/sources.bib`, `etc/validation_exceptions.csv` |
+| 4 | `apply_review_2026_11.py` (inputs: the team's working sheets of the November 2026 review, kept by the authors; see the docstring) | updates `raw/language_sheets/`, `raw/languages.csv`, `raw/curation_log.csv`, `raw/source_map.csv`, `raw/sources.bib`, `etc/validation_exceptions.csv` |
 
 Inputs that are not part of this repository: the v1.0.1 archive, Grambank v1.0
-(`grambank/grambank`, `cldf/sources.bib`, `cldf/values.csv`) and Glottolog 5.3
-(`glottolog/glottolog-cldf` v5.3, `cldf/sources.bib`).
-
-`translations_es_en.json` contains the English translations of the 91 Spanish-language
-comments of v1.0.1 (applied in step 2). `review_round_2026.csv` is the assignment of
-coding sheets to team members during the 2026 review round (source of the
-`Reviewer` column).
+(`grambank/grambank`, `cldf/sources.bib`, `cldf/values.csv`), Glottolog 5.3
+(`glottolog/glottolog-cldf` v5.3, `cldf/sources.bib`), and the team's working files, which
+are kept by the authors: the English translations of the Spanish comments of v1.0.1 (step 2),
+the assignment of coding sheets to team members in the 2026 review (source of the `Reviewer`
+column) and the sheets of the November 2026 review (step 4).
 
 Every value change between v1.0.1 and v1.1.0 is listed, with its rule and rationale,
 in `raw/curation_log.csv`. The rules are:
