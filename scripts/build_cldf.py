@@ -125,7 +125,7 @@ def main(outdir=ROOT / 'cldf'):
     ds.properties['dcat:accessURL'] = 'https://github.com/rzariquiey/ergon-database'
     ds.properties['dc:identifier'] = 'https://doi.org/10.5281/zenodo.24484168'
     ds.properties['dc:bibliographicCitation'] = (
-        'Zariquiey, R., Montoya, J., Gomez, L., Alvarado, C., Chau Príncipe, S., Lanasca-Moura, L., Almendra, A., '
+        'Zariquiey, R., Montoya, J., Gómez, L., Alvarado, C., Chau Príncipe, S., Lanasca-Moura, L., Almendra, A., '
         f'Poblete, M., Vásquez-Aguilar, A., Greenhill, S. J. & Gray, R. D. ERGON (v{VERSION}) [Data set]. Zenodo. '
         'https://doi.org/10.5281/zenodo.24484168')
     ds.properties['schema:version'] = VERSION
