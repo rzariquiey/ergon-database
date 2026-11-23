@@ -13,8 +13,8 @@ are reported in `outputs/validation_report.md`.
 | S5 | Every coded value (0/1) cites at least one source; every source key resolves in `sources.bib`; incomplete bibliographic records flagged | error / warning |
 | L1 | A language with `Status = ergative` has at least one `1` among GB409_2–5 | error |
 | L2 | For an ergative language, the two members of a context pair (perfective/imperfective, past/non-past, indicative/non-indicative, realis/irrealis, agentive/non-agentive, topical/non-topical, animate/inanimate, main/non-main) are not both `0` (unless listed in `etc/validation_exceptions.csv`) | error |
-| L3 | A `non-ergative` language has `0` for all 24 features | error |
-| L4 | Every non-ergative and problematic language has a `Status_comment` | error |
+| L3 | A `no-ergative-flagging` language has `0` for all 24 features | error |
+| L4 | Every `no-ergative-flagging` and `problematic` language has a `Status_comment` | error |
 | C1 | Comments are in English (heuristic) | error |
 | C2 | Comments contain no workflow notes (e.g. "researcher must", "TODO") | error |
 | A1 | Every language has coder attribution | warning |

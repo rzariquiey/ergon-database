@@ -31,7 +31,7 @@ taken during curation. Section numbers are referred to in the Data Descriptor an
 | **Optional ergative marking** (the A flag may be omitted under pragmatic or semantic conditions but never appears on S) | In scope: counts as ergative flagging. The conditioning is recorded in GB409_14–19/22 and in the comments. |
 | Marker that also appears on S (agentive / "marked nominative" marker; e.g. Kamula *-ta*) | Not ergative flagging (S = A). |
 | **Tripartite** domain (S ≠ A ≠ P) | Not ergative in that domain (S ≠ P): coded 0 for that nominal category. Note that Grambank GB409 asks only whether A ≠ S, so tripartite domains are 1 in Grambank but 0 in ERGON. |
-| **Split-S / active-stative** flagging (A = S_a ≠ S_o = P) | Out of scope as *ergative flagging* when the default intransitive class patterns with A. Under a decompositional analysis (Witzlack-Makarevich et al. 2016) such systems contain an ergative sub-pattern for S_o; users interested in that analysis should use AUTOTYP or ATLAs (Align-11, Align-12). Languages with split-S flagging are classified `non-ergative` or `problematic`, with the reason in `Status_comment`. Minor intransitive classes with A-like or P-like marking inside an otherwise ergative system are recorded with GB409_22 = 1. |
+| **Split-S / active-stative** flagging (A = S_a ≠ S_o = P) | Out of scope as *ergative flagging* when the default intransitive class patterns with A. Under a decompositional analysis (Witzlack-Makarevich et al. 2016) such systems contain an ergative sub-pattern for S_o; users interested in that analysis should use AUTOTYP or ATLAs (Align-11, Align-12). Languages with split-S flagging are classified `no-ergative-flagging` or `problematic`, with the reason in `Status_comment`. Minor intransitive classes with A-like or P-like marking inside an otherwise ergative system are recorded with GB409_22 = 1. |
 | Hierarchical / inverse systems, voice-conditioned (Philippine-type, Salish) patterns | Coded as ergative only if the S = P ≠ A pattern can be established for flags on NPs or free pronouns; otherwise `problematic`. |
 | Person forms on the verb (see §1.2) | Indexing; not coded. |
 
@@ -120,7 +120,7 @@ Jaminjung *=ni*) are flags: their bound status is irrelevant.
 | Status | Definition | Values |
 |---|---|---|
 | `ergative` | Ergative flagging attested for at least one nominal category (at least one `1` in GB409_2–5). | coded as above |
-| `non-ergative` | Language sampled because Grambank codes GB409 = 1, but no ergative flagging (as defined in §1) after verification against the source. | all `0` |
+| `no-ergative-flagging` | Language sampled because Grambank codes GB409 = 1, but no ergative flagging (as defined in §1) after verification against the source. The label refers to flagging only; ergative patterns in indexing or elsewhere are not excluded. | all `0` |
 | `problematic` | Classification unresolved (conflicting descriptions, voice-conditioned or split-S systems, insufficient evidence). Excluded from all analyses of ergative languages. | as coded; to be read with `Status_comment` |
 
 ## 4. Sources and provenance

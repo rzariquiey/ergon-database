@@ -104,10 +104,10 @@ def main():
             for a, b in PAIRS:
                 if val(a) == '0' and val(b) == '0' and (gc, f'L2:{a}/{b}') not in exceptions:
                     errors.append(f'L2 {gc}: GB409_{a} and GB409_{b} both 0 although the language has ergative flagging')
-        elif l['Status'] == 'non-ergative':
+        elif l['Status'] == 'no-ergative-flagging':
             bad = [p for p in PIDS if g[p]['Value'] != '0']
             if bad:
-                errors.append(f'L3 {gc}: non-ergative language with non-zero values {bad}')
+                errors.append(f'L3 {gc}: language without ergative flagging has non-zero values {bad}')
         if l['Status'] != 'ergative' and not l['Status_comment']:
             errors.append(f'L4 {gc}: {l["Status"]} language without Status_comment')
 

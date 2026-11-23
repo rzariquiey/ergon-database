@@ -11,6 +11,7 @@ sources in `raw/`. They are kept for provenance only; the regular build starts f
 | 2 | `migrate_v1_0_to_v1_1.py` | `raw/language_sheets/*.csv`, `raw/languages.csv`, `raw/curation_log.csv`, `raw/curation_history_v1_0.csv`, `raw/curation_notes.csv` |
 | 3 | `stage3_bib.py` (uses `bibmatch.py`, `../citations.py`) | `raw/sources.bib`, `raw/source_map.csv` |
 | 4 | `apply_review_2026_11.py` (inputs: the team's working sheets of the November 2026 review, kept by the authors; see the docstring) | updates `raw/language_sheets/`, `raw/languages.csv`, `raw/curation_log.csv`, `raw/source_map.csv`, `raw/sources.bib`, `etc/validation_exceptions.csv` |
+| 5 | `rename_status_2026_11.py` | renames the status `non-ergative` to `no-ergative-flagging` in `raw/languages.csv` and rewords the notes that used it in `raw/curation_log.csv` and `raw/curation_history_v1_0.csv` |
 
 Inputs that are not part of this repository: the v1.0.1 archive, Grambank v1.0
 (`grambank/grambank`, `cldf/sources.bib`, `cldf/values.csv`), Glottolog 5.3
@@ -25,7 +26,7 @@ in `raw/curation_log.csv`. The rules are:
 | Rule | Meaning |
 |---|---|
 | G | Glottocode corrected (see `raw/languages.csv`, `Glottocode_note`) |
-| S1 | Language reclassified as non-ergative after verification; all sub-features set to 0 |
+| S1 | Ergative flagging not confirmed after verification (status `no-ergative-flagging`); all sub-features set to 0 |
 | V1 | Invalid code (`2`) recoded under coding rule C3 |
 | M1 | Value absent from the v1.0.1 build added (as `?` = not coded, unless documented) |
 | H1 | `?` → default value: source documents ergative flagging and no split along this dimension (rule C2) |

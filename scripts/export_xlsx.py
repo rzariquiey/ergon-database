@@ -76,7 +76,7 @@ def main():
         '',
         '1 = ergative flagging documented in the context; 0 = absence documented; ? = the source does not',
         'allow a decision. The coding rules are in docs/coding_protocol.md. Languages with status',
-        'non-ergative have all values 0. Problematic languages should not be included in analyses of',
+        'no-ergative-flagging have all values 0. Problematic languages should not be included in analyses of',
         'ergative languages.',
         '',
         'Licence CC BY 4.0.',
@@ -89,7 +89,7 @@ def main():
     ws['A1'].font = Font(name='Arial', size=12, bold=True)
     ws.column_dimensions['A'].width = 120
 
-    order = sorted(langs, key=lambda l: ({'ergative': 0, 'problematic': 1, 'non-ergative': 2}[l['Status']], l['Name']))
+    order = sorted(langs, key=lambda l: ({'ergative': 0, 'problematic': 1, 'no-ergative-flagging': 2}[l['Status']], l['Name']))
     sheet(wb, 'Matrix', ['Language', 'Glottocode', 'Family', 'Macroarea', 'Status'] + [f'{p} {pname[p]}' for p in PIDS],
           [[l['Name'], l['ID'], l['Family'], l['Macroarea'], l['Status']] + [val[(l['ID'], p)] for p in PIDS] for l in order],
           widths=[26, 11, 18, 14, 13] + [9] * 24)

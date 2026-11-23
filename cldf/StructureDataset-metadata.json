@@ -219,15 +219,15 @@
                         "name": "Family_Glottocode"
                     },
                     {
-                        "dc:description": "ergative: ergative flagging (S=P\u2260A) attested for at least one nominal category; non-ergative: no ergative flagging after verification against the source; problematic: classification unresolved (see Status_comment)",
+                        "dc:description": "ergative: ergative flagging (S=P\u2260A) attested for at least one nominal category; no-ergative-flagging: coded 1 for GB409 in Grambank, but ergative flagging not confirmed after verification against the source; problematic: classification unresolved (see Status_comment)",
                         "datatype": {
                             "base": "string",
-                            "format": "ergative|non-ergative|problematic"
+                            "format": "ergative|no-ergative-flagging|problematic"
                         },
                         "name": "Status"
                     },
                     {
-                        "dc:description": "Justification of the non-ergative or problematic classification",
+                        "dc:description": "Justification of the no-ergative-flagging or problematic classification",
                         "name": "Status_comment"
                     },
                     {

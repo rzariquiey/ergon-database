@@ -86,7 +86,7 @@ def main(external=None):
         V[r['Language_ID']][r['Parameter_ID']] = r['Value']
     S = {}  # statistics
     erg = sorted(g for g, l in langs.items() if l['Status'] == 'ergative')
-    nonerg = sorted(g for g, l in langs.items() if l['Status'] == 'non-ergative')
+    nonerg = sorted(g for g, l in langs.items() if l['Status'] == 'no-ergative-flagging')
     probl = sorted(g for g, l in langs.items() if l['Status'] == 'problematic')
     allv = [V[g][p] for g in langs for p in PIDS]
     ergv = [V[g][p] for g in erg for p in PIDS]
@@ -157,7 +157,7 @@ def main(external=None):
     macro = collections.Counter(langs[g]['Macroarea'].split(';')[0] for g in erg)
     S['macroareasErgative'] = dict(macro.most_common())
 
-    # ------------------------------------------------------------------ Table: non-ergative / problematic
+    # ------------------------------------------------------------------ Table: no ergative flagging / problematic
     # Table 5 uses the one-line summaries in etc/status_short_reasons.csv; the full justification
     # is Status_comment in cldf/languages.csv.
     short = {r['Glottocode']: r['Short_reason_LaTeX'] for r in csv.DictReader(open(ROOT / 'etc' / 'status_short_reasons.csv', encoding='utf-8'))}
@@ -167,7 +167,7 @@ def main(external=None):
     with open(OUT / 'tab_status.tex', 'w') as f:
         for g in sorted(nonerg, key=lambda g: langs[g]['Name']) + sorted(probl, key=lambda g: langs[g]['Name']):
             l = langs[g]
-            f.write(f"{l['Name']} & {g} & {l['Family']} & {l['Status']} & {short[g]} \\\\\n")
+            f.write(f"{l['Name']} & {g} & {l['Family']} & {l['Status'].replace('-', ' ')} & {short[g]} \\\\\n")
 
     # ------------------------------------------------------------------ Referential hierarchy (GB409_2-5)
     complete = [g for g in erg if all(V[g][f'GB409_{i}'] in '01' for i in (2, 3, 4, 5))]
@@ -310,7 +310,7 @@ def external_comparison(ext, langs, V, erg):
         ll[l['Language_level_Glottocode']].append(g)
     any_np = lambda g: V[g]['GB409_5']
     any_pro = lambda g: '1' if '1' in [V[g][f'GB409_{i}'] for i in (2, 3, 4)] else ('?' if '?' in [V[g][f'GB409_{i}'] for i in (2, 3, 4)] else '0')
-    status_flag = lambda g: '1' if langs[g]['Status'] == 'ergative' else ('0' if langs[g]['Status'] == 'non-ergative' else '?')
+    status_flag = lambda g: '1' if langs[g]['Status'] == 'ergative' else ('0' if langs[g]['Status'] == 'no-ergative-flagging' else '?')
     rows = []
 
     detail = []
@@ -448,7 +448,7 @@ def fig_map(langs):
                     continue
                 ax.fill(xs, ys, color='#ecebe7', lw=0)
     style = {'ergative': (BLUE, 'o', 'Ergative flagging'),
-             'non-ergative': (ORANGE, 's', 'GB409 = 1 in Grambank, ergative flagging not confirmed'),
+             'no-ergative-flagging': (ORANGE, 's', 'GB409 = 1 in Grambank, ergative flagging not confirmed'),
              'problematic': (AQUA, '^', 'Unresolved classification')}
     for st, (c, m, lab) in style.items():
         pts = [(float(l['Longitude']), float(l['Latitude'])) for l in langs.values() if l['Status'] == st and l['Latitude']]

@@ -1,6 +1,6 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Glottolog_Name,Level,Language_level_Glottocode,Family,Family_Glottocode,Status,Status_comment,Coders,Reviewer,Primary_Source
 aben1249,Ayta Abenlen,Papunesia,15.4131,120.2,aben1249,abp,Abenlen Ayta,language,aben1249,Austronesian,aust1307,ergative,,LG;CA,CA,s_Nitsch_Ayta-Abenlen
-achi1257,Acehnese,Eurasia;Papunesia,3.90757,96.6032,achi1257,ace,Acehnese,language,achi1257,Austronesian,aust1307,non-ergative,Pronominal clitics on the verb follow S=A≠P; no ergative flagging (Asyik 1987).,LG;CA,CA,g_Asyik_Acehnese
+achi1257,Acehnese,Eurasia;Papunesia,3.90757,96.6032,achi1257,ace,Acehnese,language,achi1257,Austronesian,aust1307,no-ergative-flagging,Pronominal clitics on the verb follow S=A≠P; no ergative flagging (Asyik 1987).,LG;CA,CA,g_Asyik_Acehnese
 adny1235,Adnyamathanha,Australia,-30.1451,138.671,adny1235,adt,Adnyamathanha,language,adny1235,Pama-Nyungan,pama1250,ergative,,LG;CA,CA,st_Schebeck_Atynyamatana
 aghu1254,Aghu,Australia,-13.735,142.426,aghu1254,ggr,Aghu Tharnggalu,language,aghu1254,Pama-Nyungan,pama1250,ergative,,LG;CA,CA,s_Jolly_Tharrnggala
 agus1235,Agusan Manobo,Papunesia,8.62731,125.742,agus1235,msm,Agusan Manobo,language,agus1235,Austronesian,aust1307,ergative,,LG;CA,CA,s_Verstraelen_Manobo
@@ -15,7 +15,7 @@ amdo1237,Amdo Tibetan,Eurasia,34.5177,100.485,amdo1237,adx,Amdo Tibetan,language
 amis1246,Amis,Papunesia,23.0917,121.348,amis1246,ami,Amis,language,amis1246,Austronesian,aust1307,ergative,,LG;CA,CA,g_Wu_Amis
 ango1257,U'wa,South America,6.54198,-71.9212,ango1257,tnd,Angosturas Tunebo,language,ango1257,Chibchan,chib1249,ergative,,LG;CA,CA,s_Casilimas_Uwa
 anut1237,Anutan,Papunesia,-11.61,169.85,anut1237,aud,Anuta,language,anut1237,Austronesian,aust1307,ergative,,LG,LG,sd_Feinberg_Anutan
-apat1240,Apatani,Eurasia,27.1933,93.7284,apat1240,apt,Apatani,language,apat1240,Sino-Tibetan,sino1245,non-ergative,"Nominative (zero)-accusative ('mi') case system: A and S unmarked, P marked (Abraham 1985:35-38).",LG,LG,g_Abraham_Apatani
+apat1240,Apatani,Eurasia,27.1933,93.7284,apat1240,apt,Apatani,language,apat1240,Sino-Tibetan,sino1245,no-ergative-flagging,"Nominative (zero)-accusative ('mi') case system: A and S unmarked, P marked (Abraham 1985:35-38).",LG,LG,g_Abraham_Apatani
 apin1244,Apinajé,South America,-6.10774,-47.6315,apin1244,apn,Apinayé,language,apin1244,Nuclear-Macro-Je,nucl1710,ergative,,LG,LG,g_deOliveira_Apinaje
 arab1267,Arabana,Australia,-28.705,135.449,arab1267,ard,Arabana,language,arab1267,Pama-Nyungan,pama1250,ergative,,LG,LG,g_Hercus_Arabana
 arta1239,Arta,Papunesia,16.4185,121.656,arta1239,atz,Arta,language,arta1239,Austronesian,aust1307,ergative,,LG,LG,g_Kimoto_Arta
@@ -27,21 +27,21 @@ ayiw1239,�iwoo,Papunesia,-10.30387,166.32344,ayiw1239,nfl,Äiwoo,language,ayiw
 bahi1252,Bahing,Eurasia,27.3323,86.3949,bahi1252,bhj,Bahing,language,bahi1252,Sino-Tibetan,sino1245,ergative,,LG,LG,s_Rapacha_Kiranti-Bayung
 bala1311,Balangao,Papunesia,6.011614,121.686646,bala1311,sse,Balangingi,language,bala1311,Austronesian,aust1307,ergative,,LG,LG,s_Gault_Sama-Bangingi
 kuma1276,Nêlêmwa,Papunesia,-20.4035,164.193,kuma1276,nee,Nêlêmwa-Nixumwak,language,kuma1276,Austronesian,aust1307,ergative,,LG,LG,g_Bril_Nelemwa
-bamb1270,Pitu Ulunna Salu,Papunesia,-3.02759,119.201,bamb1270,ptu,Bambam,language,bamb1270,Austronesian,aust1307,non-ergative,Campbell (1989:47): 'absolutive/ergative case inflections are limited to the arguments represented by pronominal affixes on the verb stem. There are no case markings on nouns.' Ergative alignment is a property of indexing only.,LG,LG,g_Campbell_Pitu
+bamb1270,Pitu Ulunna Salu,Papunesia,-3.02759,119.201,bamb1270,ptu,Bambam,language,bamb1270,Austronesian,aust1307,no-ergative-flagging,Campbell (1989:47): 'absolutive/ergative case inflections are limited to the arguments represented by pronominal affixes on the verb stem. There are no case markings on nouns.' Ergative alignment is a property of indexing only.,LG,LG,g_Campbell_Pitu
 bant1281,Bantawa,Eurasia,27.12147,87.04738,bant1281,bap,Bantawa,language,bant1281,Sino-Tibetan,sino1245,ergative,,LG,LG,g_Doornenbal_Bantawa
 bara1357,Baram Thangmi,Eurasia,28.3768,85.0584,bara1357,brd,Baraamu,language,bara1357,Sino-Tibetan,sino1245,ergative,,LG,LG,Dhakal2014Baram
 basq1248,Basque,Eurasia,43.2787,-1.31622,basq1248,eus,Basque,language,basq1248,Isolate,,ergative,,LG;SCP,SCP,g_HualdeUrbana_Basque
 bawm1236,Bawm Chin,Eurasia,22.4405233333,92.92553,bawm1236,bgr,Bawm Chin,language,bawm1236,Sino-Tibetan,sino1245,ergative,,LG;SCP,SCP,g_Reichle_Bawm
 bayb1234,Utudnon,Papunesia,10.6956,124.8086,bayb1234,bvy,Baybayanon,language,bayb1234,Austronesian,aust1307,ergative,,LG,,s_Rubino_Utudnon
 belh1239,Belhare,Eurasia,26.9972,87.2783,belh1239,byw,Belhariya,language,belh1239,Sino-Tibetan,sino1245,ergative,,LG,,s_Bickel_Belhare
-bert1248,Berta,Africa,10.6474,34.7042,bert1248,wti,Berta,language,bert1248,Isolate,,non-ergative,"Absolutive/nominative distinction is positional, not based on transitivity; no ergative flagging (Andersen 2003).",LG;SCP,SCP,w_Andersen_Berta
-bier1244,Bierebo,Papunesia,-16.6663,168.154,bier1244,bnk,Bierebo,language,bier1244,Austronesian,aust1307,non-ergative,S and A are marked identically (subject prefixes); no ergative flagging (Budd 2009:161).,LG;LL,LL,g_Budd_Bierebo
+bert1248,Berta,Africa,10.6474,34.7042,bert1248,wti,Berta,language,bert1248,Isolate,,no-ergative-flagging,"Absolutive/nominative distinction is positional, not based on transitivity; no ergative flagging (Andersen 2003).",LG;SCP,SCP,w_Andersen_Berta
+bier1244,Bierebo,Papunesia,-16.6663,168.154,bier1244,bnk,Bierebo,language,bier1244,Austronesian,aust1307,no-ergative-flagging,S and A are marked identically (subject prefixes); no ergative flagging (Budd 2009:161).,LG;LL,LL,g_Budd_Bierebo
 bilb1241,Bilibil,Papunesia,-5.26505,145.764,bilb1241,brz,Bilibil,language,bilb1241,Austronesian,aust1307,problematic,"An optional postposition mos occurs on subjects, especially when the object is fronted; the few available examples show it on A only, which is insufficient to establish an ergative marker (Dempwolff 1909). Grambank codes GB409=1.",LG;JM,JM,s_Dempwolff_Bilibili
 bina1277,Binahari,Papunesia,-8.37433,147.884,bina1277,bhg,Binandere,language,bina1277,Nuclear Trans New Guinea,nucl1709,ergative,,LG,,s_Wilson_Binandere_Verbal
 binu1244,Binukid,Papunesia,8.15933,124.892,binu1244,bkd,Talaandig-Binukid,language,binu1244,Austronesian,aust1307,ergative,,LG,,sd_Otanes_Binukid
 biri1256,Biri,Australia,-20.1494,146.67,biri1256,bzr,Biri,language,biri1256,Pama-Nyungan,pama1250,ergative,,LG,,s_Terrill_Biri
 boun1245,Ku Waru,Papunesia,-5.8626,144.086,boun1245,mux,Bo-Ung,language,boun1245,Nuclear Trans New Guinea,nucl1709,ergative,,LG,,ssoc_MerlanRumsey_KuWaru
-bugi1244,Bugis,Papunesia,-4.47,119.977,bugi1244,bug,Buginese,language,bugi1244,Austronesian,aust1307,non-ergative,"Ergative-absolutive alignment is realised by pronominal proclitics/enclitics on the verb (indexing), not by flagging; free pronouns and NPs are not case-marked (Hanson 2003:59-60, 126, 153).",LG,,g_Hanson_Bugis
+bugi1244,Bugis,Papunesia,-4.47,119.977,bugi1244,bug,Buginese,language,bugi1244,Austronesian,aust1307,no-ergative-flagging,"Ergative-absolutive alignment is realised by pronominal proclitics/enclitics on the verb (indexing), not by flagging; free pronouns and NPs are not case-marked (Hanson 2003:59-60, 126, 153).",LG,,g_Hanson_Bugis
 bujh1238,Bhujel,Eurasia,28.0084,84.5068,bujh1238,byh,Bujhyal,language,bujh1238,Sino-Tibetan,sino1245,ergative,,LG,,g_Regmi_Bhujel
 bund1253,Bundeli,Eurasia,24.8982,78.9542,bund1253,bns,Bundeli,language,bund1253,Indo-European,indo1319,ergative,,LG,,g_Jaiswal_Bundeli
 byan1241,Byansi,Eurasia,29.92002,80.63653,byan1241,bee,Byangsi,language,byan1241,Sino-Tibetan,sino1245,ergative,,LG,,g_Trivedi_Byansi
@@ -49,7 +49,7 @@ cash1251,Kakataibo,South America,-8.70232,-75.4206,cash1251,cbr,Cashibo-Cacataib
 caml1239,Camling,Eurasia,27.3371,86.7612,caml1239,rab,Camling,language,caml1239,Sino-Tibetan,sino1245,ergative,,LG,,s_Ebert_Camling
 casi1235,Casiguran Dumagat Agta,Papunesia,16.2176,121.878,casi1235,dgc,Casiguran-Nagtipunan Agta,language,casi1235,Austronesian,aust1307,ergative,,LG;SCP,SCP,s_HeadlandHealey_Casiguran
 cavi1250,Cavineña,South America,-13.3544,-66.6277,cavi1250,cav,Cavineña,language,cavi1250,Pano-Tacanan,pano1259,ergative,,LL,LL,Guillaume2010Ergative
-cemu1238,Cemuhî,Papunesia,-20.8489,165.13,cemu1238,cam,Cemuhî,language,cemu1238,Austronesian,aust1307,non-ergative,"S and A are marked identically by personal modalities; no separate A flag (Rivierre 1980:65, 185).",LG;AVA,AVA,g_Rivierre_Touho
+cemu1238,Cemuhî,Papunesia,-20.8489,165.13,cemu1238,cam,Cemuhî,language,cemu1238,Austronesian,aust1307,no-ergative-flagging,"S and A are marked identically by personal modalities; no separate A flag (Rivierre 1980:65, 185).",LG;AVA,AVA,g_Rivierre_Touho
 cent2127,Central Alaskan Yupik,North America,60.3062,-161.486,cent2127,esu,Central Alaskan Yupik,language,cent2127,Eskimo-Aleut,eski1264,ergative,,LL,LL,g_Miyaoka_CAlaskanYupik
 chac1251,Chacobo,South America,-12.133,-66.7164,chac1251,cao,Chácobo,language,chac1251,Pano-Tacanan,pano1259,ergative,,RZ;LL,LL,g_Tallman_Chacobo
 chan1313,Chang Naga,Eurasia,26.4336,94.9536,chan1313,nbc,Chang Naga,language,chan1313,Sino-Tibetan,sino1245,ergative,,LL,LL,Chor2011Sketch
@@ -90,13 +90,13 @@ east2545,Eastern Pomo,North America,38.5647,-122.586,east2545,peb,Eastern Pomo,l
 east2694,Eastern Subanun,Papunesia,8.2475,123.5234,east2694,sfe,Eastern Subanen,language,east2694,Austronesian,aust1307,ergative,,LL;AVA,AVA,s_Verstraelen_Subanon
 east2773,Dolakha Newar,Eurasia,27.576985,86.033964,east2773,,Eastern Newari,language,east2773,Sino-Tibetan,sino1245,ergative,,LL;AVA,AVA,g_Genetti_Dolakha-Newar
 east2851,Geshiza,Eurasia,31.1026,101.72,east2851,ero,Eastern Geshiza,dialect,horp1239,Sino-Tibetan,sino1245,ergative,,LL;AVA,AVA,g_Honkasalo_Geshiza
-emai1242,Emai,Africa,7.09089,5.84494,emai1242,ema,Emai,dialect,emai1241,Atlantic-Congo,atla1278,non-ergative,"No ergative alignment of flagging; the ""subject concord"" marker of imperfective transitive clauses is not a case marker (Schaefer & Egbokhare 2017:37-42).",LL;AVA,AVA,g_SchaeferEgbokhare_Emai
+emai1242,Emai,Africa,7.09089,5.84494,emai1242,ema,Emai,dialect,emai1241,Atlantic-Congo,atla1278,no-ergative-flagging,"No ergative alignment of flagging; the ""subject concord"" marker of imperfective transitive clauses is not a case marker (Schaefer & Egbokhare 2017:37-42).",LL;AVA,AVA,g_SchaeferEgbokhare_Emai
 ersu1241,Ersu,Eurasia,29.2867,102.213,ersu1241,ers,Ersu,language,ersu1241,Sino-Tibetan,sino1245,ergative,,LL;AVA,AVA,g_Zhang_Ersu
 fala1243,Falam Chin,Eurasia,23.7892833333,92.3254633333,fala1243,cfm,Falam Chin,language,fala1243,Sino-Tibetan,sino1245,ergative,,LL;AVA,AVA,s_King_Falam-Chin
-fass1245,Momu,Papunesia,-3.10868,141.64,fass1245,fqs,Momu-Fas,language,fass1245,Baibai-Fas,baib1250,non-ergative,"Nominative-accusative; the clitic =m marks objects/obliques, not A (Honeyman 2016; Blake 2007).",CA;RZ,RZ,Honeyman2016Momu
+fass1245,Momu,Papunesia,-3.10868,141.64,fass1245,fqs,Momu-Fas,language,fass1245,Baibai-Fas,baib1250,no-ergative-flagging,"Nominative-accusative; the clitic =m marks objects/obliques, not A (Honeyman 2016; Blake 2007).",CA;RZ,RZ,Honeyman2016Momu
 fasu1242,Fasu,Papunesia,-6.62687,143.284,fasu1242,faa,Fasu,language,fasu1242,Isolate,,ergative,,CA,,g_LoewekeMay_Fasu
 fran1266,Francisco León Zoque,North America,17.3654,-93.3633,fran1266,zos,Northern Chiapas Zoque,language,fran1266,Mixe-Zoque,mixe1284,ergative,,CA,,s_BartholomewEngel_Zoque
-fuln1247,Fulniô,South America,-9.02591,-37.1402,fuln1247,fun,Fulniô,language,fuln1247,Isolate,,non-ergative,"Ergative alignment is found only in indexing (third-person singular pronominal clitics on the verb); pronouns and full NPs show no ergative flagging (Costa 1999:145-146, 309).",CA,,g_daCosta_Yathe
+fuln1247,Fulniô,South America,-9.02591,-37.1402,fuln1247,fun,Fulniô,language,fuln1247,Isolate,,no-ergative-flagging,"Ergative alignment is found only in indexing (third-person singular pronominal clitics on the verb); pronouns and full NPs show no ergative flagging (Costa 1999:145-146, 309).",CA,,g_daCosta_Yathe
 futu1245,Futuna-Aniwa,Papunesia,-19.5303,170.215,futu1245,fut,Futuna-Aniwa,language,futu1245,Austronesian,aust1307,ergative,,CA,,g_Dougherty_WFutuna-Aniwa
 gahr1239,Bunan,Eurasia,32.2168,77.9596,gahr1239,bfu,Bunan,language,gahr1239,Sino-Tibetan,sino1245,ergative,,CA,,g_Widmer_Bunan
 gana1278,Ganai,Australia,-38.58,146.5,gana1278,unn,Ganai,language,gana1278,Pama-Nyungan,pama1250,ergative,,CA,,s_Fesl_Ganai
@@ -110,12 +110,12 @@ haka1240,Haka Chin,Eurasia,22.8735,92.8208,haka1240,cnh,Haka Chin,language,haka1
 hida1246,Hidatsa,North America,47.33,-102.0,hida1246,hid,Hidatsa,language,hida1246,Siouan,siou1252,ergative,,CA,,g_Park_Hidatsa
 hind1269,Hindi,Eurasia,25.0,77.0,hind1269,hin,Hindi,language,hind1269,Indo-European,indo1319,ergative,,CA,,g_Koul_Hindi
 hual1240,Lisu (Central/Lipo dialect),Eurasia,26.91,98.94,hual1240,lis,Central Lisu,dialect,lisu1250,Sino-Tibetan,sino1245,problematic,"Active-stative (split-S) flagging: le33 marks A and agentive S, non-agentive S is unmarked like P (Yu 2007). Split-S systems fall outside the operational definition used in this release, and the coding is derived from the same source as dech1234.",CA,,s_Yu_Lisu
-huas1242,Huastec,North America,21.6153,-98.5028,huas1242,hus,Huastec,language,huas1242,Mayan,maya1287,non-ergative,"Person marking on the verb resembles an inverse system; there is no flagging of nouns or pronouns, hence no ergative flagging (Kondić 2012).",CA,,g_Kondic_Huastec
-hula1239,Hula,Papunesia,-9.99427,147.705,hula1239,hul,Hula,language,hula1239,Austronesian,aust1307,non-ergative,No ergative case morphology described (Short 1938).,CA,CA,s_Short_Hula
+huas1242,Huastec,North America,21.6153,-98.5028,huas1242,hus,Huastec,language,huas1242,Mayan,maya1287,no-ergative-flagging,"Person marking on the verb resembles an inverse system; there is no flagging of nouns or pronouns, hence no ergative flagging (Kondić 2012).",CA,,g_Kondic_Huastec
+hula1239,Hula,Papunesia,-9.99427,147.705,hula1239,hul,Hula,language,hula1239,Austronesian,aust1307,no-ergative-flagging,No ergative case morphology described (Short 1938).,CA,CA,s_Short_Hula
 huli1244,Huli,Papunesia,-5.97212,142.963,huli1244,hui,Huli,language,huli1244,Nuclear Trans New Guinea,nucl1709,ergative,,CA,,g_Lomas_Huli
 hunz1247,Hunzib,Eurasia,42.0808,46.1369,hunz1247,huz,Hunzib,language,hunz1247,Nakh-Daghestanian,nakh1245,ergative,,CA,,g_vandenBerg_Hunzib
 hurr1240,Hurrian,Eurasia,40.7339,43.3154,hurr1240,xhu,Hurrian,language,hurr1240,Hurro-Urartian,hurr1239,ergative,,CA,,g_Wegner_Hurritisch
-iaai1238,Iaai,Papunesia,-20.6301,166.59,iaai1238,iai,Iaai,language,iaai1238,Austronesian,aust1307,non-ergative,"Personal markers of the agent series mark both S and A; no ergative flagging on pronouns or NPs (Ozanne-Rivierre 1976:148-149, §4.37-4.39).",CA,,g_Ozanne-Rivierre_Iaai
+iaai1238,Iaai,Papunesia,-20.6301,166.59,iaai1238,iai,Iaai,language,iaai1238,Austronesian,aust1307,no-ergative-flagging,"Personal markers of the agent series mark both S and A; no ergative flagging on pronouns or NPs (Ozanne-Rivierre 1976:148-149, §4.37-4.39).",CA,,g_Ozanne-Rivierre_Iaai
 ibal1244,Ibaloi,Papunesia,16.4263,120.695,ibal1244,ibl,Ibaloi,language,ibal1244,Austronesian,aust1307,ergative,,CA,,g_Ruffolo_Ibaloy
 iban1267,Iban,Papunesia,17.4201,121.891,iban1267,ibg,Ibanag,language,iban1267,Austronesian,aust1307,ergative,,CA,,320650
 ilon1239,Ilongot,Papunesia,16.3785,121.547,ilon1239,ilk,Ilongot,language,ilon1239,Austronesian,aust1307,ergative,,CA,,s_Liao_Ilongot
@@ -131,22 +131,22 @@ kaik1246,Kaike,Eurasia,28.853,83.1384,kaik1246,kzq,Kaike,language,kaik1246,Sino-
 kaki1249,Kaki Ae,Papunesia,-7.9946,145.816,kaki1249,tbd,Kaki Ae,language,kaki1249,Isolate,,ergative,,CA,,s_Clifton_KakiAe
 kala1399,Kalaallisut,North America,69.3761,-52.864,kala1399,kal,Kalaallisut,language,kala1399,Eskimo-Aleut,eski1264,ergative,,CA,,Sadock2003Kalaallisut
 kalk1246,Kalkatungu,Australia,-21.0,139.5,kalk1246,ktg,Kalkatungu,language,kalk1246,Pama-Nyungan,pama1250,ergative,,CA,,g_Blake_Kalkatungu
-kamu1260,Kamula,Papunesia,-7.28798,142.639,kamu1260,xla,Kamula,language,kamu1260,Kamula-Elevala,kamu1264,non-ergative,"The putative ergative -ta is optional, also marks intransitive subjects and attaches to non-argument elements; Routamaa (1994:75) states it 'cannot be described as' ergative.",CA,,s_Routamaa_Kamula
+kamu1260,Kamula,Papunesia,-7.28798,142.639,kamu1260,xla,Kamula,language,kamu1260,Kamula-Elevala,kamu1264,no-ergative-flagging,"The putative ergative -ta is optional, also marks intransitive subjects and attaches to non-argument elements; Routamaa (1994:75) states it 'cannot be described as' ergative.",CA,,s_Routamaa_Kamula
 kank1243,Kankanaey,Papunesia,16.8548,120.689,kank1243,kne,Kankanaey,language,kank1243,Austronesian,aust1307,ergative,,CA,,g_Allen_Kankanaey
 kara1476,Karajarri,Australia,-18.6771,122.334,kara1476,gbd,Karadjeri,language,kara1476,Pama-Nyungan,pama1250,ergative,,CA,,Mckelson2004Introduction
 kara1487,Karao,Papunesia,16.5655,120.956,kara1487,kyj,Karao,language,kara1487,Austronesian,aust1307,ergative,,CA,,styp_Brainard_Karao
-kara1500,Karajá,South America,-11.1881,-50.3492,kara1500,kpj,Karajá,language,kara1500,Nuclear-Macro-Je,nucl1710,non-ergative,"Free pronouns are identical for S and A (nominative pattern) and full NPs are not case-marked; S and A are distinguished from P by word order and verbal morphology (Ribeiro 2012:51, 54, 174, 191-192).",CA,,g_Ribeiro_Karaja
+kara1500,Karajá,South America,-11.1881,-50.3492,kara1500,kpj,Karajá,language,kara1500,Nuclear-Macro-Je,nucl1710,no-ergative-flagging,"Free pronouns are identical for S and A (nominative pattern) and full NPs are not case-marked; S and A are distinguished from P by word order and verbal morphology (Ribeiro 2012:51, 54, 174, 191-192).",CA,,g_Ribeiro_Karaja
 kari1254,Dzubukua,South America,-7.434628,-40.487275,kari1254,,Kariri,language,kari1254,Isolate,,ergative,,CA,,g_deQueiroz_Dzubukua
-kari1311,Karitiana,South America,-9.37937,-64.1522,kari1311,ktn,Karitiâna,language,kari1311,Tupian,tupi1275,non-ergative,No case morphology exists (Everett 2006:304); Everett explicitly rejects an ergative analysis of free pronouns (p. 365).,CA,,g_Everett_Karitiana
+kari1311,Karitiana,South America,-9.37937,-64.1522,kari1311,ktn,Karitiâna,language,kari1311,Tupian,tupi1275,no-ergative-flagging,No case morphology exists (Everett 2006:304); Everett explicitly rejects an ergative analysis of free pronouns (p. 365).,CA,,g_Everett_Karitiana
 katu1276,Katu,South America,-6.45399,-68.7678,katu1276,knm,Katukína do Biá-Ipixuna,dialect,kana1291,Katukinan,katu1274,ergative,,CA,,g_dosAnjos_Katukina-Kanamari
 lamj1247,Lamjung Yolmo,Eurasia,27.9212,85.6289,lamj1247,scp,Lamjung Yolmo,dialect,hela1238,Sino-Tibetan,sino1245,ergative,,SCP,,s_Gawne_Lamjung-Yolmo_2016
 lemb1266,Lembena,Papunesia,-4.99504,143.891,lemb1266,leq,Lembena,language,lemb1266,Nuclear Trans New Guinea,nucl1709,ergative,,SCP,,s_Heineman_Lembena
 lepc1244,Lepcha,Eurasia,27.0869,88.5726,lepc1244,lep,Lepcha,language,lepc1244,Sino-Tibetan,sino1245,ergative,,SCP,,g_Plaisier_Lepcha
 lezg1247,Lezgian,Eurasia,41.5157,47.8951,lezg1247,lez,Lezgian,language,lezg1247,Nakh-Daghestanian,nakh1245,ergative,,SCP,,g_Haspelmath_Lezgian
-lihi1237,Lihir,Papunesia,-3.18895,152.606,lihi1237,lih,Lihir,language,lihi1237,Austronesian,aust1307,non-ergative,No ergative alignment of flagging; the grammar notes only a historical connection with an ergative language (Neuhaus 2015).,SCP;LG,LG,s_Neuhaus_Lihir
-liji1238,Lijili,Africa,8.52193,8.35562,liji1238,mgi,Lijili,language,liji1238,Atlantic-Congo,atla1278,non-ergative,Nominative-accusative; no ergative flagging (Stofberg 1978).,SCP,SCP,g_Stofberg_Migili
+lihi1237,Lihir,Papunesia,-3.18895,152.606,lihi1237,lih,Lihir,language,lihi1237,Austronesian,aust1307,no-ergative-flagging,No ergative alignment of flagging; the grammar notes only a historical connection with an ergative language (Neuhaus 2015).,SCP;LG,LG,s_Neuhaus_Lihir
+liji1238,Lijili,Africa,8.52193,8.35562,liji1238,mgi,Lijili,language,liji1238,Atlantic-Congo,atla1278,no-ergative-flagging,Nominative-accusative; no ergative flagging (Stofberg 1978).,SCP,SCP,g_Stofberg_Migili
 limb1266,Limbu,Eurasia,27.2703,87.8859,limb1266,lif,Limbu,language,limb1266,Sino-Tibetan,sino1245,ergative,,SCP,,g_vanDriem_Limbu
-limo1248,Limos Kalinga,Papunesia,17.6081,121.381,limo1248,kmk,Limos Kalinga,language,limo1248,Austronesian,aust1307,non-ergative,"The grammar analyses the language as an 'active language' (Shibatani's typology), not ergative; subject marking does not follow ergative alignment (Ferreirinho 1993, §1.3).",SCP;LL,LL,s_Ferreirinho_Limos-Kalinga
+limo1248,Limos Kalinga,Papunesia,17.6081,121.381,limo1248,kmk,Limos Kalinga,language,limo1248,Austronesian,aust1307,no-ergative-flagging,"The grammar analyses the language as an 'active language' (Shibatani's typology), not ergative; subject marking does not follow ergative alignment (Ferreirinho 1993, §1.3).",SCP;LL,LL,s_Ferreirinho_Limos-Kalinga
 lipo1242,Lipo,Eurasia,25.226,101.302,lipo1242,lpo,Lipo,language,lipo1242,Sino-Tibetan,sino1245,problematic,"Coded from Yu (2007), a description of Lisu, which describes the agentive marker le on A and on agentive S (split-S flagging). Four ERGON entries derive from this source; whether Yu (2007) describes Lipo at all must be checked.",SCP,,s_Yu_Lisu
 lisu1250,Lisu,Eurasia,26.91,98.94,lisu1250,lis,Lisu,language,lisu1250,Sino-Tibetan,sino1245,problematic,"Coded from Yu (2007), which describes the agentive marker le on A and on agentive S (split-S flagging; see dech1234 and hual1240). Four ERGON entries (lisu1250, lipo1242, dech1234, hual1240) derive from this source; their classification and identity must be resolved together.",RZ,RZ,Yu2007Lisu
 lush1249,Mizo,Eurasia,22.6138,92.6247,lush1249,lus,Mizo,language,lush1249,Sino-Tibetan,sino1245,ergative,,SCP,,g_Chhangte_Mizo_1986
@@ -161,8 +161,8 @@ mang1381,Mangarayi,Australia,-14.8,133.5,mang1381,mpc,Mangarrayi,language,mang13
 mang1405,Manggarai,Papunesia,-8.55748,120.329,mang1405,mqy,Manggarai,language,mang1405,Austronesian,aust1307,ergative,,SCP,,s_Semiun_Manggarai
 maor1246,Maori,Papunesia,-38.2881,176.541,maor1246,mri,Maori,language,maor1246,Austronesian,aust1307,ergative,,SCP,,g_Harlow_Maori
 mara1378,Marathi,Eurasia,17.9344,76.6665,mara1378,mar,Marathi,language,mara1378,Indo-European,indo1319,ergative,,SCP,,g_DhongdeWali_Marathi
-mara1379,Maram Naga,Eurasia,25.4378,94.2205,mara1379,nma,Maram Naga,language,mara1379,Sino-Tibetan,sino1245,non-ergative,"Nominative-accusative: S and A take -na, P takes -go (Singh 1984, §2.2.8).",SCP;AVA,AVA,g_Singh_Maram
-mara1404,Maranao,Papunesia,7.79414,124.175,mara1404,mrw,Maranao,language,mara1404,Austronesian,aust1307,non-ergative,Philippine-type voice system; the topic particle 'so' marks the topic regardless of role; no A-specific flag (McKaughan & Macaraya 1967).,SCP;AVA,AVA,sd_MacKaughanMacaraya_Maranao
+mara1379,Maram Naga,Eurasia,25.4378,94.2205,mara1379,nma,Maram Naga,language,mara1379,Sino-Tibetan,sino1245,no-ergative-flagging,"Nominative-accusative: S and A take -na, P takes -go (Singh 1984, §2.2.8).",SCP;AVA,AVA,g_Singh_Maram
+mara1404,Maranao,Papunesia,7.79414,124.175,mara1404,mrw,Maranao,language,mara1404,Austronesian,aust1307,no-ergative-flagging,Philippine-type voice system; the topic particle 'so' marks the topic regardless of role; no A-specific flag (McKaughan & Macaraya 1967).,SCP;AVA,AVA,sd_MacKaughanMacaraya_Maranao
 marg1253,Margany,Australia,-26.789,144.892,marg1253,zmc,Margany,language,marg1253,Pama-Nyungan,pama1250,ergative,,SCP,,s_Breen_MarganyGunya
 mari1416,Maring,Eurasia,24.2854,94.0723,mari1416,nng,Maring Naga,language,mari1416,Sino-Tibetan,sino1245,ergative,,SCP,,Kanshouwa2016Descriptive
 mari1424,Marrithiyel,Australia,-13.8818,130.237,mari1424,mfr,Marithiel,language,mari1424,Western Daly,west2434,ergative,,SCP,,g_Green_Marrithiyel
@@ -173,7 +173,7 @@ maxa1247,Maxakalí,South America,-16.9402,-40.7891,maxa1247,mbl,Maxakalí,langua
 mayk1239,Mayi-Kulan,Australia,-20.4352,140.481,mayk1239,mnt,Maykulan,language,mayk1239,Pama-Nyungan,pama1250,ergative,,SCP,,hvs_Breen_Mayi
 melp1238,Melpa,Papunesia,-5.62644,144.34,melp1238,med,Melpa,language,melp1238,Nuclear Trans New Guinea,nucl1709,ergative,,AA;JM,,s_Berthold_Melpa
 mono1273,Mono-Alu,Papunesia,-7.05102,155.76,mono1273,mte,Mono-Alu,language,mono1273,Austronesian,aust1307,ergative,,AA;RZ,RZ,g_Meier_Mono-Alu
-moro1289,Marori,Papunesia,-8.5692,140.688,moro1289,mok,Marori,language,moro1289,Isolate,,non-ergative,The clitic =i marks the undergoer (P and patientive S); A and agentive S are unmarked. This split-intransitive pattern is outside the operational definition of ergative flagging used here (Arka 2012:152-154).,AA;RZ,RZ,s_Arka_Marori
+moro1289,Marori,Papunesia,-8.5692,140.688,moro1289,mok,Marori,language,moro1289,Isolate,,no-ergative-flagging,The clitic =i marks the undergoer (P and patientive S); A and agentive S are unmarked. This split-intransitive pattern is outside the operational definition of ergative flagging used here (Arka 2012:152-154).,AA;RZ,RZ,s_Arka_Marori
 munc1235,Mün Chin,Eurasia,20.289,94.3929,munc1235,mwq,Mün Chin,language,munc1235,Sino-Tibetan,sino1245,ergative,,AA;RZ,RZ,s_Mang_Kcho
 muru1266,Muruwari,Australia,-28.9618,146.546,muru1266,zmu,Muruwari,language,muru1266,Pama-Nyungan,pama1250,ergative,,AA;RZ,RZ,g_Oates_Muruwari
 nalc1240,Nalca,Papunesia,-4.26068,139.883,nalc1240,nlc,Nalca,language,nalc1240,Nuclear Trans New Guinea,nucl1709,ergative,,AA;RZ,RZ,s_Svard_Nalca

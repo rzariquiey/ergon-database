@@ -535,7 +535,7 @@
  "external": {
   "grambankGB409": {
    "ergative|GB409=1": 161,
-   "non-ergative|GB409=1": 22,
+   "no-ergative-flagging|GB409=1": 22,
    "problematic|GB409=1": 9,
    "ergative|GB409=NA": 3,
    "problematic|GB409=NA": 1

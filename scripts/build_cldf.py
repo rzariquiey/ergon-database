@@ -95,9 +95,9 @@ def main(outdir=ROOT / 'cldf'):
                       'dc:description': 'Glottocode of the language-level languoid; use this column to join ERGON with Grambank and other language-level datasets'},
                      {'name': 'Family', 'dc:description': 'Top-level genealogical unit in Glottolog 5.3 ("Isolate" for isolates)'},
                      {'name': 'Family_Glottocode'},
-                     {'name': 'Status', 'datatype': {'base': 'string', 'format': 'ergative|non-ergative|problematic'},
-                      'dc:description': 'ergative: ergative flagging (S=P≠A) attested for at least one nominal category; non-ergative: no ergative flagging after verification against the source; problematic: classification unresolved (see Status_comment)'},
-                     {'name': 'Status_comment', 'dc:description': 'Justification of the non-ergative or problematic classification'},
+                     {'name': 'Status', 'datatype': {'base': 'string', 'format': 'ergative|no-ergative-flagging|problematic'},
+                      'dc:description': 'ergative: ergative flagging (S=P≠A) attested for at least one nominal category; no-ergative-flagging: coded 1 for GB409 in Grambank, but ergative flagging not confirmed after verification against the source; problematic: classification unresolved (see Status_comment)'},
+                     {'name': 'Status_comment', 'dc:description': 'Justification of the no-ergative-flagging or problematic classification'},
                      {'name': 'Coders', 'separator': ';', 'dc:description': 'Initials of the original coder(s); see contributors.csv'},
                      {'name': 'Reviewer', 'separator': ';', 'dc:description': 'Initials of the team member(s) who re-verified the coding sheet in the 2026 review round'},
                      {'name': 'Primary_Source', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source', 'separator': ';'})

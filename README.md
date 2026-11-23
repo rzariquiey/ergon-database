@@ -14,7 +14,7 @@ archived at Zenodo, https://doi.org/10.5281/zenodo.21107436.
 
 The dataset covers 196 languages (Glottolog 5.3). Of these, 164 have ergative flagging (34 families,
 5 isolates, 5 macroareas). A further 22 languages are coded 1 for GB409 in Grambank but ergative
-flagging was not confirmed in the sources (status `non-ergative`), and 10 languages could not be
+flagging was not confirmed in the sources (status `no-ergative-flagging`), and 10 languages could not be
 classified (status `problematic`). There are 4,704 values, of which 4,197 are coded 0 or 1 and 507
 are `?`. The values cite 201 references.
 

@@ -11,28 +11,28 @@ apin1244,GB409_10,0,1,R1,"Recoded in the 2026 review round against the source (r
 apin1244,GB409_11,0,1,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
 apin1244,GB409_12,0,1,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
 apin1244,GB409_13,0,1,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
-bamb1270,GB409_1,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bamb1270,GB409_20,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bamb1270,GB409_21,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bamb1270,GB409_22,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bamb1270,GB409_23,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_1,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_6,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_7,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_8,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_9,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_10,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_11,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_12,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_13,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_14,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_15,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_16,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_18,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_19,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_20,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_21,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-bugi1244,GB409_22,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
+bamb1270,GB409_1,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bamb1270,GB409_20,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bamb1270,GB409_21,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bamb1270,GB409_22,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bamb1270,GB409_23,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_1,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_6,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_7,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_8,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_9,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_10,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_11,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_12,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_13,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_14,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_15,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_16,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_18,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_19,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_20,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_21,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+bugi1244,GB409_22,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
 chan1313,GB409_11,?,1,H1,Source describes ergative flagging and documents no split along this dimension; harmonised with coding rule C2 (default value when no split is documented).
 chan1313,GB409_13,?,1,H1,Source describes ergative flagging and documents no split along this dimension; harmonised with coding rule C2 (default value when no split is documented).
 chan1313,GB409_16,?,1,H1,Source describes ergative flagging and documents no split along this dimension; harmonised with coding rule C2 (default value when no split is documented).
@@ -95,22 +95,22 @@ east2516,GB409_22,?,0,H1,Source describes ergative flagging and documents no spl
 east2773,GB409_16,?,1,H1,Source describes ergative flagging and documents no split along this dimension; harmonised with coding rule C2 (default value when no split is documented).
 east2773,GB409_17,?,1,H1,Source describes ergative flagging and documents no split along this dimension; harmonised with coding rule C2 (default value when no split is documented).
 east2773,GB409_19,?,1,H1,Source describes ergative flagging and documents no split along this dimension; harmonised with coding rule C2 (default value when no split is documented).
-emai1242,GB409_5,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_6,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_9,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_10,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_11,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_12,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_13,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_14,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_15,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_16,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_17,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_18,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_19,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_20,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_21,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-emai1242,GB409_22,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
+emai1242,GB409_5,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_6,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_9,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_10,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_11,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_12,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_13,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_14,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_15,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_16,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_17,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_18,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_19,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_20,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_21,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+emai1242,GB409_22,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
 ersu1241,GB409_11,?,1,H1,Source describes ergative flagging and documents no split along this dimension; harmonised with coding rule C2 (default value when no split is documented).
 ersu1241,GB409_13,?,1,H1,Source describes ergative flagging and documents no split along this dimension; harmonised with coding rule C2 (default value when no split is documented).
 ersu1241,GB409_15,?,1,H1,Source describes ergative flagging and documents no split along this dimension; harmonised with coding rule C2 (default value when no split is documented).
@@ -129,74 +129,74 @@ fran1266,GB409_21,1,?,R1,"Recoded in the 2026 review round against the source (r
 fran1266,GB409_22,0,?,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
 fran1266,GB409_23,1,?,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
 fran1266,GB409_24,0,?,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
-fuln1247,GB409_1,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_4,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_5,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_6,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_7,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_8,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_9,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_10,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_11,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_12,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_13,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_15,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_17,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_18,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_19,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_20,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_21,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-fuln1247,GB409_22,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_1,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_4,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_5,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_6,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_7,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_8,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_9,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_10,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_11,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_12,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_13,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_15,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_17,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_18,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_19,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_20,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_21,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+fuln1247,GB409_22,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
 futu1245,GB409_5,0,1,P1,v1.0.1 had recoded this value 1->0 because the marker is optional. Under the v1.1 scope definition optionality is not an exclusion criterion (only markers that also flag S are excluded); original coding restored.
 futu1245,GB409_14,0,?,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
 futu1245,GB409_16,0,?,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
-huas1242,GB409_1,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_2,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_3,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_4,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_5,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_6,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_7,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_8,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_9,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_10,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_11,?,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_12,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_13,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_14,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_16,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_18,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_20,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-huas1242,GB409_22,1,0,S1,Language reclassified as non-ergative in the 2026 review (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
+huas1242,GB409_1,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_2,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_3,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_4,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_5,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_6,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_7,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_8,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_9,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_10,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_11,?,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_12,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_13,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_14,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_16,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_18,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_20,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+huas1242,GB409_22,1,0,S1,Ergative flagging not confirmed in the 2026 review (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
 kaba1278,GB409_12,2,1,V1,"Invalid code ""2"" (used to signal that the language lacks a realis/irrealis category). Recoded under coding rule C3 (category not grammaticalised; ergative flagging invariant across the corresponding contexts)."
 kaba1278,GB409_13,2,1,V1,"Invalid code ""2"" (used to signal that the language lacks a realis/irrealis category). Recoded under coding rule C3 (category not grammaticalised; ergative flagging invariant across the corresponding contexts)."
-kamu1260,GB409_1,?,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_6,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_7,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_8,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_9,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_10,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_11,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_12,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_13,?,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_14,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_15,?,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_16,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_17,?,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_18,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_19,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_20,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_21,?,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_22,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kamu1260,GB409_23,?,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kara1500,GB409_1,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kari1311,GB409_1,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kari1311,GB409_6,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kari1311,GB409_8,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kari1311,GB409_10,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kari1311,GB409_12,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kari1311,GB409_14,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
-kari1311,GB409_16,1,0,S1,Language reclassified as non-ergative after verification (no ergative flagging on any nominal category); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_1,?,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_6,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_7,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_8,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_9,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_10,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_11,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_12,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_13,?,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_14,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_15,?,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_16,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_17,?,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_18,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_19,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_20,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_21,?,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_22,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kamu1260,GB409_23,?,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kara1500,GB409_1,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kari1311,GB409_1,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kari1311,GB409_6,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kari1311,GB409_8,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kari1311,GB409_10,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kari1311,GB409_12,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kari1311,GB409_14,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
+kari1311,GB409_16,1,0,S1,Ergative flagging not confirmed after verification (no nominal category is flagged ergatively); all GB409 sub-features are 0 by definition.
 mana1288,GB409_9,0,1,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
 mana1288,GB409_16,1,?,R1,"Recoded in the 2026 review round against the source (reviewer sheet, comment and pages in the coding sheet)."
 mana1288,GB409_22,0,?,H3,"Value was inferred from areal/genealogical expectations rather than from the source; reset to ""?"" (coding rule C5)."
